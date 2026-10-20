@@ -14,9 +14,9 @@
 
 由 AI 代理采编时，只编辑 `articles.json` 的 `updatedAt`、`updatedLabel` 和 `articles`。每条记录包含：
 
-`id`, `date`, `dateLabel`, `sourceDate`, `verifiedAt`, `category`, `title`, `summary`, `deck`, `coverLine`, `lede`, `sections`, `takeaway`, `sourceType`, `source`, `author`, `url`
+`id`, `date`, `dateLabel`, `sourceDate`, `verifiedAt`, `category`, `title`, `summary`, `deck`, `lede`, `sections`, `takeaway`, `sourceType`, `source`, `author`, `url`
 
-长文结构使用 `deck`（标题下的导读）、`coverLine`（自有文字封面）、`lede`（开篇导语）和 `sections`。每个 section 包含一个 `heading`、若干原创 `paragraphs`，必要时可加 `bullets`。至少交代发生了什么、对居民有什么影响、接下来该做什么以及去哪里核实。版面参考微信公众号长文的窄栏、作者时间、分段标题和重点提示，但不复制来源文章的文字、图片或视觉品牌。
+长文结构使用 `deck`（标题下的一句话导读）、`lede`（开篇导语）和 `sections`。每个 section 包含一个 `heading`、若干原创 `paragraphs`，必要时可加 `bullets`。标题后标明“卡村 KACUN · AI 资讯整理”、来源及原文日期；正文用自然短段落和清晰小标题推进，最后给出实用要点和可点开的原文链接。不要生成虚构封面、冒充来源方或重复导读内容。无图片授权时保持纯文字，不搬运来源图片。版面参考微信公众号的窄栏阅读、作者时间、段落节奏和重点提示，但不复制来源文章的文字、图片或视觉品牌。
 
 分类使用 `本地资讯`、`生活提醒`、`吃喝玩乐`、`周末去哪`。保留最新且仍有用的内容，移除过期活动和失效提醒。`app.js` 根据数据生成读者页面，页面不提供浏览器端编辑功能。
 
