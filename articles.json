@@ -1,0 +1,71 @@
+{
+  "updatedAt": "2026-10-20",
+  "updatedLabel": "2026年10月20日",
+  "editionNote": "AI 独立摘要；不是原文转载。请以原始来源的最新页面为准。",
+  "articles": [
+    {
+      "id": "water-advisory-eagle-ridge-20261020",
+      "date": "2026-10-20",
+      "dateLabel": "10月20日整理",
+      "sourceDate": "2026-10-19",
+      "verifiedAt": "2026-10-20",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "Eagle Ridge 与 Heritage Park 仍有煮水提醒，14街维修也影响通行",
+      "summary": "市府 10 月 19 日更新说，Eagle Ridge 和 Heritage Park 一处供水管维修时出现管线压力异常，水质暂无法保证，相关住户仍须遵守煮水提醒。14 St. S.W. 在 75 Ave. 与 Heritage Dr. 之间缩减车道，维修期间可能持续造成延误。",
+      "takeaway": "涉及这两个社区时，先查 AHS 与市府最新公告；开车经过 14 St. S.W. 请预留时间并看现场绕行指示。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/"
+    },
+    {
+      "id": "bearspaw-restrictions-nov-2026",
+      "date": "2026-10-20",
+      "dateLabel": "10月20日整理",
+      "sourceDate": "2026-10-15",
+      "verifiedAt": "2026-10-20",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "11月4日起，卡城预计实施约四周第四阶段户外限水",
+      "summary": "市府公告说，Bearspaw South Feeder Main 接入现有系统的工程预计 11 月 4 日开始。期间供水能力受限，市府计划实施全市第四阶段户外用水限制，并呼吁居民节约室内用水，预计持续约四周。",
+      "takeaway": "这是即将开始的安排，日期和具体限制可能更新。临近施工时再到市府页面确认允许与禁止的用水行为。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/"
+    },
+    {
+      "id": "pasta-la-feasta-october-2026",
+      "date": "2026-10-20",
+      "dateLabel": "10月20日整理",
+      "sourceDate": "2026-10-12",
+      "verifiedAt": "2026-10-20",
+      "category": "吃喝玩乐",
+      "categoryClass": "fun",
+      "title": "十月想吃意面：Pasta La Feasta 活动持续到月底",
+      "summary": "Avenue Calgary 的本周餐饮盘点介绍了本月回归的 Pasta La Feasta：10 家卡尔加里餐厅和 1 家班夫餐厅推出各自的意面主题菜单，活动到 10 月 31 日。",
+      "takeaway": "菜单、价格和订位情况以餐厅为准；点开原文看参与餐厅，再去餐厅页面确认当天供应。",
+      "sourceType": "本地生活媒体",
+      "source": "Avenue Calgary",
+      "author": "Avenue Staff",
+      "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/"
+    },
+    {
+      "id": "calgary-week-october-19-2026",
+      "date": "2026-10-20",
+      "dateLabel": "10月20日整理",
+      "sourceDate": "2026-10-19",
+      "verifiedAt": "2026-10-20",
+      "category": "周末去哪",
+      "categoryClass": "fun",
+      "title": "这周活动不少：先从剧场演出和现场日历挑一项",
+      "summary": "The Calgary Loop 汇总了 10 月 19–25 日约 130 项活动。其日历列出《Little Shop of Horrors》本周演出，以及《Evil Dead The Musical》等延续到之后日期的剧目。",
+      "takeaway": "适合先按日期和场地筛选；场次、票价和余票会变，购票前务必打开活动方的票务页复核。",
+      "sourceType": "本地活动日历",
+      "source": "The Calgary Loop",
+      "author": "The Calgary Loop",
+      "url": "https://thecalgaryloop.ca/coming-up/2026-10-19"
+    }
+  ]
+}

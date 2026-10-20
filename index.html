@@ -3,92 +3,69 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#f4f2eb" />
-    <meta name="description" content="卡村 KACUN：卡尔加里年轻人的本地资讯、吃喝玩乐与生活编辑台。" />
-    <title>卡村 KACUN — Calgary 本地生活编辑台</title>
+    <meta name="theme-color" content="#f5f3eb" />
+    <meta name="description" content="卡村 KACUN：卡尔加里新鲜资讯转发平台，AI 每天整理本地新闻、生活提醒、吃喝玩乐和周末去处，附原文来源。" />
+    <title>卡村 KACUN — Calgary 新鲜资讯</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20261020a" />
-    <script src="app.js?v=20261020a" defer></script>
+    <link rel="stylesheet" href="styles.css?v=20261020b" />
+    <script src="app.js?v=20261020b" defer></script>
   </head>
   <body>
-    <div class="app-shell">
-      <aside class="sidebar">
-        <a class="brand-lockup" href="#home" aria-label="卡村 KACUN 首页">
-          <span class="brand-mark"><i></i><b>K</b></span>
-          <span><strong>卡村</strong><small>KACUN · YYC</small></span>
-        </a>
-        <div class="workspace-label">编辑工作台 <span class="live-dot"></span></div>
-        <nav class="main-nav" aria-label="主导航">
-          <button class="nav-item active" data-view="home"><span class="nav-icon">◫</span>今日编辑台 <kbd>01</kbd></button>
-          <button class="nav-item" data-view="inbox"><span class="nav-icon">↘</span>选题线索 <kbd id="inbox-count">03</kbd></button>
-          <button class="nav-item" data-view="drafts"><span class="nav-icon">▤</span>公众号草稿 <kbd id="draft-count">02</kbd></button>
-          <button class="nav-item" data-view="sources"><span class="nav-icon">◎</span>资讯来源</button>
-          <button class="nav-item" data-view="guide"><span class="nav-icon">↗</span>转载与发布</button>
-        </nav>
-        <div class="sidebar-bottom">
-          <div class="mini-weather"><span class="sun-glyph">☀</span><div><b>YYC · 卡尔加里</b><small>LOCAL TIME <span id="local-clock">--:--</span></small></div><span class="weather-temp">MT</span></div>
-          <div class="sidebar-note"><span class="note-star">✳</span><p>本地人视角<br />把卡村过得有意思。</p></div>
-          <div class="profile-row"><span class="avatar">K</span><span><b>卡村编辑部</b><small>本机工作区</small></span><span class="profile-more">···</span></div>
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="卡村 KACUN 首页"><span>卡村</span><small>KACUN · YYC</small></a>
+      <nav class="main-nav" aria-label="内容分类">
+        <button class="nav-link active" data-category="全部">最新</button>
+        <button class="nav-link" data-category="本地资讯">本地资讯</button>
+        <button class="nav-link" data-category="生活提醒">生活提醒</button>
+        <button class="nav-link" data-category="吃喝玩乐">吃喝玩乐</button>
+        <button class="nav-link" data-category="周末去哪">周末去哪</button>
+      </nav>
+      <a class="about-link" href="#about">关于卡村 <span>↘</span></a>
+    </header>
+
+    <main id="top">
+      <section class="intro-band">
+        <div>
+          <p class="eyebrow"><span class="pulse"></span> CALGARY, AB <span class="eyebrow-divider">/</span> LOCAL NEWS & LIFE</p>
+          <h1>卡村新鲜事，<em>今天一刷就知道。</em></h1>
+          <p class="intro-copy">本地新闻、生活提醒、吃喝玩乐。AI 每天关注城市机构、本地媒体、活动日历和华人生活号，把新消息整理成中文，附上原文入口。</p>
         </div>
-      </aside>
+        <div class="edition"><span class="edition-label">最近采编</span><strong id="updated-date">—</strong><small>每条都有原始出处 ↗</small></div>
+      </section>
 
-      <main class="main-area">
-        <header class="topbar">
-          <div class="breadcrumb"><span>KACUN / YYC</span><i>·</i><b id="breadcrumb-current">今日编辑台</b></div>
-          <div class="topbar-actions"><span class="date-stamp" id="today-date">YYC · 2026.10.20</span><button class="icon-button" id="import-btn" title="导入备份" aria-label="导入备份">⇧</button><button class="icon-button" id="export-btn" title="导出备份" aria-label="导出备份">⇩</button><input id="import-file" type="file" accept="application/json,.json" hidden /><button class="primary-button" id="new-story-btn"><span>＋</span> 新建选题</button></div>
-        </header>
+      <section class="notice-strip" aria-label="编辑说明">
+        <span class="notice-icon">i</span>
+        <p>这是独立整理的中文摘要，不是原文转载。重要时间、交通、健康与安全信息，请点开来源核对最新更新。</p>
+        <a href="#sources">查看消息来源 <span>→</span></a>
+      </section>
 
-        <section class="view active" id="view-home">
-          <div class="welcome-row"><div><div class="eyebrow"><span class="eyebrow-line"></span> TUESDAY / 编辑部早班</div><h1>早，卡村。<em>今天有什么新鲜事？</em></h1><p class="subheading">把值得关注的消息，变成大家用得上的本地生活指南。</p></div><div class="edition-chip"><span class="chip-dot"></span> ISSUE NO. <b>001</b><span class="chip-divider"></span> 秋季刊</div></div>
-          <div class="hero-grid">
-            <article class="hero-card">
-              <div class="hero-topline"><span>本周编辑方向</span><span class="hero-index">01 / 03</span></div>
-              <div class="hero-art" aria-hidden="true"><div class="art-sun"></div><div class="art-mountain mountain-back"></div><div class="art-mountain mountain-front"></div><div class="art-city"><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="art-label">51°02′ N<br />114°04′ W</span><span class="art-caption">A GOOD DAY<br />IN YYC</span></div>
-              <div class="hero-copy"><div class="tag-row"><span class="category-tag red-tag">城市生活</span><span class="muted-tag">编辑选题 · 可修改</span></div><h2>卡尔加里生活情报，<br />从“今天去哪儿”开始。</h2><p>探店、周末计划、城市新鲜事——这里是卡村编辑部的第一张工作台。</p><button class="text-link" data-open-view="inbox">去选题线索看看 <span>↗</span></button></div>
-            </article>
-            <div class="right-stack">
-              <article class="stats-card"><div class="card-eyebrow">本机内容进度 <span class="period">LIVE</span></div><div class="stats-main"><div><strong id="stat-inbox">03</strong><small>待筛选线索</small></div><div class="stat-separator"></div><div><strong id="stat-drafts">02</strong><small>正在写</small></div><div class="stats-spark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div><div class="progress-track"><span></span></div><div class="stats-foot"><span>从发现到发布</span><b>编辑状态本机保存</b></div></article>
-              <article class="workflow-card"><div class="workflow-title"><span class="workflow-number">02</span><div><span class="card-eyebrow">CONTENT FLOW</span><h3>今天的内容路径</h3></div><span class="workflow-arrow">↗</span></div><div class="flow-steps"><div class="flow-step done"><span class="flow-check">✓</span><div><b>发现线索</b><small>RSS / 社区 / 投稿</small></div><small class="step-state">持续</small></div><div class="flow-step current"><span class="flow-check">2</span><div><b>核实与改写</b><small>补来源、作者、授权</small></div><small class="step-state">当前</small></div><div class="flow-step"><span class="flow-check">3</span><div><b>公众号排版</b><small>人工粘贴并检查</small></div><small class="step-state">下一步</small></div></div><button class="workflow-link" data-open-view="guide">查看转载发布指南 <span>→</span></button></article>
-            </div>
-          </div>
+      <section class="feed-section" aria-labelledby="feed-title">
+        <div class="section-head">
+          <div><p class="eyebrow">THE LOCAL EDITION <span class="eyebrow-divider">/</span> YYC</p><h2 id="feed-title">卡村情报 <span id="article-count">—</span></h2></div>
+          <div class="feed-controls"><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="搜资讯、活动、关键词" aria-label="搜索文章" /></label><span class="sort-note">按采编时间排序</span></div>
+        </div>
+        <div class="story-grid" id="stories" aria-live="polite"><p class="loading">正在整理卡村消息…</p></div>
+        <p class="empty-state hidden" id="empty-state">这个分类暂时没有内容。先看看最新情报吧。</p>
+      </section>
 
-          <div class="section-heading"><div><span class="section-kicker">THE DESK / 01</span><h2>编辑台 <span>EDITOR’S PICKS</span></h2></div><button class="subtle-button" data-open-view="inbox">全部线索 <span>↗</span></button></div>
-          <div class="story-grid" id="home-stories"></div>
-          <div class="bottom-grid"><section class="source-strip"><div class="section-heading compact"><div><span class="section-kicker">TRUSTED BY LOCALS</span><h2>来源雷达 <span>LOCAL SIGNALS</span></h2></div><button class="icon-button small" data-open-view="sources" aria-label="查看全部来源">↗</button></div><div class="source-pills" id="home-source-pills"></div></section><aside class="tip-card"><span class="tip-mark">✳</span><div><span class="section-kicker">EDITOR NOTE / 01</span><p>先写自己的判断，再附原始来源。<br /><b>出处清楚，内容才站得住。</b></p></div></aside></div>
-          <footer class="page-footer"><span>卡村 KACUN · CALGARY, AB</span><span>本地保存 · 每次发布前记得导出备份</span><span>EST. 2026</span></footer>
-        </section>
+      <section class="source-section" id="sources">
+        <div class="source-copy"><p class="eyebrow">FOLLOW THE SOURCE</p><h2>消息从哪里来？</h2><p>优先看市府、警方、交通机构和活动主办方的原始公告；媒体与本地生活刊物用于发现选题。公众号“卡尔加里微生活”也已列入关注来源，微信号 canadawelife。</p></div>
+        <div class="source-list" id="source-list"></div>
+      </section>
 
-        <section class="view" id="view-inbox">
-          <div class="page-intro"><div class="eyebrow"><span class="eyebrow-line"></span> STORY RADAR / 02</div><h1>线索先收进来，<em>再决定值不值得发。</em></h1><p>每条线索都留好原始出处、作者与授权状态。这里是编辑队列，不是自动转载器。</p></div>
-          <div class="toolbar"><div class="filter-tabs" id="inbox-filters"><button class="selected" data-filter="全部">全部 <span id="filter-all-count">03</span></button><button data-filter="吃喝">吃喝玩乐</button><button data-filter="资讯">本地资讯</button><button data-filter="攻略">生活攻略</button></div><div class="toolbar-tools"><label class="search-field"><span>⌕</span><input id="search-stories" placeholder="搜标题 / 来源" /></label><button class="outline-button" id="new-story-btn-2">＋ 新建线索</button></div></div>
-          <div class="editor-table-wrap"><div class="table-head"><span>选题 / 来源</span><span>栏目</span><span>来源状态</span><span>编辑状态</span><span>更新</span><span></span></div><div id="inbox-list" class="editor-list"></div></div>
-          <div class="inbox-footnote"><span>ⓘ</span><p>这些示例是内容策划灵感，不代表实时新闻。接入 RSS 后仍需人工核实并确认转载权限。</p></div>
-          <footer class="page-footer"><span>卡村 KACUN · CALGARY, AB</span><span>本地保存 · 每次发布前记得导出备份</span><span>EST. 2026</span></footer>
-        </section>
+      <section class="wechat-note" id="wechat">
+        <div class="wechat-note-mark">转</div>
+        <div><p class="eyebrow">WECHAT OFFICIAL ACCOUNT</p><h2>想转到自己的公众号？</h2><p>可将卡村的中文摘要作为独立内容，再保留原始来源链接和作者信息。不要复制媒体全文、整段翻译或直接搬运图片；需要整篇转载时，先拿到权利方明确授权。发布前到公众号后台人工核对事实、图片权利和链接。</p></div>
+        <a href="https://mp.weixin.qq.com/" target="_blank" rel="noopener">打开公众号后台 ↗</a>
+      </section>
+    </main>
 
-        <section class="view" id="view-drafts">
-          <div class="page-intro"><div class="eyebrow"><span class="eyebrow-line"></span> WECHAT STUDIO / 03</div><h1>把线索写成<em>自己的卡村故事。</em></h1><p>整理标题、原创摘要和来源标注，生成可复制到微信公众号后台的排版草稿。</p></div>
-          <div class="draft-layout"><div class="draft-list-panel"><div class="panel-heading"><span>本机草稿箱</span><span id="draft-panel-count">02 篇</span></div><div id="draft-list" class="draft-list"></div><button class="add-draft-button" id="draft-new-btn">＋ 从线索新建草稿</button><div class="draft-caution"><span>ⓘ</span>静态网站无法代替公众号后台发布；发布前请人工核对来源和授权。</div></div><div class="draft-editor" id="draft-editor"></div></div>
-          <footer class="page-footer"><span>卡村 KACUN · CALGARY, AB</span><span>草稿仅保存在当前浏览器</span><span>EST. 2026</span></footer>
-        </section>
-
-        <section class="view" id="view-sources">
-          <div class="page-intro"><div class="eyebrow"><span class="eyebrow-line"></span> SOURCE BOOK / 04</div><h1>多听几路消息，<em>别只盯一个时间线。</em></h1><p>官方公告看准确信息，媒体看报道，社区和活动日历补充生活视角。</p></div>
-          <div class="source-intro-banner"><span class="source-radar-icon">◎</span><div><b>来源使用原则</b><p>订阅 RSS 只用于发现与追踪。标题、照片、正文的转载权限分别确认；没有明确授权时，写自己的摘要并链接回原文。</p></div><button class="outline-button" data-open-view="guide">查看转载须知 ↗</button></div>
-          <div class="source-categories" id="source-directory"></div>
-          <footer class="page-footer"><span>卡村 KACUN · CALGARY, AB</span><span>来源状态需定期复核</span><span>EST. 2026</span></footer>
-        </section>
-
-        <section class="view" id="view-guide">
-          <div class="page-intro"><div class="eyebrow"><span class="eyebrow-line"></span> EDITORIAL PLAYBOOK / 05</div><h1>转载这件事，<em>先确认再按发布。</em></h1><p>适用于卡村编辑部的基础工作流。它是操作清单，不是法律意见。</p></div>
-          <div class="playbook-layout"><div class="playbook-main"><section class="playbook-card"><div class="playbook-head"><span class="playbook-index">01</span><div><span class="section-kicker">DISCOVER / 发现</span><h2>先找到可追溯的原始来源</h2></div></div><ul><li>从市政府、警方、交通机构、正规媒体、活动主办方找原始页面。</li><li>记录文章标题、作者、发布日期、原文链接和核实时间。</li><li>把消息与官方公告交叉核对，尤其是时间、地点、收费和安全信息。</li></ul></section><section class="playbook-card"><div class="playbook-head"><span class="playbook-index">02</span><div><span class="section-kicker">RIGHTS / 权利</span><h2>确认你有权发布每一种素材</h2></div></div><ul><li><b>整篇转载：</b>取得作者或权利方针对公众号平台的书面授权，确认署名、图片、改编、有效期等范围，并保存授权记录。</li><li><b>未获授权：</b>不要复制全文、整段翻译或搬运原文照片。写独立的事实摘要、评论或生活提示，并链接原文。</li><li><b>公众号白名单只适用于平台内授权：</b>转载另一家公众号标注“原创”的文章时，应由原账号授权其公众号转载范围；这不等于获得加拿大媒体或其他外部权利方的许可。</li><li><b>来源标注不等于授权。</b>合理使用/公平处理取决于具体情境；如有商业推广或不确定，联系权利方或寻求专业意见。</li></ul></section><section class="playbook-card"><div class="playbook-head"><span class="playbook-index">03</span><div><span class="section-kicker">WRITE / 编写</span><h2>把“转发”变成“本地解释”</h2></div></div><ul><li>用自己的结构说明：发生了什么、和卡村居民有什么关系、下一步去哪看。</li><li>引用只保留理解所需的短句；每个事实都能回到来源核对。</li><li>不要把媒体报道改写成像官方公告；意见、推测与已证实事实要分开。</li></ul></section><section class="playbook-card"><div class="playbook-head"><span class="playbook-index">04</span><div><span class="section-kicker">PUBLISH / 发布</span><h2>公众号后台人工检查与发布</h2></div></div><ol><li>登录微信公众号后台 → 内容与互动 → 草稿箱/新的创作（界面名称可能随版本调整）。</li><li>粘贴草稿编辑器生成的原创文案，逐项检查标题、封面、作者、来源链接和图片许可。</li><li>仅在授权范围明确时使用“转载”或“原创声明”等平台功能；不要给未授权内容加原创标记。</li><li>预览手机端，检查排版、链接、日期、免责声明，再由运营者点击群发。</li></ol></section></div><aside class="playbook-aside"><div class="rights-stamp"><span>发布前</span><b>5 项核对</b><i>✓ 来源可回查<br />✓ 作者已记录<br />✓ 图片有许可<br />✓ 摘要为原创<br />✓ 授权已留档</i></div><div class="law-note"><span class="section-kicker">REFERENCE / 参考</span><p>加拿大《Copyright Act》对新闻报道目的的 fair dealing 有特定条件，要求提及来源及来源所载作者等信息；这不代表所有整篇转载都自动合规。</p><a href="https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.2.html" target="_blank" rel="noopener">查看加拿大法条 §29.2 ↗</a><a href="https://mp.weixin.qq.com/" target="_blank" rel="noopener">打开微信公众号后台 ↗</a></div><button class="outline-button wide" data-open-view="drafts">去草稿箱整理文案 →</button></aside></div>
-          <footer class="page-footer"><span>卡村 KACUN · CALGARY, AB</span><span>转载规则以权利方授权及平台当前规范为准</span><span>EST. 2026</span></footer>
-        </section>
-      </main>
-    </div>
-
-    <dialog id="story-dialog" class="story-dialog"><form method="dialog" id="story-form"><div class="dialog-top"><div><span class="section-kicker">NEW STORY / 线索卡</span><h2>收下一条新线索</h2></div><button class="close-dialog" value="cancel" aria-label="关闭">×</button></div><div class="form-grid"><label class="full">标题<input name="title" required maxlength="120" placeholder="这件事，为什么卡村人会关心？" /></label><label>栏目<select name="category"><option>本地资讯</option><option>吃喝玩乐</option><option>生活攻略</option><option>周末计划</option></select></label><label>编辑状态<select name="status"><option>待筛选</option><option>待核实</option><option>准备写作</option><option>草稿中</option></select></label><label>来源名称<input name="source" placeholder="媒体 / 官方机构 / 活动主办方" /></label><label>原文链接<input name="url" type="url" placeholder="https://…" /></label><label class="full">编辑备注<textarea name="notes" rows="3" placeholder="记录事实核对点、对卡村人的实际帮助……"></textarea></label><label class="full check-label"><input name="authorized" type="checkbox" /> 已取得明确转载授权（勾选后仍需在备注里记录授权范围）</label></div><div class="dialog-actions"><span>保存后只存于当前浏览器</span><button class="primary-button" value="submit">保存线索 <span>↗</span></button></div></form></dialog>
+    <footer class="site-footer" id="about">
+      <a class="footer-brand" href="#top">卡村 <span>KACUN · YYC</span></a>
+      <p>让 Calgary 的日常多一点新鲜事。</p>
+      <div class="footer-meta"><span>AI 整理 · 来源可追溯</span><span>卡尔加里时间 <b id="clock">—</b></span><a href="https://github.com/yyc-life/yyc-life.github.io" target="_blank" rel="noopener">网站说明 ↗</a></div>
+    </footer>
   </body>
 </html>
