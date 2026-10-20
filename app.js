@@ -81,6 +81,7 @@ function renderArticle(article) {
     <section class="reader-section"><h2>${esc(section.heading)}</h2>
       ${(section.paragraphs || []).map((paragraph) => `<p>${esc(paragraph)}</p>`).join("")}
       ${section.bullets?.length ? `<ul>${section.bullets.map((item) => `<li>${esc(item)}</li>`).join("")}</ul>` : ""}
+      ${section.links?.length ? `<div class="reader-section-links">${section.links.map((link) => `<a href="${esc(link.url)}" target="_blank" rel="noopener">${esc(link.label)} ↗</a>`).join("")}</div>` : ""}
     </section>`).join("");
 
   document.querySelector("#app").innerHTML = `

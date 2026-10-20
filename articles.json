@@ -4,6 +4,83 @@
   "editionNote": "AI 独立摘要；不是原文转载。请以原始来源的最新页面为准。",
   "articles": [
     {
+      "id": "date-ideas-20261020",
+      "date": "2026-10-20",
+      "dateLabel": "10月20日更新",
+      "sourceDate": "活动日期：2026-10-20",
+      "verifiedAt": "2026-10-20",
+      "category": "约会灵感",
+      "categoryClass": "fun",
+      "title": "今晚约会去哪？卡村马术障碍赛、两场脱口秀可选",
+      "summary": "10月20日想出门，可以先看 Stampede Park 的 Royal West 国际马术障碍赛（公开日历只列全天，先查当日赛程），或选择 7:30 的 Comedy Cave、8 点的 The Laugh Shop。",
+      "deck": "想看马术、听现场脱口秀，今晚各有选择。时间、入场和余票会变，出门前点开主办方或购票页确认。",
+      "lede": "今晚的约会不一定非得订一顿饭。卡村整理了三种不同节奏的选择：Stampede Park 的国际马术障碍赛、Comedy Cave 的 Tre Stewart 专场，以及 The Laugh Shop 的晚场演出。马术赛事公开日历标注为全天，没有给出今晚具体比赛时间；其余演出时间以场馆和购票页为准。",
+      "sections": [
+        {
+          "heading": "想看马术：Royal West 国际障碍赛",
+          "paragraphs": [
+            "Royal West: Featuring the Canadian Championships 正在 Nutrien Western Event Centre 举行，地址是 1800 Stampede Trail S.E.。Tourism Calgary 将 10 月 20 日列为全天场次，并标注免费；赛事安排持续到 10 月 25 日。",
+            "“全天”不代表晚上一定有比赛。想今晚去，先查 Rocky Mountain Show Jumping 的当日赛程和场馆入场信息，再决定出发时间。"
+          ],
+          "links": [
+            {
+              "label": "查看 Tourism Calgary 活动信息",
+              "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships"
+            },
+            {
+              "label": "查看主办方赛程",
+              "url": "https://rmsj.ca/tournament-info/"
+            }
+          ]
+        },
+        {
+          "heading": "想听脱口秀：Tre Stewart，Comedy Cave",
+          "paragraphs": [
+            "Comedy Cave 的官方日历显示 Tre Stewart 演出档期为 10 月 19–24 日，场馆常规演出时间是晚上 7:30 开始、6 点开门；地址为 1020 8th Avenue S.W.。今晚的具体场次和余票请以购票页为准。"
+          ],
+          "links": [
+            {
+              "label": "查看今晚场次与购票",
+              "url": "https://www.showpass.com/fr/performing-october-20-tre-stewart-2/"
+            },
+            {
+              "label": "查看 Comedy Cave 官方演出信息",
+              "url": "https://comedycave.com/"
+            }
+          ]
+        },
+        {
+          "heading": "想晚一点出门：The Laugh Shop",
+          "paragraphs": [
+            "The Laugh Shop 的日历列出 10 月 20 日晚 8:00–9:30 的演出，地址是 5940 Blackfoot Trail S.E.。场馆页面标明仅限 18 岁以上入场；票价和余票可能变化，购票前请再确认。"
+          ],
+          "links": [
+            {
+              "label": "查看官方演出日历与购票",
+              "url": "https://laughshopcalgary.com/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "更想看马术就先查主办方今晚的具体赛程；想确定晚间时间则看两家喜剧场馆的购票页。先核对余票、入场年龄和地址，再出门。",
+      "sourceType": "本地活动日历与主办方活动页",
+      "source": "YYC Current、Tourism Calgary、Rocky Mountain Show Jumping、Comedy Cave、The Laugh Shop",
+      "author": "",
+      "url": "https://yyccurrent.ca/?when=today",
+      "sourceEmbed": {
+        "url": "https://yyccurrent.ca/?when=today",
+        "title": "Things to Do in Calgary Today",
+        "publisher": "YYC Current",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-20",
+        "reason": "今日活动列表无合适的文章预览图；使用来源文字卡片，不生成或复制图片。"
+      }
+    },
+    {
       "id": "water-advisory-eagle-ridge-20261020",
       "date": "2026-10-20",
       "dateLabel": "10月20日整理",
