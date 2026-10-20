@@ -11,15 +11,19 @@ const dateLabel = (date) => {
   return new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric" }).format(current);
 };
 
-function sourceEmbedCard(article, className) {
+function sourceEmbedCard(article, className, destination) {
   const embed = article.sourceEmbed || {};
+  const href = destination || embed.url || article.url;
+  const label = href === (embed.url || article.url) ? "原文卡片" : "来源预览";
   let thumbnail = "";
   if (typeof embed.thumbnail === "string" && /^https:\/\//i.test(embed.thumbnail)) {
     thumbnail = `<img src="${esc(embed.thumbnail)}" alt="${esc(embed.thumbnailAlt || "原文预览图")}" loading="lazy" />`;
   } else {
     thumbnail = '<span class="embed-thumb-empty" aria-hidden="true">↗</span>';
   }
-  return `<a class="source-embed-card ${className}" href="${esc(article.url)}" target="_blank" rel="noopener"><span class="embed-thumb">${thumbnail}</span><span class="embed-card-copy"><small>原文卡片 · ${esc(article.source)}</small><strong>${esc(embed.title || article.title)}</strong><span>打开原文查看完整内容 ↗</span></span></a>`;
+  const external = href === (embed.url || article.url) ? ' target="_blank" rel="noopener"' : "";
+  const action = label === "原文卡片" ? "打开原文查看完整内容 ↗" : "阅读卡村整理 ↗";
+  return `<a class="source-embed-card ${className}" href="${esc(href)}"${external}><span class="embed-thumb">${thumbnail}</span><span class="embed-card-copy"><small>${label} · ${esc(article.source)}</small><strong>${esc(embed.title || article.title)}</strong><span>${action}</span></span></a>`;
 }
 
 function renderProfile() {
@@ -29,10 +33,10 @@ function renderProfile() {
     const compactItems = rest.map((article) => `
       <article class="feed-compact">
         <div class="compact-copy"><span class="feed-category">${esc(article.category)}</span><a class="compact-story-link" href="?article=${encodeURIComponent(article.id)}"><strong>${esc(article.title)}</strong></a><span class="feed-summary">${esc(article.summary)}</span><span class="feed-meta">来源：${esc(article.source)} · ${esc(article.sourceDate)}</span></div>
-        ${sourceEmbedCard(article, "compact-embed-card")}
+        ${sourceEmbedCard(article, "compact-embed-card", `?article=${encodeURIComponent(article.id)}`)}
       </article>`).join("");
 
-    const featureMedia = sourceEmbedCard(featured, "feature-embed-card");
+    const featureMedia = sourceEmbedCard(featured, "feature-embed-card", `?article=${encodeURIComponent(featured.id)}`);
 
     return `
       <section class="day-group" aria-label="${esc(date)} 的文章">
