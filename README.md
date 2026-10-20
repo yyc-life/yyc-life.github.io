@@ -14,7 +14,9 @@
 
 由 AI 代理采编时，只编辑 `articles.json` 的 `updatedAt`、`updatedLabel` 和 `articles`。每条记录包含：
 
-`id`, `date`, `dateLabel`, `sourceDate`, `verifiedAt`, `category`, `title`, `summary`, `takeaway`, `sourceType`, `source`, `author`, `url`
+`id`, `date`, `dateLabel`, `sourceDate`, `verifiedAt`, `category`, `title`, `summary`, `deck`, `coverLine`, `lede`, `sections`, `takeaway`, `sourceType`, `source`, `author`, `url`
+
+长文结构使用 `deck`（标题下的导读）、`coverLine`（自有文字封面）、`lede`（开篇导语）和 `sections`。每个 section 包含一个 `heading`、若干原创 `paragraphs`，必要时可加 `bullets`。至少交代发生了什么、对居民有什么影响、接下来该做什么以及去哪里核实。版面参考微信公众号长文的窄栏、作者时间、分段标题和重点提示，但不复制来源文章的文字、图片或视觉品牌。
 
 分类使用 `本地资讯`、`生活提醒`、`吃喝玩乐`、`周末去哪`。保留最新且仍有用的内容，移除过期活动和失效提醒。`app.js` 根据数据生成读者页面，页面不提供浏览器端编辑功能。
 
@@ -22,4 +24,4 @@
 
 网站上的中文摘要可以作为独立资讯内容的基础，转到公众号前应再核对事实和链接，明确标注原始媒体/发布方及原文地址。需要整篇转载或使用原图时，先拿到适用于该平台的书面授权；公众号白名单只解决公众号平台内的转载授权，不覆盖加拿大新闻媒体等外部权利方。
 
-GitHub Pages 由 `.github/workflows/pages.yml` 部署。站点是静态网站，不保存读者数据，也没有内容管理后台。
+GitHub Pages 由 `.github/workflows/pages.yml` 部署。每日采编代理读取来源、独立撰写长文并更新数据后提交部署；站点是静态读者页面，不保存读者数据，也没有供人工编辑的内容管理后台。
