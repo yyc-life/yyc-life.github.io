@@ -3,7 +3,7 @@ const STORAGE_KEY = "kacun-editorial-v1";
 const sourceDirectory = [
   { group: "官方公告", label: "OFFICIAL SIGNALS", entries: [
     { name: "City of Calgary Newsroom", desc: "市政服务、工程、政策与官方公告", type: "官方", url: "https://newsroom.calgary.ca/en/", mark: "YYC", feed: "RSS：新闻稿与 Feature 分栏" },
-    { name: "Calgary Police News", desc: "警方公告、公共安全与社区提醒", type: "官方", url: "https://www.calgarypolice.ca/news.html", mark: "CPS", feed: "网站更新" },
+    { name: "Calgary Police Service", desc: "公共安全与媒体公告；新闻稿发布在市府 Newsroom", type: "官方", url: "https://www.calgarypolice.ca/contact-us/media-inquiries.html", mark: "CPS", feed: "媒体公告 / City Newsroom" },
     { name: "Calgary Transit Alerts", desc: "公交服务中断、线路与出行提醒", type: "官方", url: "https://www.calgarytransit.com/rider-information/service-updates.html", mark: "CT", feed: "服务更新" },
     { name: "Parks Canada — Banff", desc: "国家公园、户外安全与季节公告", type: "官方", url: "https://parks.canada.ca/pn-np/ab/banff", mark: "PC", feed: "网站更新" }
   ]},
@@ -17,9 +17,9 @@ const sourceDirectory = [
   ]},
   { group: "吃喝玩乐", label: "GO OUT & EAT WELL", entries: [
     { name: "Avenue Calgary", desc: "探店、美食、新店与城市生活", type: "生活", url: "https://www.avenuecalgary.com/", mark: "AV", feed: "邮件通讯；RSS 端点需核实" },
-    { name: "YYC Current", desc: "演出、喜剧、市集、户外与社区活动日历", type: "活动", url: "https://yyccurrent.ca/", mark: "YC", feed: "周四邮件；数据/API 需另行授权" },
+    { name: "YYC Current", desc: "演出、喜剧、市集、户外与社区活动日历", type: "活动", url: "https://yyccurrent.ca/", mark: "YC", feed: "周四邮件与 RSS；数据/API 复用需另确认" },
     { name: "Tourism Calgary Events", desc: "节庆、展览、美食与访客活动", type: "活动", url: "https://www.visitcalgary.com/events", mark: "TC", feed: "活动日历" },
-    { name: "Calgary Public Library Events", desc: "讲座、工作坊、儿童与社区活动", type: "活动", url: "https://calgarylibrary.ca/events/", mark: "CPL", feed: "活动日历" }
+    { name: "Calgary Public Library Events", desc: "讲座、工作坊、儿童与社区活动", type: "活动", url: "https://www.calgarylibrary.ca/events-and-programs/programs", mark: "CPL", feed: "活动日历" }
   ]}
 ];
 
