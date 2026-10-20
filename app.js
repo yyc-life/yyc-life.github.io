@@ -35,7 +35,7 @@ function renderProfile() {
   document.querySelector("#app").innerHTML = `
     <main class="account-page" id="top">
       <header class="account-profile">
-        <div class="profile-topline"><div class="brand-avatar" aria-label="卡村文字标识"><span>卡</span><i>K</i></div><div class="profile-name"><h1>卡村 KACUN</h1><p>加拿大 · Calgary</p></div><div class="profile-more" aria-hidden="true">···</div></div>
+        <div class="profile-topline"><div class="brand-avatar"><img src="assets/kacun-brand-mark.png?v=1" alt="卡村 KACUN 标志" /></div><div class="profile-name"><h1>卡村 KACUN</h1><p>加拿大 · Calgary</p></div><div class="profile-more" aria-hidden="true">···</div></div>
         <p class="profile-bio">卡尔加里年轻人的本地生活指南。每天发现新鲜事、好吃的、好玩的，也把值得留意的城市消息讲清楚。</p>
         <div class="profile-stats"><span><b>${articles.length}</b> 篇原创整理</span><span><b>Calgary</b> 本地更新</span></div>
         <div class="profile-actions"><a class="action-primary" href="#articles">看看今天有什么 <span aria-hidden="true">↓</span></a><button class="action-share" type="button" id="share-button">分享主页</button></div>
