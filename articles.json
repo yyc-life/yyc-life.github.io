@@ -16,16 +16,52 @@
       "deck": "这次提醒适用于公告范围内的地址，不要只凭社区名称判断。饮用和烹饪用水怎么处理、14 街哪一段受影响，卡村整理了要点。",
       "lede": "如果你住在 Eagle Ridge 或 Heritage Park，先确认自己的地址是否落在 AHS 公告范围内。市府 10 月 19 日说，维修一条服务这两个社区的水管时，管线压力意外下降，水质暂时无法保证；AHS 因此发布煮水提醒。附近的 14 St. S.W. 也在施工，开车经过要多留些时间。",
       "sections": [
-        { "heading": "先确认地址：社区名称不能代替公告范围", "paragraphs": ["市府维修从 10 月 16 日开始。施工期间，服务 Eagle Ridge 和 Heritage Park 的水管出现未预期的降压，相关部门无法保证水质，AHS 随后发布预防性煮水提醒。", "这次维修与 Bearspaw South Feeder Main 工程无关，Rockyview General Hospital 也不受影响。煮水提醒有明确的地址范围；住在附近不一定代表一定受影响，住户应对照 AHS 公告或等候官方通知。"] },
-        { "heading": "哪些用水要先煮沸？", "paragraphs": ["如果你的地址在提醒范围内，所有要入口或接触生食的自来水，都先烧到持续滚沸并保持一分钟。提醒列出的用途包括饮水、冲咖啡和茶、做饭、刷牙、清洗生鲜食物，以及冲调婴儿配方奶或果汁、制冰。", "家用净水过滤器不能替代煮沸。若不用洗碗机，清洁餐具和台面也要使用煮沸过的水；洗澡和洗衣则不需要煮水。官方提供的送水车地点会更新在市府煮水提醒页面。"] },
-        { "heading": "开车经过 14 街，留意这段车道变化", "paragraphs": ["维修期间，14 St. S.W. 在 75 Ave. S.W. 与 Heritage Dr. S.W. 之间南北向各关闭两条车道，每个方向仍留一条车道通行。市府表示维修需要时间，封路安排也可能按现场情况调整，附近出现明显延误的可能性较高。", "如果这条路在你的通勤线上，可以提前规划替代路线；接近施工区时以路牌、绕行标志和现场人员指引为准。"] },
-        { "heading": "提醒解除前，按最新公告执行", "paragraphs": ["截至市府 10 月 19 日的公告，煮水提醒仍然有效；受影响住户会在提醒解除时收到通知。若有健康相关问题，可拨 Health Link 811。", "地址范围、送水车位置或解除时间都可能更新。请直接查看市府公告和 AHS 的煮水指引，不要把较早的社交平台转发当作解除通知。"] }
+        {
+          "heading": "先确认地址：社区名称不能代替公告范围",
+          "paragraphs": [
+            "市府维修从 10 月 16 日开始。施工期间，服务 Eagle Ridge 和 Heritage Park 的水管出现未预期的降压，相关部门无法保证水质，AHS 随后发布预防性煮水提醒。",
+            "这次维修与 Bearspaw South Feeder Main 工程无关，Rockyview General Hospital 也不受影响。煮水提醒有明确的地址范围；住在附近不一定代表一定受影响，住户应对照 AHS 公告或等候官方通知。"
+          ]
+        },
+        {
+          "heading": "哪些用水要先煮沸？",
+          "paragraphs": [
+            "如果你的地址在提醒范围内，所有要入口或接触生食的自来水，都先烧到持续滚沸并保持一分钟。提醒列出的用途包括饮水、冲咖啡和茶、做饭、刷牙、清洗生鲜食物，以及冲调婴儿配方奶或果汁、制冰。",
+            "家用净水过滤器不能替代煮沸。若不用洗碗机，清洁餐具和台面也要使用煮沸过的水；洗澡和洗衣则不需要煮水。官方提供的送水车地点会更新在市府煮水提醒页面。"
+          ]
+        },
+        {
+          "heading": "开车经过 14 街，留意这段车道变化",
+          "paragraphs": [
+            "维修期间，14 St. S.W. 在 75 Ave. S.W. 与 Heritage Dr. S.W. 之间南北向各关闭两条车道，每个方向仍留一条车道通行。市府表示维修需要时间，封路安排也可能按现场情况调整，附近出现明显延误的可能性较高。",
+            "如果这条路在你的通勤线上，可以提前规划替代路线；接近施工区时以路牌、绕行标志和现场人员指引为准。"
+          ]
+        },
+        {
+          "heading": "提醒解除前，按最新公告执行",
+          "paragraphs": [
+            "截至市府 10 月 19 日的公告，煮水提醒仍然有效；受影响住户会在提醒解除时收到通知。若有健康相关问题，可拨 Health Link 811。",
+            "地址范围、送水车位置或解除时间都可能更新。请直接查看市府公告和 AHS 的煮水指引，不要把较早的社交平台转发当作解除通知。"
+          ]
+        }
       ],
       "takeaway": "住户先核对 AHS 公告里的地址范围；在提醒解除前，相关用水持续按“一分钟滚沸”处理。经过 14 St. S.W. 请预留时间。",
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/"
+      "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-10-20",
+        "reason": "使用原文页面的相关预览图制作可点击来源卡片；图片不下载、不截图、不复制。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/",
+        "title": "Water main repairs impacting traffic on 14th Street S.W. - Boil Water Advisory still in effect",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": "https://content.presspage.com/uploads/1485/40e43310-5297-4010-a482-7bb42013a379/1920_imagepreview.png?10000",
+        "thumbnailAlt": "市府原文中的受影响区域地图"
+      }
     },
     {
       "id": "bearspaw-restrictions-nov-2026",
@@ -40,15 +76,49 @@
       "deck": "接驳期间可分配水量预计降至每天 5 亿升。户外不能用水；室内则要调整洗衣、洗碗、冲厕和淋浴习惯。",
       "lede": "11 月 4 日是市府公布的计划接驳日期。为把新的 Bearspaw South Feeder Main 接入现有系统，旧主干线将暂时停运；施工期间，全市可分配的水量预计降至每天 5 亿升。市府说，届时户外用水将暂停，并需要居民一起减少室内用水，安排预计持续约四周。",
       "sections": [
-        { "heading": "为什么需要全市一起节水？", "paragraphs": ["接驳新管线时，现有 Bearspaw South Feeder Main 必须暂时关闭。市府预计每天可分配的水量会降至 5 亿升，需要把日常需求控制在供水能力以内，也为消防等必要用途留出余量。", "这项工程影响范围较大：市府列出的节水对象还包括 Airdrie、Chestermere、Strathmore 和 Tsuut’ina Nation。它与 Eagle Ridge、Heritage Park 的局部水管维修和煮水提醒是两件不同的事。"] },
-        { "heading": "户外暂停用水，室内记住三件事", "paragraphs": ["市府公告写明，接驳期间不允许户外用水，并要求室内节水。对家庭来说，最容易提前调整的就是洗衣、洗碗、冲厕和淋浴："], "bullets": ["洗碗机和洗衣机尽量等到满载再运行。", "只在需要时冲厕。", "缩短淋浴时间，市府建议以三分钟为目标。"] },
-        { "heading": "四周是预计时间，后面还有管线检测", "paragraphs": ["限制预计从 11 月 4 日开始，持续约四周。接驳完成后，新管线还需要消毒、注水和水质检测；市府估计这段调试约需两到三周，目标是在年底前投入使用。", "开工日期、限水安排和工程进度仍应以市府最新公告为准。临近 11 月 4 日时，建议再核对一次开始时间和执行范围。"] }
+        {
+          "heading": "为什么需要全市一起节水？",
+          "paragraphs": [
+            "接驳新管线时，现有 Bearspaw South Feeder Main 必须暂时关闭。市府预计每天可分配的水量会降至 5 亿升，需要把日常需求控制在供水能力以内，也为消防等必要用途留出余量。",
+            "这项工程影响范围较大：市府列出的节水对象还包括 Airdrie、Chestermere、Strathmore 和 Tsuut’ina Nation。它与 Eagle Ridge、Heritage Park 的局部水管维修和煮水提醒是两件不同的事。"
+          ]
+        },
+        {
+          "heading": "户外暂停用水，室内记住三件事",
+          "paragraphs": [
+            "市府公告写明，接驳期间不允许户外用水，并要求室内节水。对家庭来说，最容易提前调整的就是洗衣、洗碗、冲厕和淋浴："
+          ],
+          "bullets": [
+            "洗碗机和洗衣机尽量等到满载再运行。",
+            "只在需要时冲厕。",
+            "缩短淋浴时间，市府建议以三分钟为目标。"
+          ]
+        },
+        {
+          "heading": "四周是预计时间，后面还有管线检测",
+          "paragraphs": [
+            "限制预计从 11 月 4 日开始，持续约四周。接驳完成后，新管线还需要消毒、注水和水质检测；市府估计这段调试约需两到三周，目标是在年底前投入使用。",
+            "开工日期、限水安排和工程进度仍应以市府最新公告为准。临近 11 月 4 日时，建议再核对一次开始时间和执行范围。"
+          ]
+        }
       ],
       "takeaway": "市府计划 11 月 4 日开始接驳；届时禁止户外用水，室内按满载运行、需要才冲厕、三分钟淋浴来节水。",
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/"
+      "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-20",
+        "reason": "原文页没有合适的文章预览图（通用站点标志不作配图），显示纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
+        "title": "Water restrictions take effect Nov. 4 as Bearspaw South Feeder Main enters final steps of construction",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
     },
     {
       "id": "calgary-food-news-october-2026",
@@ -63,15 +133,44 @@
       "deck": "一条是卡城酒厂拿下行业奖项，一条是逛商场时多了个熟食与奶酪新去处。两件本地餐饮消息，给你按位置和兴趣整理好了。",
       "lede": "卡城餐饮圈这周有两件值得记下的小事：The Establishment Brewing Company 再次获得 Alberta Beer Awards 的年度酒厂称号；经营熟食与奶酪的 Luc’s European Meats，则在 Southcentre Mall 开了新店。一个适合关注本地精酿的人，一个可能更适合下次逛商场顺路看看。",
       "sections": [
-        { "heading": "The Establishment：六年里第四次获年度酒厂", "paragraphs": ["Avenue Calgary 报道称，The Establishment Brewing Company 在 2026 年 Alberta Beer Awards 上获选 Brewery of the Year。这是它过去六年里第四次拿下这个称号。", "同一届评选中，卡尔加里酒厂合计在 30 多个奖项类别里拿到 40 多枚金、银、铜牌。对本地精酿爱好者来说，这不只是单家酒厂的消息，也能看出卡城酒厂在省内评选中的活跃度。"] },
-        { "heading": "Luc’s European Meats：新店开进 Southcentre", "paragraphs": ["Luc’s European Meats 过去常见于本地农夫市集，如今在 Southcentre Mall 开了固定门店。Avenue 提到，店里除了肉类和奶酪，也有调味品、橄榄、黄油、饼干和礼篮等选择。", "如果你本来就要去 Southcentre，可以把它列为顺路看看的一站；想专程过去的话，先到店铺官网确认营业时间和当天供应。卡村没有试吃或评价这些商品，实际选择和价格以店内信息为准。"] },
-        { "heading": "想去之前，先查哪一项？", "paragraphs": ["酒厂获奖并不等于某一款酒在所有门店都有货；新门店的营业时间和商品也可能调整。计划出发前，分别查看酒厂或店铺自己的页面，比仅凭这条简讯安排行程更稳妥。"] }
+        {
+          "heading": "The Establishment：六年里第四次获年度酒厂",
+          "paragraphs": [
+            "Avenue Calgary 报道称，The Establishment Brewing Company 在 2026 年 Alberta Beer Awards 上获选 Brewery of the Year。这是它过去六年里第四次拿下这个称号。",
+            "同一届评选中，卡尔加里酒厂合计在 30 多个奖项类别里拿到 40 多枚金、银、铜牌。对本地精酿爱好者来说，这不只是单家酒厂的消息，也能看出卡城酒厂在省内评选中的活跃度。"
+          ]
+        },
+        {
+          "heading": "Luc’s European Meats：新店开进 Southcentre",
+          "paragraphs": [
+            "Luc’s European Meats 过去常见于本地农夫市集，如今在 Southcentre Mall 开了固定门店。Avenue 提到，店里除了肉类和奶酪，也有调味品、橄榄、黄油、饼干和礼篮等选择。",
+            "如果你本来就要去 Southcentre，可以把它列为顺路看看的一站；想专程过去的话，先到店铺官网确认营业时间和当天供应。卡村没有试吃或评价这些商品，实际选择和价格以店内信息为准。"
+          ]
+        },
+        {
+          "heading": "想去之前，先查哪一项？",
+          "paragraphs": [
+            "酒厂获奖并不等于某一款酒在所有门店都有货；新门店的营业时间和商品也可能调整。计划出发前，分别查看酒厂或店铺自己的页面，比仅凭这条简讯安排行程更稳妥。"
+          ]
+        }
       ],
       "takeaway": "想去 Luc’s 新店，先核对 Southcentre 门店营业时间；想买获奖酒款，也先看 The Establishment 的当日供应。",
       "sourceType": "本地生活媒体",
       "source": "Avenue Calgary",
       "author": "Avenue Staff",
-      "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/"
+      "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-10-20",
+        "reason": "使用原文页面的相关预览图制作可点击来源卡片；图片不下载、不截图、不复制。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
+        "title": "What’s New and Notable in Calgary’s Food Scene",
+        "publisher": "Avenue Calgary",
+        "thumbnail": "https://www.avenuecalgary.com/wp-content/uploads/2026/10/LucsCrop2.jpg",
+        "thumbnailAlt": "店员从奶酪轮上切下一块奶酪"
+      }
     },
     {
       "id": "calgary-week-october-19-2026",
@@ -86,15 +185,44 @@
       "deck": "剧场、喜剧、亲子和免费活动都能筛。卡村先挑两场时间较长的剧场演出，想去之前记得点进票务页复核。",
       "lede": "如果你还没想好这周下班后或周末去哪儿，The Calgary Loop 的 10 月 20 日至 25 日活动表列出 130 场选择。卡村从中先挑了两部正在上演的剧场节目：一部本周日就结束这一轮场次，另一部则还有几周可选。",
       "sections": [
-        { "heading": "本周两部剧场节目，时间都在晚上", "paragraphs": ["《Little Shop of Horrors》在 Max Bell Theatre 演出，日历列出的周二场次是晚上 7:30，后续场次排到 10 月 25 日。《Evil Dead The Musical》同样是晚上 7:30，在 Martha Cohen Theatre 演出，日历显示后续场次延续到 11 月 14 日。", "两个剧场都在市中心的剧院区，日历标注从 City Hall CTrain 站步行约三分钟。场次、座位和票价还是以剧院或票务页面为准。"] },
-        { "heading": "130 场活动，不用从头翻到尾", "paragraphs": ["这周活动表可以按免费、亲子、体育、集市、夜生活、室内和户外等条件筛选。先选哪天有空，再按预算和地点缩小范围，会比只看活动标题容易决定。", "比如带孩子出门，可以先开亲子筛选再看年龄限制；想省预算，就看看免费活动是否需要预约；准备看演出，则先查具体场次和交通，再订票。"] },
-        { "heading": "收藏日历，出门前再看一次", "paragraphs": ["活动日历本身提醒日期和时间可能变化。它适合用来发现选项，票价、余票、取消通知和入场要求，则应点进主办方或票务链接核实。本文整理时看到的信息不一定反映你打开页面时的最新状态。"] }
+        {
+          "heading": "本周两部剧场节目，时间都在晚上",
+          "paragraphs": [
+            "《Little Shop of Horrors》在 Max Bell Theatre 演出，日历列出的周二场次是晚上 7:30，后续场次排到 10 月 25 日。《Evil Dead The Musical》同样是晚上 7:30，在 Martha Cohen Theatre 演出，日历显示后续场次延续到 11 月 14 日。",
+            "两个剧场都在市中心的剧院区，日历标注从 City Hall CTrain 站步行约三分钟。场次、座位和票价还是以剧院或票务页面为准。"
+          ]
+        },
+        {
+          "heading": "130 场活动，不用从头翻到尾",
+          "paragraphs": [
+            "这周活动表可以按免费、亲子、体育、集市、夜生活、室内和户外等条件筛选。先选哪天有空，再按预算和地点缩小范围，会比只看活动标题容易决定。",
+            "比如带孩子出门，可以先开亲子筛选再看年龄限制；想省预算，就看看免费活动是否需要预约；准备看演出，则先查具体场次和交通，再订票。"
+          ]
+        },
+        {
+          "heading": "收藏日历，出门前再看一次",
+          "paragraphs": [
+            "活动日历本身提醒日期和时间可能变化。它适合用来发现选项，票价、余票、取消通知和入场要求，则应点进主办方或票务链接核实。本文整理时看到的信息不一定反映你打开页面时的最新状态。"
+          ]
+        }
       ],
       "takeaway": "这周两场晚间剧目都在市中心；先按你的日期筛活动，再从票务页面确认场次、价格和余票。",
       "sourceType": "本地活动日历",
       "source": "The Calgary Loop",
       "author": "The Calgary Loop",
-      "url": "https://thecalgaryloop.ca/coming-up/2026-10-19"
+      "url": "https://thecalgaryloop.ca/coming-up/2026-10-19",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-10-20",
+        "reason": "使用原文页面的相关预览图制作可点击来源卡片；图片不下载、不截图、不复制。"
+      },
+      "sourceEmbed": {
+        "url": "https://thecalgaryloop.ca/coming-up/2026-10-19",
+        "title": "Calgary events, week of October 19, 2026",
+        "publisher": "The Calgary Loop",
+        "thumbnail": "https://thecalgaryloop.ca/og",
+        "thumbnailAlt": "The Calgary Loop 活动日历预览"
+      }
     }
   ]
 }

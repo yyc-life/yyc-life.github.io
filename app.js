@@ -11,23 +11,36 @@ const dateLabel = (date) => {
   return new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric" }).format(current);
 };
 
+function sourceEmbedCard(article, className) {
+  const embed = article.sourceEmbed || {};
+  let thumbnail = "";
+  if (typeof embed.thumbnail === "string" && /^https:\/\//i.test(embed.thumbnail)) {
+    thumbnail = `<img src="${esc(embed.thumbnail)}" alt="${esc(embed.thumbnailAlt || "原文预览图")}" loading="lazy" />`;
+  } else {
+    thumbnail = '<span class="embed-thumb-empty" aria-hidden="true">↗</span>';
+  }
+  return `<a class="source-embed-card ${className}" href="${esc(article.url)}" target="_blank" rel="noopener"><span class="embed-thumb">${thumbnail}</span><span class="embed-card-copy"><small>原文卡片 · ${esc(article.source)}</small><strong>${esc(embed.title || article.title)}</strong><span>打开原文查看完整内容 ↗</span></span></a>`;
+}
+
 function renderProfile() {
   const groups = Object.groupBy(articles, (article) => article.date || "");
   const feed = Object.entries(groups).map(([date, items]) => {
     const [featured, ...rest] = items;
     const compactItems = rest.map((article) => `
-      <a class="feed-compact" href="?article=${encodeURIComponent(article.id)}" aria-label="阅读：${esc(article.title)}">
-        <span class="compact-copy"><span class="feed-category">${esc(article.category)}</span><strong>${esc(article.title)}</strong><span class="feed-summary">${esc(article.summary)}</span><span class="feed-meta">来源：${esc(article.source)} · ${esc(article.sourceDate)}</span></span>
-        <span class="compact-arrow" aria-hidden="true">↗</span>
-      </a>`).join("");
+      <article class="feed-compact">
+        <div class="compact-copy"><span class="feed-category">${esc(article.category)}</span><a class="compact-story-link" href="?article=${encodeURIComponent(article.id)}"><strong>${esc(article.title)}</strong></a><span class="feed-summary">${esc(article.summary)}</span><span class="feed-meta">来源：${esc(article.source)} · ${esc(article.sourceDate)}</span></div>
+        ${sourceEmbedCard(article, "compact-embed-card")}
+      </article>`).join("");
+
+    const featureMedia = sourceEmbedCard(featured, "feature-embed-card");
 
     return `
       <section class="day-group" aria-label="${esc(date)} 的文章">
         <p class="day-label">${esc(dateLabel(date))}<span>${esc(date)}</span></p>
-        <a class="feed-feature" href="?article=${encodeURIComponent(featured.id)}">
-          <div class="feature-art ${esc(featured.categoryClass || "")}" aria-hidden="true"><span class="art-top">KACUN · 卡村今日选读</span><span class="art-category">${esc(featured.category)}</span><span class="art-title">${esc(featured.title)}</span><span class="art-bottom">CALGARY · ${esc(date)}</span><i></i></div>
-          <div class="feature-copy"><span class="feed-category">${esc(featured.category)}</span><h2>${esc(featured.title)}</h2><p>${esc(featured.summary)}</p><span class="feed-meta">来源：${esc(featured.source)} · ${esc(featured.sourceDate)}</span><span class="read-link">阅读全文 <b aria-hidden="true">↗</b></span></div>
-        </a>
+        <article class="feed-feature">
+          ${featureMedia}
+          <a class="feature-copy" href="?article=${encodeURIComponent(featured.id)}"><span class="feed-category">${esc(featured.category)}</span><h2>${esc(featured.title)}</h2><p>${esc(featured.summary)}</p><span class="feed-meta">卡村 KACUN · ${esc(featured.dateLabel || featured.date)}</span><span class="read-link">阅读卡村整理 <b aria-hidden="true">↗</b></span></a>
+        </article>
         ${compactItems ? `<div class="feed-compact-list">${compactItems}</div>` : ""}
       </section>`;
   }).join("");
@@ -76,10 +89,11 @@ function renderArticle(article) {
           <div class="reader-byline"><span><b>卡村 KACUN</b><small>AI 资讯整理 · ${esc(article.dateLabel || article.date)}</small></span><span class="byline-time">${esc(article.category)}</span></div>
           <p class="reader-source-credit">资料来源：${esc(article.source)} · 原文日期 ${esc(article.sourceDate)}</p>
           <p class="reader-deck">${esc(article.deck || article.summary)}</p>
+          ${sourceEmbedCard(article, "reader-source-embed")}
           <p class="reader-lede">${esc(article.lede || article.summary)}</p>
           ${body}
           <aside class="reader-takeaway"><span>卡村划重点</span><p>${esc(article.takeaway)}</p></aside>
-          <div class="reader-source-box"><p class="reader-source-label">信息来源 · 可回原文核对</p><b>${esc(article.sourceType || "来源")}：${esc(article.source)}${article.author ? ` · ${esc(article.author)}` : ""}</b><p>来源日期 / 活动周：${esc(article.sourceDate)}　|　卡村核对：${esc(article.verifiedAt)}</p><a href="${esc(article.url)}" target="_blank" rel="noopener">打开原始报道或公告 ↗</a></div>
+          <div class="reader-source-box"><p class="reader-source-label">信息来源 · 原文嵌入卡片</p><b>${esc(article.sourceType || "来源")}：${esc(article.source)}${article.author ? ` · ${esc(article.author)}` : ""}</b><p>来源日期 / 活动周：${esc(article.sourceDate)}　|　卡村核对：${esc(article.verifiedAt)}</p></div>
           <p class="reader-disclaimer">本文由卡村 KACUN AI 根据公开来源整理，不是原文全文转载。活动、交通、健康及公共服务信息，请以机构或主办方的最新页面为准。</p>
           <div class="reader-endmark">— END —</div>
         </div>
