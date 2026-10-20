@@ -53,8 +53,8 @@ RSS 订阅或浏览新闻只代表发现、跟踪内容，不代表获得转载�
 | [City of Calgary Newsroom](https://newsroom.calgary.ca/en/) | 市政服务、工程、政策、官方公告 | 新闻稿与 Feature RSS |
 | [CBC Calgary](https://www.cbc.ca/news/canada/calgary) | 城市新闻、社区、交通 | `https://www.cbc.ca/webfeed/rss/rss-canada-calgary` |
 | [Global News Calgary](https://globalnews.ca/calgary/) | 本地新闻、消费提醒 | [官方 RSS 目录](https://globalnews.ca/pages/feeds/)；Calgary feed `https://globalnews.ca/calgary/feed/` |
-| [Calgary Police Service](https://www.calgarypolice.ca/contact-us/media-inquiries.html) | 公共安全与媒体公告；新闻稿由 City Newsroom 发布 | 媒体公告 / 市府 Newsroom |
-| [Calgary Transit](https://www.calgarytransit.com/rider-information/service-updates.html) | 公交服务与出行 | 服务更新页 |
+| [Calgary Police News Releases](https://newsroom.calgary.ca/police-news-releases/) | 警方公告、安全提醒 | City Newsroom 分类页 |
+| [Calgary Transit](https://www.calgarytransit.com/content/transit/en/home/service-updates.html) | 公交服务与出行 | 服务更新页 |
 | [Parks Canada — Banff](https://parks.canada.ca/pn-np/ab/banff) | 户外安全、公园与季节信息 | 官方更新 |
 | [Avenue Calgary](https://www.avenuecalgary.com/) | 餐厅、新店、美食与城市生活 | 邮件通讯；RSS 链接需要再核实 |
 | [YYC Current](https://yyccurrent.ca/) | 演出、喜剧、市集、户外与社区活动 | 每周邮件、活动日历与 RSS；数据/API 复用另需确认 |

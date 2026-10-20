@@ -3,8 +3,8 @@ const STORAGE_KEY = "kacun-editorial-v1";
 const sourceDirectory = [
   { group: "官方公告", label: "OFFICIAL SIGNALS", entries: [
     { name: "City of Calgary Newsroom", desc: "市政服务、工程、政策与官方公告", type: "官方", url: "https://newsroom.calgary.ca/en/", mark: "YYC", feed: "RSS：新闻稿与 Feature 分栏" },
-    { name: "Calgary Police Service", desc: "公共安全与媒体公告；新闻稿发布在市府 Newsroom", type: "官方", url: "https://www.calgarypolice.ca/contact-us/media-inquiries.html", mark: "CPS", feed: "媒体公告 / City Newsroom" },
-    { name: "Calgary Transit Alerts", desc: "公交服务中断、线路与出行提醒", type: "官方", url: "https://www.calgarytransit.com/rider-information/service-updates.html", mark: "CT", feed: "服务更新" },
+    { name: "Calgary Police News Releases", desc: "警方公告、安全提醒与媒体发布", type: "官方", url: "https://newsroom.calgary.ca/police-news-releases/", mark: "CPS", feed: "City Newsroom 分类页" },
+    { name: "Calgary Transit Alerts", desc: "公交服务中断、线路与出行提醒", type: "官方", url: "https://www.calgarytransit.com/content/transit/en/home/service-updates.html", mark: "CT", feed: "服务更新" },
     { name: "Parks Canada — Banff", desc: "国家公园、户外安全与季节公告", type: "官方", url: "https://parks.canada.ca/pn-np/ab/banff", mark: "PC", feed: "网站更新" }
   ]},
   { group: "本地新闻", label: "NEWSROOMS", entries: [
