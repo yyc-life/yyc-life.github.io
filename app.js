@@ -15,6 +15,9 @@ const sourceDirectory = [
     { name: "LiveWire Calgary", desc: "市政、社区与城市发展报道", type: "媒体", url: "https://livewirecalgary.com/", mark: "LW", feed: "邮件通讯" },
     { name: "Calgary Citizen", desc: "市政、开发、商业、美食与文化", type: "媒体", url: "https://calgarycitizen.com/subscribe", mark: "CC", feed: "每周邮件通讯" }
   ]},
+  { group: "华人内容源", label: "CHINESE COMMUNITY MEDIA", entries: [
+    { name: "卡尔加里微生活", desc: "卡城华人资讯与生活内容；历史公开资料列出的微信号为 canadawelife", type: "华人媒体", url: "https://weixin.sogou.com/weixin?type=1&query=canadawelife", mark: "微", feed: "微信内搜索 canadawelife；暂无可验证 RSS，逐篇核实原文、时效与授权" }
+  ]},
   { group: "吃喝玩乐", label: "GO OUT & EAT WELL", entries: [
     { name: "Avenue Calgary", desc: "探店、美食、新店与城市生活", type: "生活", url: "https://www.avenuecalgary.com/", mark: "AV", feed: "邮件通讯；RSS 端点需核实" },
     { name: "YYC Current", desc: "演出、喜剧、市集、户外与社区活动日历", type: "活动", url: "https://yyccurrent.ca/", mark: "YC", feed: "周四邮件与 RSS；数据/API 复用需另确认" },
