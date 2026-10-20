@@ -3,72 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#f5f3eb" />
-    <meta name="description" content="卡村 KACUN：卡尔加里新鲜资讯转发平台，AI 每天整理本地新闻、生活提醒、吃喝玩乐和周末去处，附原文来源。" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="description" content="卡村 KACUN：卡尔加里本地资讯与生活方式文章，附原文来源和核对日期。" />
     <title>卡村 KACUN — Calgary 新鲜资讯</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20261020e" />
-    <script src="app.js?v=20261020e" defer></script>
+    <link rel="stylesheet" href="styles.css?v=20261020f" />
+    <script src="app.js?v=20261020f" defer></script>
   </head>
-  <body>
-    <header class="site-header">
-      <a class="wordmark" href="#top" aria-label="卡村 KACUN 首页"><span>卡村</span><small>KACUN · YYC</small></a>
-      <nav class="main-nav" aria-label="内容分类">
-        <button class="nav-link active" data-category="全部">最新</button>
-        <button class="nav-link" data-category="本地资讯">本地资讯</button>
-        <button class="nav-link" data-category="生活提醒">生活提醒</button>
-        <button class="nav-link" data-category="吃喝玩乐">吃喝玩乐</button>
-        <button class="nav-link" data-category="周末去哪">周末去哪</button>
-      </nav>
-      <a class="about-link" href="#about">关于卡村 <span>↘</span></a>
-    </header>
-
+  <body class="reader-mode">
     <main id="top">
-      <div id="home-view">
-      <section class="intro-band">
-        <div>
-          <p class="eyebrow"><span class="pulse"></span> CALGARY, AB <span class="eyebrow-divider">/</span> LOCAL NEWS & LIFE</p>
-          <h1>卡村新鲜事，<em>今天一刷就知道。</em></h1>
-          <p class="intro-copy">本地新闻、生活提醒、吃喝玩乐。AI 每天关注城市机构、本地媒体、活动日历和华人生活号，把新消息整理成中文，附上原文入口。</p>
-        </div>
-        <div class="edition"><span class="edition-label">最近采编</span><strong id="updated-date">—</strong><small>每条都有原始出处 ↗</small></div>
-      </section>
-
-      <section class="notice-strip" aria-label="编辑说明">
-        <span class="notice-icon">i</span>
-        <p>这是独立整理的中文摘要，不是原文转载。重要时间、交通、健康与安全信息，请点开来源核对最新更新。</p>
-        <a href="#sources">查看消息来源 <span>→</span></a>
-      </section>
-
-      <section class="feed-section" aria-labelledby="feed-title">
-        <div class="section-head">
-          <div><p class="eyebrow">THE LOCAL EDITION <span class="eyebrow-divider">/</span> YYC</p><h2 id="feed-title">卡村情报 <span id="article-count">—</span></h2></div>
-          <div class="feed-controls"><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="搜资讯、活动、关键词" aria-label="搜索文章" /></label><span class="sort-note">按采编时间排序</span></div>
-        </div>
-        <div class="story-grid" id="stories" aria-live="polite"><p class="loading">正在整理卡村消息…</p></div>
-        <p class="empty-state hidden" id="empty-state">这个分类暂时没有内容。先看看最新情报吧。</p>
-      </section>
-
-      <section class="source-section" id="sources">
-        <div class="source-copy"><p class="eyebrow">FOLLOW THE SOURCE</p><h2>消息从哪里来？</h2><p>优先看市府、警方、交通机构和活动主办方的原始公告；媒体与本地生活刊物用于发现选题。“卡尔加里微生活”（canadawelife）和“卡尔加里吃喝玩乐”（fanta7kaerjiali）也列入关注来源，账号是否活跃需在微信内确认。</p></div>
-        <div class="source-list" id="source-list"></div>
-      </section>
-
-      <section class="wechat-note" id="wechat">
-        <div class="wechat-note-mark">转</div>
-        <div><p class="eyebrow">WECHAT OFFICIAL ACCOUNT</p><h2>想转到自己的公众号？</h2><p>可将卡村的中文摘要作为独立内容，再保留原始来源链接和作者信息。不要复制媒体全文、整段翻译或直接搬运图片；需要整篇转载时，先拿到权利方明确授权。发布前到公众号后台人工核对事实、图片权利和链接。</p></div>
-        <a href="https://mp.weixin.qq.com/" target="_blank" rel="noopener">打开公众号后台 ↗</a>
-      </section>
-      </div>
-      <section class="article-view hidden" id="article-view" aria-live="polite"></section>
+      <section class="article-view" id="article-view" aria-live="polite"><p class="loading">正在整理卡村消息…</p></section>
     </main>
-
-    <footer class="site-footer" id="about">
-      <a class="footer-brand" href="#top">卡村 <span>KACUN · YYC</span></a>
-      <p>让 Calgary 的日常多一点新鲜事。</p>
-      <div class="footer-meta"><span>AI 整理 · 来源可追溯</span><span>卡尔加里时间 <b id="clock">—</b></span><a href="https://github.com/yyc-life/yyc-life.github.io/issues/new" target="_blank" rel="noopener">纠错与建议 ↗</a><a href="https://github.com/yyc-life/yyc-life.github.io" target="_blank" rel="noopener">网站说明 ↗</a></div>
-    </footer>
   </body>
 </html>
