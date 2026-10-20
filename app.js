@@ -43,7 +43,7 @@ function renderStories() {
       <h3>${esc(article.title)}</h3>
       <p class="story-summary">${esc(article.summary)}</p>
       <p class="story-takeaway"><span>卡村划重点</span>${esc(article.takeaway)}</p>
-      <div class="source-dates">原文：${esc(article.sourceDate)} · 卡村核对：${esc(article.verifiedAt)}</div>
+      <div class="source-dates">来源日期 / 活动周：${esc(article.sourceDate)} · 卡村核对：${esc(article.verifiedAt)}</div>
       <div class="story-source"><span>${esc(article.sourceType || "来源")}：${esc(article.source)}${article.author ? ` · ${esc(article.author)}` : ""}</span><a href="${esc(article.url)}" target="_blank" rel="noopener">读原文 ↗</a></div>
     </article>`).join("");
 }
