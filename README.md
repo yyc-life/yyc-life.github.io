@@ -10,7 +10,7 @@
 - 保留原始标题对应的来源链接、发布方、原文日期和卡村核对日期。涉及交通、健康、安全、价格或活动时间时，发布前回到原始页面复核。
 - 未获权利方明确许可时，只发事实摘要和来源链接。整篇转载、译文和图片分别确认授权；注明来源本身不等于获得转载许可。
 - 资讯源包括 [卡尔加里市府](https://newsroom.calgary.ca/en/)、[警方](https://newsroom.calgary.ca/police-news-releases/)、[Calgary Transit](https://www.calgarytransit.com/content/transit/en/home/service-updates.html)、[CBC](https://www.cbc.ca/news/canada/calgary)、[Global News](https://globalnews.ca/calgary/)、[CTV](https://calgary.ctvnews.ca/)、[Calgary Herald](https://calgaryherald.com/)、[LiveWire](https://livewirecalgary.com/)、[Calgary Citizen](https://calgarycitizen.com/subscribe)、[Avenue Calgary](https://www.avenuecalgary.com/)、[YYC Current](https://yyccurrent.ca/)、[Tourism Calgary](https://www.visitcalgary.com/events)、[Calgary Public Library](https://www.calgarylibrary.ca/events-and-programs/programs)，以及华人公众号“卡尔加里微生活”（历史公开资料列出的微信号 `canadawelife`）和“卡尔加里吃喝玩乐”（历史公开资料列出的微信号 `fanta7kaerjiali`）。两个公众号的当前活跃状态需在微信内确认。
-- 每天另查当天晚上和未来几天的约会/出门灵感，包括演出、马术和体育、现场音乐、喜剧、展览、夜市、节庆、特色餐饮体验及免费活动。优先核对场馆/主办方页面的日期、时间、地点、年龄限制、票价与余票；写清楚“全天”并不代表晚上有场次。适合的活动放入 `约会灵感` 内容，至少给出几个风格不同的选择及每项对应的主办方或购票链接；活动过期后及时移除。
+- 每天另查当天晚上和未来几天的约会/出门灵感，优先面向卡尔加里华人读者筛选：中文/亚洲文化活动、中文歌单 KTV、华人社区活动、中餐/亚洲美食体验、夜市，以及马术、体育、展览等低语言门槛的现场活动。英文脱口秀或依赖大量英语交流的活动不作为默认推荐；确有特色时标清演出语言。优先核对场馆/主办方页面的日期、时间、地点、年龄限制、票价与余票；写清楚“全天”并不代表晚上有场次。适合的活动放入 `约会灵感` 内容，至少给出几个风格不同的选择及每项对应的主办方或购票链接；活动过期后及时移除。
 - 有重大安全或健康提醒时，标注为官方公告并引导读者查看原文最新状态；无法核实时先不发布。
 
 ## 更新文章

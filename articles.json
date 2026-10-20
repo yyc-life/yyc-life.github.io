@@ -1,83 +1,83 @@
 {
   "updatedAt": "2026-10-20",
   "updatedLabel": "2026年10月20日",
-  "editionNote": "AI 独立摘要；不是原文转载。请以原始来源的最新页面为准。",
+  "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
       "id": "date-ideas-20261020",
       "date": "2026-10-20",
       "dateLabel": "10月20日更新",
-      "sourceDate": "活动日期：2026-10-20",
+      "sourceDate": "活动日期：2026-10-20 至 2026-10-21",
       "verifiedAt": "2026-10-20",
       "category": "约会灵感",
       "categoryClass": "fun",
-      "title": "今晚约会去哪？卡村马术障碍赛、两场脱口秀可选",
-      "summary": "10月20日想出门，可以先看 Stampede Park 的 Royal West 国际马术障碍赛（公开日历只列全天，先查当日赛程），或选择 7:30 的 Comedy Cave、8 点的 The Laugh Shop。",
-      "deck": "想看马术、听现场脱口秀，今晚各有选择。时间、入场和余票会变，出门前点开主办方或购票页确认。",
-      "lede": "今晚的约会不一定非得订一顿饭。卡村整理了三种不同节奏的选择：Stampede Park 的国际马术障碍赛、Comedy Cave 的 Tre Stewart 专场，以及 The Laugh Shop 的晚场演出。马术赛事公开日历标注为全天，没有给出今晚具体比赛时间；其余演出时间以场馆和购票页为准。",
+      "title": "今晚约会怎么选？免费马术、中文 KTV，再预告明晚夜市",
+      "summary": "给华人读者挑了几个语言门槛较低的选择：今天看马术障碍赛、去 K-One 唱普通话/粤语歌；明晚还有免费夜市可以逛。",
+      "deck": "不想整晚听英文也没关系：看现场马术、唱中文歌，或者提前安排明晚的夜市。出门前再核对赛程、包厢和活动信息。",
+      "lede": "这次优先挑了看表演、吃东西、唱熟悉的歌就能参与的活动。今晚有两种不同节奏：Stampede Park 的马术障碍赛（公开日历只写“全天”，不代表晚上一定有比赛），以及提供普通话和粤语曲库的 K-One 私人 KTV。若想约明晚，北边还有一场免费社区夜市。",
       "sections": [
         {
-          "heading": "想看马术：Royal West 国际障碍赛",
+          "heading": "今晚看马术：主要看比赛，语言门槛低",
           "paragraphs": [
-            "Royal West: Featuring the Canadian Championships 正在 Nutrien Western Event Centre 举行，地址是 1800 Stampede Trail S.E.。Tourism Calgary 将 10 月 20 日列为全天场次，并标注免费；赛事安排持续到 10 月 25 日。",
-            "“全天”不代表晚上一定有比赛。想今晚去，先查 Rocky Mountain Show Jumping 的当日赛程和场馆入场信息，再决定出发时间。"
+            "Royal West 国际马术障碍赛今天在 Nutrien Western Event Centre 举行。Tourism Calgary 把 10 月 20 日列为全天活动并标注免费；但公开活动页没有给出今晚具体比赛时间。",
+            "想去现场看，先查 Rocky Mountain Show Jumping 的当日赛程和场馆安排，不要只按“全天”推断晚间有比赛。"
           ],
           "links": [
             {
-              "label": "查看 Tourism Calgary 活动信息",
+              "label": "看活动信息（Tourism Calgary）",
               "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships"
             },
             {
-              "label": "查看主办方赛程",
+              "label": "查主办方赛程",
               "url": "https://rmsj.ca/tournament-info/"
             }
           ]
         },
         {
-          "heading": "想听脱口秀：Tre Stewart，Comedy Cave",
+          "heading": "今晚唱中文歌：K-One 私人 KTV",
           "paragraphs": [
-            "Comedy Cave 的官方日历显示 Tre Stewart 演出档期为 10 月 19–24 日，场馆常规演出时间是晚上 7:30 开始、6 点开门；地址为 1020 8th Avenue S.W.。今晚的具体场次和余票请以购票页为准。"
+            "K-One 的官方介绍说，曲库有普通话、粤语等多种语言，也提供台式鸡块、牛腩饭等餐食。周二营业时间列为下午 4:30 至凌晨 2 点；地址是 5220 4 Street N.E.。官方提醒，冷清时可能提早打烊，建议提前订房或电话确认。"
           ],
           "links": [
             {
-              "label": "查看今晚场次与购票",
-              "url": "https://www.showpass.com/fr/performing-october-20-tre-stewart-2/"
+              "label": "看曲库、菜单和包厢预订",
+              "url": "https://konekaraokeyyc.ca/"
             },
             {
-              "label": "查看 Comedy Cave 官方演出信息",
-              "url": "https://comedycave.com/"
+              "label": "查看地址与营业时间",
+              "url": "https://konekaraokeyyc.ca/contact-us"
             }
           ]
         },
         {
-          "heading": "想晚一点出门：The Laugh Shop",
+          "heading": "明晚预告：免费 CHV 夜市与万圣节活动",
           "paragraphs": [
-            "The Laugh Shop 的日历列出 10 月 20 日晚 8:00–9:30 的演出，地址是 5940 Blackfoot Trail S.E.。场馆页面标明仅限 18 岁以上入场；票价和余票可能变化，购票前请再确认。"
+            "如果今晚来不及安排，Tourism Calgary 列出的 CHV Night Market & Halloween Spooktacular 在 10 月 21 日下午 5 点至 8 点举行，地点是 1626 Centre St. N.，免费入场。可以把它当作逛摊、散步的轻松选项；摊位和现场安排以主办方当天信息为准。"
           ],
           "links": [
             {
-              "label": "查看官方演出日历与购票",
-              "url": "https://laughshopcalgary.com/"
+              "label": "查看明晚夜市详情",
+              "url": "https://www.visitcalgary.com/events/chv-night-market-halloween-spooktacular-trick-or-treat"
             }
           ]
         }
       ],
-      "takeaway": "更想看马术就先查主办方今晚的具体赛程；想确定晚间时间则看两家喜剧场馆的购票页。先核对余票、入场年龄和地址，再出门。",
-      "sourceType": "本地活动日历与主办方活动页",
-      "source": "YYC Current、Tourism Calgary、Rocky Mountain Show Jumping、Comedy Cave、The Laugh Shop",
+      "takeaway": "今晚想看马术，先核对当日具体赛程；想有把握地安排晚间活动，可优先预订 K-One 包厢并确认普通话/粤语歌单。明晚夜市免费，但出发前也先看主办方更新。",
+      "sourceType": "活动主办方与本地活动日历",
+      "source": "Tourism Calgary、Rocky Mountain Show Jumping、K-One Karaoke",
       "author": "",
-      "url": "https://yyccurrent.ca/?when=today",
+      "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships",
       "sourceEmbed": {
-        "url": "https://yyccurrent.ca/?when=today",
-        "title": "Things to Do in Calgary Today",
-        "publisher": "YYC Current",
+        "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships",
+        "title": "2026 Royal West: Featuring the Canadian Championships",
+        "publisher": "Tourism Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
         "checkedAt": "2026-10-20",
-        "reason": "今日活动列表无合适的文章预览图；使用来源文字卡片，不生成或复制图片。"
+        "reason": "活动来源页没有确认适合复用的内容预览图；用原文文字卡片并列出各活动的官方链接，不生成或复制图片。"
       }
     },
     {
