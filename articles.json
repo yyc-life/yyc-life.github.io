@@ -1,83 +1,197 @@
 {
-  "updatedAt": "2026-10-20",
-  "updatedLabel": "2026年10月20日",
+  "updatedAt": "2026-10-21",
+  "updatedLabel": "2026年10月21日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
-      "id": "date-ideas-20261020",
-      "date": "2026-10-20",
-      "dateLabel": "10月20日更新",
-      "sourceDate": "活动日期：2026-10-20 至 2026-10-21",
-      "verifiedAt": "2026-10-20",
+      "id": "date-ideas-20261021",
+      "date": "2026-10-21",
+      "dateLabel": "10月21日整理",
+      "sourceDate": "主办方页面发布日期未注明；适用日期2026-10-21至25；卡村核对2026-10-21",
+      "verifiedAt": "2026-10-21",
       "category": "约会灵感",
       "categoryClass": "fun",
-      "title": "今晚约会怎么选？免费马术、中文 KTV，再预告明晚夜市",
-      "summary": "给华人读者挑了几个语言门槛较低的选择：今天看马术障碍赛、去 K-One 唱普通话/粤语歌；明晚还有免费夜市可以逛。",
-      "deck": "不想整晚听英文也没关系：看现场马术、唱中文歌，或者提前安排明晚的夜市。出门前再核对赛程、包厢和活动信息。",
-      "lede": "这次优先挑了看表演、吃东西、唱熟悉的歌就能参与的活动。今晚有两种不同节奏：Stampede Park 的马术障碍赛（公开日历只写“全天”，不代表晚上一定有比赛），以及提供普通话和粤语曲库的 K-One 私人 KTV。若想约明晚，北边还有一场免费社区夜市。",
+      "title": "今晚免费夜市、中文 KTV：再把周末农场灯光与展览排进日历",
+      "summary": "10月21日晚可选 CHV 免费夜市或中文 KTV；周五六看农场灯光，白天可逛免费画廊。日裔艺术家 OMOTE 演出已售罄，仅列候补。",
+      "deck": "从免费逛摊到付费唱歌、周末户外灯光，按你的时间和预算选；每项附官方链接，未确认的余票与语言要求也写清楚。",
+      "lede": "今天是10月21日，星期三。今晚想出门，主办方已列出 CHV 夜市的具体晚间时段；想唱普通话或粤语歌，则可先问 K-One 有没有包厢。周末的农场灯光和免费展览也有不同节奏。以下时间均为卡尔加里当地时间，常设商家营业信息不代表今晚一定有空位。",
       "sections": [
         {
-          "heading": "今晚看马术：主要看比赛，语言门槛低",
+          "heading": "今晚免费逛：CHV 夜市 17:00–20:00",
           "paragraphs": [
-            "Royal West 国际马术障碍赛今天在 Nutrien Western Event Centre 举行。Tourism Calgary 把 10 月 20 日列为全天活动并标注免费；但公开活动页没有给出今晚具体比赛时间。",
-            "想去现场看，先查 Rocky Mountain Show Jumping 的当日赛程和场馆安排，不要只按“全天”推断晚间有比赛。"
+            "CHV BIA 主办方列明，Night Market & Halloween Spooktacular – Trick or Treat 在10月21日17:00至20:00举行，地点是 Corner Lot，1626 Centre St N，免费入场。活动包括摊位讨糖和万圣节布景。",
+            "它不是已确认的中文或亚洲主题夜市。主办方未注明活动语言、年龄限制、预约要求及实时接待名额；有这方面需求，先从下方页面联系主办方，临出门再看变动。"
           ],
           "links": [
             {
-              "label": "看活动信息（Tourism Calgary）",
-              "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships"
-            },
-            {
-              "label": "查主办方赛程",
-              "url": "https://rmsj.ca/tournament-info/"
+              "label": "夜市主办方详情",
+              "url": "https://crescentheightsvillage.ca/event/chv-night-market-halloween-spooktacular-trick-or-treat/"
             }
           ]
         },
         {
-          "heading": "今晚唱中文歌：K-One 私人 KTV",
+          "heading": "今晚唱中文歌：K-One 先电话订房",
           "paragraphs": [
-            "K-One 的官方介绍说，曲库有普通话、粤语等多种语言，也提供台式鸡块、牛腩饭等餐食。周二营业时间列为下午 4:30 至凌晨 2 点；地址是 5220 4 Street N.E.。官方提醒，冷清时可能提早打烊，建议提前订房或电话确认。"
+            "K-One 官网列有普通话和粤语曲库，地址5220 4 Street NE。周三营业时间为16:30至次日02:00，冷清时可能提前结束；短时间内提交网上预约未必来得及收到回复，可拨403-230-1212确认。",
+            "房价页列迷你房最多3人、每小时26加元，未含GST，门店价格可能不同。店方禁止未成年人入场并查验身份证件。今晚空房及中文服务未获确认，请先确认人数、房型、费用和结束时间再出发。"
           ],
           "links": [
             {
-              "label": "看曲库、菜单和包厢预订",
+              "label": "曲库与商家介绍",
               "url": "https://konekaraokeyyc.ca/"
             },
             {
-              "label": "查看地址与营业时间",
+              "label": "地址、营业时间与电话",
               "url": "https://konekaraokeyyc.ca/contact-us"
+            },
+            {
+              "label": "房价及入场规则",
+              "url": "https://konekaraokeyyc.ca/room-rates"
             }
           ]
         },
         {
-          "heading": "明晚预告：免费 CHV 夜市与万圣节活动",
+          "heading": "周五六户外：Farmyard Harvest Lights",
           "paragraphs": [
-            "如果今晚来不及安排，Tourism Calgary 列出的 CHV Night Market & Halloween Spooktacular 在 10 月 21 日下午 5 点至 8 点举行，地点是 1626 Centre St. N.，免费入场。可以把它当作逛摊、散步的轻松选项；摊位和现场安排以主办方当天信息为准。"
+            "Calgary Farmyard 官方2026秋季安排到10月25日，周五和周六晚有 Harvest Lights；本周对应10月23日、24日。园区这两天营业10:00至21:30，网页没有另列点灯开始时间，不能把10点开园当成灯光开始。",
+            "地址284022 Township Road 224，Rocky View County。网上单日票标25.95加元另加GST；票务页面提供购票入口，但未确认指定日期实时余量。园区适合不同年龄，2岁及以下免费，部分项目另收费；官网说明没有公共交通到达。体验以灯光、农场和游乐项目为主，未确认中文服务。"
           ],
           "links": [
             {
-              "label": "查看明晚夜市详情",
-              "url": "https://www.visitcalgary.com/events/chv-night-market-halloween-spooktacular-trick-or-treat"
+              "label": "秋季时段、地址与价格",
+              "url": "https://www.calgaryfarmyard.com/"
+            },
+            {
+              "label": "官方链接票务：选择日期再核价",
+              "url": "https://www.simpletix.com/e/fall-on-the-farm-daytime-or-harvest-lights-tickets-290401"
+            }
+          ]
+        },
+        {
+          "heading": "免费白天备选：Esker 画廊，不当夜场推荐",
+          "paragraphs": [
+            "想控制预算，可考虑 Inglewood 的 Esker Foundation：免费入场，地址1011 9 Avenue SE四楼。周三至周五11:00至18:00，周末12:00至17:00；今晚18点后不列为可去选项。",
+            "这里可按自己的节奏看视觉艺术。参观页未注明统一年龄限制或中文导览，普通参观也未提供实时容量信息；若带儿童或需要讲解、无障碍协助，先联系场馆确认适合的安排。"
+          ],
+          "links": [
+            {
+              "label": "免费参观、开放时间及地址",
+              "url": "https://eskerfoundation.com/visit/"
+            },
+            {
+              "label": "当前 Other Moves 展览",
+              "url": "https://eskerfoundation.com/exhibition/brendan-fernandes/"
+            }
+          ]
+        },
+        {
+          "heading": "亚洲文化留意：OMOTE 已售罄，只能候补",
+          "paragraphs": [
+            "日裔加拿大艺术家 Shion Skye Carter 与 Miya Turnbull 的面具舞蹈 OMOTE（面）探索身份与表里。Esker列出10月24日、25日每天13:00–14:30及15:30–17:00；主办方列免费，但场馆已明确写明售罄，只能尝试加入候补。",
+            "节目含演出及艺术家交流，交流语言和年龄限制未注明，不承诺中文或日语服务。这是周末午后项目，既不是今晚活动，也不是已确认有票的推荐；候补成功前不要按已订行程安排。"
+          ],
+          "links": [
+            {
+              "label": "售罄状态及候补入口",
+              "url": "https://eskerfoundation.com/programs/omote/"
+            },
+            {
+              "label": "主办方节目详情",
+              "url": "https://springboardperformance.com/events/omote"
             }
           ]
         }
       ],
-      "takeaway": "今晚想看马术，先核对当日具体赛程；想有把握地安排晚间活动，可优先预订 K-One 包厢并确认普通话/粤语歌单。明晚夜市免费，但出发前也先看主办方更新。",
-      "sourceType": "活动主办方与本地活动日历",
-      "source": "Tourism Calgary、Rocky Mountain Show Jumping、K-One Karaoke",
+      "takeaway": "今晚想省预算可先看17点夜市，唱中文歌先问 K-One 空房；农场留到周五六并先选日期购票。画廊按日间开放时间去，OMOTE 只候补。价格、名额和公共交通请出发前查看当前官方页面。",
+      "sourceType": "主办方与场馆官方页面",
+      "source": "CHV BIA、K-One Karaoke、Calgary Farmyard、Esker Foundation、Springboard Performance",
       "author": "",
-      "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships",
+      "url": "https://crescentheightsvillage.ca/event/chv-night-market-halloween-spooktacular-trick-or-treat/",
       "sourceEmbed": {
-        "url": "https://www.visitcalgary.com/events/2026-royal-west-featuring-the-canadian-championships",
-        "title": "2026 Royal West: Featuring the Canadian Championships",
-        "publisher": "Tourism Calgary",
+        "url": "https://crescentheightsvillage.ca/event/chv-night-market-halloween-spooktacular-trick-or-treat/",
+        "title": "CHV Night Market & Halloween Spooktacular – Trick or Treat",
+        "publisher": "CHV BIA",
+        "thumbnail": "https://crescentheightsvillage.ca/wp-content/uploads/2026/07/Halloween-Night-Market-Graphic-scaled.jpg",
+        "thumbnailAlt": "CHV 主办方提供的万圣节夜市活动海报"
+      },
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-10-21",
+        "reason": "主办方 HTML 的 og:image 与正文活动海报对应；仅远程显示并链接原文，不下载、截图或复制图片；卡片不是全文转载授权。"
+      }
+    },
+    {
+      "id": "community-associations-20261021",
+      "date": "2026-10-21",
+      "dateLabel": "10月21日整理",
+      "sourceDate": "2026-10-20",
+      "verifiedAt": "2026-10-21",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "想找家附近的活动？市府更新社区协会项目，先分清哪些已举办、哪些还在计划",
+      "summary": "市府10月20日介绍社区协会的新设施与邻里项目；部分仍处于申请或施工阶段，不能当成已经开放的周末去处。",
+      "deck": "新搬来、想认识邻居，或想找家附近的公共活动，可以先查社区协会；新闻中的项目进度和具体活动时间要分开看。",
+      "lede": "卡尔加里市府10月20日介绍了社区协会的近期工作，包括游乐设施、社区空间和会员计划。对华人居民来说，这是一条寻找家附近活动的线索；但新闻回顾里提到的夏季聚会已经过去，新设施也不都已经可以使用。",
+      "sections": [
+        {
+          "heading": "这次更新说了什么",
+          "paragraphs": [
+            "公告列出多个社区协会周年里程碑，并介绍志愿者推动的邻里项目。市府鼓励居民参加活动、加入协会或做志愿者。",
+            "这些协会与具体社区相连。读者可以从自己居住区域的协会开始查询，而不是看到一个项目名称就直接到现场。"
+          ]
+        },
+        {
+          "heading": "新设施还要看进度",
+          "paragraphs": [
+            "公告说，Kincora 协会正推进新游乐场；Symons Valley Leisure and Amenities Society 为社区体育休闲中心第一阶段提交了开发许可；Coach Hill Patterson Heights 的社区空间已经动工。",
+            "提交申请、正在推进和已经动工分别代表不同阶段。这份公告没有给出这些设施统一的开放日期，也不能据此保证现在能预约或使用。"
+          ]
+        },
+        {
+          "heading": "会员计划与活动，先问清具体条件",
+          "paragraphs": [
+            "市府还提到 Hidden Valley 协会的会员折扣计划，连接居民和本地商家。想加入之前，可以向协会核对会费、适用商家、有效期和使用条件；公告没有提供这些细节，不把会员身份等同于自动享有所有优惠。",
+            "对语言有要求的读者，也可以直接询问是否有中文活动或协助。原公告没有承诺普通话、粤语服务，报名时需要自己确认。"
+          ]
+        },
+        {
+          "heading": "把新闻线索变成你的下一步",
+          "paragraphs": [
+            "先从市府社区协会入口找到相关组织，再核对它自己的最新日历。报名或参加前问清日期、开始时间、地址、年龄、费用，以及是否需要会员或预约。",
+            "公告里的六月邻里活动和七、八月聚会属于回顾，不列为今晚或周末的活动。具体场次没有核实前，先收藏组织入口就够了。"
+          ],
+          "links": [
+            {
+              "label": "市府10月20日公告",
+              "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/"
+            },
+            {
+              "label": "市府社区协会入口",
+              "url": "https://www.calgary.ca/communities/community-associations.html"
+            },
+            {
+              "label": "Federation of Calgary Communities",
+              "url": "https://calgarycommunities.com/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "找附近活动，先查自己社区的协会；设施申请和施工消息先关注进度，实际开放、收费与服务安排以协会当前公告为准。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "",
+      "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/",
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/",
+        "title": "Calgary Community Associations mark milestones and create new ways to connect",
+        "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-10-20",
-        "reason": "活动来源页没有确认适合复用的内容预览图；用原文文字卡片并列出各活动的官方链接，不生成或复制图片。"
+        "checkedAt": "2026-10-21",
+        "reason": "已检查原文；页面含社区主题图片，但未核实图片的具体拍摄项目及场景，采用纯文字卡片，避免把图片当作新设施开放证明。"
       }
     },
     {
@@ -85,10 +199,10 @@
       "date": "2026-10-20",
       "dateLabel": "10月20日整理",
       "sourceDate": "2026-10-19",
-      "verifiedAt": "2026-10-20",
+      "verifiedAt": "2026-10-21",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "14 街施工、煮水提醒仍有效：Eagle Ridge 和 Heritage Park 居民先看这里",
+      "title": "14街维修与煮水提醒：10月21日官方页面仍列有效",
       "summary": "服务 Eagle Ridge 和 Heritage Park 的水管维修出现压力异常，AHS 发布煮水提醒；14 St. S.W. 在 75 Ave. 与 Heritage Dr. 之间缩减车道。",
       "deck": "这次提醒适用于公告范围内的地址，不要只凭社区名称判断。饮用和烹饪用水怎么处理、14 街哪一段受影响，卡村整理了要点。",
       "lede": "如果你住在 Eagle Ridge 或 Heritage Park，先确认自己的地址是否落在 AHS 公告范围内。市府 10 月 19 日说，维修一条服务这两个社区的水管时，管线压力意外下降，水质暂时无法保证；AHS 因此发布煮水提醒。附近的 14 St. S.W. 也在施工，开车经过要多留些时间。",
@@ -96,7 +210,7 @@
         {
           "heading": "先确认地址：社区名称不能代替公告范围",
           "paragraphs": [
-            "市府维修从 10 月 16 日开始。施工期间，服务 Eagle Ridge 和 Heritage Park 的水管出现未预期的降压，相关部门无法保证水质，AHS 随后发布预防性煮水提醒。",
+            "施工期间，服务 Eagle Ridge 和 Heritage Park 的水管出现未预期的降压，相关部门无法保证水质，AHS 随后发布预防性煮水提醒。",
             "这次维修与 Bearspaw South Feeder Main 工程无关，Rockyview General Hospital 也不受影响。煮水提醒有明确的地址范围；住在附近不一定代表一定受影响，住户应对照 AHS 公告或等候官方通知。"
           ]
         },
@@ -117,8 +231,18 @@
         {
           "heading": "提醒解除前，按最新公告执行",
           "paragraphs": [
-            "截至市府 10 月 19 日的公告，煮水提醒仍然有效；受影响住户会在提醒解除时收到通知。若有健康相关问题，可拨 Health Link 811。",
+            "卡村10月21日复核市府当前煮水页面，页面仍明确标示提醒有效。受影响住户会在解除时收到通知；有健康问题可联系 Health Link 811。",
             "地址范围、送水车位置或解除时间都可能更新。请直接查看市府公告和 AHS 的煮水指引，不要把较早的社交平台转发当作解除通知。"
+          ],
+          "links": [
+            {
+              "label": "市府当前煮水状态及受影响区域",
+              "url": "https://www.calgary.ca/emergencies/boil-advisory.html?redirect=/boilwater"
+            },
+            {
+              "label": "原始10月19日维修公告",
+              "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/"
+            }
           ]
         }
       ],
@@ -247,58 +371,6 @@
         "publisher": "Avenue Calgary",
         "thumbnail": "https://www.avenuecalgary.com/wp-content/uploads/2026/10/LucsCrop2.jpg",
         "thumbnailAlt": "店员从奶酪轮上切下一块奶酪"
-      }
-    },
-    {
-      "id": "calgary-week-october-19-2026",
-      "date": "2026-10-20",
-      "dateLabel": "10月20日整理",
-      "sourceDate": "2026-10-20–25（活动周）",
-      "verifiedAt": "2026-10-20",
-      "category": "周末去哪",
-      "categoryClass": "fun",
-      "title": "这周卡村有 130 场活动：两台剧场演出，先收藏再约人",
-      "summary": "10 月 20–25 日的本地活动日历列出 130 项选择；《Little Shop of Horrors》本周末前有场次，《Evil Dead The Musical》则演到 11 月 14 日。",
-      "deck": "剧场、喜剧、亲子和免费活动都能筛。卡村先挑两场时间较长的剧场演出，想去之前记得点进票务页复核。",
-      "lede": "如果你还没想好这周下班后或周末去哪儿，The Calgary Loop 的 10 月 20 日至 25 日活动表列出 130 场选择。卡村从中先挑了两部正在上演的剧场节目：一部本周日就结束这一轮场次，另一部则还有几周可选。",
-      "sections": [
-        {
-          "heading": "本周两部剧场节目，时间都在晚上",
-          "paragraphs": [
-            "《Little Shop of Horrors》在 Max Bell Theatre 演出，日历列出的周二场次是晚上 7:30，后续场次排到 10 月 25 日。《Evil Dead The Musical》同样是晚上 7:30，在 Martha Cohen Theatre 演出，日历显示后续场次延续到 11 月 14 日。",
-            "两个剧场都在市中心的剧院区，日历标注从 City Hall CTrain 站步行约三分钟。场次、座位和票价还是以剧院或票务页面为准。"
-          ]
-        },
-        {
-          "heading": "130 场活动，不用从头翻到尾",
-          "paragraphs": [
-            "这周活动表可以按免费、亲子、体育、集市、夜生活、室内和户外等条件筛选。先选哪天有空，再按预算和地点缩小范围，会比只看活动标题容易决定。",
-            "比如带孩子出门，可以先开亲子筛选再看年龄限制；想省预算，就看看免费活动是否需要预约；准备看演出，则先查具体场次和交通，再订票。"
-          ]
-        },
-        {
-          "heading": "收藏日历，出门前再看一次",
-          "paragraphs": [
-            "活动日历本身提醒日期和时间可能变化。它适合用来发现选项，票价、余票、取消通知和入场要求，则应点进主办方或票务链接核实。本文整理时看到的信息不一定反映你打开页面时的最新状态。"
-          ]
-        }
-      ],
-      "takeaway": "这周两场晚间剧目都在市中心；先按你的日期筛活动，再从票务页面确认场次、价格和余票。",
-      "sourceType": "本地活动日历",
-      "source": "The Calgary Loop",
-      "author": "The Calgary Loop",
-      "url": "https://thecalgaryloop.ca/coming-up/2026-10-19",
-      "imageAttempt": {
-        "status": "embedded-source-card",
-        "checkedAt": "2026-10-20",
-        "reason": "使用原文页面的相关预览图制作可点击来源卡片；图片不下载、不截图、不复制。"
-      },
-      "sourceEmbed": {
-        "url": "https://thecalgaryloop.ca/coming-up/2026-10-19",
-        "title": "Calgary events, week of October 19, 2026",
-        "publisher": "The Calgary Loop",
-        "thumbnail": "https://thecalgaryloop.ca/og",
-        "thumbnailAlt": "The Calgary Loop 活动日历预览"
       }
     }
   ]
