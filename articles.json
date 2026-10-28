@@ -4,6 +4,61 @@
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
+      "id": "haidilao-northland-20261028",
+      "date": "2026-10-28",
+      "dateLabel": "10月28日整理",
+      "sourceDate": "2026-10-06",
+      "verifiedAt": "2026-10-28",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "海底捞要来卡城 Northland：开业日期还没公布",
+      "summary": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
+      "deck": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
+      "lede": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
+      "sections": [
+        {
+          "heading": "新店在哪，什么时候开？",
+          "paragraphs": [
+            "Culture Alberta 10月6日报道，海底捞正在卡城西北区 Northland 筹备新店，购物中心地址是 5111 Northland Drive NW。报道当时称没有公布开业日期。",
+            "一个自称海底捞卡城账号的10月21日帖子展示了筹备进度，称即将开业；我们通过第三方镜像看到帖子，尚未独立确认账号归属和最新开业日期。"
+          ],
+          "links": [
+            {
+              "label": "本地报道",
+              "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance"
+            },
+            {
+              "label": "10月21日帖子镜像",
+              "url": "https://imginn.com/p/Dexe-s1hGKn/"
+            }
+          ]
+        },
+        {
+          "heading": "出发前还要等哪些消息",
+          "paragraphs": [
+            "具体开业日、价格、预约方式以及卡城店提供哪些服务尚未确认。不要按其他城市门店的菜单或服务推断这家店；有明确消息后再更新。"
+          ]
+        }
+      ],
+      "takeaway": "开业日期、菜单和预约方式未确认，先别按“即将开业”直接出发。",
+      "sourceType": "本地报道",
+      "source": "Culture Alberta",
+      "author": "Culture Alberta",
+      "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance",
+      "sourceEmbed": {
+        "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance",
+        "title": "Calgary Is Getting Haidilao, the Global Hot Pot Chain Famous for Its Noodle Dance",
+        "publisher": "Culture Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-28",
+        "reason": "未确认适合此条内容的来源预览图，使用文字来源卡片。"
+      }
+    },
+    {
       "id": "bank-police-impersonation-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
@@ -71,6 +126,72 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
+      }
+    },
+    {
+      "id": "jammy-con-20261031",
+      "date": "2026-10-28",
+      "dateLabel": "10月28日整理",
+      "sourceDate": "未注明",
+      "verifiedAt": "2026-10-28",
+      "category": "周末去哪",
+      "categoryClass": "fun",
+      "title": "周末 WinSport 有 K-pop 活动：P1Harmony、随机舞蹈和粉丝市集",
+      "summary": "10月31日至11月1日 JAMMY CON 在 WinSport 举行；演唱会在周六，普通票价和余票未确认。",
+      "deck": "10月31日至11月1日 JAMMY CON 在 WinSport 举行；演唱会在周六，普通票价和余票未确认。",
+      "lede": "10月31日至11月1日 JAMMY CON 在 WinSport 举行；演唱会在周六，普通票价和余票未确认。",
+      "sections": [
+        {
+          "heading": "周六看演出，周日也能跳舞",
+          "paragraphs": [
+            "主办方日程列出：10月31日周六 19:30 是 P1Harmony 演唱会；周日 15:30–17:30 有 Random Play Dance。两天的摊位与粉丝区均列为 10:00–18:00，另有小卡交换和社群活动。节目时间可能调整。",
+            "地点是 WinSport Event Centre，88 Canada Olympic Road SW。场馆活动日历也列出10月31日至11月1日。"
+          ],
+          "links": [
+            {
+              "label": "主办方完整日程",
+              "url": "https://www.jammycon.ca/schedule-and-events"
+            },
+            {
+              "label": "WinSport 活动日历",
+              "url": "https://www.winsport.ca/upcoming-events/events/"
+            }
+          ]
+        },
+        {
+          "heading": "门票、年龄与语言",
+          "paragraphs": [
+            "主办方区分仅含节庆活动的票和包含演唱会席位的套票；本次未能核实普通票价、实时余票或每个项目的具体入场条件，购买前请看票务页。",
+            "活动面向全年龄；12岁以下须由家长或法定监护人全程陪同。活动页面未注明中文服务，涉及交流的活动语言请提前确认。"
+          ],
+          "links": [
+            {
+              "label": "年龄及入场说明",
+              "url": "https://www.jammycon.ca/faqs"
+            },
+            {
+              "label": "票种及主办方入口",
+              "url": "https://www.jammycon.ca/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "先分清节庆票和演唱会套票，价格、余票及语言出发前确认。",
+      "sourceType": "主办方活动页面",
+      "source": "JAMMY CON",
+      "author": "JAMMY CON",
+      "url": "https://www.jammycon.ca/schedule-and-events",
+      "sourceEmbed": {
+        "url": "https://www.jammycon.ca/schedule-and-events",
+        "title": "JAMMY CON 2026 — Schedule & Events",
+        "publisher": "JAMMY CON",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-28",
+        "reason": "未确认适合此条内容的原文预览图，使用文字来源卡片。"
       }
     },
     {
@@ -150,270 +271,58 @@
       }
     },
     {
-      "id": "date-ideas-20261028",
+      "id": "yyc-noodle-festival-20261105",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
-      "sourceDate": "活动页面未标注发布日期；活动日期2026-10-31；卡村核对2026-10-28",
+      "sourceDate": "未注明",
       "verifiedAt": "2026-10-28",
-      "category": "约会灵感",
-      "categoryClass": "fun",
-      "title": "周六 Studio Bell 有四场万圣节管风琴演示，配默片现场演奏",
-      "summary": "10月31日 Studio Bell 将举行四场约20分钟的万圣节管风琴演示，为经典无声恐怖片段配乐。活动在白天；讲解语言和实时余位未确认。",
-      "deck": "演出以音乐和画面为主，但主办方没有说明讲解语言或中文服务。片段可能吓到年幼观众，带孩子前先看活动说明。",
-      "lede": "想在万圣节周六白天看点特别的，National Music Centre（国家音乐中心）在 Studio Bell 安排了 Kimball Theatre Organ 管风琴演示：现场音乐将配合经典无声恐怖片和动画片段。活动页没写讲解语言或中文服务，也提醒部分内容可能让小朋友害怕。",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城亚洲面食节准备回归：11月上旬分散在各家餐厅",
+      "summary": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
+      "deck": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
+      "lede": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
       "sections": [
         {
-          "heading": "四个时段，每场约20分钟",
+          "heading": "这是什么活动",
           "paragraphs": [
-            "10月31日的场次是11:30、13:00、14:00和15:00，每场约20分钟。主办方介绍，这台1924年的剧院管风琴会为经典无声恐怖片和动画片段配上音乐与音效。",
-            "演出日期由 Tourism Calgary 活动日历及场馆页面核对；时间为卡尔加里当地时间，出发前请再确认当天安排。"
+            "主办方资料称，2026年的面食节以亚洲饮食文化为主题，由卡城各参与餐厅推出活动面食，读者可在不同地点参与；这不是一个集中在单一场地的夜市。",
+            "主办方商家资料写11月5日至15日。合作机构 Leftovers Foundation 的页面日期栏也是11月5日至15日，但正文写11月6日至16日；最终日期存在冲突，请出发前查看主办方更新。"
           ],
           "links": [
             {
-              "label": "Studio Bell 活动详情与四个时段",
-              "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/"
+              "label": "主办方活动资料",
+              "url": "https://www.yycnoodlefestival.com/vendorinformation"
             },
             {
-              "label": "Tourism Calgary 活动日期",
-              "url": "https://www.visitcalgary.com/events/kimball-theatre-organ-haunting-halloween-demonstrations"
+              "label": "Leftovers Foundation 活动页面",
+              "url": "https://rescuefood.ca/event/2026-yyc-noodle-festival/"
             }
           ]
         },
         {
-          "heading": "地址和内容提示",
+          "heading": "去之前需要确认",
           "paragraphs": [
-            "地点是 Studio Bell（850 4 Street SE, Calgary）。活动页没有标年龄下限，但提醒恐怖片段可能让年幼观众害怕；带孩子去之前不妨先看活动说明。",
-            "现场主要是画面和音乐。主办方没有注明讲解语言，也未确认中文服务。"
-          ]
-        },
-        {
-          "heading": "门票价格与余位",
-          "paragraphs": [
-            "演示包含在 Studio Bell 普通门票内。场馆列出的票价为：成人 $24.50，学生及65岁以上长者 $19.50，4至12岁 $16.50，3岁及以下免费。最终票价以场馆售票页为准。",
-            "场馆提供网上购票和前台购票；目前没有确认10月31日的实时余位，出发或购票前请查看票务页面。"
-          ],
-          "links": [
-            {
-              "label": "场馆门票价格及购票入口",
-              "url": "https://www.studiobell.ca/general-admission"
-            },
-            {
-              "label": "活动页与场馆信息",
-              "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/"
-            }
-          ]
-        },
-        {
-          "heading": "这是日间场次",
-          "paragraphs": [
-            "活动列出的时间都在白天，页面没有晚间场次信息。"
+            "各餐厅的参与名单、营业时间、单碗价格及是否需要预约，请以主办方和具体餐厅的最新信息为准；本次没有逐店核实。活动涉及慈善合作，但不要假设每一笔消费的捐赠金额相同。"
           ]
         }
       ],
-      "takeaway": "10月31日四场均在白天；出发前确认门票和余位，并留意恐怖片段及未注明的讲解语言。",
-      "sourceType": "场馆活动公告",
-      "source": "National Music Centre / Studio Bell；Tourism Calgary",
-      "author": "",
-      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+      "takeaway": "活动日期存在来源冲突；具体店铺、价格和时间出发前再确认。",
+      "sourceType": "活动主办方",
+      "source": "YYC Noodle Festival",
+      "author": "YYC Noodle Festival",
+      "url": "https://www.yycnoodlefestival.com/vendorinformation",
       "sourceEmbed": {
-        "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
-        "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
-        "publisher": "National Music Centre / Studio Bell",
-        "thumbnail": "https://www.studiobell.ca/assets/images/_header/NMC_October-31-2026_KIMBALL-THEATRE-DEMO_Web-1900x800.png",
-        "thumbnailAlt": "Studio Bell 万圣节剧院管风琴演示活动图"
+        "url": "https://www.yycnoodlefestival.com/vendorinformation",
+        "title": "2026 Vendor Information",
+        "publisher": "YYC Noodle Festival",
+        "thumbnail": null,
+        "thumbnailAlt": null
       },
       "imageAttempt": {
-        "status": "embedded-source-card",
+        "status": "text-source-card",
         "checkedAt": "2026-10-28",
-        "reason": "使用场馆活动原文中的本场主题图片远程显示在来源卡片内；未下载或复制。"
-      }
-    },
-    {
-      "id": "walden-library-fire-station-20261022",
-      "date": "2026-10-22",
-      "dateLabel": "10月22日整理",
-      "sourceDate": "2026-10-21",
-      "verifiedAt": "2026-10-22",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "Walden 消防站和图书馆开工，预计2028年开放",
-      "summary": "市府10月21日在969 Walden Drive SE启动消防站与公共图书馆合建项目。新设施预计2028年开放，目前还不能借书或预约空间。",
-      "deck": "Walden及周边社区会多一个公共服务点，不过还要等施工完成；施工期间，现有临时消防站继续运作。",
-      "lede": "住在 Walden、Legacy、Chaparral 或 Wolf Willow 一带，可以留意这项社区建设：市府10月21日宣布 Walden Fire Station and Library 开工。永久消防站和新图书馆将设在同一处，预计2028年开放。",
-      "sections": [
-        {
-          "heading": "建在哪里、服务哪些社区",
-          "paragraphs": [
-            "项目位于969 Walden Drive SE，也就是现有临时消防站的场地，预计造价3420万加元。市府称这是卡城首个消防站与公共图书馆合建项目，服务 Walden 及周边社区。"
-          ]
-        },
-        {
-          "heading": "图书馆和消防站的规划内容",
-          "paragraphs": [
-            "图书馆规划包括馆藏、儿童空间、技术设备、会议室和活动空间；永久消防站规划两个车库位。这些都是未来设施，目前尚无借阅或空间预约服务。",
-            "市府预计2028年开放。具体开放日期、活动和空间使用安排，还要等后续公布。"
-          ]
-        },
-        {
-          "heading": "施工期间消防服务照常",
-          "paragraphs": [
-            "临时消防站会在施工期间继续正常运作，等新站投入使用后才会移除。项目进度可查看市府公告。"
-          ],
-          "links": [
-            {
-              "label": "市府动工公告与项目入口",
-              "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "新设施预计2028年开放；施工期间临时消防站继续运作，图书馆目前尚未开放。",
-      "sourceType": "官方公告",
-      "source": "City of Calgary",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/",
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/",
-        "title": "Construction begins on Walden Fire Station and Library",
-        "publisher": "City of Calgary",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-22",
-        "reason": "已检查原文 HTML：提供规划效果图，但不是已落成现场照片；本篇采用纯文字卡片以突出施工阶段，未下载或复制图片。"
-      }
-    },
-    {
-      "id": "deerfoot-witness-appeal-20261022",
-      "date": "2026-10-22",
-      "dateLabel": "10月22日整理",
-      "sourceDate": "2026-10-21",
-      "verifiedAt": "2026-10-22",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "警方寻找 Deerfoot 致命碰撞目击者：事发时段约下午1:10",
-      "summary": "警方10月21日征集线索：碰撞发生在10月20日 Deerfoot Trail 北行、17 Avenue SE以南，约13:10。",
-      "deck": "当时经过附近的话，可以检查行车记录仪是否拍到相关路段；目击者也可按警方公告提供信息。",
-      "lede": "10月20日下午，Deerfoot Trail 北行发生致命碰撞。警方隔日发布征集线索公告，寻找约13:10在17 Avenue SE以南经过的目击者或行车记录影像。",
-      "sections": [
-        {
-          "heading": "对照一下行车记录",
-          "paragraphs": [
-            "警方列出的时间为10月20日星期二13:10左右，地点在 Deerfoot Trail 北行车道右侧路肩、17 Avenue SE以南。若你当时经过或有相关影像，可联系警方。"
-          ]
-        },
-        {
-          "heading": "警方公布的事故经过",
-          "paragraphs": [
-            "警方称，一辆拖挂拖车的皮卡停在路肩，70岁的驾驶者当时在车外。另一辆同样拖挂拖车、向北行驶的车辆驶入路肩，撞上停放的车辆和该男子；男子当场死亡，另一名驾驶者留在现场。",
-            "调查仍在继续，警方公告没有说明完整事故原因或责任结论。"
-          ]
-        },
-        {
-          "heading": "提供线索的联系方式",
-          "paragraphs": [
-            "可拨警方非紧急电话403-266-1234，并提供案件号 CA26482802/5276；也可通过 Crime Stoppers 匿名提供线索。说明时尽量提供时间、行驶方向和影像对应位置。"
-          ],
-          "links": [
-            {
-              "label": "警方调查进展与线索渠道",
-              "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "检查10月20日约13:10、Deerfoot 北行且在17 Avenue SE以南的行车影像；有线索可按案件号联系警方。",
-      "sourceType": "官方公告",
-      "source": "Calgary Police Service",
-      "author": "Calgary Police Service",
-      "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
-        "title": "Investigation into fatal collision continues",
-        "publisher": "Calgary Police Service",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-22",
-        "reason": "已检查原文 HTML，og:image 为警方通用标志，不作为新闻配图；使用纯文字来源卡片。"
-      }
-    },
-    {
-      "id": "community-associations-20261021",
-      "date": "2026-10-21",
-      "dateLabel": "10月21日整理",
-      "sourceDate": "2026-10-20",
-      "verifiedAt": "2026-10-21",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "想认识附近邻居？从社区协会找活动，也留意设施进度",
-      "summary": "市府10月20日介绍多个社区协会的项目：有的设施在推进或施工，有的夏季活动已结束。想参加活动，先查自己社区协会的最新日历。",
-      "deck": "社区协会是找邻里活动的一个入口；新闻提到的项目不等于已经开放，具体日期和参加条件要看协会自己的公告。",
-      "lede": "刚搬到卡城，或想多认识住家附近的人，可以从本地社区协会找线索。市府10月20日介绍了游乐设施、社区空间和会员计划的进展；其中有些仍在申请或施工，回顾中提到的夏季聚会也已经过去。",
-      "sections": [
-        {
-          "heading": "社区协会在做什么",
-          "paragraphs": [
-            "市府公告提到多个社区协会的周年节点，也介绍了志愿者推动的邻里项目，并鼓励居民参加活动、加入协会或做志愿者。",
-            "协会通常服务特定社区。先按自己的居住区域找对应组织，再看它发布的活动信息。"
-          ]
-        },
-        {
-          "heading": "几项设施还在不同阶段",
-          "paragraphs": [
-            "Kincora 协会正在推进新游乐场；Symons Valley Leisure and Amenities Society 已为社区体育休闲中心第一阶段提交开发许可；Coach Hill Patterson Heights 的社区空间则已动工。",
-            "它们分别处于推进、申请和施工阶段。公告没有给出统一开放日期，也没有说现在可以预约或使用。"
-          ]
-        },
-        {
-          "heading": "会员和活动细节向协会确认",
-          "paragraphs": [
-            "市府也提到 Hidden Valley 协会的会员折扣计划，合作对象包括本地商家。公告没有列出会费、适用商家、有效期或使用条件，加入前可向协会问清楚。",
-            "如果需要中文活动或语言协助，也请直接询问协会；市府公告没有承诺普通话或粤语服务。"
-          ]
-        },
-        {
-          "heading": "从哪里找具体活动",
-          "paragraphs": [
-            "可先用市府社区协会入口找到附近组织，再看协会自己的最新日历。参加前确认日期、时间、地址、年龄限制、费用，以及是否需要会员或预约。",
-            "公告回顾的六月邻里活动和七、八月聚会已经过去，不是近期活动安排。"
-          ],
-          "links": [
-            {
-              "label": "市府10月20日公告",
-              "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/"
-            },
-            {
-              "label": "市府社区协会入口",
-              "url": "https://www.calgary.ca/communities/community-associations.html"
-            },
-            {
-              "label": "Federation of Calgary Communities",
-              "url": "https://calgarycommunities.com/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "找邻里活动先按住址查对应社区协会；设施开放和活动安排以协会最新公告为准。",
-      "sourceType": "市府公告",
-      "source": "City of Calgary Newsroom",
-      "author": "",
-      "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/",
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/calgary-community-associations-mark-milestones-and-create-new-ways-to-connect/",
-        "title": "Calgary Community Associations mark milestones and create new ways to connect",
-        "publisher": "City of Calgary Newsroom",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-21",
-        "reason": "已检查原文；页面含社区主题图片，但未核实图片的具体拍摄项目及场景，采用纯文字卡片，避免把图片当作新设施开放证明。"
+        "reason": "未确认适合此条内容的来源预览图，使用文字来源卡片。"
       }
     },
     {
@@ -471,68 +380,6 @@
         "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "calgary-food-news-october-2026",
-      "date": "2026-10-20",
-      "dateLabel": "10月20日整理",
-      "sourceDate": "2026-10-20",
-      "verifiedAt": "2026-10-28",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "卡城 The Establishment 再获省级年度酒厂称号",
-      "summary": "Avenue Calgary 报道，The Establishment Brewing Company 获得2026 Alberta Beer Awards 的年度酒厂奖；卡城酒厂本届合计获40多枚奖牌。",
-      "deck": "这家卡城酒厂六年内第四次获选 Brewery of the Year；完整类别名单可查奖项主办方公布的结果。",
-      "lede": "卡尔加里的 The Establishment Brewing Company 获选2026 Alberta Beer Awards 年度酒厂（Brewery of the Year）。Avenue Calgary 10月20日报道称，这是该酒厂六年内第四次拿到这个称号。",
-      "sections": [
-        {
-          "heading": "年度酒厂由谁获得",
-          "paragraphs": [
-            "2026 Alberta Beer Awards 将 Brewery of the Year 颁给 The Establishment Brewing Company。Avenue Calgary 称，这是它六年内第四次获得该奖项。"
-          ],
-          "links": [
-            {
-              "label": "Alberta Beer Awards 2026 获奖者页面",
-              "url": "https://www.albertabeerawards.ca/2026-alberta-beer-awards"
-            }
-          ]
-        },
-        {
-          "heading": "卡城酒厂本届奖牌数",
-          "paragraphs": [
-            "Avenue Calgary 还报道，卡尔加里酒厂在本届30多个类别中合计获得40多枚金、银、铜牌。各类别的获奖名单见主办方结果页。"
-          ],
-          "links": [
-            {
-              "label": "Avenue Calgary 原文及完整新闻背景",
-              "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/"
-            }
-          ]
-        },
-        {
-          "heading": "奖项信息",
-          "paragraphs": [
-            "这是省级行业评选的结果；奖项本身不代表对单款产品的评价。"
-          ]
-        }
-      ],
-      "takeaway": "The Establishment Brewing Company 获2026年 Alberta Beer Awards 年度酒厂奖；完整名单见主办方结果页。",
-      "sourceType": "本地生活媒体",
-      "source": "Avenue Calgary",
-      "author": "Avenue Staff",
-      "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
-      "sourceEmbed": {
-        "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
-        "title": "What’s New and Notable in Calgary’s Food Scene",
-        "publisher": "Avenue Calgary",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-28",
-        "reason": "Avenue 原文可见配图对应 Luc’s 新店，与本篇保留的奖项新闻无关；改用纯文字来源卡片，不显示无关图片。"
       }
     }
   ]
