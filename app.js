@@ -15,15 +15,24 @@ function sourceEmbedCard(article, className, destination) {
   const embed = article.sourceEmbed || {};
   const href = destination || embed.url || article.url;
   const label = href === (embed.url || article.url) ? "原文卡片" : "来源预览";
-  let thumbnail = "";
-  if (typeof embed.thumbnail === "string" && /^https:\/\//i.test(embed.thumbnail)) {
-    thumbnail = `<img src="${esc(embed.thumbnail)}" alt="${esc(embed.thumbnailAlt || "原文预览图")}" loading="lazy" />`;
-  } else {
-    thumbnail = '<span class="embed-thumb-empty" aria-hidden="true">↗</span>';
-  }
+  const hasThumbnail = typeof embed.thumbnail === "string" && /^https:\/\//i.test(embed.thumbnail);
+  if (destination && !hasThumbnail) return "";
+  const thumbnail = hasThumbnail ? `<span class="embed-thumb"><img src="${esc(embed.thumbnail)}" alt="${esc(embed.thumbnailAlt || "原文预览图")}" loading="lazy" /></span>` : "";
   const external = href === (embed.url || article.url) ? ' target="_blank" rel="noopener"' : "";
   const action = label === "原文卡片" ? "打开原文查看完整内容 ↗" : "阅读卡村整理 ↗";
-  return `<a class="source-embed-card ${className}" href="${esc(href)}"${external}><span class="embed-thumb">${thumbnail}</span><span class="embed-card-copy"><small>${label} · ${esc(article.source)}</small><strong>${esc(embed.title || article.title)}</strong><span>${action}</span></span></a>`;
+  return `<a class="source-embed-card ${className}" href="${esc(href)}"${external}>${thumbnail}<span class="embed-card-copy"><small>${label} · ${esc(article.source)}</small><strong>${esc(embed.title || article.title)}</strong><span>${action}</span></span></a>`;
+}
+
+function hideBrokenPreviews() {
+  document.querySelectorAll('.source-embed-card img').forEach((img) => {
+    const hide = () => {
+      const card = img.closest('.source-embed-card');
+      if (card.classList.contains('reader-source-embed')) img.parentElement.remove();
+      else card.remove();
+    };
+    img.addEventListener('error', hide, { once: true });
+    if (img.complete && !img.naturalWidth) hide();
+  });
 }
 
 function renderProfile() {
@@ -62,6 +71,7 @@ function renderProfile() {
       <footer class="account-footer"><span>卡村 KACUN</span><p>AI 根据公开来源独立整理 · 点击文章查看原始来源</p><a href="https://yyc-life.github.io/">回到主页 ↑</a></footer>
     </main>`;
   document.body.className = "profile-mode";
+  hideBrokenPreviews();
   document.title = "卡村 KACUN — Calgary 不无聊";
   document.querySelector("#share-button")?.addEventListener("click", async () => {
     try {
@@ -105,6 +115,7 @@ function renderArticle(article) {
       </article>
     </main>`;
   document.body.className = "article-mode";
+  hideBrokenPreviews();
   document.title = `${article.title} — 卡村 KACUN`;
 }
 
