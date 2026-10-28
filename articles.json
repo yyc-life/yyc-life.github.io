@@ -397,51 +397,61 @@
       "date": "2026-10-20",
       "dateLabel": "10月20日整理",
       "sourceDate": "2026-10-20",
-      "verifiedAt": "2026-10-20",
-      "category": "吃喝玩乐",
-      "categoryClass": "fun",
-      "title": "卡城精酿酒厂再获年度大奖，Southcentre 又多了一家肉铺奶酪店",
-      "summary": "Avenue Calgary 本周餐饮消息：The Establishment Brewing Company 获 2026 Alberta Beer Awards 年度酒厂，Luc’s European Meats 在 Southcentre Mall 开出新店。",
-      "deck": "一条是卡城酒厂拿下行业奖项，一条是逛商场时多了个熟食与奶酪新去处。两件本地餐饮消息，给你按位置和兴趣整理好了。",
-      "lede": "卡城餐饮圈这周有两件值得记下的小事：The Establishment Brewing Company 再次获得 Alberta Beer Awards 的年度酒厂称号；经营熟食与奶酪的 Luc’s European Meats，则在 Southcentre Mall 开了新店。一个适合关注本地精酿的人，一个可能更适合下次逛商场顺路看看。",
+      "verifiedAt": "2026-10-28",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城酒厂获 2026 Alberta Beer Awards 年度酒厂称号",
+      "summary": "Avenue Calgary 报道，The Establishment Brewing Company 获 2026 Alberta Beer Awards 的 Brewery of the Year；本届卡城酒厂还合计获得 40 多枚奖牌。",
+      "deck": "一则本地酿造业奖项消息：The Establishment 获得本届省级评选的年度酒厂称号。",
+      "lede": "Avenue Calgary 10月20日的餐饮新闻汇总提到，卡尔加里的 The Establishment Brewing Company 获选 2026 Alberta Beer Awards 的 Brewery of the Year。该媒体称，这是酒厂六年内第四次获得这一称号。",
       "sections": [
         {
-          "heading": "The Establishment：六年里第四次获年度酒厂",
+          "heading": "2026 年度酒厂奖项结果",
           "paragraphs": [
-            "Avenue Calgary 报道称，The Establishment Brewing Company 在 2026 年 Alberta Beer Awards 上获选 Brewery of the Year。这是它过去六年里第四次拿下这个称号。",
-            "同一届评选中，卡尔加里酒厂合计在 30 多个奖项类别里拿到 40 多枚金、银、铜牌。对本地精酿爱好者来说，这不只是单家酒厂的消息，也能看出卡城酒厂在省内评选中的活跃度。"
+            "2026 Alberta Beer Awards 的 Brewery of the Year 获奖者为 The Establishment Brewing Company。Avenue Calgary 报道称，这是该酒厂六年内第四次获得这一称号。"
+          ],
+          "links": [
+            {
+              "label": "Alberta Beer Awards 2026 获奖者页面",
+              "url": "https://www.albertabeerawards.ca/2026-alberta-beer-awards"
+            }
           ]
         },
         {
-          "heading": "Luc’s European Meats：新店开进 Southcentre",
+          "heading": "卡城酒厂在本届评选中的整体成绩",
           "paragraphs": [
-            "Luc’s European Meats 过去常见于本地农夫市集，如今在 Southcentre Mall 开了固定门店。Avenue 提到，店里除了肉类和奶酪，也有调味品、橄榄、黄油、饼干和礼篮等选择。",
-            "如果你本来就要去 Southcentre，可以把它列为顺路看看的一站；想专程过去的话，先到店铺官网确认营业时间和当天供应。卡村没有试吃或评价这些商品，实际选择和价格以店内信息为准。"
+            "Avenue Calgary 同篇报道提到，卡尔加里酒厂在本届奖项 30 多个类别中合计获得 40 多枚金、银、铜牌。该数字是媒体对本届评选整体成绩的概述；具体奖项与获奖名单以主办方结果页为准。"
+          ],
+          "links": [
+            {
+              "label": "Avenue Calgary 原文及完整新闻背景",
+              "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/"
+            }
           ]
         },
         {
-          "heading": "想去之前，先查哪一项？",
+          "heading": "这条消息说明什么",
           "paragraphs": [
-            "酒厂获奖并不等于某一款酒在所有门店都有货；新门店的营业时间和商品也可能调整。计划出发前，分别查看酒厂或店铺自己的页面，比仅凭这条简讯安排行程更稳妥。"
+            "这是行业评选结果，记录本地酒厂在省级奖项中的表现。本文只整理奖项事实，不对具体产品作评价，也不提供到店或购买建议。"
           ]
         }
       ],
-      "takeaway": "想去 Luc’s 新店，先核对 Southcentre 门店营业时间；想买获奖酒款，也先看 The Establishment 的当日供应。",
+      "takeaway": "本届 Alberta Beer Awards 的 Brewery of the Year 获奖者为卡尔加里的 The Establishment Brewing Company；具体类别名单可查主办方公布的结果。",
       "sourceType": "本地生活媒体",
       "source": "Avenue Calgary",
       "author": "Avenue Staff",
       "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
-      "imageAttempt": {
-        "status": "embedded-source-card",
-        "checkedAt": "2026-10-20",
-        "reason": "使用原文页面的相关预览图制作可点击来源卡片；图片不下载、不截图、不复制。"
-      },
       "sourceEmbed": {
         "url": "https://www.avenuecalgary.com/restaurants-food/avenue-calgary-food-news/",
         "title": "What’s New and Notable in Calgary’s Food Scene",
         "publisher": "Avenue Calgary",
-        "thumbnail": "https://www.avenuecalgary.com/wp-content/uploads/2026/10/LucsCrop2.jpg",
-        "thumbnailAlt": "店员从奶酪轮上切下一块奶酪"
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-28",
+        "reason": "Avenue 原文可见配图对应 Luc’s 新店，与本篇保留的奖项新闻无关；改用纯文字来源卡片，不显示无关图片。"
       }
     }
   ]
