@@ -4,6 +4,76 @@
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
+      "id": "bank-police-impersonation-20261028",
+      "date": "2026-10-28",
+      "dateLabel": "10月28日整理",
+      "sourceDate": "2026-10-28",
+      "verifiedAt": "2026-10-28",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "假银行来电再冒充警察：卡城警方提醒，来电号码也可能被伪造",
+      "summary": "警方10月28日通报一起冒充银行和警察的诈骗调查：来电号码可被伪造，受害人被要求交出银行卡。遇到类似要求，挂断后用机构官方号码自行核实。",
+      "deck": "即使手机显示的号码看似属于银行，也不能证明来电者身份。警方提醒不要交出银行卡、验证码或转账协助所谓调查。",
+      "lede": "卡尔加里警方10月28日公布一起冒充银行调查员和警察的诈骗案。警方称，涉案人员利用号码伪装让来电看似来自金融机构，再声称账户涉及未经授权交易或犯罪，诱使受害人交出银行卡。警方已对一名男子提出指控；指控尚未在法庭上得到证明。",
+      "sections": [
+        {
+          "heading": "诈骗电话如何一步步取得银行卡",
+          "paragraphs": [
+            "警方说，2025年6月至7月接获多宗相关报告。来电者先伪装金融机构客服号码，声称账户出了问题，再让受害人与自称卡城警察的人通话。",
+            "受害人随后被要求把银行卡装进信封，交给到家取件的快递员；警方称银行卡及相关资料后来被用于未经授权的取款和购物。"
+          ]
+        },
+        {
+          "heading": "显示的是银行号码，也要自己回拨核实",
+          "paragraphs": [
+            "警方提醒，来电显示可以被伪造。遇到突然来电要求调查账户、交银行卡或提供资料，先结束通话，再通过银行卡背面、银行官方应用或官方网站上的联系方式主动联系机构。",
+            "不要向主动联系你的陌生来电者或信息发送者透露银行资料、密码、个人信息或验证码。"
+          ]
+        },
+        {
+          "heading": "有人催你转账或交卡，先停下来",
+          "paragraphs": [
+            "警方表示，金融机构和警方不会要求市民为了配合调查寄出银行卡、提供银行凭据、转账、购买物品或把钱存入比特币 ATM。受到催促时，可以先与信任的家人、朋友或同事商量。",
+            "类似骗局也可能冒充其他警务机构；警方提醒，加密货币转账同样可能被用作骗取资金的方式。"
+          ]
+        },
+        {
+          "heading": "案件进度与联系渠道",
+          "paragraphs": [
+            "警方表示，一名26岁男子于10月14日被捕并面临诈骗等指控，原定10月29日出庭。警方通报的是调查和指控，最终结果以法庭程序为准。",
+            "有本案线索可拨打卡尔加里警方非紧急电话 403-266-1234；也可以通过 Crime Stoppers 匿名提供信息。涉及账户安全时，请直接联系自己的金融机构。"
+          ],
+          "links": [
+            {
+              "label": "卡城警方原文与案件编号",
+              "url": "https://newsroom.calgary.ca/man-charged-in-bank-investigator-fraud-scam-that-impersonated-police-and-financial-institutions/"
+            },
+            {
+              "label": "Calgary Crime Stoppers 匿名线索",
+              "url": "https://www.calgarycrimestoppers.org/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "陌生来电要求交卡、密码、验证码或转账时，先结束通话，再通过银行或警方公布的官方联系方式核实。",
+      "sourceType": "警方公告",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/man-charged-in-bank-investigator-fraud-scam-that-impersonated-police-and-financial-institutions/",
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/man-charged-in-bank-investigator-fraud-scam-that-impersonated-police-and-financial-institutions/",
+        "title": "Man charged in bank investigator fraud scam that impersonated police and financial institutions",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-28",
+        "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
+      }
+    },
+    {
       "id": "water-advisory-eagle-ridge-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
@@ -84,66 +154,79 @@
       "id": "date-ideas-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
-      "sourceDate": "活动日历未标注发布日期；核对活动适用日期2026-10-28至31；卡村核对2026-10-28",
+      "sourceDate": "活动页面未标注发布日期；活动日期2026-10-31；卡村核对2026-10-28",
       "verifiedAt": "2026-10-28",
       "category": "约会灵感",
       "categoryClass": "fun",
-      "title": "万圣节周末约会灵感：本轮没有语言信息齐全的合格推荐",
-      "summary": "已查近期官方活动页面，但候选活动没有注明活动语言；为照顾中文读者，本轮不把它们列为约会推荐。",
-      "deck": "只收录日期明确、信息可核实且适合目标读者的特别活动；语言信息不清楚，就先不推荐。",
-      "lede": "卡村核对了10月28日至31日的本地活动信息。虽然有已公布日期的万圣节特别活动，但主办方页面未注明现场活动语言；目前也未找到语言资料齐全、符合本栏目筛选标准的中文或低语言门槛约会活动。",
+      "title": "周六出门灵感：管风琴为万圣节默片现场配乐，一天四场",
+      "summary": "10月31日 Studio Bell 有四场约20分钟的万圣节管风琴演示，配经典无声恐怖片段；属日间活动，现场讲解语言和实时余位未确认。",
+      "deck": "想看舞台表演但不想全程依赖英语？周六的音乐与无声影片可作为日间出门选项；讲解语言、儿童适宜程度和门票先核实。",
+      "lede": "10月31日，National Music Centre 在 Studio Bell 安排万圣节主题的 Kimball Theatre Organ 演示：现场演奏为经典无声恐怖片和动画片段配乐。表演以音乐与画面为主，主办方未注明讲解语言或中文服务；这是一项白天活动，不是今晚夜场。",
       "sections": [
         {
-          "heading": "本轮结论：暂不列出约会推荐",
+          "heading": "周六四场：每次约20分钟",
           "paragraphs": [
-            "没有找到同时满足明确日期、可核实时间地点、年龄与费用信息，并且语言情况足够清楚的近期特别活动。常规餐饮、KTV、常设展览和未注明语言的项目不以约会推荐发布。"
+            "10月31日有11:30、13:00、14:00和15:00四次演示，每场约20分钟。主办方介绍，1924年的剧院管风琴会为经典无声恐怖片与动画片段配上音乐和音效。",
+            "演出日期由 Tourism Calgary 活动日历及场馆页面核对；时间为卡尔加里当地时间，出发前请再确认当天安排。"
           ],
           "links": [
             {
-              "label": "Tourism Calgary近期活动日历",
-              "url": "https://www.visitcalgary.com/events"
+              "label": "Studio Bell 活动详情与四个时段",
+              "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/"
             },
             {
-              "label": "卡尔加里华人耆英会最新活动",
-              "url": "https://www.cceca.ca/ch-t/xinwenjihuodong/zuixinhuodong"
+              "label": "Tourism Calgary 活动日期",
+              "url": "https://www.visitcalgary.com/events/kimball-theatre-organ-haunting-halloween-demonstrations"
             }
           ]
         },
         {
-          "heading": "已公布日期，但语言资料不足的活动先不推荐",
+          "heading": "地点与年龄提示",
           "paragraphs": [
-            "The Confluence公布了10月30日及31日的万圣节特别活动，活动页列明不同场次的时间、地址、年龄限制与费用；但页面没有注明活动语言。对依赖英语讲解或对话的项目，中文读者可能无法仅凭现有信息判断是否适合，因此这轮不将其作为约会建议。"
+            "地点是 Studio Bell，850 4 Street SE, Calgary。主办方没有在活动页注明年龄下限，但提醒恐怖片段可能令年幼观众害怕；带孩子同行前可先看活动说明。",
+            "画面与音乐是本场的主要内容；主办方未说明现场讲解语言，也没有确认中文服务，因此不能保证整场完全没有语言门槛。"
+          ]
+        },
+        {
+          "heading": "费用与余位怎么确认",
+          "paragraphs": [
+            "这项演示包含在 Studio Bell 普通门票内。场馆票价页列成人 $24.50、学生及65岁以上长者 $19.50、4至12岁 $16.50、3岁及以下免费；门票及最终费用以场馆票务页面为准。",
+            "场馆说明可以提前网上购票或到前台购买，但本轮未确认10月31日实时余位；行程或购票前请核对当天票务及场馆信息。"
           ],
           "links": [
             {
-              "label": "主办方活动详情、分场时间与费用",
-              "url": "https://www.theconfluence.ca/events/halloween"
+              "label": "场馆门票价格及购票入口",
+              "url": "https://www.studiobell.ca/general-admission"
+            },
+            {
+              "label": "活动页与场馆信息",
+              "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/"
             }
           ]
         },
         {
-          "heading": "后续筛选重点",
+          "heading": "今晚和周末如何安排",
           "paragraphs": [
-            "之后发现中文/亚洲文化或华人社区活动，或语言要求较低的限时现场体验时，再核对主办方页面的具体场次、地点、语言、年龄、价格和票务状态。页面只写“全天”时，不推断晚上有活动。"
+            "这次演示仅列为周六日间出门选项，不能推断晚上还有场次。本轮没有找到时间、语言和参加条件都足够清楚的今晚特别约会活动，暂不另列推荐。"
           ]
         }
       ],
-      "takeaway": "本轮没有符合中文读者筛选条件的近期特别约会活动；等语言与场次信息确认后再更新，不用常规营业内容凑数。",
-      "sourceType": "官方活动日历与主办方页面",
-      "source": "Tourism Calgary、The Confluence、Calgary Chinese Elderly Citizens' Association",
-      "author": "卡村 KACUN",
-      "url": "https://www.visitcalgary.com/events",
+      "takeaway": "周六可选择11:30、13:00、14:00或15:00的演示；先看恐怖内容提示，核对讲解语言及门票，再决定是否前往。",
+      "sourceType": "场馆活动公告",
+      "source": "National Music Centre / Studio Bell；Tourism Calgary",
+      "author": "",
+      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
       "sourceEmbed": {
-        "url": "https://www.visitcalgary.com/events",
-        "title": "Calgary Events Calendar",
-        "publisher": "Tourism Calgary",
-        "thumbnail": null,
-        "thumbnailAlt": null
+        "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+        "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
+        "publisher": "National Music Centre / Studio Bell",
+        "thumbnail": "https://www.studiobell.ca/assets/images/_header/NMC_October-31-2026_KIMBALL-THEATRE-DEMO_Web-1900x800.png",
+        "thumbnailAlt": "Studio Bell 万圣节剧院管风琴演示活动图"
       },
       "imageAttempt": {
-        "status": "text-source-card",
+        "status": "embedded-source-card",
         "checkedAt": "2026-10-28",
-        "reason": "核对官方活动日历与主办方活动页；日历页无适合本篇的单一活动预览图，使用纯文字来源卡片。"
+        "reason": "使用场馆活动原文中的本场主题图片远程显示在来源卡片内；未下载或复制。"
       }
     },
     {
