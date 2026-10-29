@@ -1,8 +1,76 @@
 {
-  "updatedAt": "2026-10-28",
-  "updatedLabel": "2026年10月28日",
+  "updatedAt": "2026-10-29",
+  "updatedLabel": "2026年10月29日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
+    {
+      "id": "parkdale-water-repairs-20261029",
+      "date": "2026-10-29",
+      "dateLabel": "10月29日整理",
+      "sourceDate": "2026-10-28",
+      "verifiedAt": "2026-10-29",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "今天起走 Parkdale Boulevard 要留意：水管维修可能影响车道和河边步道",
+      "summary": "市府计划10月29日起维修 Parkdale Boulevard NW 沿线六处水管，预计有车道封闭和步道绕行；工程预计12月初完成。",
+      "deck": "开车或沿 Bow River 步道出行，出发前先看看最新路况；这项维修和11月4日开始的全市限水安排需要分别留意。",
+      "lede": "今天经过 Parkdale Boulevard NW 的朋友，出门前可以多看一眼路况。卡城市府说，10月29日起将维修这一带的六处供水管道，施工期间会有车道关闭、交通和河边步道绕行。",
+      "sections": [
+        {
+          "heading": "哪些地方会受影响？",
+          "paragraphs": [
+            "市府工程页面列出的施工范围是 Parkdale Boulevard NW 的 32 Street NW 至 Brownsea Drive NW 一带，预计有车道关闭以及 Bow River 步道绕行。",
+            "市府预计六处同时施工，维修将在12月初完成。施工进度与实际封路可能变化，通勤前请查看市府实时交通信息。"
+          ],
+          "links": [
+            {
+              "label": "市府施工范围与最新交通入口",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main.html"
+            },
+            {
+              "label": "市府实时交通信息",
+              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+            }
+          ]
+        },
+        {
+          "heading": "为什么要修？",
+          "paragraphs": [
+            "市府表示，这次维修位于 Shaganappi 泵站与 Memorial 泵站之间的另一段主供水管。评估认为管道整体状况仍良好，但六处需要预防性维修；施工人员将开挖并更换部分管段。"
+          ]
+        },
+        {
+          "heading": "11月还有全市节水安排",
+          "paragraphs": [
+            "市府另计划从11月4日起接驳新管道，届时实施全市第四级户外用水限制，并请居民自愿减少室内用水，预计约四周。",
+            "家里可以提前留意洗衣和洗碗满载再开、缩短淋浴时间；具体规定和起止日期以市府最新公告为准。"
+          ],
+          "links": [
+            {
+              "label": "市府限水与节水更新",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "今天起经过 Parkdale Boulevard NW 或附近河边步道，先看实时交通和绕行标志；11月4日起另有全市节水安排。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/bearspaw-south-feeder-main-reaches-95-installation-construction-to-connect-the-new-feeder-main-and-stage-4-water-restrictions-begin-november-4/",
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/bearspaw-south-feeder-main-reaches-95-installation-construction-to-connect-the-new-feeder-main-and-stage-4-water-restrictions-begin-november-4/",
+        "title": "Bearspaw South Feeder Main reaches 95% installation; construction to connect the new feeder main and Stage 4 water restrictions begin November 4",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-29",
+        "reason": "市府新闻稿图片展示其他施工节点，未确认与 Parkdale 六处维修直接对应；使用纯文字来源卡片。"
+      }
+    },
     {
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
