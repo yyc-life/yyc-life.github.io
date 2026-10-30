@@ -391,61 +391,6 @@
       }
     },
     {
-      "id": "yyc-noodle-festival-20261105",
-      "date": "2026-10-28",
-      "dateLabel": "10月28日整理",
-      "sourceDate": "未注明",
-      "verifiedAt": "2026-10-28",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "卡城亚洲面食节准备回归：11月上旬分散在各家餐厅",
-      "summary": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
-      "deck": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
-      "lede": "YYC Noodle Festival 主办方资料写的是11月5日至15日；合作机构正文出现不同日期，出发前请再核实。",
-      "sections": [
-        {
-          "heading": "这是什么活动",
-          "paragraphs": [
-            "主办方资料称，2026年的面食节以亚洲饮食文化为主题，由卡城各参与餐厅推出活动面食，读者可在不同地点参与；这不是一个集中在单一场地的夜市。",
-            "主办方商家资料写11月5日至15日。合作机构 Leftovers Foundation 的页面日期栏也是11月5日至15日，但正文写11月6日至16日；最终日期存在冲突，请出发前查看主办方更新。"
-          ],
-          "links": [
-            {
-              "label": "主办方活动资料",
-              "url": "https://www.yycnoodlefestival.com/vendorinformation"
-            },
-            {
-              "label": "Leftovers Foundation 活动页面",
-              "url": "https://rescuefood.ca/event/2026-yyc-noodle-festival/"
-            }
-          ]
-        },
-        {
-          "heading": "去之前需要确认",
-          "paragraphs": [
-            "各餐厅的参与名单、营业时间、单碗价格及是否需要预约，请以主办方和具体餐厅的最新信息为准；本次没有逐店核实。活动涉及慈善合作，但不要假设每一笔消费的捐赠金额相同。"
-          ]
-        }
-      ],
-      "takeaway": "活动日期存在来源冲突；具体店铺、价格和时间出发前再确认。",
-      "sourceType": "活动主办方",
-      "source": "YYC Noodle Festival",
-      "author": "YYC Noodle Festival",
-      "url": "https://www.yycnoodlefestival.com/vendorinformation",
-      "sourceEmbed": {
-        "url": "https://www.yycnoodlefestival.com/vendorinformation",
-        "title": "2026 Vendor Information",
-        "publisher": "YYC Noodle Festival",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-28",
-        "reason": "未确认适合此条内容的来源预览图，使用文字来源卡片。"
-      }
-    },
-    {
       "id": "bearspaw-restrictions-nov-2026",
       "date": "2026-10-20",
       "dateLabel": "10月20日整理",
