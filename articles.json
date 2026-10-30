@@ -1,8 +1,60 @@
 {
-  "updatedAt": "2026-10-29",
-  "updatedLabel": "2026年10月29日",
+  "updatedAt": "2026-10-30",
+  "updatedLabel": "2026年10月30日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
+    {
+      "id": "alberta-time-20261101-20261030",
+      "date": "2026-10-30",
+      "dateLabel": "10月30日整理",
+      "sourceDate": "未注明",
+      "verifiedAt": "2026-10-30",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "11月1日起阿省全年使用 Alberta Time，手机和家电的时区记得检查",
+      "summary": "阿省从11月1日起全年采用 Alberta Time（UTC-6），2026年秋天不再把时钟拨回。厂商推出更新后，多数联网设备预计会自动调整；部分旧设备可能需要手动设置。",
+      "deck": "接下来几天检查手机、车载和智能家居的时区设置，特别是那些没有自动联网校时的旧设备。",
+      "lede": "阿省政府宣布，从2026年11月1日起，全省全年使用 Alberta Time，与 UTC 保持 6 小时时差，2026年秋天不再把时钟拨回一小时。家里有旧手机、车载导航或智能家居设备的朋友，可以提前留意时区设置。",
+      "sections": [
+        {
+          "heading": "11月1日起不再拨回时钟",
+          "paragraphs": [
+            "根据阿省政府的说明，从2026年11月1日起，阿省全年采用 Alberta Time（UTC-6），2026年秋天不会再出现把时钟拨回一小时的调整。这意味着冬季和夏天的时差保持一致。",
+            "该页面本身未标注发布日期，具体实施细则请以阿省政府官方页面和最新公告为准。"
+          ],
+          "links": [
+            {
+              "label": "阿省政府：新的 Alberta Time 时间制度",
+              "url": "https://www.alberta.ca/albertas-new-time-system-abt"
+            }
+          ]
+        },
+        {
+          "heading": "检查设备时间，旧设备可能需要手动设置",
+          "paragraphs": [
+            "阿省方面表示，设备厂商完成更新后，大多数联网设备预计会自动切换到新的时间设置。",
+            "部分较旧的设备可能不会自动更新，建议先更新系统软件，再检查时区是否为自动设定。如果显示的时间仍然不对，可以按设备厂商的说明手动调整，或联系服务商处理。"
+          ]
+        }
+      ],
+      "takeaway": "11月1日前更新设备软件并检查时区是否自动；显示异常的旧设备按厂商说明手动调整。",
+      "sourceType": "省政府公告",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/albertas-new-time-system-abt",
+        "title": "Alberta's new time system (ABT)",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-30",
+        "reason": "省政府页面未确认与该文内容直接对应的预览图，使用纯文字来源卡片。"
+      }
+    },
     {
       "id": "parkdale-water-repairs-20261029",
       "date": "2026-10-29",
