@@ -1,8 +1,61 @@
 {
-  "updatedAt": "2026-10-30",
-  "updatedLabel": "2026年10月30日",
+  "updatedAt": "2026-10-31",
+  "updatedLabel": "2026年10月31日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
+    {
+      "id": "halloween-safety-20261031",
+      "date": "2026-10-31",
+      "dateLabel": "10月31日整理",
+      "sourceDate": "2026-10-30",
+      "verifiedAt": "2026-10-31",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "今晚万圣节出门：多单位联合巡逻，孩子走散可向消防站求助",
+      "summary": "Partners for Safety 10月30日公布，10月31日晚上6点至8点会有多机构车辆在社区巡逻；走散的孩子可向参与单位求助，消防站在出警间隙也开放作求助点。",
+      "deck": "带孩子的家庭今晚6点至8点出门前，可以先讲好走散后的求助地点、穿反光衣物，糖果由家长先检查。",
+      "lede": "万圣节当晚，卡城的 Partners for Safety 会在10月31日晚上6点至8点派出多机构车辆在社区内巡逻。公告同时说明，如果孩子在外面遇到困难、找不到家人，可以向参与巡逻的单位求助；消防站也会在不出警的间隙开放，作为临时求助点。",
+      "sections": [
+        {
+          "heading": "今晚6点到8点，社区里有联合巡逻",
+          "paragraphs": [
+            "按照公告，10月31日晚上6点至8点，Partners for Safety 会安排多单位车辆在社区内巡逻，公告提到参与的车队有数百辆。",
+            "参与的单位包括警方、消防、急救和公交等，巡逻的目的是在街上提供安全信息，并给孩子一个看得见、找得到的支援。"
+          ]
+        },
+        {
+          "heading": "孩子遇到困难，可以向谁求助",
+          "paragraphs": [
+            "公告说，遇到困难的孩子可以向参与巡逻的单位求助。对于暂时回不了家、需要大人帮忙的孩子，消防站会在出警间隙开放，作为临时求助点。",
+            "在公共交通上，公交司机也可以通过电台联络紧急人员。所以孩子独自坐车时，遇到困难可以主动向司机说明情况。"
+          ]
+        },
+        {
+          "heading": "出发前家长可以做的几件事",
+          "paragraphs": [
+            "公告提醒的几条都属于日常可执行的小事：给孩子穿反光或鲜艳的衣物，在路口留意车辆、按信号过街，糖果在吃之前先由家长检查。",
+            "如果孩子或同行的人遇到紧急情况，直接拨打 911。"
+          ]
+        }
+      ],
+      "takeaway": "今晚6点至8点有联合巡逻；孩子走散可找参与单位或消防站，公交上可找司机帮忙。穿反光衣物、路口留心，糖果由家长先检查，有紧急情况拨911。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "Partners for Safety / City of Calgary",
+      "url": "https://newsroom.calgary.ca/partners-for-safety-will-help-keep-calgarys-little-ghouls-and-goblins-safe-this-halloween2/",
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/partners-for-safety-will-help-keep-calgarys-little-ghouls-and-goblins-safe-this-halloween2/",
+        "title": "Partners for Safety will help keep Calgary's little ghouls and goblins safe this Halloween",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-10-31",
+        "reason": "未确认与该文内容直接对应的原文预览图，使用纯文字来源卡片。"
+      }
+    },
     {
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
