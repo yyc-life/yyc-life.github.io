@@ -1,81 +1,8 @@
 {
-  "updatedAt": "2026-11-01",
-  "updatedLabel": "2026年11月1日",
+  "updatedAt": "2026-11-02",
+  "updatedLabel": "2026年11月2日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
-    {
-      "id": "jammy-con-20261031",
-      "date": "2026-11-01",
-      "dateLabel": "11月1日更新",
-      "sourceDate": "未注明",
-      "verifiedAt": "2026-11-01",
-      "category": "周末去哪",
-      "categoryClass": "fun",
-      "title": "今天 WinSport 有 JAMMY CON：粉丝区、舞蹈工作坊和随机舞蹈",
-      "summary": "11月1日 JAMMY CON 在 WinSport Event Centre 举行：粉丝区 10:00–18:00，14:00–15:00 舞蹈工作坊，15:30–17:30 Random Play Dance；全年龄，12岁以下须监护人陪同，票价、余票和现场语言未确认。",
-      "deck": "11月1日的安排包括粉丝区和舞蹈活动：10:00–18:00 是粉丝区时间，14:00 有舞蹈工作坊，15:30 有 Random Play Dance。",
-      "lede": "11月1日是 JAMMY CON 在 WinSport 的第二天。主办方日程列出粉丝区 10:00–18:00 开放，14:00–15:00 有舞蹈工作坊，15:30–17:30 是 Random Play Dance；地点在 WinSport Event Centre，88 Canada Olympic Road SW。票价、实时余票和现场语言仍未确认，出发前请核对。",
-      "sections": [
-        {
-          "heading": "今天10点到18点，粉丝区开放",
-          "paragraphs": [
-            "主办方日程列出，11月1日的摊位与粉丝区开放时间是 10:00–18:00，并有小卡交换和社群活动。",
-            "地点是 WinSport Event Centre，88 Canada Olympic Road SW；场馆活动日历同样列出10月31日至11月1日的活动。节目时间可能调整，出发前再看一次主办方日程。"
-          ],
-          "links": [
-            {
-              "label": "主办方完整日程",
-              "url": "https://www.jammycon.ca/schedule-and-events"
-            },
-            {
-              "label": "WinSport 活动日历",
-              "url": "https://www.winsport.ca/upcoming-events/events/"
-            }
-          ]
-        },
-        {
-          "heading": "14:00 舞蹈工作坊，15:30 随机舞蹈",
-          "paragraphs": [
-            "今天下午的两个舞蹈时段是：14:00–15:00 舞蹈工作坊，15:30–17:30 Random Play Dance。工作坊的具体形式、是否需要报名以及现场讲解使用的语言，我们没有在页面上确认到，建议出发前在主办方日程页再核对一次。",
-            "主办方日程把 P1Harmony 演唱会列在10月31日；11月1日的日程以节庆活动为主，出发前请确认票种适用的项目。"
-          ]
-        },
-        {
-          "heading": "门票、年龄与语言",
-          "paragraphs": [
-            "主办方区分仅含节庆活动的票和包含演唱会席位的套票；本次未能核实普通票价、实时余票或每个项目的具体入场条件，购买前请看票务页。",
-            "活动面向全年龄；12岁以下须由家长或法定监护人全程陪同。活动页面未注明中文服务，涉及交流的活动语言请提前确认。"
-          ],
-          "links": [
-            {
-              "label": "年龄及入场说明",
-              "url": "https://www.jammycon.ca/faqs"
-            },
-            {
-              "label": "票种及主办方入口",
-              "url": "https://www.jammycon.ca/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "今天是11月1日：粉丝区 10:00–18:00，14:00–15:00 舞蹈工作坊，15:30–17:30 Random Play Dance；票价、余票和现场语言出发前确认。",
-      "sourceType": "主办方活动页面",
-      "source": "JAMMY CON",
-      "author": "JAMMY CON",
-      "url": "https://www.jammycon.ca/schedule-and-events",
-      "sourceEmbed": {
-        "url": "https://www.jammycon.ca/schedule-and-events",
-        "title": "JAMMY CON 2026 — Schedule & Events",
-        "publisher": "JAMMY CON",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-28",
-        "reason": "未确认适合此条内容的原文预览图，使用文字来源卡片。"
-      }
-    },
     {
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
