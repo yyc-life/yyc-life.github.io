@@ -1,8 +1,70 @@
 {
-  "updatedAt": "2026-11-02",
-  "updatedLabel": "2026年11月2日",
+  "updatedAt": "2026-11-03",
+  "updatedLabel": "2026年11月3日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
+    {
+      "id": "portraits-first-ladies-jazz-20261103",
+      "date": "2026-11-03",
+      "dateLabel": "11月3日整理",
+      "sourceDate": "未注明",
+      "verifiedAt": "2026-11-03",
+      "category": "约会灵感",
+      "categoryClass": "fun",
+      "title": "今晚 Studio Bell：Portraits Of The First Ladies Of Jazz，致敬爵士乐坛的传奇女声",
+      "summary": "11月3日周二晚，JazzYYC Canadian Jazz Festival 特别演出 Portraits Of The First Ladies Of Jazz 在 Studio Bell 举行，18:30 入场，演出时间为19:30至22:00。需门票，余票与票价暂未能确认。",
+      "deck": "这是一场以歌唱为主的爵士演出；主办方页面没有注明演出语言或中文服务。",
+      "lede": "11月3日周二晚，Studio Bell 有一场爵士特别演出。JazzYYC Canadian Jazz Festival 的 Portraits Of The First Ladies Of Jazz 由歌手 Dawn Pemberton 领衔，与乐队一起向爵士女歌手致意。主办方日程列出18:30入场，演出时间为19:30至22:00。",
+      "sections": [
+        {
+          "heading": "演出内容是什么",
+          "paragraphs": [
+            "Portraits Of The First Ladies Of Jazz 是 JazzYYC Canadian Jazz Festival 的特别演出，由 Dawn Pemberton 与乐队向 Ella Fitzgerald、Billie Holiday、Sarah Vaughan 等爵士女歌手及其音乐致意。"
+          ]
+        },
+        {
+          "heading": "时间和地点",
+          "paragraphs": [
+            "地点是 Studio Bell，地址为 850 4 Street SE, Calgary。演出日是 2026年11月3日（周二），18:30 开始入场，19:30 至 22:00 为演出时段。",
+            "本场演出需要门票；出发前请核对主办方的最新安排。"
+          ]
+        },
+        {
+          "heading": "票务和语言：目前没法确认的部分",
+          "paragraphs": [
+            "这场演出需要门票。我们尝试打开主办方给出的购票页面，但返回的是空白页面，因此实时余票、票价和年龄限制目前都无法确认。价格与余票请直接查看主办方页面或购票渠道的最新信息。",
+            "主办方没有注明演出语言或中文服务。演出以歌唱为主，如果语言会影响你的体验，建议提前向主办方确认。"
+          ],
+          "links": [
+            {
+              "label": "主办方活动页面",
+              "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/"
+            },
+            {
+              "label": "官方票务页面",
+              "url": "https://purchase.nmc.ca/EventAvailability?EventId=50401"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月3日周二 18:30 入场、19:30 开演，Studio Bell，需购票；余票、票价、年龄限制和演出语言都还没能确认，出发前请先查主办方页面。",
+      "sourceType": "主办方活动页面",
+      "source": "JazzYYC",
+      "author": "JazzYYC",
+      "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/",
+      "sourceEmbed": {
+        "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/",
+        "title": "Headliner: Dawn Pemberton, Part of 2026 Canadian Jazz Festival presented by Servus Credit Union",
+        "publisher": "JazzYYC",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-03",
+        "reason": "主办方活动页面未确认与该场次直接对应的预览图，使用纯文字来源卡片。"
+      }
+    },
     {
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
