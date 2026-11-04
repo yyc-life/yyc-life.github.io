@@ -1,68 +1,69 @@
 {
-  "updatedAt": "2026-11-03",
-  "updatedLabel": "2026年11月3日",
+  "updatedAt": "2026-11-04",
+  "updatedLabel": "2026年11月4日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
-      "id": "portraits-first-ladies-jazz-20261103",
-      "date": "2026-11-03",
-      "dateLabel": "11月3日整理",
-      "sourceDate": "未注明",
-      "verifiedAt": "2026-11-03",
-      "category": "约会灵感",
-      "categoryClass": "fun",
-      "title": "今晚 Studio Bell：Portraits Of The First Ladies Of Jazz，致敬爵士乐坛的传奇女声",
-      "summary": "11月3日周二晚，JazzYYC Canadian Jazz Festival 特别演出 Portraits Of The First Ladies Of Jazz 在 Studio Bell 举行，18:30 入场，演出时间为19:30至22:00。需门票，余票与票价暂未能确认。",
-      "deck": "这是一场以歌唱为主的爵士演出；主办方页面没有注明演出语言或中文服务。",
-      "lede": "11月3日周二晚，Studio Bell 有一场爵士特别演出。JazzYYC Canadian Jazz Festival 的 Portraits Of The First Ladies Of Jazz 由歌手 Dawn Pemberton 领衔，与乐队一起向爵士女歌手致意。主办方日程列出18:30入场，演出时间为19:30至22:00。",
+      "id": "bearspaw-restrictions-nov-2026",
+      "date": "2026-11-04",
+      "dateLabel": "11月4日更新",
+      "sourceDate": "2026-10-15",
+      "verifiedAt": "2026-11-04",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "今天起卡城实施第四级户外限水：主水管接驳，室内也要节水",
+      "summary": "11月4日起，卡城全市禁止户外用水；市府同时呼吁居民减少室内用水，接驳工程期间的限制预计持续约四周。",
+      "deck": "第四级户外限水今天开始，洗衣、洗碗和淋浴也请尽量节水。",
+      "lede": "今天起，卡城全市进入第四级户外限水。市府表示，为接驳 Bearspaw South 供水主干线，现有管线需要暂时关闭；施工期间禁止户外用水，也请居民减少室内用水。",
       "sections": [
         {
-          "heading": "演出内容是什么",
+          "heading": "施工为什么会影响全市用水",
           "paragraphs": [
-            "Portraits Of The First Ladies Of Jazz 是 JazzYYC Canadian Jazz Festival 的特别演出，由 Dawn Pemberton 与乐队向 Ella Fitzgerald、Billie Holiday、Sarah Vaughan 等爵士女歌手及其音乐致意。"
+            "接驳新管线时，现有 Bearspaw South Feeder Main 必须暂时关闭。市府估计每天可分配水量将降至5亿升，因此需要把日常用水控制在供水能力内，并为消防等必要用途留出余量。",
+            "节水安排也涉及 Airdrie、Chestermere、Strathmore 和 Tsuut’ina Nation。它与 Eagle Ridge、Heritage Park 的局部维修及煮水提醒不是同一件事。"
           ]
         },
         {
-          "heading": "时间和地点",
+          "heading": "室内外用水安排",
           "paragraphs": [
-            "地点是 Studio Bell，地址为 850 4 Street SE, Calgary。演出日是 2026年11月3日（周二），18:30 开始入场，19:30 至 22:00 为演出时段。",
-            "本场演出需要门票；出发前请核对主办方的最新安排。"
+            "市府公告说，接驳期间禁止户外用水，室内也要节水。家庭可先从洗衣、洗碗、冲厕和淋浴做起："
+          ],
+          "bullets": [
+            "洗碗机和洗衣机尽量等到满载再运行。",
+            "只在需要时冲厕。",
+            "缩短淋浴时间，市府建议以三分钟为目标。"
           ]
         },
         {
-          "heading": "票务和语言：目前没法确认的部分",
+          "heading": "接驳后还要完成检测",
           "paragraphs": [
-            "这场演出需要门票。我们尝试打开主办方给出的购票页面，但返回的是空白页面，因此实时余票、票价和年龄限制目前都无法确认。价格与余票请直接查看主办方页面或购票渠道的最新信息。",
-            "主办方没有注明演出语言或中文服务。演出以歌唱为主，如果语言会影响你的体验，建议提前向主办方确认。"
+            "市府预计限制从11月4日起持续约四周。接驳后，新管线还要消毒、注水并检测水质；市府估计调试约需两到三周，目标是在年底前投入使用。",
+            "结束时间可能随工程进度调整，请查看市府最新限水页面。"
           ],
           "links": [
             {
-              "label": "主办方活动页面",
-              "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/"
-            },
-            {
-              "label": "官方票务页面",
-              "url": "https://purchase.nmc.ca/EventAvailability?EventId=50401"
+              "label": "市府当前限水安排",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
             }
           ]
         }
       ],
-      "takeaway": "11月3日周二 18:30 入场、19:30 开演，Studio Bell，需购票；余票、票价、年龄限制和演出语言都还没能确认，出发前请先查主办方页面。",
-      "sourceType": "主办方活动页面",
-      "source": "JazzYYC",
-      "author": "JazzYYC",
-      "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/",
-      "sourceEmbed": {
-        "url": "https://jazzyyc.com/event/headliner-dawn-pemberton-part-of-2026-canadian-jazz-festival-presented-by-servus-credit-union/",
-        "title": "Headliner: Dawn Pemberton, Part of 2026 Canadian Jazz Festival presented by Servus Credit Union",
-        "publisher": "JazzYYC",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
+      "takeaway": "11月4日起禁止户外用水；室内洗衣洗碗尽量满载、只在需要时冲厕，淋浴以三分钟为目标。最新安排请查市府页面。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-03",
-        "reason": "主办方活动页面未确认与该场次直接对应的预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-10-20",
+        "reason": "原文页没有合适的文章预览图（通用站点标志不作配图），显示纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
+        "title": "Water restrictions take effect Nov. 4 as Bearspaw South Feeder Main enters final steps of construction",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
       }
     },
     {
@@ -384,63 +385,6 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "查看市府10月27日新闻稿；页面未见与本次状态更新直接相关的预览图，使用纯文字来源卡片。"
-      }
-    },
-    {
-      "id": "bearspaw-restrictions-nov-2026",
-      "date": "2026-10-20",
-      "dateLabel": "10月20日整理",
-      "sourceDate": "2026-10-15",
-      "verifiedAt": "2026-10-20",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "市府计划11月4日接驳主水管：户外停用水，室内也要节水",
-      "summary": "Bearspaw South Feeder Main 计划11月4日接驳，施工期间户外用水将暂停，室内也要减少用水；限制预计持续约四周。",
-      "deck": "施工期间全市可分配水量预计降至每天5亿升。洗衣、洗碗、冲厕和淋浴都可以提前调整。",
-      "lede": "卡城供水主干线接驳工程计划11月4日开始。届时旧的 Bearspaw South Feeder Main 将暂时停运，全市可分配水量预计降至每天5亿升；户外用水暂停，居民也需减少室内用水，预计约四周。",
-      "sections": [
-        {
-          "heading": "施工为什么会影响全市用水",
-          "paragraphs": [
-            "接驳新管线时，现有 Bearspaw South Feeder Main 必须暂时关闭。市府估计每天可分配水量将降至5亿升，因此需要把日常用水控制在供水能力内，并为消防等必要用途留出余量。",
-            "节水安排也涉及 Airdrie、Chestermere、Strathmore 和 Tsuut’ina Nation。它与 Eagle Ridge、Heritage Park 的局部维修及煮水提醒不是同一件事。"
-          ]
-        },
-        {
-          "heading": "室内外用水安排",
-          "paragraphs": [
-            "市府公告说，接驳期间禁止户外用水，室内也要节水。家庭可先从洗衣、洗碗、冲厕和淋浴做起："
-          ],
-          "bullets": [
-            "洗碗机和洗衣机尽量等到满载再运行。",
-            "只在需要时冲厕。",
-            "缩短淋浴时间，市府建议以三分钟为目标。"
-          ]
-        },
-        {
-          "heading": "接驳后还要完成检测",
-          "paragraphs": [
-            "限制预计从11月4日开始，持续约四周。接驳后，新管线还要消毒、注水并检测水质；市府估计调试约需两到三周，目标是在年底前投入使用。",
-            "日期和安排仍可能随工程进度更新，临近开工时请再看市府公告。"
-          ]
-        }
-      ],
-      "takeaway": "计划11月4日开始接驳，户外暂停用水；室内洗衣洗碗尽量满载、只在需要时冲厕，淋浴以三分钟为目标。",
-      "sourceType": "市府公告",
-      "source": "City of Calgary Newsroom",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-20",
-        "reason": "原文页没有合适的文章预览图（通用站点标志不作配图），显示纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
-        "title": "Water restrictions take effect Nov. 4 as Bearspaw South Feeder Main enters final steps of construction",
-        "publisher": "City of Calgary Newsroom",
-        "thumbnail": null,
-        "thumbnailAlt": null
       }
     }
   ]
