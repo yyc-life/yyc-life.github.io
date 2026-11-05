@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04",
-  "updatedLabel": "2026年11月4日",
+  "updatedAt": "2026-11-05",
+  "updatedLabel": "2026年11月5日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
     {
@@ -8,13 +8,13 @@
       "date": "2026-11-04",
       "dateLabel": "11月4日更新",
       "sourceDate": "2026-10-15",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "今天起卡城实施第四级户外限水：主水管接驳，室内也要节水",
+      "title": "11月4日起卡城实施第四级户外限水：主水管接驳，室内也要节水",
       "summary": "11月4日起，卡城全市实施第四级限水：户外用水一般禁止，但有少数例外；市府同时呼吁居民减少室内用水，限制预计持续约四周。",
-      "deck": "第四级户外限水今天开始，洗衣、洗碗和淋浴也请尽量节水。",
-      "lede": "今天起，卡城全市进入第四级户外限水。市府表示，为接驳 Bearspaw South 供水主干线，现有管线需要暂时关闭；施工期间户外用水一般禁止，但有少数例外，也请居民减少室内用水。",
+      "deck": "第四级户外限水11月4日起实施，洗衣、洗碗和淋浴也请尽量节水。",
+      "lede": "11月4日起，卡城全市进入第四级户外限水。市府表示，为接驳 Bearspaw South 供水主干线，现有管线需要暂时关闭；施工期间户外用水一般禁止，但有少数例外，也请居民减少室内用水。",
       "sections": [
         {
           "heading": "施工为什么会影响全市用水",
@@ -74,13 +74,13 @@
       "verifiedAt": "2026-10-30",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "11月1日起阿省全年使用 Alberta Time，手机和家电的时区记得检查",
-      "summary": "阿省从11月1日起全年采用 Alberta Time（UTC-6），2026年秋天不再把时钟拨回。厂商推出更新后，多数联网设备预计会自动调整；部分旧设备可能需要手动设置。",
-      "deck": "接下来几天检查手机、车载和智能家居的时区设置，特别是那些没有自动联网校时的旧设备。",
-      "lede": "阿省政府宣布，从2026年11月1日起，全省全年使用 Alberta Time，与 UTC 保持 6 小时时差，2026年秋天不再把时钟拨回一小时。家里有旧手机、车载导航或智能家居设备的朋友，可以提前留意时区设置。",
+      "title": "阿省已全年使用 Alberta Time，设备时间请按需检查",
+      "summary": "阿省自11月1日起全年采用 Alberta Time（UTC-6），2026年秋天不再把时钟拨回。厂商推出更新后，多数联网设备预计会自动调整；部分旧设备可能需要手动设置。",
+      "deck": "过渡后可检查手机、车载和智能家居的时区设置；设备实际状态因厂商更新和设置而异。",
+      "lede": "阿省政府宣布，全省自2026年11月1日起全年使用 Alberta Time，与 UTC 保持 6 小时时差，不再进行秋季拨回一小时的调整。设备是否已按新制度显示，取决于厂商更新和设备设置；可查看设备时间并按厂商说明处理。",
       "sections": [
         {
-          "heading": "11月1日起不再拨回时钟",
+          "heading": "时间制度转换后不再拨回时钟",
           "paragraphs": [
             "根据阿省政府的说明，从2026年11月1日起，阿省全年采用 Alberta Time（UTC-6），2026年秋天不会再出现把时钟拨回一小时的调整。这意味着冬季和夏天的时差保持一致。",
             "该页面本身未标注发布日期，具体实施细则请以阿省政府官方页面和最新公告为准。"
@@ -100,7 +100,7 @@
           ]
         }
       ],
-      "takeaway": "11月1日前更新设备软件并检查时区是否自动；显示异常的旧设备按厂商说明手动调整。",
+      "takeaway": "转换后检查设备显示的时间；如有异常，按设备厂商说明处理。",
       "sourceType": "省政府公告",
       "source": "Government of Alberta",
       "author": "Government of Alberta",
@@ -126,10 +126,10 @@
       "verifiedAt": "2026-10-29",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "今天起走 Parkdale Boulevard 要留意：水管维修可能影响车道和河边步道",
-      "summary": "市府计划10月29日起维修 Parkdale Boulevard NW 沿线六处水管，预计有车道封闭和步道绕行；工程预计12月初完成。",
-      "deck": "开车或沿 Bow River 步道出行，出发前先看看最新路况；这项维修和11月4日开始的全市限水安排需要分别留意。",
-      "lede": "今天经过 Parkdale Boulevard NW 的朋友，出门前可以多看一眼路况。卡城市府说，10月29日起将维修这一带的六处供水管道，施工期间会有车道关闭、交通和河边步道绕行。",
+      "title": "10月29日起 Parkdale Boulevard 水管维修：出行留意车道和河边步道",
+      "summary": "市府自10月29日起维修 Parkdale Boulevard NW 沿线六处水管，施工可能涉及车道封闭和步道绕行；工程预计12月初完成。",
+      "deck": "开车或沿 Bow River 步道出行，仍请先查看最新路况；全市第四级户外限水已于11月4日开始。",
+      "lede": "卡城市府自10月29日起维修 Parkdale Boulevard NW 一带的六处供水管道，施工期间可能有车道关闭、交通和河边步道绕行。出行前请查看最新路况。",
       "sections": [
         {
           "heading": "哪些地方会受影响？",
@@ -157,8 +157,8 @@
         {
           "heading": "11月还有全市节水安排",
           "paragraphs": [
-            "市府另计划从11月4日起接驳新管道，届时实施全市第四级户外用水限制：户外用水一般禁止，但有少数例外；并请居民自愿减少室内用水，预计约四周。具体例外与要求请查市府最新页面。",
-            "家里可以提前留意洗衣和洗碗满载再开、缩短淋浴时间；具体规定和起止日期以市府最新公告为准。"
+            "市府已于11月4日起接驳新管道并实施全市第四级户外用水限制：户外用水一般禁止，但有少数例外；并请居民自愿减少室内用水，预计约四周。具体例外与要求请查市府最新页面。",
+            "目前请按第四级安排节水，例如洗衣和洗碗满载再开、缩短淋浴时间；具体规定和结束时间以市府最新公告为准。"
           ],
           "links": [
             {
@@ -168,7 +168,7 @@
           ]
         }
       ],
-      "takeaway": "今天起经过 Parkdale Boulevard NW 或附近河边步道，先看实时交通和绕行标志；11月4日起另有全市节水安排。",
+      "takeaway": "Parkdale Boulevard NW 附近出行仍请查看实时交通和绕行标志；全市第四级户外限水已于11月4日开始。",
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
@@ -309,82 +309,6 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
-      }
-    },
-    {
-      "id": "water-advisory-eagle-ridge-20261028",
-      "date": "2026-10-28",
-      "dateLabel": "10月28日整理",
-      "sourceDate": "2026-10-27",
-      "verifiedAt": "2026-10-28",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "Eagle Ridge 煮水提醒解除了，Heritage Park 还没解除",
-      "summary": "市府10月27日确认，AHS 已解除 Eagle Ridge 的煮水提醒；Heritage Park 仍须照常遵守。若过去24小时没用过水，部分住户和商户要先冲洗管线。",
-      "deck": "这两处状态不同，别把 Eagle Ridge 的解除通知套用到 Heritage Park。用水按地址确认；14街路况则查实时交通页。",
-      "lede": "市府10月27日更新这次水质事件：阿尔伯塔卫生服务局（AHS）已解除 Eagle Ridge 的煮水提醒。Heritage Park 的提醒仍有效，居民和商户要按各自地址及最新官方通知处理。",
-      "sections": [
-        {
-          "heading": "Eagle Ridge 已恢复正常用水",
-          "paragraphs": [
-            "市府与 AHS 等部门检测确认水质符合标准。过去24小时内用过家中或商户供水的，可依市府通知直接使用，不必煮沸。",
-            "过去24小时没用过水的住户或商户，市府建议先冲洗管线：浴缸龙头开冷水10分钟，其他水龙头各开冷水5分钟。没有浴缸或淋浴的商户，则让所有水龙头出冷水10分钟。"
-          ]
-        },
-        {
-          "heading": "Heritage Park 仍要按提醒用水",
-          "paragraphs": [
-            "市府说 Heritage Park 仍在煮水提醒范围内，场地正与 AHS 配合完成检测。Eagle Ridge 解除，不等于 Heritage Park 也解除了。",
-            "若你的地址仍受提醒覆盖，饮水、烹饪、刷牙、清洗生鲜食物和制冰等用途，继续遵循市府与 AHS 的最新指引。"
-          ]
-        },
-        {
-          "heading": "要走14街，出发前再看路况",
-          "paragraphs": [
-            "10月19日维修公告曾提到，14 St. S.W. 在 75 Ave. S.W. 与 Heritage Dr. S.W. 之间缩减车道；10月27日的煮水更新没有说明道路施工是否结束。经过该路段前，请查市府实时交通报告，并留意现场标志。"
-          ]
-        },
-        {
-          "heading": "查看官方状态与用水步骤",
-          "paragraphs": [
-            "不确定住址是否受影响，就打开市府煮水提醒页面核对；以官方页面的最新状态为准。"
-          ],
-          "links": [
-            {
-              "label": "市府当前煮水提醒状态",
-              "url": "https://www.calgary.ca/emergencies/boil-advisory.html"
-            },
-            {
-              "label": "AHS 煮水提醒安全指引",
-              "url": "https://myhealth.alberta.ca/Alberta/Pages/Boil-water-advisory-how-to-use-water-safely.aspx"
-            },
-            {
-              "label": "市府实时交通报告与封路",
-              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
-            },
-            {
-              "label": "10月19日原始维修公告",
-              "url": "https://newsroom.calgary.ca/water-main-repairs-impacting-traffic-on-14th-street-sw---boil-water-advisory-still-in-effect/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "Eagle Ridge 已解除提醒，Heritage Park 仍有效。先按地址确认用水要求；开车经过14街前查市府实时路况。",
-      "sourceType": "市府公告",
-      "source": "City of Calgary Newsroom",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/boil-water-advisory-has-been-rescinded-for-eagle-ridge/",
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/boil-water-advisory-has-been-rescinded-for-eagle-ridge/",
-        "title": "Boil Water Advisory has been rescinded for Eagle Ridge",
-        "publisher": "City of Calgary Newsroom",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      },
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-10-28",
-        "reason": "查看市府10月27日新闻稿；页面未见与本次状态更新直接相关的预览图，使用纯文字来源卡片。"
       }
     }
   ]
