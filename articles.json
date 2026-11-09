@@ -91,6 +91,134 @@
       }
     },
     {
+      "id": "yyc-noodle-festival-20261109",
+      "date": "2026-11-09",
+      "dateLabel": "11月9日·吃喝玩乐",
+      "sourceDate": "官方活动页列出2026年11月5日至15日；页面未注明发布日期",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城面食节到11月15日：不用买门票，单碗价格由餐馆定",
+      "summary": "YYC Noodle Festival 正在卡城多家餐馆举行，至11月15日结束。官方列出参与店家；每道参赛面食单独付费，部分收入捐给 Leftovers Foundation。",
+      "deck": "如果这几天本来就想吃面，可以先看官方参与名单和地址；这不是统一票价的节庆入场活动。",
+      "lede": "今年的 YYC Noodle Festival 从11月5日办到15日。主办方把参与餐馆和地址列在官网；不用买节庆门票，但参赛菜品由各家餐馆按自己的价格出售。",
+      "sections": [
+        {
+          "heading": "活动还剩几天",
+          "paragraphs": [
+            "官方活动页确认，本届面食节日期为11月5日至15日，参与餐馆分布在卡城不同地点。活动不是集中在一个场馆里的市集。"
+          ],
+          "links": [
+            {
+              "label": "主办方：活动日期与参与餐馆",
+              "url": "https://www.yycnoodlefestival.com/"
+            }
+          ]
+        },
+        {
+          "heading": "价格和参与方式各家不同",
+          "paragraphs": [
+            "主办方 FAQ 说明，不需要购买节庆门票；参赛菜品向餐馆单独购买，价格由餐馆决定。是否可外带、是否需要订位，也要逐家确认。"
+          ],
+          "links": [
+            {
+              "label": "主办方 FAQ：价格、门票与参与方式",
+              "url": "https://www.yycnoodlefestival.com/faq"
+            }
+          ]
+        },
+        {
+          "heading": "每碗面还有一项公益去向",
+          "paragraphs": [
+            "主办方表示，每份参赛面食收入的一部分会捐给 Calgary 的 Leftovers Foundation。具体菜品、价格、营业时间和饮食限制以各餐馆公布的信息为准；这里不代替餐馆做推荐或排名。"
+          ]
+        }
+      ],
+      "takeaway": "想了解有哪些店参与，先看主办方名单，再核对具体餐馆的地址、价格和当天营业情况；活动到11月15日结束。",
+      "sourceType": "有明确日期的本地餐饮节庆",
+      "source": "YYC Noodle Festival",
+      "author": "YYC Noodle Festival",
+      "url": "https://www.yycnoodlefestival.com/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "官网虽有活动图片，但未确认一张可作为本篇来源卡片的直接相关预览图；使用纯文字卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.yycnoodlefestival.com/",
+        "title": "YYC Noodle Festival 2026",
+        "publisher": "YYC Noodle Festival",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "grey-cup-free-festival-20261109",
+      "date": "2026-11-09",
+      "dateLabel": "11月9日·周中出门",
+      "sourceDate": "City of Calgary 与 Grey Cup Festival 官方活动表，核对于2026-11-09",
+      "verifiedAt": "2026-11-09",
+      "category": "活动与出门",
+      "categoryClass": "culture",
+      "title": "Grey Cup 周的免费户外活动11月11日开场，地点在 Stampede Park",
+      "summary": "Stampede Park 的 Suncor Street Festival 首日为11月11日16:30至21:00；周四至周六有免费无人机展示。官方未注明节目语言。",
+      "deck": "不看球也能先挑免费户外项目；日期和时段要分开看，别把整周活动误当成每天都有同一场。",
+      "lede": "Grey Cup 赛事周从11月11日起在 Stampede Park 有免费户外活动。市府列出部分家庭向节目，主办方日程则给出逐日时间；想去之前先对照当天安排。",
+      "sections": [
+        {
+          "heading": "首日开放时间",
+          "paragraphs": [
+            "主办方日程列出，Suncor Street Festival 于11月11日16:30至21:00开放；11月12日至14日为每天11:00至21:00。市府说明，Grey Cup Festival 在 Stampede Park 有免费家庭向节目与现场娱乐。"
+          ],
+          "links": [
+            {
+              "label": "主办方：逐日活动时间表",
+              "url": "https://www.greycupfestival.ca/events/all/"
+            },
+            {
+              "label": "卡城市府：Grey Cup 活动与交通信息",
+              "url": "https://www.calgary.ca/events/grey-cup.html"
+            }
+          ]
+        },
+        {
+          "heading": "免费无人机展示不是每天都有",
+          "paragraphs": [
+            "主办方日程列出的免费无人机展示安排在11月12、13、14日，每晚20:45至21:00；页面没有把它列在11月11日。不要把展示时间和整个街头节庆的开放时间混为一谈。"
+          ]
+        },
+        {
+          "heading": "语言和交通先看当天信息",
+          "paragraphs": [
+            "主办方页面没有标注节目语言。市府建议前往 Stampede Park 可乘 Red Line CTrain 到 Victoria Park/Stampede 站；周边活动期间可能有更多行人，开车前查看实时路况。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：交通与公共交通建议",
+              "url": "https://www.calgary.ca/events/grey-cup.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "免费户外区首日是11月11日16:30开场；无人机展示为11月12日至14日20:45。语言未确认，出门前再核对官方日程和交通信息。",
+      "sourceType": "有明确日期的城市大型体育文化活动",
+      "source": "City of Calgary；Grey Cup Festival",
+      "author": "City of Calgary；Grey Cup Festival",
+      "url": "https://www.calgary.ca/events/grey-cup.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认市府页面的通用活动图与本篇日程内容直接对应，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/events/grey-cup.html",
+        "title": "2026 Grey Cup Festival and 113th Grey Cup",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "diwali-fireworks-follow-up-20261108",
       "date": "2026-11-08",
       "dateLabel": "目标日期补档（2026-11-08）· 实际核对日期 2026-11-09",
