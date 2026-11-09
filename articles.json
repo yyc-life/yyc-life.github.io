@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、27篇。11-09、10-28、10-29各有3篇；10-20至10-27、10-30至10-31、11-01至11-08共18组各1篇。未达3篇的日期为10-20、10-21、10-22、10-23、10-24、10-25、10-26、10-27、10-30、10-31、11-01、11-02、11-03、11-04、11-05、11-06、11-07、11-08；按每组至少3篇计算，还缺36篇。10-28和10-29现各有三篇，覆盖吃喝玩乐与本地资讯。其余日期组需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、29篇。11-09、10-28、10-29、10-30各有3篇；10-20至10-27、10-31、11-01至11-08共17组各1篇。还有17个日期组低于每组3篇的最低目标，合计仍缺34篇；档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -765,6 +765,116 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-30",
         "reason": "省政府页面未确认与该文内容直接对应的预览图，使用纯文字来源卡片。"
+      }
+    },
+    {
+      "id": "alberta-affordable-homes-ke-mama-nnanik-20261030",
+      "date": "2026-10-30",
+      "dateLabel": "10月30日·本地资讯",
+      "sourceDate": "阿省政府新闻稿发布于2026-10-30",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "东南卡城 Ke Mama Nnanik 项目动工：为原住民家庭与长者建24套可负担住房",
+      "summary": "阿省政府宣布项目开工，规划24套住房，分别面向原住民家庭和长者/长者居民；省府投资超过600万加元，并配套社区支持服务。",
+      "deck": "这是一项面向特定原住民群体的住房项目，不是面向所有居民开放申请的普通租房信息。",
+      "lede": "阿省政府于10月30日宣布，东南卡城的 Ke Mama Nnanik 可负担住房项目开始施工。项目将提供24套住房：12套面向原住民家庭，12套面向长者及老年居民，其中包括无障碍单位。",
+      "sections": [
+        {
+          "heading": "住房与服务对象",
+          "paragraphs": [
+            "省府称，项目优先服务收入最低的原住民家庭。公告没有提供面向一般公众的申请资格、租金、入住日期或更具体地址，因此不应把它理解为普遍开放的住房申请。"
+          ],
+          "links": [
+            {
+              "label": "阿省政府：项目开工公告",
+              "url": "https://www.alberta.ca/release.cfm?xID=98042860E25C4-D936-73C6-E6D88CDB2189019F"
+            }
+          ]
+        },
+        {
+          "heading": "不仅是住房建设",
+          "paragraphs": [
+            "省府投资超过600万加元。项目支持还包括就业准备、财务素养、家庭活动、导师指导、资源转介、文化活动，以及与长者建立联系。"
+          ]
+        }
+      ],
+      "takeaway": "这是为原住民家庭和长者规划的特定可负担住房项目；申请条件、入住时间及详细地址尚未由这则公告说明。",
+      "sourceType": "省府可负担住房建设公告",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/release.cfm?xID=98042860E25C4-D936-73C6-E6D88CDB2189019F",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未核实与本项目直接相关的来源图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/release.cfm?xID=98042860E25C4-D936-73C6-E6D88CDB2189019F",
+        "title": "New affordable homes breaking ground in Calgary",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "heritage-park-ghosts-gourmet-record-20261030",
+      "date": "2026-10-30",
+      "dateLabel": "10月30日·历史活动记录",
+      "sourceDate": "官方活动日历列出活动日期为2026-10-30；页面发布日期未注明",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史记录｜Heritage Park 的 Ghosts and Gourmet 于10月30日晚举行",
+      "summary": "官方2026年10月活动日历列出 Ghosts and Gourmet 于10月30日18:00至21:30举行；活动现已结束，此条仅作历史记录。",
+      "deck": "这不是当前活动推荐或邀请；官方日历记载了当晚时段，系列活动形式可参考官方活动页。",
+      "lede": "作为历史档案，Heritage Park 官方活动日历记载，Ghosts and Gourmet 于2026年10月30日（星期五）18:00至21:30举行。活动现已结束，不是当前可参加的安排。",
+      "sections": [
+        {
+          "heading": "官方日历记录的日期与时段",
+          "paragraphs": [
+            "Heritage Park 的2026年10月官方日历将 Ghosts and Gourmet 列在10月30日，时间为18:00至21:30。这个日期和时段是历史活动信息，不代表活动仍在举行。"
+          ],
+          "links": [
+            {
+              "label": "Heritage Park：2026年10月官方活动日历",
+              "url": "https://heritagepark.ca/events/month/2026-10/"
+            },
+            {
+              "label": "Heritage Park：Ghosts and Gourmet 活动页",
+              "url": "https://heritagepark.ca/events/ghosts-and-gourmet/2026-10-30/"
+            }
+          ]
+        },
+        {
+          "heading": "系列活动形式说明",
+          "paragraphs": [
+            "Heritage Park 同系列相邻日期活动页将其描述为在 Wainwright Hotel 享用三道菜晚餐，之后参加夜间鬼故事导览。本条不推断10月30日场次的票价、年龄限制、菜单或服务语言，也不声称有个人到场经历。"
+          ],
+          "links": [
+            {
+              "label": "Heritage Park：系列活动说明（10月29日场次）",
+              "url": "https://heritagepark.ca/events/ghosts-and-gourmet/2026-10-29/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Ghosts and Gourmet 的10月30日场次已结束；此卡仅保存官方日历中的历史日期与时间，不构成当前活动邀请。",
+      "sourceType": "已结束的本地历史活动记录",
+      "source": "Heritage Park",
+      "author": "Heritage Park",
+      "url": "https://heritagepark.ca/events/month/2026-10/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "采用官方活动日历作为日期来源，未使用未在此核验的活动图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://heritagepark.ca/events/month/2026-10/",
+        "title": "October 2026 Events",
+        "publisher": "Heritage Park",
+        "thumbnail": null,
+        "thumbnailAlt": null
       }
     },
     {
