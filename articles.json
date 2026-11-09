@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、33篇。10-28、10-29、10-30、10-31、11-01和11-09各有3篇（6组）；10-20至10-27和11-02至11-08各有1篇（15组）；仍缺30篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、35篇。10-28、10-29、10-30、10-31、11-01、11-02和11-09各有3篇（7组）；10-20至10-27和11-03至11-08各有1篇（14组）；仍缺28篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -611,6 +611,129 @@
         "url": "https://newsroom.calgary.ca/blackfoot-confederacy-and-city-of-calgary-building-on-progress-under-historic-mou/",
         "title": "Blackfoot Confederacy and City of Calgary building on progress under historic MOU",
         "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "ogden-block-demolition-scheduled-20261102",
+      "date": "2026-11-02",
+      "dateLabel": "目标日期补档（2026-11-02）· 实际核对日期 2026-11-09",
+      "sourceDate": "市府通知日期：2026-10-26；公告施工窗口：最早 2026-11-02 起，预计最多 3 周；实际开工日未确认",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "Ogden Road 旧 Hong Lee Laundry 楼拆除计划最早11月2日启动，预计最多3周",
+      "summary": "市府通知称，7044 Ogden Road SE 的 Ogden Block 将为未来 Ogden LRT 站拆除，计划最早11月2日开工、最多持续3周；当前页面未确认实际开工日。",
+      "deck": "这是市府公布的施工时间窗口，不代表拆除已在11月2日当天开始；附近行人和驾车者应留意临时改道与施工影响。",
+      "lede": "市府10月26日发布通知，称原 Hong Lee Laundry 所在的 Ogden Block（7044 Ogden Road SE）将为未来 Ogden LRT 站让出位置，拆除工作计划最早于11月2日开始，预计最多持续3周。市府当前施工页面列出这项工程及其时间窗口，但没有确认实际哪一天开工。",
+      "sections": [
+        {
+          "heading": "工程安排仍是公告时间窗口",
+          "paragraphs": [
+            "通知写明，建筑拆除计划最早于2026年11月2日开始，预计最长约3周。这里报道的是市府公布的安排；现有页面没有确认拆除已经开始或完成。",
+            "该建筑位于7044 Ogden Road SE，市府说明拆除是为未来 Ogden LRT 站建设做准备。"
+          ],
+          "links": [
+            {
+              "label": "市府拆除通知（2026年10月26日）",
+              "url": "https://www.calgary.ca/content/dam/www/green-line/documents/20261026-shepard-to-bow-ogden-block-demolition-final.pdf"
+            },
+            {
+              "label": "Green Line 当前施工信息",
+              "url": "https://www.calgary.ca/green-line/construction/current-construction.html"
+            }
+          ]
+        },
+        {
+          "heading": "附近通行和停车可能受影响",
+          "paragraphs": [
+            "市府列出的影响包括噪音和灰尘增加、施工车辆出入，以及 Ogden Road SE 东侧人行道临时关闭。行人将被引导改走道路西侧。",
+            "施工期间，工地前方路边停车也会临时受限；经过时请按现场标志和工作人员指引通行。"
+          ]
+        },
+        {
+          "heading": "查看最新施工更新",
+          "paragraphs": [
+            "实际施工进度和现场安排可能随工程更新。受影响居民可查看 Green Line 当前施工页面；如需向市府反映问题或查询服务，可联系311。"
+          ],
+          "links": [
+            {
+              "label": "Green Line 当前施工信息",
+              "url": "https://www.calgary.ca/green-line/construction/current-construction.html"
+            },
+            {
+              "label": "联系市府311",
+              "url": "https://www.calgary.ca/311.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "市府公告的计划是最早11月2日开工、最多3周，并非确认当天已经动工。步行或开车经过 Ogden Road SE 时，留意东侧人行道关闭、行人改走西侧及临时停车限制；最新情况查 Green Line 页面或联系311。",
+      "sourceType": "市府交通建设公告",
+      "source": "City of Calgary Green Line",
+      "author": "City of Calgary Green Line",
+      "url": "https://www.calgary.ca/content/dam/www/green-line/documents/20261026-shepard-to-bow-ogden-block-demolition-final.pdf",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未核实来源页面提供与本项工程直接相关的可用预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/content/dam/www/green-line/documents/20261026-shepard-to-bow-ogden-block-demolition-final.pdf",
+        "title": "Shepard to Bow: Ogden Block demolition",
+        "publisher": "City of Calgary Green Line",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "flames-sharks-recap-20261102",
+      "date": "2026-11-02",
+      "dateLabel": "目标日期补档（2026-11-02）· 实际核对日期 2026-11-09",
+      "sourceDate": "比赛日期：2026-11-02；NHL 战报发布日期：2026-11-03",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Flames 客场2比1击败 Sharks，Stromgren 收获 NHL 生涯首球",
+      "summary": "NHL 官方战报记录，Calgary Flames 于11月2日在 SAP Center 以2比1战胜 San Jose Sharks；Adam Klapka 一球一助，门将 Dustin Wolf 扑出26次射门。",
+      "deck": "这是一场已结束的客场比赛回顾：Stromgren 打入 NHL 生涯首球，官方战报于次日发布。",
+      "lede": "Calgary Flames 于2026年11月2日星期一在 SAP Center 对阵 San Jose Sharks，以2比1取胜。NHL 于11月3日发布比赛回顾；William Stromgren 打进个人 NHL 生涯首球，Adam Klapka 贡献一球和一次助攻。",
+      "sections": [
+        {
+          "heading": "比赛结果与进球信息",
+          "paragraphs": [
+            "NHL 官方战报记载，Flames 在 SAP Center 以2比1击败 Sharks。这是一场客场比赛，比分和比赛地点按官方战报记录。",
+            "William Stromgren 打入他的 NHL 生涯首球；Adam Klapka 收获一球和一次助攻。"
+          ],
+          "links": [
+            {
+              "label": "NHL 官方比赛回顾（2026年11月3日发布）",
+              "url": "https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026"
+            }
+          ]
+        },
+        {
+          "heading": "Wolf 完成26次扑救",
+          "paragraphs": [
+            "门将 Dustin Wolf 全场完成26次扑救。此处为11月2日比赛的历史赛果，并非即将举行的赛事或购票信息。"
+          ]
+        }
+      ],
+      "takeaway": "这场11月2日客场比赛以 Flames 2比1获胜结束；NHL 官方战报在11月3日发布，列出 Stromgren 的生涯首球、Klapka 的一球一助和 Wolf 的26次扑救。",
+      "sourceType": "NHL 官方比赛战报",
+      "source": "National Hockey League",
+      "author": "NHL.com",
+      "url": "https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未核实来源页面提供与本场比赛直接相关的可用预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026",
+        "title": "Flames hold off Sharks for 2-1 win",
+        "publisher": "NHL.com",
         "thumbnail": null,
         "thumbnailAlt": null
       }
