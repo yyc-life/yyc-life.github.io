@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、31篇。11-09和10-28至10-31各有3篇（5组）；10-20至10-27和11-01至11-08各有1篇（16组）；仍缺32篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、33篇。10-28、10-29、10-30、10-31、11-01和11-09各有3篇（6组）；10-20至10-27和11-02至11-08各有1篇（15组）；仍缺30篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -661,6 +661,118 @@
         "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html",
         "title": "November Newsletter, 2026",
         "publisher": "City of Calgary, Ward 2",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "green-cart-winter-schedule-20261101",
+      "date": "2026-11-01",
+      "dateLabel": "目标日期补档（2026-11-01）· 实际核对日期 2026-11-09",
+      "sourceDate": "未注明（市府服务页面；核对日期 2026-11-09）",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "Green Cart 冬季转为每两周收集：具体日期按地址查询",
+      "summary": "卡城市府说明，独立屋 Green Cart 从11月起至次年3月每两周收集一次；各家具体收集日请用地址查询，不能按统一日期推断。",
+      "deck": "季节班次从11月开始调整，但你的实际收集日要看所在地址的市府日程。",
+      "lede": "补档说明：这条内容归入2026年11月1日日期组，市府页面于2026年11月9日核对。页面说明冬季班次从11月开始，不代表每户都在11月1日收集。",
+      "sections": [
+        {
+          "heading": "冬季班次怎么变",
+          "paragraphs": [
+            "市府说明，独立屋住宅使用 Green Cart 服务；每年4月至10月每周收集，11月至次年3月改为每两周一次。冬季日程从11月开始。"
+          ],
+          "links": [
+            {
+              "label": "市府 Green Cart 服务说明",
+              "url": "https://www.calgary.ca/waste/residential/green-cart.html"
+            }
+          ]
+        },
+        {
+          "heading": "先查自己地址的收集日",
+          "paragraphs": [
+            "市府提供按地址查询的收集日程和提醒服务。页面没有给出适用于所有住户的2026年11月1日具体收集日期，因此请到 calgary.ca/cartschedule 输入自己的地址确认。"
+          ]
+        },
+        {
+          "heading": "额外庭院废弃物投放",
+          "paragraphs": [
+            "市府页面还注明，免费额外庭院废弃物 Eco Centre 投放已于2026年10月31日结束；不要把这项季节性服务当作仍可使用的选项。"
+          ]
+        }
+      ],
+      "takeaway": "从11月起 Green Cart 按冬季每两周班次运行；查自己的地址日程，不要把11月1日当成统一收集日。免费额外庭院废弃物投放已于10月31日结束。",
+      "sourceType": "市府垃圾收集服务",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/waste/residential/green-cart.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与冬季收集日程直接相关且合适的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/waste/residential/green-cart.html",
+        "title": "Green Cart",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "zooboo-historical-event-20261101",
+      "date": "2026-11-01",
+      "dateLabel": "目标日期补档（2026-11-01）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-09-28（官方活动页发布日期；活动日期 2026-10-31 至 2026-11-01）",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "official",
+      "title": "ZooBOO 历史活动档案：官方曾列出10月31日至11月1日场次",
+      "summary": "Calgary Zoo 于9月28日发布的月度活动页列出 ZooBOO 将于10月31日和11月1日举行；日期已过，这是一条历史日程记录，不是当前出行推荐。",
+      "deck": "回看官方当时公布的家庭活动安排；活动日期、来源发布日期与本次核对日期分别标明。",
+      "lede": "补档说明：本文归入2026年11月1日日期组，核对日期为2026年11月9日。ZooBOO 活动日期已过；以下仅整理官方此前发布的日程，不表示活动实际发生情况，也不是当前推荐。",
+      "sections": [
+        {
+          "heading": "官方当时列出的活动内容",
+          "paragraphs": [
+            "Wilder Institute/Calgary Zoo 于2026年9月28日发布的2026年10月活动页，将 ZooBOO 列为10月31日和11月1日的家庭活动。页面介绍了 trick-or-treating、monster mural、活动项目和 treat stations，并称这些内容包含在当日入园门票中。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Zoo 2026年10月活动页（历史日程）",
+              "url": "https://www.calgaryzoo.com/news/october-2026-events/"
+            }
+          ]
+        },
+        {
+          "heading": "这条记录的时间边界",
+          "paragraphs": [
+            "活动日期为2026年10月31日和11月1日；来源页发布日期为2026年9月28日；卡村核对日期为2026年11月9日。活动日期已经过去，因此这只是历史日程记录。"
+          ]
+        },
+        {
+          "heading": "来源没有说明的事项",
+          "paragraphs": [
+            "该页面未列出具体时段、单独票价、语言、余票或现场实际情况；本文不推断这些信息，也不据此邀请读者前往。"
+          ]
+        }
+      ],
+      "takeaway": "ZooBOO 已是过期活动；此卡仅保存官方于9月28日发布的历史日程。不要将其视为当前推荐或活动实际举行的证明。",
+      "sourceType": "动物园特别活动历史日程",
+      "source": "Wilder Institute/Calgary Zoo",
+      "author": "Wilder Institute/Calgary Zoo",
+      "url": "https://www.calgaryzoo.com/news/october-2026-events/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用官方历史活动页来源卡片；未确认可用于本条历史日程的故事专属预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgaryzoo.com/news/october-2026-events/",
+        "title": "October 2026 Events",
+        "publisher": "Wilder Institute/Calgary Zoo",
         "thumbnail": null,
         "thumbnailAlt": null
       }
