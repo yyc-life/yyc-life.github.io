@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、25篇。11-09有3篇，10-28有3篇；10-20至10-27、10-29至10-31、11-01至11-08共19组各1篇。未达3篇的日期为10-20、10-21、10-22、10-23、10-24、10-25、10-26、10-27、10-29、10-30、10-31、11-01、11-02、11-03、11-04、11-05、11-06、11-07、11-08；按每组至少3篇计算，还缺38篇。10-28现有三篇，覆盖吃喝玩乐与本地资讯/安全提醒。其余日期组需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、27篇。11-09、10-28、10-29各有3篇；10-20至10-27、10-30至10-31、11-01至11-08共18组各1篇。未达3篇的日期为10-20、10-21、10-22、10-23、10-24、10-25、10-26、10-27、10-30、10-31、11-01、11-02、11-03、11-04、11-05、11-06、11-07、11-08；按每组至少3篇计算，还缺36篇。10-28和10-29现各有三篇，覆盖吃喝玩乐与本地资讯。其余日期组需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -1162,6 +1162,106 @@
         "url": "https://www.calgarylibrary.ca/your-library/free-services",
         "title": "Free Services",
         "publisher": "Calgary Public Library",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "northeast-athletic-complex-groundbreaking-20261029",
+      "date": "2026-10-29",
+      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-29",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "东北体育综合设施开工：计划2029年初完工，现阶段尚未开放",
+      "summary": "市府在 8500 40 St NE 启动一项占地35英亩、投资1.7亿加元的公共体育设施建设，规划包括板球场、四个户外球场和室内场馆。",
+      "deck": "这是仍在建设中的公共设施计划；不是现在即可使用的场地。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。市府于10月29日上午发布开工消息，项目预计2029年初完工。",
+      "sections": [
+        {
+          "heading": "将建哪些设施",
+          "paragraphs": [
+            "市府公布的规划包括卡城首个可举办比赛的板球场、四个户外多用途人工草地球场，以及一座162,500平方英尺的室内场馆。项目还包括步道、绿地和游乐场。"
+          ],
+          "links": [
+            {
+              "label": "市府开工公告与项目规划",
+              "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/"
+            }
+          ]
+        },
+        {
+          "heading": "位置与时间",
+          "paragraphs": [
+            "项目地址为 8500 40 St NE，占地35英亩，市府公布的投资额为1.7亿加元。施工已经展开，预计2029年初完成；目前仍是建设项目。"
+          ]
+        }
+      ],
+      "takeaway": "东北区这项公共体育设施正在建设，规划内容和完工时间以市府项目公告为准；在正式完工开放前，不应把它当作现有场地使用。",
+      "sourceType": "市府公共设施建设公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
+        "title": "Northeast Athletic Complex breaks ground on new opportunities for cricket, soccer and other sports in growing Calgary communities",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "wranglers-laval-recap-20261029",
+      "date": "2026-10-29",
+      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-29",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Wranglers 主场4比2击败 Laval：一场已经结束的比赛回顾",
+      "summary": "Calgary Wranglers 于10月29日在 Scotiabank Saddledome 以4比2战胜 Laval；官方页面记录现场观众2,230人。",
+      "deck": "比赛已经结束；这是一则本地冰球赛果回顾，不是活动邀请。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。Calgary Wranglers 官方赛程记录了当晚对阵 Laval 的最终比分。",
+      "sections": [
+        {
+          "heading": "当晚赛果",
+          "paragraphs": [
+            "官方比赛页面记载，Calgary Wranglers 于10月29日晚上7时（MT）在 Scotiabank Saddledome 对阵 Laval，最终以4比2获胜。页面列出的现场观众人数为2,230。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Wranglers 官方比赛记录与赛后回顾",
+              "url": "https://www.calgarywranglers.com/game/1029213"
+            }
+          ]
+        },
+        {
+          "heading": "球队当时的战绩变化",
+          "paragraphs": [
+            "Wranglers 的10月29日赛后回顾称，球队借这场胜利重返胜利轨道，战绩来到6胜5负。以上是当晚比赛及赛后页面记录；比赛现已结束。"
+          ]
+        }
+      ],
+      "takeaway": "这场比赛已于10月29日结束，Wranglers 最终4比2取胜；此条仅作赛果存档，不含购票或商家推广。",
+      "sourceType": "官方本地冰球赛果",
+      "source": "Calgary Wranglers",
+      "author": "Calgary Wranglers",
+      "url": "https://www.calgarywranglers.com/game/1029213",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarywranglers.com/game/1029213",
+        "title": "Calgary Wranglers vs. Laval Rocket - October 29, 2026",
+        "publisher": "Calgary Wranglers",
         "thumbnail": null,
         "thumbnailAlt": null
       }
