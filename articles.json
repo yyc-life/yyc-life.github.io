@@ -1,8 +1,67 @@
 {
-  "updatedAt": "2026-11-05",
-  "updatedLabel": "2026年11月5日",
+  "updatedAt": "2026-11-09",
+  "updatedLabel": "2026年11月9日",
   "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
   "articles": [
+    {
+      "id": "remembrance-day-transit-waste-20261109",
+      "date": "2026-11-09",
+      "dateLabel": "11月9日提醒",
+      "sourceDate": "未注明",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "11月11日 Remembrance Day：公交按周六班次，垃圾收集照常",
+      "summary": "11月11日卡城公交按周六班次运行，出行前查行程规划器；垃圾收集方面，独立屋住户无需调整收集日。",
+      "deck": "公交、免费乘车资格和垃圾收集安排各有不同，出门前按自己的情况确认。",
+      "lede": "11月11日（星期三）是 Remembrance Day。卡城公交按周六服务水平运行；独立屋垃圾车收集日不变。具体出行和其他物业的垃圾安排，请分别查看官方页面。",
+      "sections": [
+        {
+          "heading": "公交按周六服务水平运行",
+          "paragraphs": [
+            "Calgary Transit 表示，公交车、CTrain 和 On Demand 按周六服务水平运行；出行前请用行程规划器核对路线和时间。",
+            "符合条件的退伍军人——穿着制服或携带退伍军人身份证明——以及随行家人可免费乘车。这项免费乘车安排有资格条件，并非所有乘客免费。",
+            "客户服务中心当天关闭；电话服务时间为早上7时至下午5时30分。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Transit：Remembrance Day 服务安排",
+              "url": "https://www.calgarytransit.com/news/remembrance-day-2026.html"
+            }
+          ]
+        },
+        {
+          "heading": "独立屋垃圾收集日不变",
+          "paragraphs": [
+            "市府假日垃圾车时间表列明，11月11日独立屋住户的垃圾车收集安排不变。",
+            "多户住宅和私人垃圾收集运营商的安排可能不同，请向物业管理方或服务运营商确认。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：假日垃圾车收集时间表",
+              "url": "https://www.calgary.ca/waste/residential/holiday-waste-cart-pickup-schedule.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月11日乘公交先查行程规划器；免费乘车仅适用于符合说明的退伍军人及随行家人。独立屋垃圾收集日不变，多户住宅和私人运营商请另行确认。",
+      "sourceType": "官方公共服务信息",
+      "source": "Calgary Transit；City of Calgary",
+      "author": "Calgary Transit；City of Calgary",
+      "url": "https://www.calgarytransit.com/news/remembrance-day-2026.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "本次未能验证与公告直接对应的官方预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarytransit.com/news/remembrance-day-2026.html",
+        "title": "Remembrance Day Service 2026",
+        "publisher": "Calgary Transit",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "bearspaw-restrictions-nov-2026",
       "date": "2026-11-04",
