@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
-  "updatedLabel": "2026年11月9日",
-  "editionNote": "AI 独立摘要；不是原文转载。约会活动的语言、时间与票务信息以主办方最新页面为准。",
+  "updatedLabel": "2026年11月9日（含历史补档）",
+  "editionNote": "本次补齐2026-10-20至2026-11-09的日期组。所有历史条目均标明目标日期、原始来源日期和实际核对日；补档不代表文章当日发布。内容为独立中文摘要，不是原文转载。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -12,7 +12,7 @@
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月11日 Remembrance Day：公交按周六班次，垃圾收集照常",
-      "summary": "11月11日卡城公交按周六班次运行，出行前查行程规划器；垃圾收集方面，独立屋住户无需调整收集日。",
+      "summary": "11月11日卡城公交按周六班次运行，出行前查行程规划器；垃圾收集方面，独立屋住户无需调整收集日。 纪念日当天 Memorial Drive 一段路上午封闭。",
       "deck": "公交、免费乘车资格和垃圾收集安排各有不同，出门前按自己的情况确认。",
       "lede": "11月11日（星期三）是 Remembrance Day。卡城公交按周六服务水平运行；独立屋垃圾车收集日不变。具体出行和其他物业的垃圾安排，请分别查看官方页面。",
       "sections": [
@@ -42,9 +42,37 @@
               "url": "https://www.calgary.ca/waste/residential/holiday-waste-cart-pickup-schedule.html"
             }
           ]
+        },
+        {
+          "heading": "11月11日 Memorial Drive 上午封路",
+          "paragraphs": [
+            "市府路况页列出，11月11日上午9时至下午1时，Memorial Drive 从4 Street NE 到10 Street NW 全线封闭，配合纪念日活动。开车经过市中心北侧前先规划绕行，并在出发前查看实时路况。"
+          ],
+          "links": [
+            {
+              "label": "市府11月11日活动封路公告",
+              "url": "https://www.calgary.ca/roads/conditions/special-event-advisories.html"
+            },
+            {
+              "label": "市府实时交通信息",
+              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+            }
+          ]
+        },
+        {
+          "heading": "Hawkwood 社区纪念步道展到11月13日",
+          "paragraphs": [
+            "Hawkwood Community Park 步道沿线的自助纪念展示从11月7日持续至13日，展示居民分享的服役者照片与故事。市府页面未列每日开放时段、费用或中文讲解信息；不要把它理解成有固定晚场的活动。"
+          ],
+          "links": [
+            {
+              "label": "Ward 2 市府通讯中的步道活动信息",
+              "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html"
+            }
+          ]
         }
       ],
-      "takeaway": "11月11日乘公交先查行程规划器；免费乘车仅适用于符合说明的退伍军人及随行家人。独立屋垃圾收集日不变，多户住宅和私人运营商请另行确认。",
+      "takeaway": "11月11日乘公交先查行程规划器；免费乘车仅适用于符合说明的退伍军人及随行家人。独立屋垃圾收集日不变，多户住宅和私人运营商请另行确认。 去 Field of Crosses 或经过 Memorial Drive 前，请确认当日封路与公交路线。",
       "sourceType": "官方公共服务信息",
       "source": "Calgary Transit；City of Calgary",
       "author": "Calgary Transit；City of Calgary",
@@ -63,17 +91,233 @@
       }
     },
     {
-      "id": "bearspaw-restrictions-nov-2026",
-      "date": "2026-11-04",
-      "dateLabel": "11月4日更新",
-      "sourceDate": "2026-10-15",
-      "verifiedAt": "2026-11-05",
+      "id": "diwali-fireworks-follow-up-20261108",
+      "date": "2026-11-08",
+      "dateLabel": "目标日期补档（2026-11-08）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-08",
+      "verifiedAt": "2026-11-09",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "11月4日起卡城实施第四级户外限水：主水管接驳，室内也要节水",
-      "summary": "11月4日起，卡城全市实施第四级限水：户外用水一般禁止，但有少数例外；市府同时呼吁居民减少室内用水，限制预计持续约四周。",
-      "deck": "第四级户外限水11月4日起实施，洗衣、洗碗和淋浴也请尽量节水。",
-      "lede": "11月4日起，卡城全市进入第四级户外限水。市府表示，为接驳 Bearspaw South 供水主干线，现有管线需要暂时关闭；施工期间户外用水一般禁止，但有少数例外，也请居民减少室内用水。",
+      "title": "卡城市府公布排灯节烟花执法数据：11月7日记录5宗事件、开出3张罚单",
+      "summary": "市府称，11月7日收到5宗烟花事件报告并开出3张罚单；个人烟花在卡城被禁止，紧急危险拨911，非紧急问题可联系311。",
+      "deck": "这是节后执法回顾，不是新一轮庆祝活动通知；不要据此推断所有举报都已结案。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入11月8日日期组；市府于11月8日公布11月7日的数据。",
+      "sections": [
+        {
+          "heading": "市府公布的是什么数字",
+          "paragraphs": [
+            "市府称，11月7日共报告5宗烟花相关事件，开出3张罚单。这是市府公布的当日统计，不代表所有情况都包含在内，也不说明每宗事件的具体结果。"
+          ]
+        },
+        {
+          "heading": "个人烟花仍不允许",
+          "paragraphs": [
+            "卡城规则禁止个人使用烟花；遇到正在发生的火灾或即时危险拨911，非紧急烟花问题可联系311。节庆与消防规定以市府当前页面为准。"
+          ],
+          "links": [
+            {
+              "label": "市府节后烟花安全通报",
+              "url": "https://newsroom.calgary.ca/city-thanks-community-for-helping-make-diwali-celebrations-safe/"
+            },
+            {
+              "label": "市府烟花规定与许可信息",
+              "url": "https://www.calgary.ca/safety/fire/fireworks.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "不要自行燃放烟花；如遇即时危险拨911，其他市政问题拨311并查市府现行规定。",
+      "sourceType": "消防安全与节后执法",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/city-thanks-community-for-helping-make-diwali-celebrations-safe/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/city-thanks-community-for-helping-make-diwali-celebrations-safe/",
+        "title": "City thanks community for helping make Diwali celebrations safe",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hawkwood-remembrance-walk-20261107",
+      "date": "2026-11-07",
+      "dateLabel": "目标日期补档（2026-11-07）· 实际核对日期 2026-11-09",
+      "sourceDate": "Ward 2 November newsletter，页面更新于2026-11-04",
+      "verifiedAt": "2026-11-09",
+      "category": "活动与出门",
+      "categoryClass": "official",
+      "title": "Hawkwood 社区纪念步道展至11月13日：沿公园步道看居民故事",
+      "summary": "Hawkwood Community Park 的自助纪念步道展从11月7日至13日展示照片和故事；官方页面未列具体开放时段、费用或语言服务。",
+      "deck": "这是限时社区纪念展示，不是有固定晚场的演出；出发前确认天气、步道情况和现场信息。",
+      "lede": "补档说明：这条内容于2026年11月9日核对后补入11月7日日期组。展示从11月7日开始，相关市府通讯页面于11月4日更新。",
+      "sections": [
+        {
+          "heading": "展览在哪里、看什么",
+          "paragraphs": [
+            "Ward 2 市府通讯介绍，Hawkwood Community Park 的步道沿线展示社区居民的照片和故事，活动时间为11月7日至13日，形式为自助步行参观。"
+          ]
+        },
+        {
+          "heading": "页面没有确认的细节",
+          "paragraphs": [
+            "官方页面没有标明每天开放时段、费用、中文说明或停车安排，也没有确认夜间照明。不要把“整周展示”推断成每天晚上都有活动；出行前可查看社区及市府更新。"
+          ],
+          "links": [
+            {
+              "label": "Ward 2 11月社区活动信息",
+              "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "计划去看的话，先确认展示仍在、留意天气和步道条件；页面未确认夜间开放，不建议按晚间场次安排行程。",
+      "sourceType": "社区纪念活动",
+      "source": "City of Calgary, Ward 2",
+      "author": "City of Calgary, Ward 2",
+      "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html",
+        "title": "November Newsletter, 2026",
+        "publisher": "City of Calgary, Ward 2",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-winter-readiness-20261106",
+      "date": "2026-11-06",
+      "dateLabel": "目标日期补档（2026-11-06）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-06",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城公布冬季道路清雪准备：主干道优先，也将试用多车道扫雪设备",
+      "summary": "市府称已部署冬季清雪人员与设备，今年会试用可一趟清理多条车道的新型翼式雪犁；雪后道路仍需驾驶者留出更长距离。",
+      "deck": "设备试用不代表所有道路会同时清雪；出门前请查看路况并预留时间。",
+      "lede": "补档说明：这条内容于2026年11月9日核对后补入11月6日日期组；市府冬季准备公告发布于11月6日。",
+      "sections": [
+        {
+          "heading": "清雪通常先顾哪些路",
+          "paragraphs": [
+            "市府介绍，优先处理 Glenmore Trail、Macleod Trail、Memorial Drive 等主干道，之后再处理公交路线和住宅道路。实际优先级会随降雪与路况变化。"
+          ]
+        },
+        {
+          "heading": "驾驶者能做的准备",
+          "paragraphs": [
+            "市府今年计划试用可一趟清理多条车道的翼式雪犁。降雪后，司机应降低车速、加大跟车距离、清除车窗积雪，并准备冬季应急物品。"
+          ],
+          "links": [
+            {
+              "label": "市府冬季道路维护信息",
+              "url": "https://newsroom.calgary.ca/city-of-calgary-ready-for-the-winter-season/"
+            },
+            {
+              "label": "市府冬季路况与清雪信息",
+              "url": "https://www.calgary.ca/snow"
+            },
+            {
+              "label": "市府实时道路状况",
+              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "雪天先查看路况，给通勤留出余量；清理车窗、车顶和车灯积雪，开车时保持更大车距。",
+      "sourceType": "冬季出行提醒",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/city-of-calgary-ready-for-the-winter-season/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/city-of-calgary-ready-for-the-winter-season/",
+        "title": "City of Calgary ready for the winter season",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "bearspaw-water-use-update-20261105",
+      "date": "2026-11-05",
+      "dateLabel": "目标日期补档（2026-11-05）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-05",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "市府11月5日通报：前一日用水量490百万升，仍在绿色目标内",
+      "summary": "市府11月5日称，11月4日全市用水约4.9亿升，低于5亿升绿色目标；这只是当日数据，不能当作今天的用水量。",
+      "deck": "第四级限水仍须按当前官方页面执行；以下数字是11月4日历史值，不代表限制已经解除。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入11月5日日期组。市府于11月5日公布的是前一日用水统计；限水状态另以当前官方页面为准。",
+      "sections": [
+        {
+          "heading": "490百万升是哪一天的数据",
+          "paragraphs": [
+            "市府新闻稿称，11月4日卡城及周边居民用水约4.9亿升，比前一日少2400万升，处于绿色区间（低于每日5亿升）。这是发布时的统计快照，不是11月9日实时数据。"
+          ]
+        },
+        {
+          "heading": "当前规则看限水页面",
+          "paragraphs": [
+            "市府目前仍标明全市第四级户外限水有效，并要求居民减少室内用水。户外用水规则与例外可能有细节，请以现行页面为准，不要只依据这条历史数据。"
+          ],
+          "links": [
+            {
+              "label": "11月5日用水统计原文",
+              "url": "https://newsroom.calgary.ca/water-savings-off-to-a-great-start-as-bearspaw-south-feeder-main-connection-work-moves-ahead/"
+            },
+            {
+              "label": "市府当前第四级限水规则",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这条数字只适合回看施工初期用水情况。今天户外和室内怎么用水，请先看市府当前第四级限制页面。",
+      "sourceType": "供水与节水数据",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/water-savings-off-to-a-great-start-as-bearspaw-south-feeder-main-connection-work-moves-ahead/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/water-savings-off-to-a-great-start-as-bearspaw-south-feeder-main-connection-work-moves-ahead/",
+        "title": "Water savings off to a great start as Bearspaw South Feeder Main connection work moves ahead",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "bearspaw-restrictions-nov-2026",
+      "date": "2026-11-04",
+      "dateLabel": "11月4日更新 · 11月9日复核",
+      "sourceDate": "2026-10-15",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "11月4日起卡城实施第四级户外限水：室内也请节水",
+      "summary": "11月4日起卡城全市实施第四级户外限水，市府当前页面写明户外用水一律禁止，并请居民减少室内用水；限制预计约四周。",
+      "deck": "第四级户外限水已经生效；室内洗衣、洗碗和淋浴也请尽量节水。",
+      "lede": "11月4日起，卡城全市进入第四级户外限水。11月9日回查时，市府仍显示限制有效：期间不允许户外用水，并请居民减少室内用水。施工期间供水能力受限，限制预计约四周；结束时间以市府后续公告为准。",
       "sections": [
         {
           "heading": "施工为什么会影响全市用水",
@@ -85,12 +329,14 @@
         {
           "heading": "室内外用水安排",
           "paragraphs": [
-            "市府公告说，接驳期间户外用水一般禁止，但有少数例外；室内也要节水。例如果菜等可食用作物，可用手持容器或带弹簧回弹喷头的水管浇灌。家庭可先从洗衣、洗碗、冲厕和淋浴做起："
+            "市府当前第四级规则是：限制期间禁止户外用水。市府也请居民减少室内用水。洗衣和洗碗尽量等到满载再开，只在需要时冲厕，淋浴尽量缩短至三分钟。",
+            "11月9日回查时，市府页面仍显示第四级限水有效；请以最新官方页面确认之后是否调整。"
           ],
-          "bullets": [
-            "洗碗机和洗衣机尽量等到满载再运行。",
-            "只在需要时冲厕。",
-            "缩短淋浴时间，市府建议以三分钟为目标。"
+          "links": [
+            {
+              "label": "市府当前第四级限水规则与每日用水",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+            }
           ]
         },
         {
@@ -105,9 +351,21 @@
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
             }
           ]
+        },
+        {
+          "heading": "11月9日回查：第四级仍有效",
+          "paragraphs": [
+            "市府11月9日更新的用水页面显示，11月8日（星期日）用水量为4.87亿升，连续第5天处于低于5亿升的绿色区间。这是前一日统计，不是实时读数；第四级户外限水当日仍有效。"
+          ],
+          "links": [
+            {
+              "label": "市府当前限水状态与每日用水量",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+            }
+          ]
         }
       ],
-      "takeaway": "11月4日起户外用水一般禁止，但有少数例外；室内洗衣洗碗尽量满载、只在需要时冲厕，淋浴以三分钟为目标。细节请查市府页面。",
+      "takeaway": "第四级限水期间不要户外用水；室内洗衣、洗碗尽量满载再开，只在需要时冲厕，并缩短淋浴。状态以市府最新页面为准。",
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
@@ -126,23 +384,227 @@
       }
     },
     {
+      "id": "safer-pathways-support-20261103",
+      "date": "2026-11-03",
+      "dateLabel": "目标日期补档（2026-11-03）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-03",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城警方与两家机构加强家庭暴力转介：求助可先拨211",
+      "summary": "Calgary Police Service 与 YWCA Calgary、FearIsNotLove 公布驻点合作，目标是让家庭暴力求助者更容易接触支持服务；紧急危险仍拨911。",
+      "deck": "需要支持的人可按自己认为安全的方式求助；警方仍负责刑事调查，服务转介不等于案件处理结果。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入11月3日日期组；警方合作公告发布于11月3日。",
+      "sections": [
+        {
+          "heading": "合作主要做什么",
+          "paragraphs": [
+            "警方的 Domestic Conflict Unit 与 YWCA Calgary、FearIsNotLove 开展驻点合作，方便受影响者接触支持和转介服务。警方继续负责刑事调查，社会服务机构提供的支持与执法程序不同。"
+          ]
+        },
+        {
+          "heading": "可以从哪里开始求助",
+          "paragraphs": [
+            "警方公告建议遭遇家庭或亲密关系暴力的人，可拨211联系免费、保密的支持资源。若有即时人身危险，请拨911。求助时可选择自己认为安全的方式和设备。"
+          ],
+          "links": [
+            {
+              "label": "卡城警方合作公告",
+              "url": "https://newsroom.calgary.ca/calgary-police-services-announces-co-location-partnership-with-ywca-calgary-and-fearisnotlove/"
+            },
+            {
+              "label": "Alberta 家庭暴力求助热线 310-1818",
+              "url": "https://www.alberta.ca/family-violence"
+            }
+          ]
+        }
+      ],
+      "takeaway": "如果你或身边的人需要支持，可先用安全方式拨211；即时危险拨911。不要在可能被监控的设备上留下求助痕迹。",
+      "sourceType": "公共安全与求助资源",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/calgary-police-services-announces-co-location-partnership-with-ywca-calgary-and-fearisnotlove/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgary-police-services-announces-co-location-partnership-with-ywca-calgary-and-fearisnotlove/",
+        "title": "Calgary Police Service announces co-location partnership with YWCA Calgary and FearIsNotLove",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "blackfoot-city-mou-20261102",
+      "date": "2026-11-02",
+      "dateLabel": "目标日期补档（2026-11-02）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-02",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城与 Blackfoot Confederacy 更新合作进展：涉及住房、文化和旅游",
+      "summary": "市府与 Blackfoot Confederacy 公布合作进展，议题涵盖住房、艺术文化、经济发展、旅游活动与沟通；这是合作框架推进，不是单项工程完工公告。",
+      "deck": "卡城读者可从中了解城市与原住民族群的长期合作方向，具体项目仍需看后续公告。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入11月2日日期组；市府更新于11月2日发布，合作备忘录本身签署于2025年5月9日。",
+      "sections": [
+        {
+          "heading": "合作框架包含什么",
+          "paragraphs": [
+            "市府称，双方合作涉及住房、艺术与文化、经济发展、旅游与活动以及沟通，并建立定期对话、信息交流和协调行动的机制。"
+          ]
+        },
+        {
+          "heading": "目前公布的是推进方向",
+          "paragraphs": [
+            "市府此次更新提到早期工作包括原住民住房、巡回展览和公共艺术。公告没有把这些描述为已全部完成的项目；后续规模、时间和实施安排需等正式发布。"
+          ],
+          "links": [
+            {
+              "label": "市府与 Blackfoot Confederacy 合作进展",
+              "url": "https://newsroom.calgary.ca/blackfoot-confederacy-and-city-of-calgary-building-on-progress-under-historic-mou/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "关注原住民住房、文化活动或公共艺术的居民，可把这次公告当作合作进展，具体项目以双方后续公告为准。",
+      "sourceType": "原住民合作与城市文化",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/blackfoot-confederacy-and-city-of-calgary-building-on-progress-under-historic-mou/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/blackfoot-confederacy-and-city-of-calgary-building-on-progress-under-historic-mou/",
+        "title": "Blackfoot Confederacy and City of Calgary building on progress under historic MOU",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "field-of-crosses-20261101",
+      "date": "2026-11-01",
+      "dateLabel": "目标日期补档（2026-11-01）· 实际核对日期 2026-11-09",
+      "sourceDate": "Ward 2 November newsletter，页面更新于2026-11-04",
+      "verifiedAt": "2026-11-09",
+      "category": "活动与出行",
+      "categoryClass": "official",
+      "title": "Field of Crosses 纪念装置展至11月11日：Sunnyside Bank Park 有约3400个十字架",
+      "summary": "Sunnyside Bank Park 的纪念装置从11月1日展示至11月11日，市府通讯列出约3400个十字架及每日纪念仪式。",
+      "deck": "展期到11月11日；具体仪式时刻和中文讲解信息没有在市府页面列明。",
+      "lede": "补档说明：这条内容于2026年11月9日核对后补入11月1日日期组。装置从11月1日开始展示；相关页面更新于11月4日。",
+      "sections": [
+        {
+          "heading": "纪念装置在哪里、展到哪天",
+          "paragraphs": [
+            "Ward 2 市府通讯列出 Field of Crosses，地点为 Sunnyside Bank Park（200 Memorial Drive NW），约有3400个十字架，展示至11月11日。"
+          ],
+          "links": [
+            {
+              "label": "市府 Ward 2 11月活动信息",
+              "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html"
+            }
+          ]
+        },
+        {
+          "heading": "现场仪式时间与语言信息",
+          "paragraphs": [
+            "市府通讯介绍现场有日出、日落时段的纪念仪式，并于11月11日举行纪念日活动；页面没有给出仪式的具体钟点，也没有列出中文讲解信息。出发前先核对活动方更新。"
+          ]
+        }
+      ],
+      "takeaway": "想去看看，可先确认活动页面的展期；具体仪式钟点和中文讲解没有确认。",
+      "sourceType": "公共纪念活动与交通",
+      "source": "City of Calgary, Ward 2",
+      "author": "City of Calgary, Ward 2",
+      "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/council/ward-2/articles/november-newsletter-2026.html",
+        "title": "November Newsletter, 2026",
+        "publisher": "City of Calgary, Ward 2",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "november-photo-radar-20261031",
+      "date": "2026-10-31",
+      "dateLabel": "目标日期补档（2026-10-31）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-31",
+      "verifiedAt": "2026-11-09",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "11月测速执法重点社区已公布：施工区有工人时也会加强巡查",
+      "summary": "市府公布11月 photo radar 重点社区，包括 Altadore、Auburn Bay、Glenbrook、Varsity 等；这不是唯一执法地点清单。",
+      "deck": "开车时照路况和限速行驶，尤其经过施工区域；重点社区不代表其他道路没有执法。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月31日日期组；市府10月31日公布的是11月重点执法安排。",
+      "sections": [
+        {
+          "heading": "11月重点社区",
+          "paragraphs": [
+            "市府列出的社区有 Altadore、Auburn Bay、Cambrian Heights、Glamorgan、Glenbrook、Patterson、Silver Springs、Varsity 和 Wildwood。"
+          ],
+          "links": [
+            {
+              "label": "市府11月 photo radar 公告",
+              "url": "https://newsroom.calgary.ca/november-2026-photo-radar-enforcement-locations/"
+            }
+          ]
+        },
+        {
+          "heading": "重点不等于只在这些地方执法",
+          "paragraphs": [
+            "公告还提到，施工区有工人作业时也会安排测速车辆。名单是重点地点，不是完整执法地图；道路限速和临时标志始终适用。"
+          ]
+        }
+      ],
+      "takeaway": "开车请按沿途标志控制车速，进入施工区尤其留意限速变化；不要把重点社区名单理解为执法范围上限。",
+      "sourceType": "交通安全提醒",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/november-2026-photo-radar-enforcement-locations/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/november-2026-photo-radar-enforcement-locations/",
+        "title": "November 2026 Photo Radar Enforcement Locations",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "未注明",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-09",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "阿省已全年使用 Alberta Time，设备时间请按需检查",
-      "summary": "阿省自11月1日起全年采用 Alberta Time（UTC-6），2026年秋天不再把时钟拨回。厂商推出更新后，多数联网设备预计会自动调整；部分旧设备可能需要手动设置。",
-      "deck": "过渡后可检查手机、车载和智能家居的时区设置；设备实际状态因厂商更新和设置而异。",
-      "lede": "阿省政府宣布，全省自2026年11月1日起全年使用 Alberta Time，与 UTC 保持 6 小时时差，不再进行秋季拨回一小时的调整。设备是否已按新制度显示，取决于厂商更新和设备设置；可查看设备时间并按厂商说明处理。",
+      "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
+      "summary": "阿省已自11月1日起全年采用 Alberta Time（UTC-6）。若手机、车载或智能设备时间显示异常，先安装系统更新并检查自动日期、时间和时区设置。",
+      "deck": "时间制度已经切换；设备是否正确显示，仍取决于厂商更新和你的设置。",
+      "lede": "阿省自2026年11月1日起全年采用 Alberta Time（UTC-6），不再进行秋季拨回。阿省政府提醒，设备厂商推出更新后，多数联网设备预计会自动更新；如果时间不对，先安装系统更新并检查自动日期、时间和时区设置。",
       "sections": [
         {
-          "heading": "时间制度转换后不再拨回时钟",
+          "heading": "制度已切换，全年 UTC-6",
           "paragraphs": [
-            "根据阿省政府的说明，从2026年11月1日起，阿省全年采用 Alberta Time（UTC-6），2026年秋天不会再出现把时钟拨回一小时的调整。这意味着冬季和夏天的时差保持一致。",
-            "该页面本身未标注发布日期，具体实施细则请以阿省政府官方页面和最新公告为准。"
+            "阿省政府确认，Alberta Time 等同 UTC-6。省内已于11月1日切换，不再像以往那样在秋季把时钟拨回一小时。",
+            "阿省官方页面本身未注明发布日期；本次于2026年11月9日重新核对。"
           ],
           "links": [
             {
@@ -154,8 +616,8 @@
         {
           "heading": "检查设备时间，旧设备可能需要手动设置",
           "paragraphs": [
-            "阿省方面表示，设备厂商完成更新后，大多数联网设备预计会自动切换到新的时间设置。",
-            "部分较旧的设备可能不会自动更新，建议先更新系统软件，再检查时区是否为自动设定。如果显示的时间仍然不对，可以按设备厂商的说明手动调整，或联系服务商处理。"
+            "如果手机、电脑、平板、车载系统或其他设备显示时间异常，阿省政府建议先安装可用的软件更新，并检查自动日期、时间和时区是否开启。",
+            "不受支持的旧设备可能需要手动设置；按设备制造商说明操作，不要只因为别人的设备已更新就假定自己的也正确。"
           ]
         }
       ],
@@ -182,7 +644,7 @@
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
       "sourceDate": "2026-10-28",
-      "verifiedAt": "2026-10-29",
+      "verifiedAt": "2026-11-09",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "10月29日起 Parkdale Boulevard 水管维修：出行留意车道和河边步道",
@@ -193,12 +655,12 @@
         {
           "heading": "哪些地方会受影响？",
           "paragraphs": [
-            "市府工程页面列出的施工范围是 Parkdale Boulevard NW 的 32 Street NW 至 Brownsea Drive NW 一带，预计有车道关闭以及 Bow River 步道绕行。",
-            "市府预计六处同时施工，维修将在12月初完成。施工进度与实际封路可能变化，通勤前请查看市府实时交通信息。"
+            "市府当前工程页面仍列出 Parkdale Blvd NW 两段车道封闭与步道绕行：32 St 至 26 St，以及 26 St 至 Brownsea Dr；预计时间为10月下旬至12月上旬。",
+            "工程进度和实际封路可能变化，通勤前请查看市府实时交通信息。"
           ],
           "links": [
             {
-              "label": "市府施工范围与最新交通入口",
+              "label": "市府施工地点与预计时段",
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main.html"
             },
             {
@@ -216,18 +678,18 @@
         {
           "heading": "11月还有全市节水安排",
           "paragraphs": [
-            "市府已于11月4日起接驳新管道并实施全市第四级户外用水限制：户外用水一般禁止，但有少数例外；并请居民自愿减少室内用水，预计约四周。具体例外与要求请查市府最新页面。",
-            "目前请按第四级安排节水，例如洗衣和洗碗满载再开、缩短淋浴时间；具体规定和结束时间以市府最新公告为准。"
+            "市府当前页面仍显示全市第四级限水有效，限制期间禁止户外用水，并请居民减少室内用水。预计时长约四周；具体状态和规定以市府最新页面为准。",
+            "Parkdale 道路施工与全市限水是两项不同安排；出行看实时路况，用水看限水页面。"
           ],
           "links": [
             {
-              "label": "市府限水与节水更新",
+              "label": "市府当前第四级限水规则",
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
             }
           ]
         }
       ],
-      "takeaway": "Parkdale Boulevard NW 附近出行仍请查看实时交通和绕行标志；全市第四级户外限水已于11月4日开始。",
+      "takeaway": "Parkdale Boulevard NW 附近出行先看市府实时交通；户外用水按第四级禁令执行，状态以市府页面为准。",
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
@@ -249,55 +711,54 @@
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
-      "sourceDate": "2026-10-06",
-      "verifiedAt": "2026-10-28",
+      "sourceDate": "2026-10-28",
+      "verifiedAt": "2026-11-09",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "海底捞要来卡城 Northland：开业日期还没公布",
-      "summary": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
-      "deck": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
-      "lede": "想吃海底捞的可以留意卡城西北区的新店；目前还没有可确认的开业日期。",
+      "title": "海底捞首店筹备进驻 Northland Village：开业日仍未公布",
+      "summary": "Daily Hive 10月28日报道，海底捞正在 Northland Village 筹备卡城首店；截至该报道，官方没有公布开业日期。",
+      "deck": "这是新店筹备进展，不是开业通知；出发前先等门店公布日期。",
+      "lede": "卡城首家海底捞的选址在 Northland Village。Daily Hive 于10月28日报道时称，店面仍在筹备，尚未公布官方开业日期。本次截至11月9日未找到可确认的开业公告，因此不把它写成近期可以到店的消息。",
       "sections": [
         {
-          "heading": "新店在哪，什么时候开？",
+          "heading": "目前能确认到哪一步",
           "paragraphs": [
-            "Culture Alberta 10月6日报道，海底捞正在卡城西北区 Northland 筹备新店，购物中心地址是 5111 Northland Drive NW。报道当时称没有公布开业日期。",
-            "一个自称海底捞卡城账号的10月21日帖子展示了筹备进度，称即将开业；我们通过第三方镜像看到帖子，尚未独立确认账号归属和最新开业日期。"
-          ],
-          "links": [
-            {
-              "label": "本地报道",
-              "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance"
-            },
-            {
-              "label": "10月21日帖子镜像",
-              "url": "https://imginn.com/p/Dexe-s1hGKn/"
-            }
+            "Daily Hive 报道新店位于 Northland Village。报道时门店仍在施工筹备；截至该报道发布，官方没有给出开业日期。"
           ]
         },
         {
-          "heading": "出发前还要等哪些消息",
+          "heading": "开门时间等官方消息",
           "paragraphs": [
-            "具体开业日、价格、预约方式以及卡城店提供哪些服务尚未确认。不要按其他城市门店的菜单或服务推断这家店；有明确消息后再更新。"
+            "目前没有可核实的具体开业日、预约方式或卡城门店服务细节。先不要按“即将开业”安排到店；后续如有正式公告，再以门店或商场信息为准。"
+          ],
+          "links": [
+            {
+              "label": "Daily Hive Calgary 最新本地报道（10月28日）",
+              "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary"
+            },
+            {
+              "label": "较早的本地报道",
+              "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance"
+            }
           ]
         }
       ],
-      "takeaway": "开业日期、菜单和预约方式未确认，先别按“即将开业”直接出发。",
-      "sourceType": "本地报道",
-      "source": "Culture Alberta",
-      "author": "Culture Alberta",
-      "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance",
+      "takeaway": "截至已查阅的10月28日本地报道，仍没有公布官方开业日期；先别把筹备进展当成开业通知。",
+      "sourceType": "本地媒体报道",
+      "source": "Daily Hive Calgary；Culture Alberta",
+      "author": "Daily Hive Calgary",
+      "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary",
       "sourceEmbed": {
-        "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance",
-        "title": "Calgary Is Getting Haidilao, the Global Hot Pot Chain Famous for Its Noodle Dance",
-        "publisher": "Culture Alberta",
+        "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary",
+        "title": "One of the world’s largest hot pot restaurant chains is set to open in Calgary",
+        "publisher": "Daily Hive Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-10-28",
-        "reason": "未确认适合此条内容的来源预览图，使用文字来源卡片。"
+        "checkedAt": "2026-11-09",
+        "reason": "近期本地报道未确认可直接使用的故事预览图，使用纯文字来源卡片。"
       }
     },
     {
@@ -305,13 +766,13 @@
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
       "sourceDate": "2026-10-28",
-      "verifiedAt": "2026-10-28",
+      "verifiedAt": "2026-11-09",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城诈骗电话冒充银行再冒充警察：来电号码也能造假",
-      "summary": "警方10月28日公布一宗诈骗调查：来电者假扮银行人员和警察，诱使受害人交出银行卡。手机显示银行号码也未必可信，先挂断再自行联系银行。",
+      "summary": "卡城警方10月28日公布一宗银行调查员诈骗案，并称当时已有一名男子被捕及被控；来电号码可能被伪装，警方提醒市民自行通过官方渠道核实。",
       "deck": "对方若要银行卡、验证码或转账“配合调查”，先停下来。来电显示不能证明身份，回拨时请用银行官方渠道。",
-      "lede": "卡尔加里警方说，有人先假装银行调查员，再让受害人与自称警察的人通话，最后上门取走银行卡。警方10月28日公布调查进展，一名男子已被控；指控尚未经过法庭裁定。",
+      "lede": "卡城警方10月28日的公告称，一名26岁男子于10月14日被捕，并面临诈骗等指控；当时公告列出的出庭日期为10月29日。该日期已经过去，本次没有核实后续程序，因此不推断案件结果。",
       "sections": [
         {
           "heading": "从“账户有问题”到上门取卡",
@@ -337,7 +798,7 @@
         {
           "heading": "案件进展和求助方式",
           "paragraphs": [
-            "警方称，一名26岁男子于10月14日被捕，面临诈骗等指控，原定10月29日出庭。案件结果仍须经过法庭程序。",
+            "警方10月28日发布通报时称，一名26岁男子于10月14日被捕，面临诈骗等指控，原定10月29日出庭。出庭日期已经过去；本次没有核实后续裁决或案件状态，因此不推断结果。",
             "若有本案线索，可拨卡尔加里警方非紧急电话 403-266-1234，或向 Crime Stoppers 匿名提供信息。若担心自己的账户，直接联系银行。"
           ],
           "links": [
@@ -368,6 +829,414 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
+      }
+    },
+    {
+      "id": "calgary-affordable-housing-sites-20261027",
+      "date": "2026-10-27",
+      "dateLabel": "目标日期补档（2026-10-27）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-27",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "市府选出东北和东南两处非市场住房地块，项目仍待后续审批",
+      "summary": "两处市府土地将由住房机构推进非市场住房方案，规划约200户；这是项目分配与规划，不是即刻开放申请的房源。",
+      "deck": "如果正在找房，别把规划中的住房当成近期可申请名额；后续仍有设计和审批步骤。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月27日日期组；市府通报于10月27日发布，规划户数不是已建成房源。",
+      "sections": [
+        {
+          "heading": "两处地块和规划户数",
+          "paragraphs": [
+            "市府把155 Cirrus Close NE 地块分配给 Liberty Housing Organization，规划约105户；3010 36 Street SE 地块分配给 SORAH，规划约95户原住民住房。"
+          ]
+        },
+        {
+          "heading": "现在还不能申请",
+          "paragraphs": [
+            "市府说明这些是非市场住房项目的规划安排，后续仍需更多许可与审批。尚不能据此确认建成时间、申请资格或租金。"
+          ],
+          "links": [
+            {
+              "label": "市府土地与住房项目说明",
+              "url": "https://newsroom.calgary.ca/city-awards-two-sites-to-affordable-housing-providers-under-non-market-land-sale-program/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "有住房需求的居民可留意项目机构后续发布的申请信息；现阶段不要把这两处规划项目当作已开放的出租房源。",
+      "sourceType": "可负担住房",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/city-awards-two-sites-to-affordable-housing-providers-under-non-market-land-sale-program/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/city-awards-two-sites-to-affordable-housing-providers-under-non-market-land-sale-program/",
+        "title": "City awards two sites to affordable housing providers under non-market land sale program",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-arts-culture-input-20261026",
+      "date": "2026-10-26",
+      "dateLabel": "目标日期补档（2026-10-26）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-26",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城征集未来艺术文化规划意见：线上问卷开放至11月15日",
+      "summary": "市府邀请居民对未来艺术与文化规划提供意见；截至11月9日，官方页面列出的参与截止日为11月15日。",
+      "deck": "如果你在卡城参与文化活动或使用社区空间，可以直接表达需求；这不是已经定案的政策。",
+      "lede": "补档说明：这条内容于2026年11月9日核对后补入10月26日日期组；市府于10月26日发布征集消息，意见征集时间有限。",
+      "sections": [
+        {
+          "heading": "市府正在征集什么意见",
+          "paragraphs": [
+            "市府正在为卡城未来的艺术与文化规划收集居民意见。居民可谈本地文化参与、场地与服务体验；具体问题以市府问卷为准。"
+          ],
+          "links": [
+            {
+              "label": "市府规划与参与入口",
+              "url": "https://newsroom.calgary.ca/calgarians-invited-to-help-shape-future-of-arts-and-culture/"
+            }
+          ]
+        },
+        {
+          "heading": "截止日期别错过",
+          "paragraphs": [
+            "市府通报发布于10月26日，参与页面列明截止日期为11月15日。建议先确认问卷仍开放，再按自己的实际体验填写；提交意见不代表建议一定会被采纳。"
+          ]
+        }
+      ],
+      "takeaway": "有意见的居民可在11月15日前查看官方参与页面并提交；这是意见征集阶段，后续规划仍待市府整理和决策。",
+      "sourceType": "市府公众参与",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/calgarians-invited-to-help-shape-future-of-arts-and-culture/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgarians-invited-to-help-shape-future-of-arts-and-culture/",
+        "title": "Calgarians invited to help shape future of arts and culture",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-library-free-services-20261025",
+      "date": "2026-10-25",
+      "dateLabel": "目标日期补档（2026-10-25）· 实际核对日期 2026-11-09",
+      "sourceDate": "官方页面未注明发布日期；核对于2026-11-09",
+      "verifiedAt": "2026-11-09",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "在卡城找自习和上网地点？市立图书馆会员可免费用 Wi-Fi 和电脑",
+      "summary": "Calgary Public Library 提供免费会员服务，馆内包括 Wi-Fi、电脑和打印等资源；是否收费及具体规则以各项服务页面为准。",
+      "deck": "这是长期适用的公共服务指南，不是新开馆或限时优惠。",
+      "lede": "补档说明：这条生活指南于2026年11月9日重新核对后补入10月25日日期组；图书馆服务页面未标明发布日期，不能称为10月25日发布的新消息。",
+      "sections": [
+        {
+          "heading": "没有电脑时可以怎么用",
+          "paragraphs": [
+            "图书馆免费服务页列有馆内 Wi-Fi、笔记本电脑或台式电脑使用，以及预订空间等项目。适合临时需要上网、完成作业或找安静学习地点的人。"
+          ],
+          "links": [
+            {
+              "label": "图书馆免费服务清单",
+              "url": "https://www.calgarylibrary.ca/your-library/free-services"
+            }
+          ]
+        },
+        {
+          "heading": "先办会员，再看附近分馆",
+          "paragraphs": [
+            "图书馆会员可免费申请；线上资源和具体服务的资格、预约方式可能不同，出发前查看分馆地点、开放时间及服务说明。"
+          ],
+          "links": [
+            {
+              "label": "申请免费会员",
+              "url": "https://www.calgarylibrary.ca/your-library/join"
+            }
+          ]
+        }
+      ],
+      "takeaway": "留学生、新移民或需要临时上网的居民，可先在线申请会员，再确认离家最近分馆的开放时间和设备规则。",
+      "sourceType": "公共生活指南",
+      "source": "Calgary Public Library",
+      "author": "Calgary Public Library",
+      "url": "https://www.calgarylibrary.ca/your-library/free-services",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarylibrary.ca/your-library/free-services",
+        "title": "Free Services",
+        "publisher": "Calgary Public Library",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "alberta-rental-inspection-guide-20261024",
+      "date": "2026-10-24",
+      "dateLabel": "目标日期补档（2026-10-24）· 实际核对日期 2026-11-09",
+      "sourceDate": "官方页面未注明发布日期；核对于2026-11-09",
+      "verifiedAt": "2026-11-09",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "租房入住和退租都要留检查记录：阿省规则关系到押金扣款",
+      "summary": "阿省租赁指引要求房东和租客完成入住、退租检查报告；缺少规定的检查报告时，房东不能从押金扣除损坏或清洁费用。",
+      "deck": "这是租房实用指南，不是本周新出台的政策；请保存报告、照片和沟通记录。",
+      "lede": "补档说明：这条指南于2026年11月9日重新核对后补入10月24日日期组。阿省网页未标注发布日期，因此不将它说成10月24日的新规定。",
+      "sections": [
+        {
+          "heading": "入住和退租时各做一次检查",
+          "paragraphs": [
+            "阿省要求房东和租客分别完成入住与退租检查报告，记录出租房屋当时的状况。入住报告也能帮助租客说明某处损坏在自己搬入前已经存在。"
+          ]
+        },
+        {
+          "heading": "押金有争议时，报告很关键",
+          "paragraphs": [
+            "阿省政府说明，如果没有按要求完成检查报告，房东不能从押金中扣除损坏或清洁费用。搬入、搬出时可留好双方签字的报告，并按房间拍照留档。"
+          ],
+          "links": [
+            {
+              "label": "阿省租住期间与检查报告规则",
+              "url": "https://www.alberta.ca/during-a-tenancy"
+            }
+          ]
+        }
+      ],
+      "takeaway": "搬入或退租时，双方一起检查、签字，并各自保存报告和照片；具体争议可通过阿省租赁政府页面继续查规则。",
+      "sourceType": "租房生活指南",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/during-a-tenancy",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/during-a-tenancy",
+        "title": "During a tenancy",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "water-oversight-board-20261023",
+      "date": "2026-10-23",
+      "dateLabel": "目标日期补档（2026-10-23）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-23",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城供水监督委员会补齐成员：职责是监督和建议，不负责日常运营",
+      "summary": "市议会任命供水公用事业监督委员会剩余成员，完成委员会组成；委员会提供监督与建议，供水系统仍由运营机构负责。",
+      "deck": "这项任命与日常水管施工、限水措施不同，不代表施工或供水安排当日发生改变。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月23日日期组；市府任命通报发布于10月23日。",
+      "sections": [
+        {
+          "heading": "这次任命改变了什么",
+          "paragraphs": [
+            "市府公告称，市议会任命了供水公用事业监督委员会剩余成员，委员会组成至此补齐。其工作重点是独立监督、审视服务与治理，并向市府提出建议。"
+          ],
+          "links": [
+            {
+              "label": "市府任命公告",
+              "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/"
+            }
+          ]
+        },
+        {
+          "heading": "它不等于什么",
+          "paragraphs": [
+            "委员会不是管线施工队，也不直接决定居民家中的供水或限水规则。眼前的施工和用水要求，仍以市府 Bearspaw 项目与当前限制页面为准。"
+          ]
+        }
+      ],
+      "takeaway": "看供水服务变化时，把监督治理消息和实际施工公告分开；需要了解当前限水规定，请查看市府最新水务页面。",
+      "sourceType": "市府治理与公共服务",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
+        "title": "Council appoints remaining members to Calgary’s Water Utility Oversight Board",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-city-trust-survey-20261022",
+      "date": "2026-10-22",
+      "dateLabel": "目标日期补档（2026-10-22）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-22",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "市府民调：77%受访者认为卡城生活质量不错，交通仍是首要关注",
+      "summary": "市府公布的2026年秋季电话调查访问2500名居民；受访者对生活质量和市政服务的评价上升，但交通仍是最常提及的优先议题。",
+      "deck": "这是一项有抽样误差的居民调查，反映受访者看法，不代表每位卡城市民都持相同意见。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月22日日期组；市府新闻稿于10月22日发布，调查在8月4日至28日进行。",
+      "sections": [
+        {
+          "heading": "调查里哪些数字值得看",
+          "paragraphs": [
+            "市府委托 Ipsos 以电话访问2500名卡城居民。77%受访者将生活质量评为良好，73%表示满意市府服务；56%表示信任市府。",
+            "这组数字来自样本调查，不能理解为全体居民的统一感受。"
+          ]
+        },
+        {
+          "heading": "居民最希望市府先处理什么",
+          "paragraphs": [
+            "交通和道路以36%居首，其后是治安与警务23%、无家可归与可负担住房18%、公交15%。对日常生活而言，这些数据可帮助读者了解市府收到的主要诉求，但不是具体项目已经获批或马上开工。"
+          ],
+          "links": [
+            {
+              "label": "市府调查结果与方法说明",
+              "url": "https://newsroom.calgary.ca/trust-in-the-city-reaches-highest-level-since-2018-as-resident-confidence-grows/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这份调查可作为观察市政议题的一个参考；涉及自己社区的项目与预算，仍应查看市府正式决策和服务公告。",
+      "sourceType": "市府民调",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/trust-in-the-city-reaches-highest-level-since-2018-as-resident-confidence-grows/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/trust-in-the-city-reaches-highest-level-since-2018-as-resident-confidence-grows/",
+        "title": "Trust in The City reaches highest level since 2018 as resident confidence grows",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "walden-fire-library-20261021",
+      "date": "2026-10-21",
+      "dateLabel": "目标日期补档（2026-10-21）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-21",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "Walden 开始建消防站和图书馆合体设施，预计2028年开放",
+      "summary": "东南区 Walden Drive SE 的新项目将把永久消防站与 Calgary Public Library 分馆设在同一处，预算估计为3420万加元。",
+      "deck": "这是长期公共设施建设消息，图书馆和消防服务都还没有在新址开放。",
+      "lede": "补档说明：这条内容于2026年11月9日核对后补入10月21日日期组；市府新闻稿发布于10月21日，项目预计2028年开放。",
+      "sections": [
+        {
+          "heading": "一个地址，两种公共服务",
+          "paragraphs": [
+            "市府公布，项目地址为969 Walden Drive SE，将建一座两车位的永久消防站，以及 Calgary Public Library 新分馆。这是卡城首个消防站与公共图书馆一体化项目。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府项目通报",
+              "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/"
+            }
+          ]
+        },
+        {
+          "heading": "周边居民什么时候能用上",
+          "paragraphs": [
+            "项目估算造价为3420万加元，预计2028年开放，服务范围包括 Walden、Legacy、Chaparral、Wolf Willow 等社区。它仍在建设阶段，不是现在就能使用的新馆。"
+          ]
+        }
+      ],
+      "takeaway": "Walden 一带居民可把它当作未来公共设施规划；现阶段图书馆服务仍需使用现有分馆，消防紧急情况照常拨911。",
+      "sourceType": "市府公共设施",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/construction-begins-on-walden-fire-station-and-library/",
+        "title": "Construction begins on Walden Fire Station and Library",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "deerfoot-fatal-collision-20261020",
+      "date": "2026-10-20",
+      "dateLabel": "目标日期补档（2026-10-20）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-21",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "Deerfoot Trail 发生致命碰撞：警方当时征集行车记录仪线索",
+      "summary": "警方通报，一名70岁男子在 Deerfoot Trail 北行车道旁发生碰撞后身亡；事故发生于10月20日下午，警方次日公布调查。",
+      "deck": "这是一则事故调查回顾，不是当前道路警报；警方原文记录了事故位置和当时的线索征集。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月20日日期组，实际事故发生在10月20日，警方于10月21日发布通报。它不是10月20日当天发布的文章。",
+      "sections": [
+        {
+          "heading": "事故发生在哪里",
+          "paragraphs": [
+            "警方称，10月20日下午约1时10分，一辆皮卡连同拖车停在 Deerfoot Trail 北行、17 Avenue SE 以南的右侧路肩。70岁司机当时在车外，另一辆带拖车的车辆与其发生碰撞。",
+            "警方通报说，男子在现场死亡。报道不推测其身份背景，也不将这起事故说成仍在发生。"
+          ]
+        },
+        {
+          "heading": "当时警方征集什么线索",
+          "paragraphs": [
+            "警方在10月21日发布通报时，曾请目击者或持有行车记录仪画面的人联系调查人员。该征集是当时的公告内容；本次没有核实案件后续，不声称警方仍在征集线索。"
+          ],
+          "links": [
+            {
+              "label": "卡城警方原始通报",
+              "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "若你手上有与该时段相关的行车记录仪影像，可通过警方原文提供的渠道核实是否仍有需要；这条补档不代表该路段当前封闭。",
+      "sourceType": "警方通报",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
+        "title": "Investigation into fatal collision continues",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
       }
     }
   ]

@@ -2,6 +2,10 @@
 
 这是面向读者的卡尔加里公众号主页式资讯流，不是编辑后台。首页展示卡村 KACUN 的账号资料，并按日期分组呈现头条和文章列表；点击文章进入公众号风格的长文阅读页。AI 代理查看公开新闻与生活来源、用中文整理新消息、补上原始来源和核对时间，再更新 `articles.json`。每篇文章可通过 `?article=文章ID` 直接打开。提交到 `main` 后，GitHub Actions 自动发布到 [https://yyc-life.github.io/](https://yyc-life.github.io/)。
 
+## 选题方向
+
+面向卡尔加里年轻中文读者，首页吃喝玩乐与本地资讯尽量各占一半。关注华人熟悉的餐饮品牌重要变化（例如新店进度）、亚洲美食文化及有日期的活动，也保留与生活密切相关的资讯。新店消息要有可核实的新进展，说明尚未确认的开业日期、价格和服务；不用营销语言或普通营业内容凑数。比例是编辑目标，重大安全提醒优先；可靠内容不足时不编造、不保留过期活动来凑数。每日采编的具体规则见 automation/kacun-daily.prompt.md。
+
 ## 内容发布规则
 
 - 每篇都写独立、简短的中文摘要，说明对卡尔加里居民有什么用；每篇尽量显示原文来源卡片，卡片直接链接到原文。
@@ -10,7 +14,7 @@
 - 保留原始标题对应的来源链接、发布方、原文日期和卡村核对日期。涉及交通、健康、安全、价格或活动时间时，发布前回到原始页面复核。
 - 未获权利方明确许可时，只发事实摘要和来源链接。整篇转载、译文和图片分别确认授权；注明来源本身不等于获得转载许可。
 - 资讯源包括 [卡尔加里市府](https://newsroom.calgary.ca/en/)、[警方](https://newsroom.calgary.ca/police-news-releases/)、[Calgary Transit](https://www.calgarytransit.com/content/transit/en/home/service-updates.html)、[CBC](https://www.cbc.ca/news/canada/calgary)、[Global News](https://globalnews.ca/calgary/)、[CTV](https://calgary.ctvnews.ca/)、[Calgary Herald](https://calgaryherald.com/)、[LiveWire](https://livewirecalgary.com/)、[Calgary Citizen](https://calgarycitizen.com/subscribe)、[Avenue Calgary](https://www.avenuecalgary.com/)、[YYC Current](https://yyccurrent.ca/)、[Tourism Calgary](https://www.visitcalgary.com/events)、[Calgary Public Library](https://www.calgarylibrary.ca/events-and-programs/programs)，以及华人公众号“卡尔加里微生活”（历史公开资料列出的微信号 `canadawelife`）和“卡尔加里吃喝玩乐”（历史公开资料列出的微信号 `fanta7kaerjiali`）。两个公众号的当前活跃状态需在微信内确认。
-- 每天另查当天晚上和未来几天的约会/出门灵感，优先面向卡尔加里华人读者筛选：中文/亚洲文化活动、中文歌单 KTV、华人社区活动、中餐/亚洲美食体验、夜市，以及马术、体育、展览等低语言门槛的现场活动。英文脱口秀或依赖大量英语交流的活动不作为默认推荐；确有特色时标清演出语言。优先核对场馆/主办方页面的日期、时间、地点、年龄限制、票价与余票；写清楚“全天”并不代表晚上有场次。适合的活动放入 `约会灵感` 内容，至少给出几个风格不同的选择及每项对应的主办方或购票链接；活动过期后及时移除。
+- 每天另查当天晚上和未来几天的约会/出门灵感，活动须日期明确、确属特别活动且对读者有实际价值；华人关注的餐饮新店及重要变化可以作为独立新闻报道，并注明尚未公布的信息。中文/亚洲文化活动、华人社区活动、亚洲美食特别活动、夜市节庆、马术体育和限时展览可优先核查。常规 KTV（包括 K-One 平日营业）、普通餐厅营业、日常菜单/歌单、常设展览或景点、普通折扣及泛泛打卡推荐不属于活动，不能为了凑数而推荐。商家名称只在说明特别事项所必需时出现，不写广告式赞语或消费导流。英文脱口秀或依赖大量英语交流的活动不作为默认推荐；确有特别价值时标清语言。优先核对场馆/主办方页面的日期、时间、地点、年龄限制、票价与余票；“全天”不代表晚上有场次。每项附对应主办方或购票链接；活动过期后及时移除。没有可靠的当天/近期特别活动时，说明没有找到合格选项。
 - 有重大安全或健康提醒时，标注为官方公告并引导读者查看原文最新状态；无法核实时先不发布。
 
 ## 更新文章
@@ -28,3 +32,7 @@
 网站上的中文摘要可以作为独立资讯内容的基础，转到公众号前应再核对事实和链接，明确标注原始媒体/发布方及原文地址。需要整篇转载或使用原图时，先拿到适用于该平台的书面授权；公众号白名单只解决公众号平台内的转载授权，不覆盖加拿大新闻媒体等外部权利方。
 
 GitHub Pages 由 `.github/workflows/pages.yml` 部署。每日采编代理读取来源、独立撰写长文并更新数据后提交部署；站点是静态读者页面，不保存读者数据，也没有供人工编辑的内容管理后台。
+
+## 每日自动采编任务
+
+每日任务的提示词和排程快照保存在 [`automation/kacun-daily.prompt.md`](automation/kacun-daily.prompt.md) 与 [`automation/kacun-daily.schedule.toml`](automation/kacun-daily.schedule.toml)。提示词是编辑规则的项目内记录；实际触发由 Codex App 中的自动化 `automation` 管理。排程快照记录卡尔加里时区和每日上午 8 点；任务是否启用以 Codex App 中同名自动化的实时状态为准。修改项目内规则后，也要同步更新 Codex App 中同名自动化；不要把这两个文件当作 GitHub Actions 工作流或单独启用第二个定时任务。

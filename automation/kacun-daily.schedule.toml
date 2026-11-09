@@ -1,0 +1,14 @@
+# Project-tracked schedule manifest for the Codex App automation.
+# The Codex App owns execution; this file documents the matching job and is not a GitHub Actions workflow.
+automation_id = "automation"
+name = "卡村每日资讯采编"
+kind = "heartbeat"
+status = "ACTIVE"
+cron = "0 8 * * *"
+timezone = "America/Edmonton"
+app_rrule = "RRULE:FREQ=WEEKLY;BYHOUR=8;BYMINUTE=0;BYDAY=SU,MO,TU,WE,TH,FR,SA"
+execution_environment = "local"
+project_path = "C:/Users/stanc/github/yyc-life.github.io"
+prompt_file = "automation/kacun-daily.prompt.md"
+
+# Keep status, local timezone, and schedule aligned with the Codex App automation.
