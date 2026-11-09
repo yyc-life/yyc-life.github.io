@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、29篇。11-09、10-28、10-29、10-30各有3篇；10-20至10-27、10-31、11-01至11-08共17组各1篇。还有17个日期组低于每组3篇的最低目标，合计仍缺34篇；档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、31篇。11-09和10-28至10-31各有3篇（5组）；10-20至10-27和11-01至11-08各有1篇（16组）；仍缺32篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -711,6 +711,102 @@
         "url": "https://newsroom.calgary.ca/november-2026-photo-radar-enforcement-locations/",
         "title": "November 2026 Photo Radar Enforcement Locations",
         "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "partners-for-safety-halloween-20261031",
+      "date": "2026-10-31",
+      "dateLabel": "10月31日·历史公共安全记录",
+      "sourceDate": "City of Calgary Newsroom，2026-10-30 10:55（America/Denver）",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "历史记录｜市府曾计划万圣节晚间部署 Partners for Safety",
+      "summary": "市府10月30日公告计划于10月31日18:00至20:00安排安全伙伴车辆在社区巡逻；这是活动前计划记录，不能据此确认巡逻实际发生。",
+      "deck": "仅保存市府当时公布的安排，不是当前安全提醒，也不代表计划已落实。",
+      "lede": "作为历史档案，卡城市府于2026年10月30日10:55公布万圣节安全计划：10月31日18:00至20:00，多类公共服务伙伴拟在社区提供协助。公告记录的是预定安排；目前没有据此确认巡逻实际发生。",
+      "sections": [
+        {
+          "heading": "公告当时计划的安排",
+          "paragraphs": [
+            "市府公告称，10月31日星期六18:00至20:00，数百辆合作伙伴车辆计划进入社区。警方和 Alberta Emergency Health Services 计划巡查住宅区，Calgary Fire Department 车辆也计划巡逻。",
+            "公告还说，社区消防站可在消防人员未执行紧急任务时作为求助地点；公共交通及 CTrain 操作人员可联系紧急服务人员。遇到麻烦的儿童可向合作伙伴车辆求助。以上均为公告所述计划与指引，不证明当天实际执行情况。"
+          ],
+          "links": [
+            {
+              "label": "City of Calgary：Partners for Safety 万圣节公告（2026-10-30）",
+              "url": "https://newsroom.calgary.ca/partners-for-safety-will-help-keep-calgarys-little-ghouls-and-goblins-safe-this-halloween2/"
+            }
+          ]
+        },
+        {
+          "heading": "仅作历史存档",
+          "paragraphs": [
+            "所列时段已经过去。本卡不作为当前安全警报，也不声称巡逻、站点接待或车辆协助已实际发生。"
+          ]
+        }
+      ],
+      "takeaway": "这是一则已过期的市府计划公告存档：计划时间为2026年10月31日18:00至20:00，实际执行情况未由本条核实。",
+      "sourceType": "城市公共安全计划历史记录",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/partners-for-safety-will-help-keep-calgarys-little-ghouls-and-goblins-safe-this-halloween2/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认来源页有与该公告直接相关且可用的预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/partners-for-safety-will-help-keep-calgarys-little-ghouls-and-goblins-safe-this-halloween2/",
+        "title": "Partners for Safety will help keep Calgary’s little ghouls and goblins safe this Halloween",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "ranchlands-halloween-dance-record-20261031",
+      "date": "2026-10-31",
+      "dateLabel": "10月31日·历史活动记录",
+      "sourceDate": "City of Calgary Ward 2 2026年10月通讯；页面未注明发布日期",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史记录｜市府通讯曾列 Ranchlands 万圣节舞会于10月31日下午举行",
+      "summary": "Ward 2 2026年10月通讯列出 Ranchlands CA 万圣节舞会时间为10月31日13:30至15:30，地点在 Ranchlands Community Association；活动已过，仅作日程历史记录。",
+      "deck": "这不是当前推荐或邀请；市府页面列出免费、欢迎所有人及服装／气球舞会，未确认活动实际举行。",
+      "lede": "历史日程记录：City of Calgary Ward 2 的2026年10月通讯曾列出 Ranchlands CA Halloween Dance，安排在10月31日13:30至15:30，地点为7713 Ranchview Dr NW。日期已过；此记录不表示活动实际举行，也不是当前邀请。",
+      "sections": [
+        {
+          "heading": "Ward 2 通讯所列的日程",
+          "paragraphs": [
+            "市府 Ward 2 页面将活动列为 Ranchlands CA Halloween Dance，时间为2026年10月31日13:30至15:30，地点为 Ranchlands Community Association，7713 Ranchview Dr NW, Calgary。页面写明免费、欢迎所有人，并标注 costume/balloon dance。",
+            "活动日期已过。本条仅复述市府页面所列安排；页面没有说明活动是否实际举行、票务或现场名额情况，也未提供活动内容的进一步说明。主办方链接访问未能核实。"
+          ],
+          "links": [
+            {
+              "label": "City of Calgary Ward 2：October Newsletter 2026",
+              "url": "https://www.calgary.ca/council/ward-2/articles/october-newsletter-2026.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这是已过期的历史日程记录：市府通讯曾列活动于10月31日13:30至15:30举行；不构成当前推荐或邀请，也不确认活动实际发生。",
+      "sourceType": "已结束活动的官方日程历史记录",
+      "source": "City of Calgary, Ward 2",
+      "author": "City of Calgary, Ward 2",
+      "url": "https://www.calgary.ca/council/ward-2/articles/october-newsletter-2026.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认市府通讯中有与此活动直接对应且可用的预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/council/ward-2/articles/october-newsletter-2026.html",
+        "title": "October Newsletter, 2026",
+        "publisher": "City of Calgary, Ward 2",
         "thumbnail": null,
         "thumbnailAlt": null
       }
