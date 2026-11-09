@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、24篇。11-09有3篇；10-28有2篇；10-20至10-27、10-29至10-31、11-01至11-08共19组各1篇。未达3篇的日期为10-20、10-21、10-22、10-23、10-24、10-25、10-26、10-27、10-28、10-29、10-30、10-31、11-01、11-02、11-03、11-04、11-05、11-06、11-07、11-08；按每组至少3篇计算，还缺39篇，其中10-28已包含两类但缺1篇，其余不足日期组目前只有一类。此次写入 worker 尝试以 browser-harness 读取 City of Calgary Newsroom、卡城市府活动页、华埠日历、中华文化中心和 Calgary Public Library 活动页，但 harness 在发出请求前因临时目录权限错误退出；直接 HTTPS 请求 newsroom.calgary.ca 也被本机 socket 权限拒绝。父端公开网页搜索只发现目录线索，未逐条取得这些日期的原始证据，因此本轮没有新增补档文章，也不声称已逐日完成来源核查。已有 Field of Crosses、Hawkwood 展示、面食节及 Grey Cup 卡片只可用于各自有证据支持的日期范围，不能复制到其他日期凑数；限水、施工和测速提醒也须按目标日核对当时状态。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、25篇。11-09有3篇，10-28有3篇；10-20至10-27、10-29至10-31、11-01至11-08共19组各1篇。未达3篇的日期为10-20、10-21、10-22、10-23、10-24、10-25、10-26、10-27、10-29、10-30、10-31、11-01、11-02、11-03、11-04、11-05、11-06、11-07、11-08；按每组至少3篇计算，还缺38篇。10-28现有三篇，覆盖吃喝玩乐与本地资讯/安全提醒。其余日期组需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -957,6 +957,57 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
+      }
+    },
+    {
+      "id": "calgary-diwali-fireworks-reminder-20261028",
+      "date": "2026-10-28",
+      "dateLabel": "10月28日整理",
+      "sourceDate": "2026-10-28",
+      "verifiedAt": "2026-11-09",
+      "category": "安全提醒",
+      "categoryClass": "official",
+      "title": "卡城市府10月28日提醒：排灯节期间个人烟花禁放",
+      "summary": "这是卡城市府在2026年10月28日、排灯节与 Bandi Chhor Divas 前发布的安全提醒：市内不允许个人烟花，违规可能面临罚款。",
+      "deck": "这是一则节日前的历史提醒，不是当前活动邀请；非法烟花疑虑可向311报告，火灾或紧急情况拨911。",
+      "lede": "卡城市府、卡城消防局、紧急管理与社区安全部门及卡城警方于2026年10月28日提醒居民，排灯节和 Bandi Chhor Divas 庆祝期间须遵守烟花规定。",
+      "sections": [
+        {
+          "heading": "市府当时提醒的规定",
+          "paragraphs": [
+            "卡城范围内不允许个人烟花，包括在市外购买或网上订购的烟花。自2026年9月22日起，在公共场所持有烟花、无许可证燃放烟花，罚款均为1,000元；未经授权销售或提出销售烟花，罚款为3,000元。新规也禁止在公共场所携带或架设烟花，即使尚未燃放。",
+            "小型生日蛋糕仙女棒不受该附例限制，但仍应安全使用。"
+          ]
+        },
+        {
+          "heading": "报告方式",
+          "paragraphs": [
+            "市府建议通过311的“Disturbance and Public Behaviour Concerns”类别报告非法烟花疑虑；火灾或紧急情况拨打911。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府烟花规定页面",
+              "url": "https://www.calgary.ca/fireworks"
+            }
+          ]
+        }
+      ],
+      "takeaway": "以上是市府2026年10月28日发布的节日前提醒；如需了解现行规定，请查看市府烟花页面。",
+      "sourceType": "市府公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/city-of-calgary-reminds-residents-celebrate-diwali-and-bandi-chhor-divas-safely/",
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/city-of-calgary-reminds-residents-celebrate-diwali-and-bandi-chhor-divas-safely/",
+        "title": "City of Calgary reminds residents to celebrate Diwali and Bandi Chhor Divas safely",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      },
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "已打开的市府公告未确认与本文直接对应的预览图，使用纯文字来源卡片。"
       }
     },
     {
