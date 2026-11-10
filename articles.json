@@ -1,8 +1,260 @@
 {
-  "updatedAt": "2026-11-09",
-  "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、44篇。11-09、11-08、11-07、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（11组）；11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（10组）；仍缺20篇才能达到每组3篇最低目标。11-07组现有3篇：本地资讯1篇、吃喝玩乐1篇、活动与出门1篇。历史档案仍未补齐；不以重复、广告或过期活动凑数。",
+  "updatedAt": "2026-11-10",
+  "updatedLabel": "2026年11月10日（每日采编及历史补档）",
+  "editionNote": "历史档案盘点（截至2026-11-10）：2026-10-20至2026-11-10共22个日期组、54篇。达到每组至少3篇的日期组15个：11-10、11-09、11-08、11-07、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28、10-22、10-21、10-20。仍未达标7组：11-06、11-05、10-27、10-26、10-25、10-24、10-23，距离最低3篇合计还差14篇。11-10组4篇（资讯2、吃喝玩乐2）；10-20至10-22三组各3篇（资讯2、吃喝玩乐1）。本次补档均标注实际核对日期2026-11-10；未把过期活动写成近期邀约。",
   "articles": [
+    {
+      "id": "city-budget-process-20261110",
+      "date": "2026-11-10",
+      "dateLabel": "11月10日·市政与预算",
+      "sourceDate": "市府预算进程页面列明草案计划于2026-11-10发布；公众提交于2026-11-23开始；页面未注明发布日期",
+      "verifiedAt": "2026-11-10",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城预算草案日程排在今天：公众意见登记开放，11月23日开始提交",
+      "summary": "市府把2027–2030预算草案发布日列为11月10日，并称公众发言登记今天开放；正式提交意见及向市议会发言从11月23日开始。",
+      "deck": "预算会影响未来几年道路、公交和公共服务怎么安排；先分清草案发布日与公众提交意见的日期。",
+      "lede": "卡城市府的预算日程把2027–2030预算草案发布日排在今天（11月10日）。想向市议会表达意见的居民，登记从今天开放，正式公众提交则从11月23日开始。草案内容以市府实际公布的版本为准。",
+      "sections": [
+        {
+          "heading": "今天是日程上的草案发布日",
+          "paragraphs": [
+            "市府预算页面列出，2027–2030预算草案计划于11月10日向市议会和公众公布。页面没有写明当天的具体发布时间；本次核对时，它仍把该事项列在后续日程中，因此不先替市府概括尚未看到的预算数字。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：2027预算进程与日程",
+              "url": "https://www.calgary.ca/our-finances/2027-budget.html"
+            }
+          ]
+        },
+        {
+          "heading": "想发言，先记住两个日期",
+          "paragraphs": [
+            "同一页面写明，公众提交意见从11月23日开始，居民可以向市议会发言或递交书面意见；登记开放日期是11月10日。登记入口、发言时段和提交要求以市府页面后续更新为准。"
+          ]
+        },
+        {
+          "heading": "先看草案，再准备自己的问题",
+          "paragraphs": [
+            "等正式预算文件上线后，可以先找与自己有关的项目，例如交通、道路、公共安全、社区设施或住房服务，再对照市府的提交说明准备意见。不要把预算日程当作已经批准的支出决定。"
+          ]
+        }
+      ],
+      "takeaway": "市府日程将预算草案发布和公众意见提交分在两个日期：登记从11月10日开放，公众提交从11月23日开始。草案尚未核对到的数字与项目不作推测。",
+      "sourceType": "市政预算与公众参与日程",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "市府预算进程页没有核实到与本条日程直接对应的预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+        "title": "2027 Budget",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-snow-clearing-guide-20261110",
+      "date": "2026-11-10",
+      "dateLabel": "11月10日·生活指南",
+      "sourceDate": "市府优先清雪计划页面；页面未注明发布日期，规则于2026-11-10核对",
+      "verifiedAt": "2026-11-10",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "卡城下雪后怎么查清雪：住宅街通常不清，屋旁人行道要及时处理",
+      "summary": "市府先处理主干道、公交路线和优先步道；住宅街通常保留硬雪。私人房屋旁的人行道一般由业主或住户在降雪停止后24小时内清理。",
+      "deck": "出门先看路线图；住在独立屋或负责物业维护的读者，也要留意屋旁人行道的清雪责任。",
+      "lede": "卡城的清雪不是每条街同时推进。市府先处理主干道、公交和高人流步道；住宅街通常维持压实雪面。屋旁人行道的责任也分得很清楚，别只等市府清雪车。",
+      "sections": [
+        {
+          "heading": "开车或搭车前，先分清道路优先级",
+          "paragraphs": [
+            "市府计划在降雪停止后的头36小时优先处理主要道路、社区与公交路线；实时清雪地图可查看哪些路段已经处理。Deerfoot Trail、Stoney Trail 和 Tsuut’ina Trail 由阿省负责，路况要另看省府511。"
+          ],
+          "links": [
+            {
+              "label": "市府：实时清雪路况地图",
+              "url": "https://maps.calgary.ca/RoadConditions/"
+            },
+            {
+              "label": "阿省511：省管道路路况",
+              "url": "https://511.alberta.ca/"
+            }
+          ]
+        },
+        {
+          "heading": "屋旁人行道通常不是市府负责",
+          "paragraphs": [
+            "市府表示，自己只清理全市约一成的人行道，主要包括市府物业旁的步道；私人物业相邻的人行道一般由业主或住户在降雪停止后24小时内清理。具体法规与要求应以市府雪冰条例说明为准。"
+          ],
+          "links": [
+            {
+              "label": "市府：清雪优先计划与人行道责任",
+              "url": "https://www.calgary.ca/roads/conditions/sanding-plowing-priorities.html"
+            },
+            {
+              "label": "市府：雪冰清理常见问题",
+              "url": "https://www.calgary.ca/roads/conditions/snow-ice-faqs.html"
+            }
+          ]
+        },
+        {
+          "heading": "记住一条容易误会的规则",
+          "paragraphs": [
+            "住宅街通常不会被清到露出路面，市府会视情况平整车辙；因此看到路上仍有压实雪，并不一定表示该街区漏清。出门前查路况图，步行则按自己物业的责任及时清理。"
+          ]
+        }
+      ],
+      "takeaway": "驾车先查市府清雪地图；走在私人物业旁的人行道，通常由物业业主或住户在降雪停止后24小时内处理。Deerfoot、Stoney 和 Tsuut’ina Trail 查阿省511。",
+      "sourceType": "市府冬季道路与步行安全指南",
+      "source": "City of Calgary；Government of Alberta",
+      "author": "City of Calgary；Government of Alberta",
+      "url": "https://www.calgary.ca/roads/conditions/sanding-plowing-priorities.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "核对到的是互动路线地图而非可直接作为文章来源卡片的静态预览图，使用文字来源卡片并提供地图链接。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/roads/conditions/sanding-plowing-priorities.html",
+        "title": "Priority Snow Plan",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hitmen-hurricanes-20261110",
+      "date": "2026-11-10",
+      "dateLabel": "11月10日·今晚出门",
+      "sourceDate": "赛事日期：2026-11-10；场馆页面未注明发布时间",
+      "verifiedAt": "2026-11-10",
+      "category": "活动与出门",
+      "categoryClass": "culture",
+      "title": "今晚7点 Hitmen 主场迎战 Hurricanes：Saddledome 场内不收现金",
+      "summary": "Calgary Hitmen 今晚7点在 Scotiabank Saddledome 对阵 Lethbridge Hurricanes。场馆称现场为无现金消费，周边停车位有限；票价和余票以售票页为准。",
+      "deck": "冰球现场对语言依赖较低；如果今晚想看一场卡城主场赛事，先确认票务和往返交通。",
+      "lede": "Calgary Hitmen 今晚在 Scotiabank Saddledome 对阵 Lethbridge Hurricanes，比赛安排在晚上7点。场馆页面提醒现场无现金交易，周边停车也有限，临出门前最好先看票务和交通。",
+      "sections": [
+        {
+          "heading": "比赛时间和地点",
+          "paragraphs": [
+            "比赛日期为11月10日，开赛时间晚上7点，地点是 Scotiabank Saddledome，地址555 Saddledome Rise SE。场馆页面链接到 Ticketmaster；本次没有核实具体票价或剩余座位。 Ticketmaster 将儿童票列为13岁以下、学生票为13至17岁；18岁以上按成人票，部分大专学生需出示学生证。"
+          ],
+          "links": [
+            {
+              "label": "Saddledome：比赛详情与官方票务入口",
+              "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-lethbridge-hurricanes-2026-11-10-700-pm/"
+            },
+            {
+              "label": "Ticketmaster：本场日期、年龄票种与售票信息",
+              "url": "https://www.ticketmaster.ca/calgary-hitmen-vs-lethbridge-hurricanes-calgary-alberta-11-10-2026/event/11006506715F3083"
+            }
+          ]
+        },
+        {
+          "heading": "进场前记得准备电子支付",
+          "paragraphs": [
+            "场馆说明为无现金场馆，餐饮、零售等柜台使用借记卡、信用卡、Apple Pay、Google Pay 或礼品卡。未来赛事门票采用手机票，入场前确认手机能打开 Ticketmaster 票券。"
+          ],
+          "links": [
+            {
+              "label": "Saddledome：无现金与手机票说明",
+              "url": "https://scotiabanksaddledome.com/cashless-payment/"
+            }
+          ]
+        },
+        {
+          "heading": "停车位有限，余票自行确认",
+          "paragraphs": [
+            "场馆提醒周边停车位有限，并建议考虑公共交通。赛事页没有标注中文服务；价格和余票会变化，请以售票页面实时显示为准。"
+          ]
+        }
+      ],
+      "takeaway": "今晚7点开赛；场馆无现金，门票以手机票为主，周边停车有限。票价和余票本次未确认，出发前请查看官方赛事与售票页面。",
+      "sourceType": "有明确日期的职业冰球赛事",
+      "source": "Calgary Hitmen；Scotiabank Saddledome",
+      "author": "Calgary Hitmen；Scotiabank Saddledome",
+      "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-lethbridge-hurricanes-2026-11-10-700-pm/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "场馆赛事页提供与Hitmen赛事相关的原始图片，来源卡片远程显示该图并链接回赛事页。"
+      },
+      "sourceEmbed": {
+        "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-lethbridge-hurricanes-2026-11-10-700-pm/",
+        "title": "Calgary Hitmen vs Lethbridge Hurricanes",
+        "publisher": "Scotiabank Saddledome",
+        "thumbnail": "https://scotiabanksaddledome.com/wp-content/uploads/2026/08/HM_Spinzo_11.jpg",
+        "thumbnailAlt": "Calgary Hitmen 赛事官方预览图"
+      }
+    },
+    {
+      "id": "beauty-and-beast-calgary-20261110",
+      "date": "2026-11-10",
+      "dateLabel": "11月10日·舞台演出",
+      "sourceDate": "主办方列出演出日期为2026-11-10至15日；页面未注明发布日期",
+      "verifiedAt": "2026-11-10",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "《美女与野兽》今晚在 Jubilee 演出：主办方未注明语言或中文字幕",
+      "summary": "Broadway Across Canada 列出今晚7:30在 Southern Alberta Jubilee Auditorium 的演出，时长约2小时30分、建议6岁以上；页面未说明演出语言或中文字幕。",
+      "deck": "这场巡演本周在卡城连续演出；如果语言会影响观演体验，先向主办方确认再决定。",
+      "lede": "Broadway Across Canada 的演出日程列出，Disney《美女与野兽》今晚7:30在 Southern Alberta Jubilee Auditorium 上演。官网给出约2小时30分、含中场休息，并建议6岁以上观众；但语言和中文字幕信息没有列出。",
+      "sections": [
+        {
+          "heading": "这周的演出安排",
+          "paragraphs": [
+            "主办方页面列出11月10日至15日多场演出，今晚一场为7:30开始，地点1415 14 Avenue NW 的 Southern Alberta Jubilee Auditorium。"
+          ],
+          "links": [
+            {
+              "label": "Broadway Across Canada：卡城演出日程",
+              "url": "https://calgary.broadway.com/shows/beauty-and-the-beast/"
+            },
+            {
+              "label": "Ticketmaster：日期与官方售票页",
+              "url": "https://www.ticketmaster.ca/disneys-beauty-and-the-beast-touring-tickets/artist/803726"
+            }
+          ]
+        },
+        {
+          "heading": "时长与年龄建议",
+          "paragraphs": [
+            "主办方写明演出约2小时30分、含一次中场休息，建议年龄为6岁及以上；所有入场观众都需要门票。价格与余票请查看官方售票页。"
+          ]
+        },
+        {
+          "heading": "语言信息没有写清楚",
+          "paragraphs": [
+            "这是一部包含对白和歌曲的舞台音乐剧，观演会涉及语言理解；但主办方当前页面没有注明演出语言，也没有说明是否提供中文字幕或中文导览。对英语对白有顾虑的读者，先联系主办方确认；本文不推断现场会提供中文服务。"
+          ]
+        }
+      ],
+      "takeaway": "演出时间是今晚7:30，建议6岁以上；主办方没有标注语言或中文字幕。先确认语言、票价和余票，再安排出门。",
+      "sourceType": "有明确日期的巡演音乐剧",
+      "source": "Broadway Across Canada；Ticketmaster",
+      "author": "Broadway Across Canada；Ticketmaster",
+      "url": "https://calgary.broadway.com/shows/beauty-and-the-beast/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "主办方网页在本次直接访问时受限，搜索结果虽显示剧照但未能核验可用的原始预览图URL，因此使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgary.broadway.com/shows/beauty-and-the-beast/",
+        "title": "Disney’s Beauty and the Beast",
+        "publisher": "Broadway Across Canada",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "remembrance-day-transit-waste-20261109",
       "date": "2026-11-09",
@@ -2308,6 +2560,122 @@
       }
     },
     {
+      "id": "school-fire-drills-home-escape-20261022",
+      "date": "2026-10-22",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "Calgary Fire Department新闻稿：2026-10-22 10:05 America/Denver",
+      "verifiedAt": "2026-11-10",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "卡城学校每学年要做6次火警演练，消防部门也提醒家庭练逃生路线",
+      "summary": "卡城消防部门称，每所学校每学年须完成6次火警演练，其中一次应由消防部门参与；市府也建议家长和孩子在家练习逃生计划。",
+      "deck": "学校演练之外，家里也要让孩子知道紧急时如何离开住所。",
+      "lede": "历史补档：卡城消防部门10月22日发布学校火警演练信息，本次在11月10日核对后补入10月22日日期组。新闻稿说，学校每学年需完成6次演练，其中一次应由 Calgary Fire Department 参与；家庭逃生计划也值得和孩子一起练习。",
+      "sections": [
+        {
+          "heading": "学校演练要求是什么",
+          "paragraphs": [
+            "市府新闻稿称，卡城所有学校每学年须完成六次火警演练，其中一次应由 Calgary Fire Department（卡城消防部门）到场参与。10月22日，消防部门与 Calgary Catholic School District 在 St. Elizabeth Seton School 进行了一次演练。"
+          ],
+          "links": [
+            {
+              "label": "卡城消防：学校火警演练计划说明",
+              "url": "https://newsroom.calgary.ca/safety-in-the-classroom-calgary-fire-appeals-to-educators-parents-and-students-for-their-continued-partnership-in-annual-school-fire-drill-program/"
+            }
+          ]
+        },
+        {
+          "heading": "家里也可以做一次简单准备",
+          "paragraphs": [
+            "市府家庭逃生计划建议每个住家确认至少两条离开路线、在屋外约定集合点，并让全家练习；住公寓或共管住宅的读者，还应了解大楼的疏散程序和警报设备位置。"
+          ],
+          "links": [
+            {
+              "label": "市府：家庭紧急行动计划与逃生路线",
+              "url": "https://www.calgary.ca/emergencies/preparedness/emergency-action-plan.html"
+            },
+            {
+              "label": "市府：家庭逃生计划",
+              "url": "https://www.calgary.ca/emergencies/preparedness/home-escape-plan.html"
+            }
+          ]
+        },
+        {
+          "heading": "一项有明确月份范围的数据",
+          "paragraphs": [
+            "同一新闻稿说，2026年9月卡城独立屋火灾数量较2025年9月增加超过28%；这是单月同比数字，不能据此推断所有住宅火灾都在增加。"
+          ]
+        }
+      ],
+      "takeaway": "如果家里有孩子，可以抽几分钟一起确认并练习逃生路线。学校演练次数及消防参与要求以市府当前页面为准。",
+      "sourceType": "消防安全与家庭准备指南",
+      "source": "Calgary Fire Department；City of Calgary",
+      "author": "Calgary Fire Department；City of Calgary",
+      "url": "https://newsroom.calgary.ca/safety-in-the-classroom-calgary-fire-appeals-to-educators-parents-and-students-for-their-continued-partnership-in-annual-school-fire-drill-program/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "新闻稿未能确认一张与本次演练直接相关且可用的预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/safety-in-the-classroom-calgary-fire-appeals-to-educators-parents-and-students-for-their-continued-partnership-in-annual-school-fire-drill-program/",
+        "title": "Safety in the classroom: Calgary Fire appeals for continued partnership in annual School Fire Drill Program",
+        "publisher": "Calgary Fire Department",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "night-light-walk-archive-20261022",
+      "date": "2026-10-22",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "Tourism Calgary活动页列出：2026-10-22 19:00；页面未注明发布日期",
+      "verifiedAt": "2026-11-10",
+      "category": "活动与出门",
+      "categoryClass": "culture",
+      "title": "Night Light Walk 活动档案：10月22日原定在西加拿大高中集合出发",
+      "summary": "Tourism Calgary日历列出一场3公里公益夜行，原定10月22日晚上7点在 Western Canada High School 出发，支持受亲密伴侣暴力影响者的本地服务；活动已过。",
+      "deck": "仅保留当时的日期、路线长度和活动目的；没有核实当晚是否如期举行或实际募款结果。",
+      "lede": "历史补档：Tourism Calgary 的活动页把 Royal LePage Shelter Foundation Night Light Walk 列为10月22日晚上7点、Western Canada High School 集合的3公里步行活动。本次于11月10日核对；活动日期已过，页面没有提供本次活动的结果。",
+      "sections": [
+        {
+          "heading": "活动页列出的安排",
+          "paragraphs": [
+            "活动页列出集合地点为 Western Canada High School，地址641 17 Ave SW；活动形式为3公里夜间步行，旨在支持受亲密伴侣暴力影响的人。"
+          ],
+          "links": [
+            {
+              "label": "Tourism Calgary：Night Light Walk活动页",
+              "url": "https://www.visitcalgary.com/events/royal-lepage-shelter-foundation-night-light-walk"
+            }
+          ]
+        },
+        {
+          "heading": "结果没有在此页面核实",
+          "paragraphs": [
+            "页面列出当年的筹款目标及受益机构，但本次没有查到本场活动是否如期举行、实际募款额或参与人数，因此不把目标写成已募到的金额。"
+          ]
+        }
+      ],
+      "takeaway": "这是一条关于10月22日原定举行的社区公益活动的档案；日期已过，实际举办和筹款结果未确认。",
+      "sourceType": "社区公益活动档案",
+      "source": "Tourism Calgary；Royal LePage Shelter Foundation",
+      "author": "Tourism Calgary；Royal LePage Benchmark",
+      "url": "https://www.visitcalgary.com/events/royal-lepage-shelter-foundation-night-light-walk",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "活动页图片资源在本次检查中加载超时，避免展示可能失效的预览图，改用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.visitcalgary.com/events/royal-lepage-shelter-foundation-night-light-walk",
+        "title": "Royal LePage Shelter Foundation Night Light Walk",
+        "publisher": "Tourism Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "calgary-city-trust-survey-20261022",
       "date": "2026-10-22",
       "dateLabel": "目标日期补档（2026-10-22）· 实际核对日期 2026-11-09",
@@ -2354,6 +2722,116 @@
         "url": "https://newsroom.calgary.ca/trust-in-the-city-reaches-highest-level-since-2018-as-resident-confidence-grows/",
         "title": "Trust in The City reaches highest level since 2018 as resident confidence grows",
         "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "scotia-place-9-avenue-traffic-20261021",
+      "date": "2026-10-21",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "市府2026年10月工程通讯；页面未标具体发布日期，交通调整原定2026-10-22起实施",
+      "verifiedAt": "2026-11-10",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "市府10月工程通讯：9 Avenue SE 车道安排从10月22日起调整",
+      "summary": "Scotia Place 工程通讯说，9 Avenue SE 交通将转到新建的北侧车道，原安排预计持续至2027年10月；6 Street 北段和一段多用途步道同期开放。",
+      "deck": "这是10月工程通讯记录的施工安排；出发前仍应查看市府实时道路与施工信息。",
+      "lede": "历史补档：市府10月的 Scotia Place 工程通讯记载，9 Avenue SE 的通行安排原定从10月22日起调整。本文在11月10日回查并按10月21日日期组补入；具体现场情况以市府实时交通信息为准。",
+      "sections": [
+        {
+          "heading": "车道安排怎样调整",
+          "paragraphs": [
+            "通讯说明，车辆会转到9 Avenue SE 新建的北侧车道通行，市府当时预计这一安排维持到2027年10月，以配合6 Street SE Underpass施工。"
+          ],
+          "links": [
+            {
+              "label": "市府：2026年10月 Scotia Place 工程通讯",
+              "url": "https://www.calgary.ca/major-projects/scotia-place/construction/project-updates/october-2026-newsletter.html"
+            }
+          ]
+        },
+        {
+          "heading": "当时通讯还列出三项变化",
+          "paragraphs": [
+            "6 Street SE 的9 Avenue以北路段将重新开放；The Confluence 西侧车道入口恢复；9 Avenue 北侧新建多用途步道开放。以上为通讯记载的计划，不替代当前的现场交通核对。"
+          ],
+          "links": [
+            {
+              "label": "市府：6 Street SE Underpass 工程信息",
+              "url": "https://www.calgary.ca/major-projects/scotia-place/6-street-southeast-underpass.html"
+            },
+            {
+              "label": "市府实时交通信息",
+              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "市府10月通讯记载9 Avenue SE车流自10月22日起转至新建北侧车道，原预计持续至2027年10月。出行请查当日道路信息，不要仅依赖历史通讯。",
+      "sourceType": "市政道路施工历史通报",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/major-projects/scotia-place/construction/project-updates/october-2026-newsletter.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "通讯内地图是工程图而非已确认适合作为来源卡片预览的通用封面，使用文字来源卡片并保留地图链接。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/major-projects/scotia-place/construction/project-updates/october-2026-newsletter.html",
+        "title": "October 2026 newsletter",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hitmen-penticton-game-archive-20261021",
+      "date": "2026-10-21",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "Calgary Hitmen赛事预告：2026-10-21 19:00；页面将赛事列为当晚赛程",
+      "verifiedAt": "2026-11-10",
+      "category": "活动与出门",
+      "categoryClass": "culture",
+      "title": "Hitmen 10月21日主场迎战 Penticton：赛事预告列出晚7点开赛",
+      "summary": "Calgary Hitmen 官方预告称，球队10月21日晚在 Scotiabank Saddledome 主场迎战 Penticton Vees，预定晚7点开赛。比赛已结束。",
+      "deck": "这是一条比赛日档案，不是未来场次或票务推荐。",
+      "lede": "历史补档：Hitmen 官方比赛预告日期为10月21日，列出当晚7点在 Scotiabank Saddledome 对阵 Penticton Vees。本次于11月10日核对；不把已过日期写成活动邀约，也不补写未经核实的赛果。",
+      "sections": [
+        {
+          "heading": "官方预告列出的赛事安排",
+          "paragraphs": [
+            "Calgary Hitmen 页面把10月21日列为主场比赛日，对手是 Penticton Vees，开赛时间为晚上7点，场地为 Scotiabank Saddledome。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Hitmen：10月21日比赛预告",
+              "url": "https://chl.ca/whl-hitmen/article/game-preview-calgary-vs-penticton-10-21-26/"
+            }
+          ]
+        },
+        {
+          "heading": "只记录赛程，不推断赛果",
+          "paragraphs": [
+            "当前文章使用的是赛前预告，未据此核实最终比分、出席人数或现场情况。比赛日期已过，本文仅作为当日活动档案保留。"
+          ]
+        }
+      ],
+      "takeaway": "这场赛事原定于2026年10月21日晚上7点举行，现已结束；本文不提供过期购票信息，也不推断赛果。",
+      "sourceType": "有明确日期的职业冰球赛事档案",
+      "source": "Calgary Hitmen",
+      "author": "Calgary Hitmen",
+      "url": "https://chl.ca/whl-hitmen/article/game-preview-calgary-vs-penticton-10-21-26/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "官方预告页的赛事预览图URL未在本次核对中单独确认，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://chl.ca/whl-hitmen/article/game-preview-calgary-vs-penticton-10-21-26/",
+        "title": "Game Preview: Calgary vs Penticton – 10.21.26",
+        "publisher": "Calgary Hitmen",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -2406,6 +2884,106 @@
         "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "ccsd-trades-field-trip-20261020",
+      "date": "2026-10-20",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "LiveWire Calgary报道日期：2026-10-20；报道所述体验活动也于2026-10-20举行",
+      "verifiedAt": "2026-11-10",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城约200名中学年龄学生走进仓库，体验9种技工岗位",
+      "summary": "LiveWire Calgary 报道，约200名卡城天主教校区学生参加实地职业体验，在东北区仓库的9个站点接触不同技工工作。",
+      "deck": "这不是招生或职业认证项目，而是一次让学生近距离认识技工工作的学校活动。",
+      "lede": "历史补档：这篇报道于10月20日发布，本次在11月10日核对后补入10月20日日期组。LiveWire Calgary 报道，约200名中学年龄学生当天到东北区参加技工职业体验。",
+      "sections": [
+        {
+          "heading": "一次走出教室的职业体验",
+          "paragraphs": [
+            "活动由 Calgary Catholic School District 学生参加，地点在 Pegasus Road NE 附近的行业仓库。报道说，学生分组走访9个岗位体验站，接触木工、电工和管道等工作。"
+          ],
+          "links": [
+            {
+              "label": "LiveWire Calgary：活动报道",
+              "url": "https://livewirecalgary.com/2026/10/20/calgary-catholic-students-get-a-taste-of-the-trades-at-hands-on-field-trip/"
+            }
+          ]
+        },
+        {
+          "heading": "报道没有提供公开报名入口",
+          "paragraphs": [
+            "文章记录的是校区组织的学生外出活动，并未列出面向公众的报名方式或下一场日期，因此不能把它当作现有职业课程推荐。对家长而言，这则本地消息显示学校如何让学生接触不同职业领域。"
+          ]
+        }
+      ],
+      "takeaway": "这是10月20日已经举行的校区活动记录，不是开放报名的课程公告；报道未提供下一场活动信息。",
+      "sourceType": "本地教育新闻",
+      "source": "LiveWire Calgary",
+      "author": "Sarah Palmer / LiveWire Calgary",
+      "url": "https://livewirecalgary.com/2026/10/20/calgary-catholic-students-get-a-taste-of-the-trades-at-hands-on-field-trip/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "LiveWire原文提供学生参与技工体验的相关照片，来源卡片远程显示该图并链接回报道。"
+      },
+      "sourceEmbed": {
+        "url": "https://livewirecalgary.com/2026/10/20/calgary-catholic-students-get-a-taste-of-the-trades-at-hands-on-field-trip/",
+        "title": "Calgary Catholic students get a taste of the trades at hands-on field trip",
+        "publisher": "LiveWire Calgary",
+        "thumbnail": "https://i0.wp.com/livewirecalgary.com/wp-content/uploads/2026/10/CCSD-Try-a-Trade-Day.jpg?resize=696%2C464&ssl=1",
+        "thumbnailAlt": "卡城天主教校区学生在技工体验活动中接触工具"
+      }
+    },
+    {
+      "id": "pumpkins-after-dark-archive-20261020",
+      "date": "2026-10-20",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-10",
+      "sourceDate": "主办方列出的活动日期：2026-09-25至2026-10-31；页面未注明发布日期",
+      "verifiedAt": "2026-11-10",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "南瓜灯季节活动档案：Pumpkins After Dark 当时在 WinSport 举办至10月31日",
+      "summary": "主办方2026年日程列出，活动于9月25日至10月31日在WinSport举行，包含灯光南瓜展示和现场雕刻演示；本季已结束。",
+      "deck": "这是一条已结束的季节活动记录，不是现在可去的推荐，也不提供售票引导。",
+      "lede": "历史补档：主办方页面把2026年卡城场次列为9月25日至10月31日，地点在WinSport、Canada Olympic Park。本次于11月10日核对，活动季已经结束。",
+      "sections": [
+        {
+          "heading": "当时的日期与地点",
+          "paragraphs": [
+            "Pumpkins After Dark 官方页面列出2026年卡城场次从9月25日持续到10月31日，地点为WinSport（Canada Olympic Park）。页面介绍了灯光南瓜展示及现场雕刻演示等内容。"
+          ],
+          "links": [
+            {
+              "label": "Pumpkins After Dark：卡城2026活动页",
+              "url": "https://pumpkinsafterdark.com/calgary"
+            }
+          ]
+        },
+        {
+          "heading": "这篇只留活动档案",
+          "paragraphs": [
+            "活动日期已过，页面当前仍展示售票和推广信息；本文不把它写成近期活动，也不保留购买引导。主办方尚未在该页面公布下一季卡城日期。"
+          ]
+        }
+      ],
+      "takeaway": "卡城2026年场次已经结束；目前可核实的是当时的日期和地点，下一季安排未确认。",
+      "sourceType": "有明确日期的季节性公共活动档案",
+      "source": "Pumpkins After Dark",
+      "author": "Pumpkins After Dark",
+      "url": "https://pumpkinsafterdark.com/calgary",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-10",
+        "reason": "主办方活动页提供与南瓜灯展示直接相关的原始图片，来源卡片远程显示该图并链接回活动档案。"
+      },
+      "sourceEmbed": {
+        "url": "https://pumpkinsafterdark.com/calgary",
+        "title": "Calgary 2026 · Pumpkins After Dark",
+        "publisher": "Pumpkins After Dark",
+        "thumbnail": "https://pumpkinsafterdark.com/wp-content/uploads/pad-originals/5ac0747e2ff0a107f67b.jpg.webp",
+        "thumbnailAlt": "Pumpkins After Dark南瓜灯展示"
       }
     },
     {
