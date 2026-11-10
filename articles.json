@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、37篇。10-28、10-29、10-30、10-31、11-01、11-02、11-03和11-09各有3篇（8组）；10-20至10-27和11-04至11-08各有1篇（13组）；仍缺26篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、40篇。11-09、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（9组）；11-08、11-07、11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（12组）；仍缺24篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -507,6 +507,174 @@
         "url": "https://newsroom.calgary.ca/water-restrictions-take-effect-nov-4-as-bearspaw-south-feeder-main-enters-final-steps-of-construction/",
         "title": "Water restrictions take effect Nov. 4 as Bearspaw South Feeder Main enters final steps of construction",
         "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "yyc-domestic-screening-expansion-20261104",
+      "date": "2026-11-04",
+      "dateLabel": "目标日期补档（2026-11-04）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-04",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "YYC 国内航班安检扩至9条通道：新增两条已开放",
+      "summary": "11月4日的本地报道说，卡尔加里机场国内航班安检区新增两条通道投入使用；机场现有项目页列出9条通道。",
+      "deck": "这次扩容改变的是国内出发旅客使用的集中安检区；机场没有承诺每位旅客的排队时间都会缩短。",
+      "lede": "从卡城搭国内航班，安检入口仍按机场现场指示走。11月4日，本地媒体报道 YYC 国内安检区新增两条通道开放；机场当前项目页显示集中安检区共有9条通道。",
+      "sections": [
+        {
+          "heading": "新增通道何时开放",
+          "paragraphs": [
+            "CityNews Calgary 于11月4日报道，国内安检区新增两条通道开放。机场管理局现行项目页列出9条通道，说明扩容后旅客通过同一个集中安检区。"
+          ],
+          "links": [
+            {
+              "label": "CityNews Calgary：新增安检通道报道（11月4日）",
+              "url": "https://calgary.citynews.ca/video/2026/11/04/more-security-screening-lanes-now-open-at-calgary-airport/"
+            },
+            {
+              "label": "YYC：Centralized Security 项目现况",
+              "url": "https://www.yyc.com/en-us/about-us/major-projects/centralized-passenger-screening"
+            }
+          ]
+        },
+        {
+          "heading": "对出行有什么实际影响",
+          "paragraphs": [
+            "机场项目页给出的通行能力约为每小时1,800至1,900名旅客。这是设施容量说明，不代表某个时段的实际等待时间；出发当天仍应查看机场的安检等待时间并按航司要求提前到场。"
+          ],
+          "links": [
+            {
+              "label": "YYC：安检等候时间与随身行李信息",
+              "url": "https://www.yyc.com/en-us/flights/security-screening"
+            }
+          ]
+        }
+      ],
+      "takeaway": "国内航班旅客可留意集中安检区的现场指引；扩容不等于保证免排队，出发前仍查 YYC 当前等待时间。",
+      "sourceType": "机场服务变化",
+      "source": "CityNews Calgary / The Calgary Airport Authority",
+      "author": "CityNews Calgary",
+      "url": "https://calgary.citynews.ca/video/2026/11/04/more-security-screening-lanes-now-open-at-calgary-airport/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "报道页面未确认有可直接对应新增通道的预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgary.citynews.ca/video/2026/11/04/more-security-screening-lanes-now-open-at-calgary-airport/",
+        "title": "More security screening lanes now open at Calgary airport",
+        "publisher": "CityNews Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "todays-special-chinatown-opening-20261104",
+      "date": "2026-11-04",
+      "dateLabel": "目标日期补档（2026-11-04）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-04",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "唐人街新咖啡馆于11月4日开始试营业，主打中式茶饮与点心",
+      "summary": "本地餐饮媒体11月4日报道，Today’s Special 在唐人街 109 2 Ave. SE 进入试营业；市府目录也列有该地址的有效餐饮营业许可。",
+      "deck": "这是一条新店进度消息，不是探店评价；报道没有提供稳定营业时间，试营业安排可能变动。",
+      "lede": "唐人街 2 Ave. SE 多了一处新开业的咖啡馆。Dished 于11月4日报道，Today’s Special 当天进入试营业，提供中式茶饮、咖啡和点心；市府目录列出的地址为 109 2 Ave. SE。",
+      "sections": [
+        {
+          "heading": "这次开业信息是什么",
+          "paragraphs": [
+            "报道将其描述为试营业阶段，并介绍这是位于唐人街的新空间。市府公开目录显示 Today’s Special Cafe 在 109 2 Ave. SE 有有效的餐饮营业许可；许可记录本身不代表市府对餐饮品质作评价。"
+          ],
+          "links": [
+            {
+              "label": "Dished：新店报道（2026年11月4日）",
+              "url": "https://dailyhive.com/calgary/todays-special-calgary"
+            },
+            {
+              "label": "卡城市府公开商户目录：Today’s Special Cafe",
+              "url": "https://www.cityofcalgary.com/directory/restaurants-dining/todays-special-cafe/"
+            },
+            {
+              "label": "创办人公开介绍与开业说明",
+              "url": "https://lnkd.in/gbnqEPiK"
+            }
+          ]
+        },
+        {
+          "heading": "营业细节仍需以店方更新为准",
+          "paragraphs": [
+            "Dished 当日报道提醒试营业期间时间可能变化。本文不列菜单或价格，也不把这条开业消息当作消费推荐；如读者需要确认目前是否营业，应先查店方最新公告。"
+          ]
+        }
+      ],
+      "takeaway": "这是唐人街一项新的餐饮开业动态；报道记录的是11月4日试营业阶段，当前营业状态和时间请以店方最新信息为准。",
+      "sourceType": "本地餐饮新开业报道",
+      "source": "Daily Hive / Dished",
+      "author": "Daily Hive / Dished",
+      "url": "https://dailyhive.com/calgary/todays-special-calgary",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "原报道配图为图库图片，未确认是该店实景或可对应报道，故不作配图。"
+      },
+      "sourceEmbed": {
+        "url": "https://dailyhive.com/calgary/todays-special-calgary",
+        "title": "Adorable new cafe serving Chinese tea and snacks opens in Calgary",
+        "publisher": "Daily Hive / Dished",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "operation-order-results-20261104",
+      "date": "2026-11-04",
+      "dateLabel": "目标日期补档（2026-11-04）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-05（行动发生于2026-11-04）",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城警方公布11月4日联合行动结果：320宗警情、165次支援转介",
+      "summary": "警方称，11月4日与市府、省级及社区伙伴开展第五次 Operation Order；当天记录320宗到场处理、10人被控及165次社会支援转介。",
+      "deck": "这是一次单日行动的官方统计；数字不能说明卡城整体治安趋势，也不能代表相关问题已解决。",
+      "lede": "卡城警方在11月5日公布，前一天展开的第五次 Operation Order 涉及警方、交通执法、市府安全团队、省级警长及社区机构。警方发布的数字同时包括执法和转介服务。",
+      "sections": [
+        {
+          "heading": "警方公布的单日数字",
+          "paragraphs": [
+            "警方原文记录行动当天到场处理320宗警情、10人被控、提出18项控罪、发出99张传票、执行170份逮捕令，并进行330次主动社区接触和165次社会支援转介。这些是该次行动的统计，不应外推成全市长期趋势。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service：第五次 Operation Order 官方通报",
+              "url": "https://newsroom.calgary.ca/fifth-safer-calgary--operation-order-continues-coordinated-response-to-crime-and-social-disorder/"
+            }
+          ]
+        },
+        {
+          "heading": "执法之外也有服务转介",
+          "paragraphs": [
+            "通报提到，合作团队也尝试把有住房或其他支持需求的人连接到相应服务。警方同时说明，单次行动无法解决复杂的犯罪与社会秩序问题；居民若要了解持续项目，应查警方后续公布。"
+          ]
+        }
+      ],
+      "takeaway": "这份通报提供的是11月4日一次行动的执法与服务转介数据，不是对卡城整体治安变化的结论。",
+      "sourceType": "警方行动结果通报",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/fifth-safer-calgary--operation-order-continues-coordinated-response-to-crime-and-social-disorder/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "原文未确认适用于本篇的具体事件预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/fifth-safer-calgary--operation-order-continues-coordinated-response-to-crime-and-social-disorder/",
+        "title": "Fifth Safer Calgary – Operation Order continues coordinated response to crime and social disorder",
+        "publisher": "Calgary Police Service",
         "thumbnail": null,
         "thumbnailAlt": null
       }
