@@ -8,8 +8,7 @@ const edition = JSON.parse(await readFile(new URL("../articles.json", import.met
 const articles = Array.isArray(edition.articles) ? edition.articles : [];
 const items = articles.map((article) => {
   const url = new URL(`?article=${encodeURIComponent(article.id)}`, siteUrl).href;
-  const description = [article.summary, `来源：${article.source || "卡村 KACUN"}`, article.url ? `原文：${article.url}` : ""]
-    .filter(Boolean).join("\n\n");
+  const description = [article.summary, `来源：${article.source || "卡村 KACUN"}`].join("\n\n");
   const date = new Date(`${article.date}T12:00:00Z`);
   return `    <item>\n      <title>${xml(article.title)}</title>\n      <link>${xml(url)}</link>\n      <guid isPermaLink="false">${xml(article.id)}</guid>\n      <pubDate>${date.toUTCString()}</pubDate>\n      <description>${xml(description)}</description>\n      <category>${xml(article.category)}</category>\n    </item>`;
 }).join("\n");
