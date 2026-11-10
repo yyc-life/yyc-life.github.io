@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、42篇。11-09、11-08、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（10组）；11-07、11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（11组）；仍缺22篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、44篇。11-09、11-08、11-07、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（11组）；11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（10组）；仍缺20篇才能达到每组3篇最低目标。11-07组现有3篇：本地资讯1篇、吃喝玩乐1篇、活动与出门1篇。历史档案仍未补齐；不以重复、广告或过期活动凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -428,6 +428,124 @@
         "publisher": "City of Calgary, Ward 2",
         "thumbnail": null,
         "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "veterans-stuff-a-truck-20261107",
+      "date": "2026-11-07",
+      "dateLabel": "目标日期补档（2026-11-07）· 实际核对日期 2026-11-09",
+      "sourceDate": "Calgary Citizen 活动预告：2026-11-04；活动安排日期：2026-11-07",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "Royal Oak 这场退伍军人物资募集，原定11月7日举行",
+      "summary": "Calgary Citizen 报道，卡城 Ypres 3rd CAV 原定于11月7日在 Royal Oak Walmart 外，为 Veterans Association Food Bank 收集食品和个人用品。活动已结束，公开页面未列实际募集数量。",
+      "deck": "这是一条当天社区募捐活动的历史记录；页面列出的是活动安排，没有公布实际募集结果。",
+      "lede": "目标日期补档：Calgary Citizen 于11月4日发布活动预告，称卡城退伍军人摩托车团体 Ypres 3rd CAV 将在11月7日为 Veterans Association Food Bank 收集食品及个人用品。活动安排在 Royal Oak Walmart 外，现已结束；预告没有提供捐赠总量。",
+      "sections": [
+        {
+          "heading": "预告中的时间与地点",
+          "paragraphs": [
+            "Calgary Citizen 列出的安排为11月7日上午9时至下午3时30分，地点是 Royal Oak Walmart，地址为 8888 Country Hills Blvd. N.W.。Ypres 3rd CAV 是一支由退伍军人组成的卡城摩托车团体。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Citizen：活动预告及地址",
+              "url": "https://calgarycitizen.com/p/stuff-a-truck-veterans-food-bank-calgary"
+            }
+          ]
+        },
+        {
+          "heading": "活动支持哪项服务",
+          "paragraphs": [
+            "预告说明，募集物资将交给 Veterans Association Food Bank。该机构为退伍军人及其家庭提供食品援助等支持。"
+          ],
+          "links": [
+            {
+              "label": "Veterans Association Food Bank：服务介绍",
+              "url": "https://veteransassociation.ca/"
+            }
+          ]
+        },
+        {
+          "heading": "这是活动安排，不是结果通报",
+          "paragraphs": [
+            "活动预告并未说明实际收到多少食品或用品，因此不能据此推断募捐成果。这篇补档只记录当时公开的日期、地点与活动目的；它不是仍在开放的捐赠点通知。"
+          ]
+        }
+      ],
+      "takeaway": "这项募捐安排在11月7日举行，现已结束；公开资料没有给出募集总量，也不能把临时活动地点当作常设捐赠点。",
+      "sourceType": "有明确日期的社区公益活动预告",
+      "source": "Calgary Citizen",
+      "author": "Calgary Citizen Team",
+      "url": "https://calgarycitizen.com/p/stuff-a-truck-veterans-food-bank-calgary",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "原文附有活动海报，但图片 CDN 请求失败，未能确认可用的预览图；不另存或复制图片，改用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgarycitizen.com/p/stuff-a-truck-veterans-food-bank-calgary",
+        "title": "Help veterans fill a truck for the Veterans Association Food Bank on Saturday",
+        "publisher": "Calgary Citizen",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "flames-ducks-recap-20261107",
+      "date": "2026-11-07",
+      "dateLabel": "目标日期补档（2026-11-07）· 实际核对日期 2026-11-09",
+      "sourceDate": "Calgary Flames 赛后稿：2026-11-07；比赛日期：2026-11-06",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "火焰队首节3比1领先，最终主场3比5负于 Anaheim Ducks",
+      "summary": "11月6日主场比赛中，Calgary Flames 首节攻入3球，之后未再得分；Anaheim Ducks 连进4球，以5比3取胜。火焰队官方称，球队主场五连胜也就此结束。",
+      "deck": "这篇回看11月6日晚的 Saddledome 比赛，不是11月7日的新赛程或购票推荐。",
+      "lede": "目标日期补档：Calgary Flames 于11月7日发布赛后稿，回顾前一晚在 Scotiabank Saddledome 对 Anaheim Ducks 的比赛。火焰队首节取得领先，但第二、三节没有进球，最终以3比5告负。",
+      "sections": [
+        {
+          "heading": "首节领先，后两节没能再得分",
+          "paragraphs": [
+            "NHL 官方比赛记录显示，Calgary 在首节打进3球；第二、三节均未得分。Anaheim 全场攻入5球，其中后续4球连续出现，最终完成反超。"
+          ],
+          "links": [
+            {
+              "label": "NHL：比赛记录与逐节数据",
+              "url": "https://www.nhl.com/scores/htmlreports/20262027/GS020264.HTM"
+            }
+          ]
+        },
+        {
+          "heading": "这是赛果回顾，不是当前活动信息",
+          "paragraphs": [
+            "Flames 官方赛后稿记录，William Stromgren、Joel Hanley 和 Joel Farabee 为 Calgary 进球；球队此前的主场五连胜止步。比赛已于11月6日晚结束，具体赛后报道和后续赛程以球队页面为准。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Flames：11月6日对 Ducks 赛后稿",
+              "url": "https://www.nhl.com/flames/news/flames-drop-decision-to-ducks"
+            }
+          ]
+        }
+      ],
+      "takeaway": "比赛于11月6日晚在卡尔加里举行，最终 Anaheim 5比3获胜；本文是历史赛果回顾，不代表球队当前赛程。",
+      "sourceType": "NHL 主场比赛赛后报道",
+      "source": "Calgary Flames / NHL",
+      "author": "Chris Wahl, CalgaryFlames.com",
+      "url": "https://www.nhl.com/flames/news/flames-drop-decision-to-ducks",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "官方赛后稿提供了与这场比赛直接相关的 NHL 图片，使用来源页远程图片 URL，不下载或复制图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/flames/news/flames-drop-decision-to-ducks",
+        "title": "Flames Drop Decision To Ducks",
+        "publisher": "Calgary Flames / NHL",
+        "thumbnail": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/prd/lhlyulsnatlocbiuhtm4.png",
+        "thumbnailAlt": "NHL 官方赛后稿中的 Flames 对 Ducks 比赛图片"
       }
     },
     {
