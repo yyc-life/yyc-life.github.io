@@ -33,6 +33,10 @@
 
 GitHub Pages 由 `.github/workflows/pages.yml` 部署。每日采编代理读取来源、独立撰写长文并更新数据后提交部署；站点是静态读者页面，不保存读者数据，也没有供人工编辑的内容管理后台。
 
+## RSS 订阅与内容合作
+
+公开 RSS 新闻源为 [`feed.xml`](https://yyc-life.github.io/feed.xml)，由 `scripts/generate-rss.mjs` 在 GitHub Pages 部署时根据 `articles.json` 自动生成。读者和内容账号可将该地址添加到支持 RSS 的阅读器或内容工作流；文章包含卡村文章链接、摘要、分类和原始来源链接。主页订阅按钮直达 RSS feed。小红书 / 微信卡尔加里内容账号合作文案：RSS 新闻频道订阅 $50 加币 / 月。
+
 ## 每日自动采编任务
 
 每日任务的提示词和排程快照保存在 [`automation/kacun-daily.prompt.md`](automation/kacun-daily.prompt.md) 与 [`automation/kacun-daily.schedule.toml`](automation/kacun-daily.schedule.toml)。提示词是编辑规则的项目内记录；实际触发由 Codex App 中的自动化 `automation` 管理。排程快照记录卡尔加里时区和每日上午 8 点；任务是否启用以 Codex App 中同名自动化的实时状态为准。修改项目内规则后，也要同步更新 Codex App 中同名自动化；不要把这两个文件当作 GitHub Actions 工作流或单独启用第二个定时任务。
