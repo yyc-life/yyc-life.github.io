@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、35篇。10-28、10-29、10-30、10-31、11-01、11-02和11-09各有3篇（7组）；10-20至10-27和11-03至11-08各有1篇（14组）；仍缺28篇才能达到每组3篇最低目标。档案尚未完整，需按各自原始来源核查补档，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、37篇。10-28、10-29、10-30、10-31、11-01、11-02、11-03和11-09各有3篇（8组）；10-20至10-27和11-04至11-08各有1篇（13组）；仍缺26篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -563,6 +563,112 @@
         "publisher": "Calgary Police Service",
         "thumbnail": null,
         "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "downtown-recreation-survey-20261103",
+      "date": "2026-11-03",
+      "dateLabel": "目标日期补档（2026-11-03）· 实际核对日期 2026-11-09",
+      "sourceDate": "发布日期未显示；调查期为2026年10月20日至11月3日",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "市府曾征询市中心居民：未来休闲与社区活动想要什么",
+      "summary": "市府的 Downtown Recreation Survey 于10月20日至11月3日开放，面向市中心居民，反馈用于规划未来的休闲与社区项目；现已截止。",
+      "deck": "这是一项已经结束的意见征询档案，不是仍可填写的问卷；它关注市中心居民希望未来有哪些休闲和社区活动。",
+      "lede": "补档说明：市府页面未显示发布日期。调查期为2026年10月20日至11月3日，现已结束；以下记录当时征询的内容与用途。",
+      "sections": [
+        {
+          "heading": "问卷想了解什么",
+          "paragraphs": [
+            "市府称，Downtown Recreation Survey 面向市中心居民，填写约需10至15分钟，征询居民对休闲活动和社区项目的意见。"
+          ],
+          "links": [
+            {
+              "label": "市府 Downtown Strategy 项目与活动页面",
+              "url": "https://www.calgary.ca/planning/downtown-strategy/programs-activities.html"
+            }
+          ]
+        },
+        {
+          "heading": "为什么这与市中心居民有关",
+          "paragraphs": [
+            "这些反馈将为未来市中心休闲及社区活动规划提供参考。对住在市中心的人来说，活动类型和社区项目是否贴近日常生活，是这类规划希望了解的意见。"
+          ]
+        },
+        {
+          "heading": "当前状态",
+          "paragraphs": [
+            "页面列出的回应期已于2026年11月3日结束；目前只能作为历史记录，不应视作仍开放的提交机会。"
+          ]
+        }
+      ],
+      "takeaway": "这项面向市中心居民的调查已截止，意见原用于帮助市府规划未来休闲与社区项目；此档案不提供现时提交途径。",
+      "sourceType": "市府居民意见征询",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/planning/downtown-strategy/programs-activities.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "市府页面未提供与该调查直接对应的故事图片，故使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/planning/downtown-strategy/programs-activities.html",
+        "title": "Downtown Strategy programs and activities",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "smashing-pumpkins-saddledome-20261103",
+      "date": "2026-11-03",
+      "dateLabel": "目标日期补档（2026-11-03）· 实际核对日期 2026-11-09",
+      "sourceDate": "页面未显示发布日期；活动日期为2026年11月3日",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Saddledome 历史演出档案：The Smashing Pumpkins 原定11月3日登台",
+      "summary": "场馆官方活动页列出 The Smashing Pumpkins 于2026年11月3日演出，并标示活动已结束；实际演出是否举行及开始时间未获独立确认。",
+      "deck": "只记录场馆页面上的排期与过期状态；这不是购票邀请、现场报道或演出评价。",
+      "lede": "补档说明：Scotiabank Saddledome 官方页面列出的活动日期为2026年11月3日，页面目前标注“THIS EVENT HAS EXPIRED”。实际演出是否举行、何时开始，未能独立确认。",
+      "sections": [
+        {
+          "heading": "场馆页面确认了什么",
+          "paragraphs": [
+            "官方活动页列出主演 The Smashing Pumpkins，活动名称为 “The Rats in a Cage Tour”，日期为2026年11月3日，并明确显示活动已过期。页面没有显示可核实的开始时间。"
+          ],
+          "links": [
+            {
+              "label": "Scotiabank Saddledome 官方活动页",
+              "url": "https://www.scotiabanksaddledome.com/events/smashing-pumpkins-the-rats-in-a-cage-tour-two-unique-sets-celebrating-mellon-collie-at-30-and-nearly-four-decades-of-unruly-hits-and-dark-treasures-2026-11-03-800-pm/"
+            }
+          ]
+        },
+        {
+          "heading": "哪些信息仍未知",
+          "paragraphs": [
+            "这份档案仅能证明场馆页面曾列出该日期和活动，并确认页面现标示已结束；没有独立资料确认演出实际发生，也不据页面地址中的字样推断开场时间。"
+          ]
+        }
+      ],
+      "takeaway": "该活动的排期日期为2026年11月3日，场馆页面已标为过期；实际演出发生与开始时间均未独立核实。",
+      "sourceType": "场馆官方活动档案",
+      "source": "Scotiabank Saddledome",
+      "author": "Scotiabank Saddledome",
+      "url": "https://www.scotiabanksaddledome.com/events/smashing-pumpkins-the-rats-in-a-cage-tour-two-unique-sets-celebrating-mellon-collie-at-30-and-nearly-four-decades-of-unruly-hits-and-dark-treasures-2026-11-03-800-pm/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "嵌入场馆官方提供、对应本场活动的宣传图；不下载或复制图片文件。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.scotiabanksaddledome.com/events/smashing-pumpkins-the-rats-in-a-cage-tour-two-unique-sets-celebrating-mellon-collie-at-30-and-nearly-four-decades-of-unruly-hits-and-dark-treasures-2026-11-03-800-pm/",
+        "title": "The Smashing Pumpkins — The Rats in a Cage Tour",
+        "publisher": "Scotiabank Saddledome",
+        "thumbnail": "https://www.scotiabanksaddledome.com/wp-content/uploads/2026/05/Static_Social-FacebookPR_1200x630_TheSmashingPumpkins_2026_Regional_ScotiabankSaddledome_1103.jpg",
+        "thumbnailAlt": "The Smashing Pumpkins 官方活动宣传图"
       }
     },
     {
@@ -1277,6 +1383,106 @@
       }
     },
     {
+      "id": "northeast-athletic-complex-groundbreaking-20261029",
+      "date": "2026-10-29",
+      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-29",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "东北体育综合设施开工：计划2029年初完工，现阶段尚未开放",
+      "summary": "市府在 8500 40 St NE 启动一项占地35英亩、投资1.7亿加元的公共体育设施建设，规划包括板球场、四个户外球场和室内场馆。",
+      "deck": "这是仍在建设中的公共设施计划；不是现在即可使用的场地。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。市府于10月29日上午发布开工消息，项目预计2029年初完工。",
+      "sections": [
+        {
+          "heading": "将建哪些设施",
+          "paragraphs": [
+            "市府公布的规划包括卡城首个可举办比赛的板球场、四个户外多用途人工草地球场，以及一座162,500平方英尺的室内场馆。项目还包括步道、绿地和游乐场。"
+          ],
+          "links": [
+            {
+              "label": "市府开工公告与项目规划",
+              "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/"
+            }
+          ]
+        },
+        {
+          "heading": "位置与时间",
+          "paragraphs": [
+            "项目地址为 8500 40 St NE，占地35英亩，市府公布的投资额为1.7亿加元。施工已经展开，预计2029年初完成；目前仍是建设项目。"
+          ]
+        }
+      ],
+      "takeaway": "东北区这项公共体育设施正在建设，规划内容和完工时间以市府项目公告为准；在正式完工开放前，不应把它当作现有场地使用。",
+      "sourceType": "市府公共设施建设公告",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
+        "title": "Northeast Athletic Complex breaks ground on new opportunities for cricket, soccer and other sports in growing Calgary communities",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "wranglers-laval-recap-20261029",
+      "date": "2026-10-29",
+      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-29",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Wranglers 主场4比2击败 Laval：一场已经结束的比赛回顾",
+      "summary": "Calgary Wranglers 于10月29日在 Scotiabank Saddledome 以4比2战胜 Laval；官方页面记录现场观众2,230人。",
+      "deck": "比赛已经结束；这是一则本地冰球赛果回顾，不是活动邀请。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。Calgary Wranglers 官方赛程记录了当晚对阵 Laval 的最终比分。",
+      "sections": [
+        {
+          "heading": "当晚赛果",
+          "paragraphs": [
+            "官方比赛页面记载，Calgary Wranglers 于10月29日晚上7时（MT）在 Scotiabank Saddledome 对阵 Laval，最终以4比2获胜。页面列出的现场观众人数为2,230。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Wranglers 官方比赛记录与赛后回顾",
+              "url": "https://www.calgarywranglers.com/game/1029213"
+            }
+          ]
+        },
+        {
+          "heading": "球队当时的战绩变化",
+          "paragraphs": [
+            "Wranglers 的10月29日赛后回顾称，球队借这场胜利重返胜利轨道，战绩来到6胜5负。以上是当晚比赛及赛后页面记录；比赛现已结束。"
+          ]
+        }
+      ],
+      "takeaway": "这场比赛已于10月29日结束，Wranglers 最终4比2取胜；此条仅作赛果存档，不含购票或商家推广。",
+      "sourceType": "官方本地冰球赛果",
+      "source": "Calgary Wranglers",
+      "author": "Calgary Wranglers",
+      "url": "https://www.calgarywranglers.com/game/1029213",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarywranglers.com/game/1029213",
+        "title": "Calgary Wranglers vs. Laval Rocket - October 29, 2026",
+        "publisher": "Calgary Wranglers",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
@@ -1603,106 +1809,6 @@
         "url": "https://www.calgarylibrary.ca/your-library/free-services",
         "title": "Free Services",
         "publisher": "Calgary Public Library",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "northeast-athletic-complex-groundbreaking-20261029",
-      "date": "2026-10-29",
-      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
-      "sourceDate": "2026-10-29",
-      "verifiedAt": "2026-11-09",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "东北体育综合设施开工：计划2029年初完工，现阶段尚未开放",
-      "summary": "市府在 8500 40 St NE 启动一项占地35英亩、投资1.7亿加元的公共体育设施建设，规划包括板球场、四个户外球场和室内场馆。",
-      "deck": "这是仍在建设中的公共设施计划；不是现在即可使用的场地。",
-      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。市府于10月29日上午发布开工消息，项目预计2029年初完工。",
-      "sections": [
-        {
-          "heading": "将建哪些设施",
-          "paragraphs": [
-            "市府公布的规划包括卡城首个可举办比赛的板球场、四个户外多用途人工草地球场，以及一座162,500平方英尺的室内场馆。项目还包括步道、绿地和游乐场。"
-          ],
-          "links": [
-            {
-              "label": "市府开工公告与项目规划",
-              "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/"
-            }
-          ]
-        },
-        {
-          "heading": "位置与时间",
-          "paragraphs": [
-            "项目地址为 8500 40 St NE，占地35英亩，市府公布的投资额为1.7亿加元。施工已经展开，预计2029年初完成；目前仍是建设项目。"
-          ]
-        }
-      ],
-      "takeaway": "东北区这项公共体育设施正在建设，规划内容和完工时间以市府项目公告为准；在正式完工开放前，不应把它当作现有场地使用。",
-      "sourceType": "市府公共设施建设公告",
-      "source": "City of Calgary Newsroom",
-      "author": "City of Calgary Newsroom",
-      "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-09",
-        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
-        "title": "Northeast Athletic Complex breaks ground on new opportunities for cricket, soccer and other sports in growing Calgary communities",
-        "publisher": "City of Calgary Newsroom",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "wranglers-laval-recap-20261029",
-      "date": "2026-10-29",
-      "dateLabel": "目标日期补档（2026-10-29）· 实际核对日期 2026-11-09",
-      "sourceDate": "2026-10-29",
-      "verifiedAt": "2026-11-09",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "Wranglers 主场4比2击败 Laval：一场已经结束的比赛回顾",
-      "summary": "Calgary Wranglers 于10月29日在 Scotiabank Saddledome 以4比2战胜 Laval；官方页面记录现场观众2,230人。",
-      "deck": "比赛已经结束；这是一则本地冰球赛果回顾，不是活动邀请。",
-      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月29日日期组。Calgary Wranglers 官方赛程记录了当晚对阵 Laval 的最终比分。",
-      "sections": [
-        {
-          "heading": "当晚赛果",
-          "paragraphs": [
-            "官方比赛页面记载，Calgary Wranglers 于10月29日晚上7时（MT）在 Scotiabank Saddledome 对阵 Laval，最终以4比2获胜。页面列出的现场观众人数为2,230。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Wranglers 官方比赛记录与赛后回顾",
-              "url": "https://www.calgarywranglers.com/game/1029213"
-            }
-          ]
-        },
-        {
-          "heading": "球队当时的战绩变化",
-          "paragraphs": [
-            "Wranglers 的10月29日赛后回顾称，球队借这场胜利重返胜利轨道，战绩来到6胜5负。以上是当晚比赛及赛后页面记录；比赛现已结束。"
-          ]
-        }
-      ],
-      "takeaway": "这场比赛已于10月29日结束，Wranglers 最终4比2取胜；此条仅作赛果存档，不含购票或商家推广。",
-      "sourceType": "官方本地冰球赛果",
-      "source": "Calgary Wranglers",
-      "author": "Calgary Wranglers",
-      "url": "https://www.calgarywranglers.com/game/1029213",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-09",
-        "reason": "未确认可用于本篇的相关预览图片，使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.calgarywranglers.com/game/1029213",
-        "title": "Calgary Wranglers vs. Laval Rocket - October 29, 2026",
-        "publisher": "Calgary Wranglers",
         "thumbnail": null,
         "thumbnailAlt": null
       }
