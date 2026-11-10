@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-09",
   "updatedLabel": "2026年11月9日（历史档案盘点）",
-  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、40篇。11-09、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（9组）；11-08、11-07、11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（12组）；仍缺24篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
+  "editionNote": "历史档案未达标（盘点日 2026-11-09）：2026-10-20 至 2026-11-09 共21个日期组、42篇。11-09、11-08、11-04、11-03、11-02、11-01、10-31、10-30、10-29、10-28各有至少3篇（10组）；11-07、11-06、11-05、10-27、10-26、10-25、10-24、10-23、10-22、10-21、10-20各有1篇（11组）；仍缺22篇才能达到每组3篇最低目标。档案尚未完整，研究与来源核查仍在继续，不复制新闻、活动或商家内容凑数。",
   "articles": [
     {
       "id": "remembrance-day-transit-waste-20261109",
@@ -219,6 +219,57 @@
       }
     },
     {
+      "id": "se-17-avenue-strip-mall-fire-20261108",
+      "date": "2026-11-08",
+      "dateLabel": "目标日期补档（2026-11-08）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-09",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "东南区17 Avenue SE 商场火灾：市府确认起火点在建筑外部",
+      "summary": "消防部门称，11月8日晚接报后，强风助火势蔓延至屋顶及建筑其他部分；无人受伤，建筑严重受损，起火原因仍在调查。",
+      "deck": "这是11月9日发布的事后通报，回顾前一晚的火灾，并非当前警报；市府尚未公布起火原因。",
+      "lede": "历史补档：这篇回顾11月8日晚火灾的报告于11月9日发布，并非当前警报。City of Calgary 表示，消防人员约在周日晚上7时15分接报，前往17 Avenue SE 4900号街区的一处建筑火灾。",
+      "sections": [
+        {
+          "heading": "强风助火势沿建筑蔓延",
+          "paragraphs": [
+            "市府称，现场是一层楼的商业排屋，消防人员到场时看到浓烟和火焰。强风使火势迅速蔓延至屋顶，并沿建筑进一步扩散。",
+            "火势也蔓延到一根电线杆及架空线路；ENMAX 切断了架空电力。"
+          ],
+          "links": [
+            {
+              "label": "City of Calgary Fire 原始通报",
+              "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-17th-avenue-se-fire/"
+            }
+          ]
+        },
+        {
+          "heading": "无人受伤，原因仍待调查",
+          "paragraphs": [
+            "消防部门报告无人受伤，建筑严重受损，数家商户受到影响。调查人员确认起火点位于建筑外部，但起火原因仍在调查中；通报没有公布受影响商户名称。"
+          ]
+        }
+      ],
+      "takeaway": "目前可确认的是火灾发生经过、建筑受损及调查仍在进行；这则事后通报没有说明当前现场状态，也没有确认起火原因。",
+      "sourceType": "消防部门火灾通报",
+      "source": "City of Calgary Fire",
+      "author": "City of Calgary Fire",
+      "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-17th-avenue-se-fire/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未核实到与本篇通报对应的原始预览图片，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-17th-avenue-se-fire/",
+        "title": "Calgary Fire responds to 17th Avenue SE fire",
+        "publisher": "City of Calgary Fire",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "diwali-fireworks-follow-up-20261108",
       "date": "2026-11-08",
       "dateLabel": "目标日期补档（2026-11-08）· 实际核对日期 2026-11-09",
@@ -268,6 +319,63 @@
         "url": "https://newsroom.calgary.ca/city-thanks-community-for-helping-make-diwali-celebrations-safe/",
         "title": "City thanks community for helping make Diwali celebrations safe",
         "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "flames-flyers-overtime-recap-20261108",
+      "date": "2026-11-08",
+      "dateLabel": "目标日期补档（2026-11-08）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-11-09",
+      "verifiedAt": "2026-11-09",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "火焰队加时4比3逆转费城：Coronato 加时制胜",
+      "summary": "Calgary Flames 于11月8日在主场以4比3加时击败 Philadelphia Flyers；Matt Coronato 在加时赛4分08秒进球。",
+      "deck": "这是11月9日发布的比赛回顾，记录前一晚的赛果，不是即将举行的活动信息。",
+      "lede": "历史补档：这篇比赛回顾于2026年11月9日发布，讲述11月8日在 Scotiabank Saddledome 进行的比赛，并非未来活动预告。Calgary Flames 以4比3加时战胜 Philadelphia Flyers。",
+      "sections": [
+        {
+          "heading": "三度落后，最终拖入加时",
+          "paragraphs": [
+            "Flames 官方回顾称，Calgary 三次面对一球落后，最终追平比分并在加时取胜。Matt Coronato 在加时赛4分08秒打入制胜球。",
+            "Calgary 其余进球来自 Zayne Parekh、Zach Whitecloud 和 Joel Farabee。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Flames 官方比赛回顾",
+              "url": "https://www.nhl.com/flames/news/flames-rally-to-beat-flyers-in-ot"
+            }
+          ]
+        },
+        {
+          "heading": "官方赛果记录",
+          "paragraphs": [
+            "NHL 官方比赛记录确认，比赛日期为周日11月8日，最终 Philadelphia 3、Calgary 4；比赛在 Scotiabank Saddledome 举行。Devin Cooley 为 Calgary 完成32次扑救。"
+          ],
+          "links": [
+            {
+              "label": "NHL 官方比赛记录",
+              "url": "https://www.nhl.com/scores/htmlreports/20262027/ES020281.HTM"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这场11月8日的比赛已结束；Flames 官方回顾记载了追平过程与加时制胜球，NHL 比赛记录确认最终比分。",
+      "sourceType": "职业冰球比赛回顾",
+      "source": "Calgary Flames；NHL",
+      "author": "Calgary Flames",
+      "url": "https://www.nhl.com/flames/news/flames-rally-to-beat-flyers-in-ot",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "未核实到与本篇比赛回顾对应的原始预览图片，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/flames/news/flames-rally-to-beat-flyers-in-ot",
+        "title": "Flames rally to beat Flyers in OT",
+        "publisher": "Calgary Flames",
         "thumbnail": null,
         "thumbnailAlt": null
       }
