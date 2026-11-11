@@ -2599,48 +2599,48 @@
       "id": "kensington-halloween-dance-archive-20261024",
       "date": "2026-10-24",
       "dateLabel": "目标日期补档 · 实际核对日期 2026-11-11",
-      "sourceDate": "活动日期：2026-10-24；主办方档案于2026-11-11回查",
+      "sourceDate": "Run Calgary 页面未注明发布日期；活动日期：2026-10-24；于2026-11-11回查",
       "verifiedAt": "2026-11-11",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "回看10月24日：Kensington 社区礼堂办过一场家庭万圣节舞会",
-      "summary": "Kensington Community League 档案列出10月24日下午5至9点的家庭舞会；每人5加元、5岁及以下免费。活动已结束。",
-      "deck": "这是社区组织举办的一次性活动记录，档案补入10月24日日期组；不是现在仍可购票的活动。",
-      "lede": "补档说明：这条活动记录于2026年11月11日回查主办方档案后补入10月24日日期组。活动已结束，页面中的售票时间也已过去。",
+      "title": "回看10月24日：Dash of Doom 在 North Glenmore Park 举行",
+      "summary": "Run Calgary 的家庭万圣节跑步活动于10月24日下午在 North Glenmore Park 举行，包含儿童赛、5公里和10公里组及赛前节庆；活动已结束。",
+      "deck": "这是一场有明确日期和赛程的卡城户外活动档案，不是近期邀约；主办方页面未注明发布日期。",
+      "lede": "补档说明：Run Calgary 页面记录 Dash of Doom 于2026年10月24日在 North Glenmore Park 举行。活动已结束；页面没有标出发布日期，因此这里只把10月24日作为活动日期，核对日期为2026年11月11日。",
       "sections": [
         {
-          "heading": "当时的时间和地点",
+          "heading": "当时的赛程和地点",
           "paragraphs": [
-            "主办方列出的活动时间是10月24日下午5点至9点，地点为 Kensington Community Hall（12130 134B Ave NW）。页面当时标价每人5加元，5岁及以下免费，并说明当天不现场售票。"
+            "Run Calgary 列出的活动日期为10月24日，活动页面时间标为下午2:15，地点是 North Glenmore Park。当天赛程包括下午2:15狗狗服装巡游、2:45儿童赛起跑，以及3:30起分波进行的5公里和10公里项目。"
           ]
         },
         {
-          "heading": "只作历史记录",
+          "heading": "亲子与宠物友好的赛事活动",
           "paragraphs": [
-            "页面把它列为 DJ 舞会和家庭活动。本文不把社区活动页面当成近期邀约，也不沿用已过期的售票信息。"
+            "主办方介绍这场活动面向家庭，参赛者可跑步、步行或使用行动辅助设备参加；现场还安排赛前万圣节活动。Run Calgary 的活动页明确列出 North Glenmore Park，主办方赛事列表也将该场地与10月24日赛事对应。活动已结束，本文仅作历史记录。"
           ],
           "links": [
             {
-              "label": "Kensington Community League 活动档案",
-              "url": "https://kensingtoncl.ca/events-archive/halloween-dance/"
+              "label": "Run Calgary：Dash of Doom 活动详情与赛程",
+              "url": "https://runyyc.ca/races/dash-of-doom/"
             }
           ]
         }
       ],
-      "takeaway": "活动已结束；当时票价和售票规则仅作历史记录，不能用于当前购票。",
-      "sourceType": "补档社区活动记录",
-      "source": "Kensington Community League",
-      "author": "Kensington Community League",
-      "url": "https://kensingtoncl.ca/events-archive/halloween-dance/",
+      "takeaway": "活动已结束；页面所列日期、地点与赛程均为历史信息，不是当前报名或出行邀请。",
+      "sourceType": "补档赛事与社区活动记录",
+      "source": "Run Calgary",
+      "author": "Run Calgary",
+      "url": "https://runyyc.ca/races/dash-of-doom/",
       "imageAttempt": {
         "status": "text-source-card",
         "checkedAt": "2026-11-11",
-        "reason": "原文页面未确认有与本文直接对应、可合法稳定远程显示的预览图；使用纯文字来源卡片。"
+        "reason": "主办方页面有赛事照片，但未确认其为可用于来源卡片的远程预览缩略图；不引用无关或权利不明图片，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
-        "url": "https://kensingtoncl.ca/events-archive/halloween-dance/",
-        "title": "Halloween Dance",
-        "publisher": "Kensington Community League",
+        "url": "https://runyyc.ca/races/dash-of-doom/",
+        "title": "Dash of Doom",
+        "publisher": "Run Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       }
