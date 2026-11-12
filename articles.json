@@ -1,8 +1,242 @@
 {
-  "updatedAt": "2026-11-11",
-  "updatedLabel": "2026年11月11日（每日采编及三组历史补档）",
+  "updatedAt": "2026-11-12",
+  "updatedLabel": "2026年11月12日（每日采编及三组历史补档）",
   "editionNote": "历史档案盘点（截至2026-11-11）：2026-10-20至2026-11-11共23个日期组、59篇。已达每组至少3篇的日期组15个；未达标8组：10-26、10-27、10-28、11-05、11-06、11-07、11-09、11-10，距离最低3篇合计还差12篇。今日11-11为4篇（资讯2、吃喝玩乐2）；本次最早三组10-23、10-24、10-25现各3篇（资讯2、吃喝玩乐1）。新增历史指南和已结束活动/赛事档案均标注实际核对日期2026-11-11，不作近期邀约。下一轮优先补档10-26至10-28。",
   "articles": [
+    {
+      "id": "calgary-fire-advisory-nov2026",
+      "date": "2026-11-12",
+      "dateLabel": "今天 · 生活提醒",
+      "sourceDate": "City of Calgary 公告：2026-11-10；截至2026-11-12，消防新闻列表未见后续撤销公告",
+      "verifiedAt": "2026-11-12",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城发出火险提示：后院烧火前先看风和周边枯叶",
+      "summary": "市府11月10日因干燥、偏暖和有风预报发出火险提示。公告没有新增禁火限制，但建议考虑暂缓娱乐性明火。",
+      "deck": "这不是禁火令，但风大、草叶干的时候，一点火星也可能惹麻烦。",
+      "lede": "市府消防部门11月10日发布火险提示，理由是持续干燥、气温高于季节平均并有风。公告没有新增禁火限制；截至11月12日，消防新闻列表仍把这则公告列为最新火险公告。市府状态页没有在文字中显示动态提示状态，点火前仍应再查当前页面。",
+      "sections": [
+        {
+          "heading": "提示不是禁火令",
+          "paragraphs": [
+            "市府说，火险提示是提醒居民额外小心，并未像限制或禁火令那样新增禁止项目。公告建议在条件改善前考虑暂停娱乐性生火。"
+          ]
+        },
+        {
+          "heading": "如果要用明火，先把周边收拾好",
+          "paragraphs": [
+            "避开大风时段，远离干草、落叶和其他易燃物；火不能无人看管，结束后要确认完全熄灭。公告还提醒，火盆与地界线及可燃物至少保持3米。"
+          ]
+        },
+        {
+          "heading": "出门前核对实时状态",
+          "paragraphs": [
+            "火险等级可能随天气和供水情况变化。市府消防新闻列表截至11月12日未见撤销公告，但这不等于页面明确确认提示仍在生效；准备生火前请查看市府当前状态。"
+          ],
+          "links": [
+            {
+              "label": "市府火险状态与等级说明",
+              "url": "https://www.calgary.ca/safety/fire-bans.html"
+            },
+            {
+              "label": "市府11月10日火险公告",
+              "url": "https://newsroom.calgary.ca/the-city-of-calgary-issues-fire-advisory-november/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "市府11月10日发出火险提示、没有新增禁火限制；是否仍有效及具体用火规则，以市府当前页面为准。",
+      "sourceType": "市府消防安全公告",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/the-city-of-calgary-issues-fire-advisory-november/",
+      "sourceTitle": "The City of Calgary Issues Fire Advisory",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/the-city-of-calgary-issues-fire-advisory-november/",
+        "title": "The City of Calgary Issues Fire Advisory",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-housing-review-q3-2026-nov12",
+      "date": "2026-11-12",
+      "dateLabel": "今天 · 本地资讯",
+      "sourceDate": "City of Calgary《Housing Review · Third Quarter 2026》署名日期：2026-11-02；统计期：2026年第三季度",
+      "verifiedAt": "2026-11-12",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城三季度开工住房同比增6.3%，但今年累计开工仍少于去年",
+      "summary": "市府第三季度住房报告记录5,515套新开工、24,236套在建；不过今年前三季度开工数低于去年同期。",
+      "deck": "开工数字上扬是供给端信号，离真正能入住还有一段路。",
+      "lede": "卡城市府11月2日发布的第三季度住房报告显示，Q3共有5,515套住房开工，比去年同期多6.3%，是有记录以来最高的第三季度。与此同时，2026年前三季度累计开工15,503套，仍低于2025年同期的17,342套。",
+      "sections": [
+        {
+          "heading": "季度表现亮眼，年内累计仍落后",
+          "paragraphs": [
+            "报告列出Q3在建住房24,236套，同比增加8.4%；其中公寓占77%。但前三季度开工数同比下降，季度新高不代表全年趋势已经反转。"
+          ]
+        },
+        {
+          "heading": "开工不等于马上多出出租房",
+          "paragraphs": [
+            "“开工”和“在建”是建设进度指标，并不代表这些单位已完工、开放租赁或能立刻缓解某个社区的住房压力。报告还记录，前三季度获准入住的单位约19,000套，少于去年同期约21,000套。"
+          ]
+        },
+        {
+          "heading": "看完整报告里的口径",
+          "paragraphs": [
+            "报告综合市府、CMHC、CREB、加拿大统计局等数据。租房或买房时，仍要查看具体房源和最新市场信息，不能只用开工数字推断租金或房价。"
+          ],
+          "links": [
+            {
+              "label": "市府《2026年第三季度住房报告》",
+              "url": "https://www.calgary.ca/content/dam/www/cfod/finance/documents/corporate-economics/housing-review/housing-review-q3-2026.pdf"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Q3住房开工增加，但年初至今累计开工和获准入住数量都低于去年同期；这些指标不等于现成出租房。",
+      "sourceType": "市府季度住房数据报告",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/content/dam/www/cfod/finance/documents/corporate-economics/housing-review/housing-review-q3-2026.pdf",
+      "sourceTitle": "Housing Review | Third Quarter 2026",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/content/dam/www/cfod/finance/documents/corporate-economics/housing-review/housing-review-q3-2026.pdf",
+        "title": "Housing Review | Third Quarter 2026",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "grey-cup-thursday-concert-20261112",
+      "date": "2026-11-12",
+      "dateLabel": "今天 · 活动与出门",
+      "sourceDate": "活动日期：2026-11-12；主办方页面已列具体场次",
+      "verifiedAt": "2026-11-12",
+      "category": "活动与出门",
+      "categoryClass": "culture",
+      "title": "今晚 Stampede Park 有 Grey Cup 音乐会：18岁以上，站席为主",
+      "summary": "The Strumbellas 和 Alan Doyle 今晚在 Big Four Roadhouse 演出，主办方列出开门及演出时间、票价和18岁以上限制。",
+      "deck": "适合想听现场乐队、也能接受英文演出和站席的人；票量没有在页面说明。",
+      "lede": "Grey Cup Festival 周四音乐会定于11月12日晚在 Stampede Park 的 Big Four Roadhouse 举行。The Strumbellas 预计7:30登台，Alan Doyle 约9点演出；官方将活动标为18岁以上。",
+      "sections": [
+        {
+          "heading": "时间和地点",
+          "paragraphs": [
+            "场馆6:30开门，音乐会7:30至10:30，地址是1801 Big Four Trail SE。活动为普通站席，后方有少量先到先坐的位置。"
+          ]
+        },
+        {
+          "heading": "票价与入场安排",
+          "paragraphs": [
+            "主办方列出的普通票为75加元、VIP为125加元，均未含税费；活动不允许离场后重新入场。页面没有显示实时余票，出发前请在主办方或售票页面确认。"
+          ]
+        },
+        {
+          "heading": "语言信息没有写明",
+          "paragraphs": [
+            "主办方页面没有说明演出或现场主持语言，也没有中文服务信息；不要把它当作中文活动。"
+          ],
+          "links": [
+            {
+              "label": "Grey Cup Festival 主办方场次与票务信息",
+              "url": "https://www.greycupfestival.ca/events/view/4/thursday-night-concert-presented-by-ticketmaster-headlined-by-alan-doyle-featuring-the-strumbellas/"
+            },
+            {
+              "label": "Tourism Calgary 活动页",
+              "url": "https://www.visitcalgary.com/events/thursday-night-concert"
+            }
+          ]
+        }
+      ],
+      "takeaway": "今晚7:30至10:30，Big Four Roadhouse；18岁以上、站席为主。余票与税费请以售票页面实时信息为准。",
+      "sourceType": "有日期的现场音乐活动",
+      "source": "Grey Cup Festival；Tourism Calgary",
+      "author": "Grey Cup Festival",
+      "url": "https://www.greycupfestival.ca/events/view/4/thursday-night-concert-presented-by-ticketmaster-headlined-by-alan-doyle-featuring-the-strumbellas/",
+      "sourceTitle": "Thursday Night Concert presented by Ticketmaster, headlined by Alan Doyle featuring The Strumbellas",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.greycupfestival.ca/events/view/4/thursday-night-concert-presented-by-ticketmaster-headlined-by-alan-doyle-featuring-the-strumbellas/",
+        "title": "Thursday Night Concert presented by Ticketmaster, headlined by Alan Doyle featuring The Strumbellas",
+        "publisher": "Grey Cup Festival；Tourism Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "inglewood-holiday-night-market-20261113",
+      "date": "2026-11-12",
+      "dateLabel": "今天 · 周末去哪",
+      "sourceDate": "主办方列出的活动日期：2026-11-13、2026-11-14",
+      "verifiedAt": "2026-11-12",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "周五、周六 Inglewood 夜市回到 Crossroads：下午4点开到9点",
+      "summary": "Inglewood Holiday Night Market 本周五、周六在 Crossroads Market 的 Quonset 举行，主办方列出门票价格、时段和儿童长者免票条件。",
+      "deck": "这是有明确日期的夜市活动；想去的话先记下地址和入场费用。",
+      "lede": "Inglewood Holiday Night Market 将于11月13日和14日在 Crossroads Market 的 The Quonset 举行。主办方列出周五、周六下午4点至晚9点，现场有本地摊位和音乐。",
+      "sections": [
+        {
+          "heading": "时间、地点和入场",
+          "paragraphs": [
+            "活动地址为1235 26 Avenue SE，主办方公布的入场费是5加元；65岁及以上长者和12岁以下儿童免票。"
+          ]
+        },
+        {
+          "heading": "出门前确认当日安排",
+          "paragraphs": [
+            "主办方介绍有60多个摊位及现场音乐，但没有在这份活动公告中列出每个时段的演出表。想确认当天交通或现场变动，可回到主办方页面查看。"
+          ],
+          "links": [
+            {
+              "label": "Inglewood Night Market 主办方活动信息",
+              "url": "https://www.inglewoodnightmarket.ca/"
+            },
+            {
+              "label": "主办方节日夜市详情",
+              "url": "https://www.inglewoodnightmarket.ca/pages/holiday-vendor-registration"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月13、14日下午4点至晚9点，Crossroads Market 的 The Quonset；入场5加元，12岁以下与65岁以上免票。",
+      "sourceType": "有明确日期的社区夜市活动",
+      "source": "Inglewood Night Market",
+      "author": "Inglewood Night Market",
+      "url": "https://www.inglewoodnightmarket.ca/",
+      "sourceTitle": "Inglewood Holiday Night Market",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.inglewoodnightmarket.ca/",
+        "title": "Inglewood Holiday Night Market",
+        "publisher": "Inglewood Night Market",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
@@ -52,128 +286,6 @@
       "sourceEmbed": {
         "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
         "title": "Stage 4 water restrictions in effect",
-        "publisher": "City of Calgary",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "remembrance-day-transit-roads-nov11-2026",
-      "date": "2026-11-11",
-      "dateLabel": "今天 · 生活提醒",
-      "sourceDate": "City of Calgary Remembrance Day 公告：2026-11-10；适用日期：2026-11-11",
-      "verifiedAt": "2026-11-11",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "今天去市中心先查路线：公交按周六班次，Memorial Drive 封到下午1点",
-      "summary": "11月11日公交按周六服务水平运行；纪念日活动期间 Memorial Drive 一段路上午封闭，独立屋垃圾收集日不变。",
-      "deck": "今天不只是部分机构休息，公交、道路和垃圾车安排也不同；尤其经过市中心北侧，出门前留意封路时间。",
-      "lede": "今天是 Remembrance Day（阵亡将士纪念日）。卡城公交按周六服务水平运行；市府列出的 Memorial Drive 封路持续到下午1点。独立屋垃圾车收集日照常，多户住宅和私人服务商安排可能不同。",
-      "sections": [
-        {
-          "heading": "公交按周六班次运行",
-          "paragraphs": [
-            "Calgary Transit 表示，公交、CTrain 和 On Demand 按周六服务水平运行。符合条件的退伍军人（穿制服或持退伍军人身份证明）及随行家人可免费乘车；这不是面向所有乘客的免费日。出门前请用行程规划器核对自己的班次。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Transit 当日服务说明",
-              "url": "https://www.calgarytransit.com/news/remembrance-day-2026.html"
-            }
-          ]
-        },
-        {
-          "heading": "Memorial Drive 仍在活动封路时段",
-          "paragraphs": [
-            "市府公告列出，11月11日上午9点至下午1点，Memorial Drive 从 4 Street NE 到 10 Street NW 全线封闭。截至卡村中午核对，这段封路仍在公告时段内；实时交通情况可能变化，开车前再查一次。"
-          ],
-          "links": [
-            {
-              "label": "市府特别活动封路列表",
-              "url": "https://www.calgary.ca/roads/conditions/special-event-advisories.html"
-            },
-            {
-              "label": "市府实时路况",
-              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
-            }
-          ]
-        },
-        {
-          "heading": "独立屋垃圾收集日不变",
-          "paragraphs": [
-            "市府2026假日收集表把11月11日列为“无变化”。多户住宅、商业垃圾或由私人公司收运的物业，需向物业管理方或服务商确认。"
-          ],
-          "links": [
-            {
-              "label": "市府假日垃圾车时间表",
-              "url": "https://www.calgary.ca/waste/residential/holiday-waste-cart-pickup-schedule.html"
-            }
-          ]
-        }
-      ],
-      "takeaway": "公交查周六班次；退伍军人免费乘车有资格条件；Memorial Drive 公告封闭到下午1点。其他物业的垃圾安排请单独确认。",
-      "sourceType": "市府与 Calgary Transit 当日公共服务公告",
-      "source": "City of Calgary；Calgary Transit",
-      "author": "City of Calgary；Calgary Transit",
-      "url": "https://newsroom.calgary.ca/city-services-remembrance-day-2026/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-11",
-        "reason": "官方页面没有确认到适合代表这条内容的原文预览图；使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/city-services-remembrance-day-2026/",
-        "title": "City Services: Remembrance Day 2026",
-        "publisher": "City of Calgary；Calgary Transit",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "remembrance-day-free-skate-swim-nov11-2026",
-      "date": "2026-11-11",
-      "dateLabel": "今天 · 活动与出门",
-      "sourceDate": "City of Calgary 公告：2026-11-10；活动日期：2026-11-11",
-      "verifiedAt": "2026-11-11",
-      "category": "活动与出门",
-      "categoryClass": "culture",
-      "title": "今天下午有免费家庭游泳和滑冰：先看好时段与场馆",
-      "summary": "市府只在11月11日安排两轮免费家庭滑冰和游泳；滑冰场与泳池地点不同，游泳每人限选一个时段。",
-      "deck": "如果今天不打算去纪念仪式，下午还有市府安排的免费家庭活动；出门前确认自己选的是泳池还是冰场。",
-      "lede": "今天下午，市府开放几处场馆供家庭免费游泳或滑冰。时段和地址各不相同，而且部分第一轮很快就开始；现在出发前先确认交通与场馆信息。",
-      "sections": [
-        {
-          "heading": "免费滑冰：Shouldice 和 Ernie Starr",
-          "paragraphs": [
-            "两场时段为下午1:00–2:15、2:30–3:45，地点是 Shouldice Arena（1515 Home Rd NW）和 Ernie Starr Arena（4808 14 Ave SE）。市府说明现场不提供装备租借；年龄限制和场地余量没有在公告中标明。"
-          ]
-        },
-        {
-          "heading": "免费游泳：三处泳池，每人选一轮",
-          "paragraphs": [
-            "游泳时段是下午1:00–2:30或3:00–4:30，地点为 Bob Bahan（4812 14 Ave SE）、Foothills（2915 24 Ave NW）和 Shouldice Aquatic Centre（5303 Bowness Rd NW）。市府请每人只参加一个时段；第一轮结束时泳池可能清场换场。"
-          ],
-          "links": [
-            {
-              "label": "市府 Remembrance Day 场馆与时段说明",
-              "url": "https://newsroom.calgary.ca/city-services-remembrance-day-2026/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "今天免费家庭活动只限指定场馆和时段；游泳每人选一轮，去滑冰记得自备装备。",
-      "sourceType": "市府节日限定公共休闲活动",
-      "source": "City of Calgary",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/city-services-remembrance-day-2026/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-11",
-        "reason": "官方页面没有确认到适合代表这条内容的原文预览图；使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/city-services-remembrance-day-2026/",
-        "title": "City Services: Remembrance Day 2026",
         "publisher": "City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -2094,6 +2206,57 @@
       }
     },
     {
+      "id": "battle-of-alberta-recap-archive-20261028",
+      "date": "2026-10-28",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-12",
+      "sourceDate": "比赛日期：2026-10-28；Calgary Flames赛后报道发布于2026-10-29",
+      "verifiedAt": "2026-11-12",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "补档｜10月28日 Battle of Alberta，Flames 客场0比4负于 Oilers",
+      "summary": "Calgary Flames官方赛后报道记载，10月28日在埃德蒙顿进行的本季首场Battle of Alberta由Oilers以4比0取胜。",
+      "deck": "一条已经结束的省内对决赛果记录，不是下一场赛事预告。",
+      "lede": "历史补档：Calgary Flames于10月29日发布赛后回顾，记录球队前一晚在埃德蒙顿以0比4不敌Oilers。本次于11月12日核对，比赛及文中赛后安排均已结束。",
+      "sections": [
+        {
+          "heading": "赛果与比赛地点",
+          "paragraphs": [
+            "Flames官方报道确认，比赛于10月28日在Edmonton的Rogers Place举行，Oilers以4比0获胜。门将Tristan Jarry完成24次扑救。"
+          ]
+        },
+        {
+          "heading": "比赛档案，不延伸成伤病结论",
+          "paragraphs": [
+            "赛后报道提到两名Calgary球员曾提前离场，但未在该页给出后续诊断。本文不推断伤势或复出时间，也不提供过期赛程信息。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Flames官方赛后报道",
+              "url": "https://www.nhl.com/flames/news/topic/game-day/flames-fall-to-oilers-28-10-26"
+            }
+          ]
+        }
+      ],
+      "takeaway": "10月28日首场Battle of Alberta由Oilers以4比0取胜；本文为赛后历史档案。",
+      "sourceType": "职业冰球赛事赛后报道档案",
+      "source": "Calgary Flames",
+      "author": "Chris Wahl / CalgaryFlames.com",
+      "url": "https://www.nhl.com/flames/news/topic/game-day/flames-fall-to-oilers-28-10-26",
+      "sourceTitle": "Flames Fall To Oilers",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/flames/news/topic/game-day/flames-fall-to-oilers-28-10-26",
+        "title": "Flames Fall To Oilers",
+        "publisher": "Calgary Flames",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
       "dateLabel": "10月28日整理",
@@ -2218,6 +2381,118 @@
       }
     },
     {
+      "id": "sparrow-artspace-archive-20261027",
+      "date": "2026-10-27",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-12",
+      "sourceDate": "活动日期：2026-10-27；Tourism Calgary活动页未列发布日期",
+      "verifiedAt": "2026-11-12",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "补档｜Sparrow Artspace 五周年聚会曾在东北区举行",
+      "summary": "Tourism Calgary活动页记录，Sparrow Artspace于10月27日办五周年聚会和年度会议，活动免费、现已结束。",
+      "deck": "留一条卡城社区艺术活动档案，不是近期参观或报名邀请。",
+      "lede": "历史补档：Tourism Calgary的活动页记载，Sparrow Artspace五周年聚会于2026年10月27日傍晚在36 4 Street NE举行，时间为6点至9点。该场活动已结束，本次于11月12日核对。",
+      "sections": [
+        {
+          "heading": "当晚活动安排",
+          "paragraphs": [
+            "活动页将这场活动列为免费社区与艺术活动，包括简短年度会议、艺术家交流和创作卡片交换。主办页面邀请艺术家、志愿者、邻居及感兴趣的公众参加。"
+          ]
+        },
+        {
+          "heading": "日期已过，作为社区记录保存",
+          "paragraphs": [
+            "这里保留的是10月27日发生过的活动信息，不提供过期报名、到访或消费建议。"
+          ],
+          "links": [
+            {
+              "label": "Tourism Calgary原活动记录",
+              "url": "https://www.visitcalgary.com/events/sparrow-turns-5-agm-amp-party-sparrow-artspace"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Sparrow Artspace五周年社区艺术聚会于10月27日举行，活动已结束；本文仅作历史记录。",
+      "sourceType": "社区艺术活动历史档案",
+      "source": "Tourism Calgary；Sparrow Artspace",
+      "author": "Sparrow Artspace",
+      "url": "https://www.visitcalgary.com/events/sparrow-turns-5-agm-amp-party-sparrow-artspace",
+      "sourceTitle": "Sparrow Turns 5: AGM & Party — SPARROW ARTSPACE",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.visitcalgary.com/events/sparrow-turns-5-agm-amp-party-sparrow-artspace",
+        "title": "Sparrow Turns 5: AGM & Party — SPARROW ARTSPACE",
+        "publisher": "Tourism Calgary；Sparrow Artspace",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-housing-application-guide-archive-20261027",
+      "date": "2026-10-27",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-12",
+      "sourceDate": "Calgary Housing资格与申请页面未注明发布时间；收入限额注明2026-04-23更新；本次核对2026-11-12",
+      "verifiedAt": "2026-11-12",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "补档｜申请卡城补贴住房前，先核对身份、收入和资产三项门槛",
+      "summary": "Calgary Housing公布的社区及可负担住房申请有身份、家庭收入和资产条件；符合门槛后仍要排队，不代表马上有房。",
+      "deck": "这份是申请前的筛查清单，和市府近期公布的新住房地块不是同一件事。",
+      "lede": "这份历史补档于2026年11月12日核对Calgary Housing当前申请与资格页面后，归入10月27日日期组。它补充的是个人如何查看申请门槛，不是市府住房地块的进展，也不保证申请后很快分到单位。",
+      "sections": [
+        {
+          "heading": "先确认身份和居住地要求",
+          "paragraphs": [
+            "社区及可负担住房项目要求申请人目前居住在阿省，并符合页面列出的公民、永久居民或特定难民等身份条件。项目类别不同，详细规则也可能不同；请在提交前核对当前官方列表。"
+          ]
+        },
+        {
+          "heading": "按家庭人数查看收入和资产门槛",
+          "paragraphs": [
+            "资格页面列出的年度家庭收入上限按卧室数区分：一居室6.5万、两居室7.7万、三居室8.75万、四居室及以上9.85万加元；家庭资产需低于2.5万加元。页面注明收入限额于2026年4月23日更新，部分资产如RRSP、RESP等有具体处理规则，不能简单把账户余额全部相加。"
+          ]
+        },
+        {
+          "heading": "符合资格也可能需要等待",
+          "paragraphs": [
+            "Calgary Housing说明，申请会按需求、单位大小和项目规则评估并排队；它无法承诺何时提供单位。符合条件后再通过申请门户提交文件，并按要求每年更新申请。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Housing资格条件",
+              "url": "https://calgaryhousingcompany.org/are-you-eligible/"
+            },
+            {
+              "label": "线上申请流程",
+              "url": "https://calgaryhousingcompany.org/apply-for-subsidized-housing/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "先看身份、家庭收入及资产，再申请；符合资格不等于立即获配住房，具体标准以Calgary Housing当前页面为准。",
+      "sourceType": "Calgary Housing申请指南档案",
+      "source": "Calgary Housing",
+      "author": "Calgary Housing",
+      "url": "https://calgaryhousingcompany.org/are-you-eligible/",
+      "sourceTitle": "Are You Eligible for Housing?",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgaryhousingcompany.org/are-you-eligible/",
+        "title": "Are You Eligible for Housing?",
+        "publisher": "Calgary Housing",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "calgary-affordable-housing-sites-20261027",
       "date": "2026-10-27",
       "dateLabel": "目标日期补档（2026-10-27）· 实际核对日期 2026-11-09",
@@ -2268,6 +2543,122 @@
       }
     },
     {
+      "id": "flames-maple-leafs-archive-20261026",
+      "date": "2026-10-26",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-12",
+      "sourceDate": "比赛日期：2026-10-26；NHL赛后报道发布于2026-10-27",
+      "verifiedAt": "2026-11-12",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "补档｜10月26日 Flames 主场5比2赢 Maple Leafs，Gridin拿下三分",
+      "summary": "NHL赛后报道记录，Calgary Flames 于10月26日在主场以5比2击败 Toronto Maple Leafs；这是已结束的比赛档案。",
+      "deck": "补记10月26日卡城主场赛果，不是赛程或购票推荐。",
+      "lede": "这篇历史补档于2026年11月12日核对。NHL于10月27日发布的赛后报道记载，Flames在前一晚的主场比赛以5比2战胜Maple Leafs；比赛已经结束。",
+      "sections": [
+        {
+          "heading": "主场赛果",
+          "paragraphs": [
+            "NHL报道记载，比赛于10月26日在Scotiabank Saddledome举行，Calgary以5比2取胜。Matvei Gridin贡献两球一助攻，Devin Cooley完成26次扑救。"
+          ]
+        },
+        {
+          "heading": "作为赛果档案保存",
+          "paragraphs": [
+            "这是10月26日发生的比赛记录，来源报道于次日发布。本卡不提供后续赛程或售票信息。"
+          ],
+          "links": [
+            {
+              "label": "NHL官方赛后报道",
+              "url": "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-recap-october-26-2026"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Flames于10月26日主场5比2击败Maple Leafs；本文是历史赛果档案。",
+      "sourceType": "职业冰球赛事赛后报道档案",
+      "source": "NHL.com",
+      "author": "Laurence Heinen / NHL.com",
+      "url": "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-recap-october-26-2026",
+      "sourceTitle": "Gridin scores twice, sparks Flames past Maple Leafs for fourth straight win",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-recap-october-26-2026",
+        "title": "Gridin scores twice, sparks Flames past Maple Leafs for fourth straight win",
+        "publisher": "NHL.com",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "ahcip-newcomer-guide-archive-20261026",
+      "date": "2026-10-26",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-12",
+      "sourceDate": "Alberta AHCIP规则页面未列具体发布日期；本次核对日期：2026-11-12",
+      "verifiedAt": "2026-11-12",
+      "category": "生活指南",
+      "categoryClass": "official",
+      "title": "补档｜搬来卡城后怎么申请省医保？先确认资格，再备好住址和身份材料",
+      "summary": "给从外省搬来或新定居阿省的读者一份 AHCIP 申请入口指南；是否符合条件和覆盖起始时间需按个人情况核实。",
+      "deck": "搬家后别只等健康卡寄来：省府要求先申请并完成登记。",
+      "lede": "历史补档：这份操作指南依据阿省公开的 AHCIP 规则，于2026年11月12日核对后归入10月26日日期组。它不是当天发布的新政策；资格取决于身份、居住安排和材料审核。",
+      "sections": [
+        {
+          "heading": "先看自己是否属于合资格居民",
+          "paragraphs": [
+            "阿省要求申请人依法可在加拿大居留并以阿省为家，通常还要承诺每12个月至少在阿省居住183天。不同临时居民、难民及家庭成员可能适用不同规则，先按省府资格页面核对，不要只凭“刚搬来”推断自动有保障。"
+          ]
+        },
+        {
+          "heading": "从加拿大其他省份搬来，要留意三个月期限",
+          "paragraphs": [
+            "如果你从加拿大另一省或地区搬来，并计划至少在阿省居住12个月，省府要求在建立阿省居民身份后的三个月内申请。保障开始时间另有规定；提交申请不等于已经获批或当天开始覆盖。"
+          ]
+        },
+        {
+          "heading": "准备申请并确认覆盖时间",
+          "paragraphs": [
+            "申请需提交表格及支持文件，资格要等省府收件审核后才能确定。就诊前若尚未登记，可能需要先付费或由其他保险处理；具体情况请咨询官方渠道。"
+          ],
+          "links": [
+            {
+              "label": "AHCIP申请总览",
+              "url": "https://www.alberta.ca/ahcip-apply"
+            },
+            {
+              "label": "资格条件",
+              "url": "https://www.alberta.ca/ahcip-eligibility"
+            },
+            {
+              "label": "搬到阿省后的申请时限",
+              "url": "https://www.alberta.ca/ahcip-moving-to-alberta"
+            }
+          ]
+        }
+      ],
+      "takeaway": "从外省搬来且计划在阿省住至少12个月者，注意建立居民身份后三个月内申请；资格与实际生效日以省府审核为准。",
+      "sourceType": "阿省公共医疗保险申请指南档案",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/ahcip-apply",
+      "sourceTitle": "Apply for AHCIP coverage",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-12",
+        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/ahcip-apply",
+        "title": "Apply for AHCIP coverage",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "calgary-arts-culture-input-20261026",
       "date": "2026-10-26",
       "dateLabel": "目标日期补档（2026-10-26）· 实际核对日期 2026-11-09",
@@ -2313,62 +2704,6 @@
         "url": "https://newsroom.calgary.ca/calgarians-invited-to-help-shape-future-of-arts-and-culture/",
         "title": "Calgarians invited to help shape future of arts and culture",
         "publisher": "City of Calgary Newsroom",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "calgary-library-free-services-20261025",
-      "date": "2026-10-25",
-      "dateLabel": "目标日期补档（2026-10-25）· 实际核对日期 2026-11-09",
-      "sourceDate": "官方页面未注明发布日期；核对于2026-11-09",
-      "verifiedAt": "2026-11-09",
-      "category": "生活指南",
-      "categoryClass": "official",
-      "title": "在卡城找自习和上网地点？市立图书馆会员可免费用 Wi-Fi 和电脑",
-      "summary": "Calgary Public Library 提供免费会员服务，馆内包括 Wi-Fi、电脑和打印等资源；是否收费及具体规则以各项服务页面为准。",
-      "deck": "这是长期适用的公共服务指南，不是新开馆或限时优惠。",
-      "lede": "补档说明：这条生活指南于2026年11月9日重新核对后补入10月25日日期组；图书馆服务页面未标明发布日期，不能称为10月25日发布的新消息。",
-      "sections": [
-        {
-          "heading": "没有电脑时可以怎么用",
-          "paragraphs": [
-            "图书馆免费服务页列有馆内 Wi-Fi、笔记本电脑或台式电脑使用，以及预订空间等项目。适合临时需要上网、完成作业或找安静学习地点的人。"
-          ],
-          "links": [
-            {
-              "label": "图书馆免费服务清单",
-              "url": "https://www.calgarylibrary.ca/your-library/free-services"
-            }
-          ]
-        },
-        {
-          "heading": "先办会员，再看附近分馆",
-          "paragraphs": [
-            "图书馆会员可免费申请；线上资源和具体服务的资格、预约方式可能不同，出发前查看分馆地点、开放时间及服务说明。"
-          ],
-          "links": [
-            {
-              "label": "申请免费会员",
-              "url": "https://www.calgarylibrary.ca/your-library/join"
-            }
-          ]
-        }
-      ],
-      "takeaway": "留学生、新移民或需要临时上网的居民，可先在线申请会员，再确认离家最近分馆的开放时间和设备规则。",
-      "sourceType": "公共生活指南",
-      "source": "Calgary Public Library",
-      "author": "Calgary Public Library",
-      "url": "https://www.calgarylibrary.ca/your-library/free-services",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-09",
-        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.calgarylibrary.ca/your-library/free-services",
-        "title": "Free Services",
-        "publisher": "Calgary Public Library",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -2492,51 +2827,57 @@
       }
     },
     {
-      "id": "alberta-rental-inspection-guide-20261024",
-      "date": "2026-10-24",
-      "dateLabel": "目标日期补档（2026-10-24）· 实际核对日期 2026-11-09",
+      "id": "calgary-library-free-services-20261025",
+      "date": "2026-10-25",
+      "dateLabel": "目标日期补档（2026-10-25）· 实际核对日期 2026-11-09",
       "sourceDate": "官方页面未注明发布日期；核对于2026-11-09",
       "verifiedAt": "2026-11-09",
       "category": "生活指南",
       "categoryClass": "official",
-      "title": "租房入住和退租都要留检查记录：阿省规则关系到押金扣款",
-      "summary": "阿省租赁指引要求房东和租客完成入住、退租检查报告；缺少规定的检查报告时，房东不能从押金扣除损坏或清洁费用。",
-      "deck": "这是租房实用指南，不是本周新出台的政策；请保存报告、照片和沟通记录。",
-      "lede": "补档说明：这条指南于2026年11月9日重新核对后补入10月24日日期组。阿省网页未标注发布日期，因此不将它说成10月24日的新规定。",
+      "title": "在卡城找自习和上网地点？市立图书馆会员可免费用 Wi-Fi 和电脑",
+      "summary": "Calgary Public Library 提供免费会员服务，馆内包括 Wi-Fi、电脑和打印等资源；是否收费及具体规则以各项服务页面为准。",
+      "deck": "这是长期适用的公共服务指南，不是新开馆或限时优惠。",
+      "lede": "补档说明：这条生活指南于2026年11月9日重新核对后补入10月25日日期组；图书馆服务页面未标明发布日期，不能称为10月25日发布的新消息。",
       "sections": [
         {
-          "heading": "入住和退租时各做一次检查",
+          "heading": "没有电脑时可以怎么用",
           "paragraphs": [
-            "阿省要求房东和租客分别完成入住与退租检查报告，记录出租房屋当时的状况。入住报告也能帮助租客说明某处损坏在自己搬入前已经存在。"
-          ]
-        },
-        {
-          "heading": "押金有争议时，报告很关键",
-          "paragraphs": [
-            "阿省政府说明，如果没有按要求完成检查报告，房东不能从押金中扣除损坏或清洁费用。搬入、搬出时可留好双方签字的报告，并按房间拍照留档。"
+            "图书馆免费服务页列有馆内 Wi-Fi、笔记本电脑或台式电脑使用，以及预订空间等项目。适合临时需要上网、完成作业或找安静学习地点的人。"
           ],
           "links": [
             {
-              "label": "阿省租住期间与检查报告规则",
-              "url": "https://www.alberta.ca/during-a-tenancy"
+              "label": "图书馆免费服务清单",
+              "url": "https://www.calgarylibrary.ca/your-library/free-services"
+            }
+          ]
+        },
+        {
+          "heading": "先办会员，再看附近分馆",
+          "paragraphs": [
+            "图书馆会员可免费申请；线上资源和具体服务的资格、预约方式可能不同，出发前查看分馆地点、开放时间及服务说明。"
+          ],
+          "links": [
+            {
+              "label": "申请免费会员",
+              "url": "https://www.calgarylibrary.ca/your-library/join"
             }
           ]
         }
       ],
-      "takeaway": "搬入或退租时，双方一起检查、签字，并各自保存报告和照片；具体争议可通过阿省租赁政府页面继续查规则。",
-      "sourceType": "租房生活指南",
-      "source": "Government of Alberta",
-      "author": "Government of Alberta",
-      "url": "https://www.alberta.ca/during-a-tenancy",
+      "takeaway": "留学生、新移民或需要临时上网的居民，可先在线申请会员，再确认离家最近分馆的开放时间和设备规则。",
+      "sourceType": "公共生活指南",
+      "source": "Calgary Public Library",
+      "author": "Calgary Public Library",
+      "url": "https://www.calgarylibrary.ca/your-library/free-services",
       "imageAttempt": {
         "status": "text-source-card",
         "checkedAt": "2026-11-09",
         "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
       },
       "sourceEmbed": {
-        "url": "https://www.alberta.ca/during-a-tenancy",
-        "title": "During a tenancy",
-        "publisher": "Government of Alberta",
+        "url": "https://www.calgarylibrary.ca/your-library/free-services",
+        "title": "Free Services",
+        "publisher": "Calgary Public Library",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -2646,51 +2987,51 @@
       }
     },
     {
-      "id": "water-oversight-board-20261023",
-      "date": "2026-10-23",
-      "dateLabel": "目标日期补档（2026-10-23）· 实际核对日期 2026-11-09",
-      "sourceDate": "2026-10-23",
+      "id": "alberta-rental-inspection-guide-20261024",
+      "date": "2026-10-24",
+      "dateLabel": "目标日期补档（2026-10-24）· 实际核对日期 2026-11-09",
+      "sourceDate": "官方页面未注明发布日期；核对于2026-11-09",
       "verifiedAt": "2026-11-09",
-      "category": "本地资讯",
+      "category": "生活指南",
       "categoryClass": "official",
-      "title": "卡城供水监督委员会补齐成员：职责是监督和建议，不负责日常运营",
-      "summary": "市议会任命供水公用事业监督委员会剩余成员，完成委员会组成；委员会提供监督与建议，供水系统仍由运营机构负责。",
-      "deck": "这项任命与日常水管施工、限水措施不同，不代表施工或供水安排当日发生改变。",
-      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月23日日期组；市府任命通报发布于10月23日。",
+      "title": "租房入住和退租都要留检查记录：阿省规则关系到押金扣款",
+      "summary": "阿省租赁指引要求房东和租客完成入住、退租检查报告；缺少规定的检查报告时，房东不能从押金扣除损坏或清洁费用。",
+      "deck": "这是租房实用指南，不是本周新出台的政策；请保存报告、照片和沟通记录。",
+      "lede": "补档说明：这条指南于2026年11月9日重新核对后补入10月24日日期组。阿省网页未标注发布日期，因此不将它说成10月24日的新规定。",
       "sections": [
         {
-          "heading": "这次任命改变了什么",
+          "heading": "入住和退租时各做一次检查",
           "paragraphs": [
-            "市府公告称，市议会任命了供水公用事业监督委员会剩余成员，委员会组成至此补齐。其工作重点是独立监督、审视服务与治理，并向市府提出建议。"
-          ],
-          "links": [
-            {
-              "label": "市府任命公告",
-              "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/"
-            }
+            "阿省要求房东和租客分别完成入住与退租检查报告，记录出租房屋当时的状况。入住报告也能帮助租客说明某处损坏在自己搬入前已经存在。"
           ]
         },
         {
-          "heading": "它不等于什么",
+          "heading": "押金有争议时，报告很关键",
           "paragraphs": [
-            "委员会不是管线施工队，也不直接决定居民家中的供水或限水规则。眼前的施工和用水要求，仍以市府 Bearspaw 项目与当前限制页面为准。"
+            "阿省政府说明，如果没有按要求完成检查报告，房东不能从押金中扣除损坏或清洁费用。搬入、搬出时可留好双方签字的报告，并按房间拍照留档。"
+          ],
+          "links": [
+            {
+              "label": "阿省租住期间与检查报告规则",
+              "url": "https://www.alberta.ca/during-a-tenancy"
+            }
           ]
         }
       ],
-      "takeaway": "看供水服务变化时，把监督治理消息和实际施工公告分开；需要了解当前限水规定，请查看市府最新水务页面。",
-      "sourceType": "市府治理与公共服务",
-      "source": "City of Calgary Newsroom",
-      "author": "City of Calgary Newsroom",
-      "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
+      "takeaway": "搬入或退租时，双方一起检查、签字，并各自保存报告和照片；具体争议可通过阿省租赁政府页面继续查规则。",
+      "sourceType": "租房生活指南",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/during-a-tenancy",
       "imageAttempt": {
         "status": "text-source-card",
         "checkedAt": "2026-11-09",
         "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
       },
       "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
-        "title": "Council appoints remaining members to Calgary’s Water Utility Oversight Board",
-        "publisher": "City of Calgary Newsroom",
+        "url": "https://www.alberta.ca/during-a-tenancy",
+        "title": "During a tenancy",
+        "publisher": "Government of Alberta",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -2795,6 +3136,56 @@
         "url": "https://17thave.ca/halloween-2026/",
         "title": "Halloween on 17th - A Carnival of Curiosities",
         "publisher": "17th Avenue Business Improvement Area",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "water-oversight-board-20261023",
+      "date": "2026-10-23",
+      "dateLabel": "目标日期补档（2026-10-23）· 实际核对日期 2026-11-09",
+      "sourceDate": "2026-10-23",
+      "verifiedAt": "2026-11-09",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城供水监督委员会补齐成员：职责是监督和建议，不负责日常运营",
+      "summary": "市议会任命供水公用事业监督委员会剩余成员，完成委员会组成；委员会提供监督与建议，供水系统仍由运营机构负责。",
+      "deck": "这项任命与日常水管施工、限水措施不同，不代表施工或供水安排当日发生改变。",
+      "lede": "补档说明：这条内容于2026年11月9日回查后补入10月23日日期组；市府任命通报发布于10月23日。",
+      "sections": [
+        {
+          "heading": "这次任命改变了什么",
+          "paragraphs": [
+            "市府公告称，市议会任命了供水公用事业监督委员会剩余成员，委员会组成至此补齐。其工作重点是独立监督、审视服务与治理，并向市府提出建议。"
+          ],
+          "links": [
+            {
+              "label": "市府任命公告",
+              "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/"
+            }
+          ]
+        },
+        {
+          "heading": "它不等于什么",
+          "paragraphs": [
+            "委员会不是管线施工队，也不直接决定居民家中的供水或限水规则。眼前的施工和用水要求，仍以市府 Bearspaw 项目与当前限制页面为准。"
+          ]
+        }
+      ],
+      "takeaway": "看供水服务变化时，把监督治理消息和实际施工公告分开；需要了解当前限水规定，请查看市府最新水务页面。",
+      "sourceType": "市府治理与公共服务",
+      "source": "City of Calgary Newsroom",
+      "author": "City of Calgary Newsroom",
+      "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-09",
+        "reason": "使用原文来源卡片；未确认与报道直接相关且可用的预览图，因此不放图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/council-appoints-remaining-members-to-calgarys-water-utility-oversight-board/",
+        "title": "Council appoints remaining members to Calgary’s Water Utility Oversight Board",
+        "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
       }
