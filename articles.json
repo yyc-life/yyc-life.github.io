@@ -1,8 +1,219 @@
 {
-  "updatedAt": "2026-11-13",
-  "updatedLabel": "2026年11月13日（每日采编及三组历史补档）",
+  "updatedAt": "2026-11-14",
+  "updatedLabel": "2026年11月14日（每日采编及三组历史补档）",
   "editionNote": "历史档案盘点（截至2026-11-11）：2026-10-20至2026-11-11共23个日期组、59篇。已达每组至少3篇的日期组15个；未达标8组：10-26、10-27、10-28、11-05、11-06、11-07、11-09、11-10，距离最低3篇合计还差12篇。今日11-11为4篇（资讯2、吃喝玩乐2）；本次最早三组10-23、10-24、10-25现各3篇（资讯2、吃喝玩乐1）。新增历史指南和已结束活动/赛事档案均标注实际核对日期2026-11-11，不作近期邀约。下一轮优先补档10-26至10-28。",
   "articles": [
+    {
+      "id": "rundle-youth-hit-and-run-appeal-20261114",
+      "date": "2026-11-14",
+      "dateLabel": "11月14日 · 本地资讯",
+      "sourceDate": "Calgary Police Service 新闻稿：2026-11-12；所述事件发生于2026-10-19",
+      "verifiedAt": "2026-11-14",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "警方征求 Rundle 10月19日青少年冲突与肇事逃逸线索",
+      "summary": "警方希望找到 Rundlehorn Drive NE 一带约晚6:30至7点的目击者、行车记录仪或监控影像；通报未公开指称涉事者身份。",
+      "deck": "如果当晚经过该区域，先检查是否留有相关影像；这是线索征集，不代表任何人已被定罪。",
+      "lede": "卡城警方11月12日发布公众呼吁，调查10月19日晚在 Rundlehorn Drive NE 一带涉及青少年的冲突及后续肇事逃逸事件。警方征求约6:30至7点的目击资料和影像。",
+      "sections": [
+        {
+          "heading": "警方具体在找什么",
+          "paragraphs": [
+            "警方请在相关时段经过 Rundlehorn Drive NE 附近的人，查看行车记录仪或住宅、商户监控是否拍到有用画面。公开通报没有提供可确认涉事者身份的资料，本文也不猜测身份。"
+          ]
+        },
+        {
+          "heading": "如何提供线索",
+          "paragraphs": [
+            "可拨 Calgary Police 非紧急电话 403-266-1234，引用案件编号 CA26481726/5395。通报征集的是调查线索；不要在社交平台传播未经确认的姓名或指控。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service 原始公告",
+              "url": "https://newsroom.calgary.ca/police-seek-information-about-fight-and-hit-and-run-involving-youth/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "若有10月19日晚约6:30至7点 Rundlehorn Drive NE 一带的目击或影像，可向警方提供并引用 CA26481726/5395；不要推断任何人的身份或责任。",
+      "sourceType": "警方公众线索征集",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/police-seek-information-about-fight-and-hit-and-run-involving-youth/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "使用警方原始公告来源卡片；未确认适合且与案件直接相关的预览图。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/police-seek-information-about-fight-and-hit-and-run-involving-youth/",
+        "title": "Police seek information about fight and hit-and-run involving youth",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "bearspaw-edgemont-pressure-work-20261114",
+      "date": "2026-11-14",
+      "dateLabel": "11月14日 · 生活提醒",
+      "sourceDate": "City of Calgary Newsroom 新闻稿：2026-11-13；限水页面核对：2026-11-14",
+      "verifiedAt": "2026-11-14",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "Edgemont 水管维修期间或有低水压：第四级限水仍未解除",
+      "summary": "市府称 Edgemont 主水管维修从11月13日开始、预计7至10天，Edgemont及周边社区可能水压较低；市府仍执行全市第四级限水。",
+      "deck": "出门和用水安排以市府最新施工、限水页面为准；绿色用水数据不等于解除限制。",
+      "lede": "市府11月13日更新 Bearspaw South Feeder Main 连接工程进度，并表示 Edgemont 主水管维修预计持续7至10天。Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 居民可能遇到水压偏低；饮用水仍安全。",
+      "sections": [
+        {
+          "heading": "哪些社区可能感到水压变化",
+          "paragraphs": [
+            "市府列出 Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 可能出现较低水压。公告称水仍可安全饮用；低水压提示不等于饮水安全警报。"
+          ]
+        },
+        {
+          "heading": "限水和道路施工另行留意",
+          "paragraphs": [
+            "截至11月14日，市府当前页面仍显示第四级限制，全市不得使用饮用水进行户外用水；本次施工更新没有宣布解除限制。绿色用水数据不代表工程已完成或限制已解除。出发前查看市府最新施工信息，并以当前限水页面核对规则。",
+            "出行前查看市府当日施工信息；不要仅凭旧用水数据判断限制状态。"
+          ],
+          "links": [
+            {
+              "label": "市府11月13日施工更新",
+              "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
+            },
+            {
+              "label": "市府当前限水规则",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Edgemont及四个邻近社区可能在维修期间遇到低水压，市府称饮水安全；第四级限水仍有效，户外不可使用饮用水。",
+      "sourceType": "市政供水工程与限水提醒",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "未确认与本次维修影响直接对应的来源图片，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
+        "title": "Water use stays in the green zone as connection work progresses on new Bearspaw South Feeder Main",
+        "publisher": "City of Calgary Newsroom",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "light-up-montgomery-20261114",
+      "date": "2026-11-14",
+      "dateLabel": "11月14日 · 吃喝玩乐",
+      "sourceDate": "Montgomery BIA 官方活动页；活动日期 2026-11-14；市府交通公告核对于2026-11-14",
+      "verifiedAt": "2026-11-14",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "今晚 Montgomery Town Square 有 Light Up Montgomery：活动5点开始",
+      "summary": "Montgomery BIA 列出活动时间为11月14日17:00至20:00，地点 Montgomery Town Square；市府交通公告提示附近道路约16:30至20:30有管制。",
+      "deck": "活动当天信息：出发前核对道路安排；未确认的节目、价格与附加体验不作推介。",
+      "lede": "Montgomery BIA 官方活动页列出 Light Up Montgomery 于11月14日17:00至20:00在 Montgomery Town Square 举行。今天市府交通公告还列出 Bowness Road NW 与 45 Street NW 附近16:30至20:30的活动交通限制。",
+      "sections": [
+        {
+          "heading": "时间与地点",
+          "paragraphs": [
+            "主办方列出的活动时段为17:00至20:00，地点是 Montgomery Town Square。本文只按主办方确认的日期、时间和地点介绍，不补写未核实的节目、票价或现场安排。"
+          ],
+          "links": [
+            {
+              "label": "Montgomery BIA 官方活动页",
+              "url": "https://montgomerybia.com/light-up-montgomery/"
+            }
+          ]
+        },
+        {
+          "heading": "周边出行安排",
+          "paragraphs": [
+            "市府活动交通公告列出 Bowness Road NW 与 45 Street NW 周边约16:30至20:30交通限制。步行、搭车或开车前请查看公告及现场标志；活动已在今天举行，不是未来日期邀约。"
+          ],
+          "links": [
+            {
+              "label": "市府特别活动交通公告",
+              "url": "https://www.calgary.ca/roads/conditions/special-event-advisories.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "活动时段为11月14日17:00–20:00，地点 Montgomery Town Square；附近道路约16:30–20:30受限，按市府现场信息出行。",
+      "sourceType": "社区主办方当日活动与市府交通公告",
+      "source": "Montgomery BIA；City of Calgary",
+      "author": "Montgomery BIA；City of Calgary",
+      "url": "https://montgomerybia.com/light-up-montgomery/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "未确认可用于本文且来源清晰的活动预览图，使用文字卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://montgomerybia.com/light-up-montgomery/",
+        "title": "Light Up Montgomery",
+        "publisher": "Montgomery BIA",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-open-taekwondo-20261114",
+      "date": "2026-11-14",
+      "dateLabel": "11月14日 · 吃喝玩乐",
+      "sourceDate": "Calgary Open Taekwondo Championship 官方主办方页面；活动日期 2026-11-14",
+      "verifiedAt": "2026-11-14",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Calgary Open Taekwondo Championship 今早在 Priddis 开赛",
+      "summary": "比赛在 Seven Chiefs Sportsplex & Jim Starlight Centre 举行，地址19 Bullhead Road；场馆7:30开门、首场9点开始，观众票10加元，6岁及以下免费。",
+      "deck": "场馆位于卡城以南的 Priddis，并非 Calgary 市内；比赛当天可到门口购票。",
+      "lede": "Calgary Open Taekwondo Championship 官方页面列出赛事于11月14日在 Priddis 的 Seven Chiefs Sportsplex & Jim Starlight Centre 举行。场馆7:30开门、首场赛事9:00开始；本稿核对时赛事日已开始。",
+      "sections": [
+        {
+          "heading": "比赛地点和观赛时间",
+          "paragraphs": [
+            "地址为19 Bullhead Road, Priddis, AB，地点在卡城以南的 Priddis，不应误认为 Calgary 市区场馆。官方列出开门时间7:30、首场赛事9:00。"
+          ]
+        },
+        {
+          "heading": "门票与现场购票",
+          "paragraphs": [
+            "主办方列出观众票价为10加元，6岁及以下免费；可在门口以现金或银行卡购票，无需预订。页面没有说明赛事语言，不对语言或余票作推断。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Open Taekwondo Championship 官方页面",
+              "url": "https://calgaryopentkd.com/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这是11月14日已开始的赛事记录：场馆在 Priddis，观众票10加元、6岁及以下免费，购票方式和当天安排以主办方页面为准。",
+      "sourceType": "主办方赛事与观众信息",
+      "source": "Calgary Open Taekwondo Championship",
+      "author": "Calgary Open Taekwondo Championship",
+      "url": "https://calgaryopentkd.com/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "未确认与当届赛事直接对应且可用于来源卡片的图片，使用纯文字卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgaryopentkd.com/",
+        "title": "Calgary Open Taekwondo Championship",
+        "publisher": "Calgary Open Taekwondo Championship",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "bearspaw-week2-water-update-20261113",
       "date": "2026-11-13",
@@ -338,7 +549,7 @@
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
       "sourceDate": "市府水务页面更新于2026-11-11；用水数据为2026-11-10",
-      "verifiedAt": "2026-11-11",
+      "verifiedAt": "2026-11-14",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城限水进入第七个“绿灯日”：户外用水仍暂停",
@@ -524,6 +735,56 @@
       }
     },
     {
+      "id": "hurricanes-hitmen-ot-archive-20261110",
+      "date": "2026-11-10",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-14（目标日期 2026-11-10）",
+      "sourceDate": "Lethbridge Hurricanes 官方赛后报道：2026-11-10；比赛于2026-11-10举行",
+      "verifiedAt": "2026-11-14",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史赛果｜Hurricanes 加时5比4击败 Calgary Hitmen",
+      "summary": "官方赛后报道记录，Lethbridge 于11月10日在 Scotiabank Saddledome 加时战胜 Calgary Hitmen。",
+      "deck": "比赛已结束；本文是赛事档案，不是当前观赛邀请。",
+      "lede": "历史档案：Lethbridge Hurricanes 官方于2026年11月10日发布赛后报道，记录球队当日在 Calgary 的比赛。本条于11月14日核对。",
+      "sections": [
+        {
+          "heading": "加时决出胜负",
+          "paragraphs": [
+            "官方确认 Lethbridge Hurricanes 在 Scotiabank Saddledome 以5比4加时击败 Calgary Hitmen。"
+          ]
+        },
+        {
+          "heading": "赛事记录",
+          "paragraphs": [
+            "比赛及报道日期均为11月10日。本文只存档官方赛果，不延伸为未来活动推荐。"
+          ],
+          "links": [
+            {
+              "label": "Lethbridge Hurricanes 官方赛后报道",
+              "url": "https://chl.ca/whl-hurricanes/article/hurricanes-earn-5-4-ot-win-in-calgary/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "官方记录的11月10日赛果为 Hurricanes 加时5比4胜 Hitmen；赛事已经结束。",
+      "sourceType": "青年冰球赛后报道档案",
+      "source": "Lethbridge Hurricanes",
+      "author": "Lethbridge Hurricanes",
+      "url": "https://chl.ca/whl-hurricanes/article/hurricanes-earn-5-4-ot-win-in-calgary/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "未确认专属预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://chl.ca/whl-hurricanes/article/hurricanes-earn-5-4-ot-win-in-calgary/",
+        "title": "Hurricanes earn 5-4 OT win in Calgary",
+        "publisher": "Lethbridge Hurricanes",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "yyc-noodle-festival-20261109",
       "date": "2026-11-09",
       "dateLabel": "11月9日·吃喝玩乐",
@@ -647,6 +908,56 @@
         "url": "https://www.calgary.ca/events/grey-cup.html",
         "title": "2026 Grey Cup Festival and 113th Grey Cup",
         "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-police-cold-case-charge-archive-20261109",
+      "date": "2026-11-09",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-14（目标日期 2026-11-09）",
+      "sourceDate": "Calgary Police Service 新闻稿：2026-11-09；案件发生于2006年；警方称 DNA 匹配通知于2026-09-21送达",
+      "verifiedAt": "2026-11-14",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "警方就 Forest Heights 2006年性侵冷案提出指控：被告当年14岁",
+      "summary": "警方11月9日通报一项指控，称 DNA 匹配后在一宗2006年案件中起诉一人；被告当时14岁，依法不能公开姓名。指控不等于定罪。",
+      "deck": "仅概述警方公告，不猜测身份；案件仍待法院处理。",
+      "lede": "历史档案：Calgary Police Service 于2026年11月9日发布 Forest Heights 一宗2006年加重性侵案件的调查更新，本次于11月14日核对。警方称，一名被告已被起诉；被告当时14岁，依据《青少年刑事司法法》不能公开姓名。指控尚未在法庭裁定。",
+      "sections": [
+        {
+          "heading": "警方通报的案件进展",
+          "paragraphs": [
+            "警方称，DNA 匹配结果于2026年9月21日通知调查人员，并据此推进这宗2006年发生于 Forest Heights 的案件。官方公告称一人被控。"
+          ]
+        },
+        {
+          "heading": "指控仍须经过司法程序",
+          "paragraphs": [
+            "警方公告列出的下一次出庭日期为2026年12月18日。被告当年14岁，依法不得具名；本文不推测身份。被起诉是指控，不代表已经定罪。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service 官方公告",
+              "url": "https://newsroom.calgary.ca/charge-laid-in-2006-cold-case-sexual-assault/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "警方公告称该案已提出指控、下一次出庭定于12月18日；案件结果待司法程序决定，依法不公开被告身份。",
+      "sourceType": "警方冷案调查公告",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/charge-laid-in-2006-cold-case-sexual-assault/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "涉及敏感刑事案件，不使用未经确认的案件图片，采用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/charge-laid-in-2006-cold-case-sexual-assault/",
+        "title": "Charge laid in 2006 cold case sexual assault",
+        "publisher": "Calgary Police Service",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -1986,6 +2297,56 @@
       }
     },
     {
+      "id": "flames-avalanche-archive-20261101",
+      "date": "2026-11-01",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-14（目标日期 2026-11-01）",
+      "sourceDate": "Calgary Flames 官方赛后报道：2026-11-01；比赛于2026-10-31举行",
+      "verifiedAt": "2026-11-14",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史赛果｜Flames 客场2比5不敌 Colorado",
+      "summary": "Flames 官方记录，Joel Farabee 与 Martin Pospisil 为 Calgary 进球，Colorado 在 Denver 以5比2获胜。",
+      "deck": "比赛已经结束；这是历史赛果档案，不是赛程或购票邀请。",
+      "lede": "历史档案：Flames 官方赛后报道于2026年11月1日发布，记录球队10月31日在 Ball Arena 对阵 Colorado 的比赛。本条于11月14日核对。",
+      "sections": [
+        {
+          "heading": "官方记录的比分",
+          "paragraphs": [
+            "Calgary Flames 官方赛后报道记载，Colorado Avalanche 以5比2击败 Calgary，比赛在 Denver 的 Ball Arena 举行。"
+          ]
+        },
+        {
+          "heading": "Calgary 的进球",
+          "paragraphs": [
+            "Joel Farabee 与 Martin Pospisil 为 Flames 得分。本文仅保存已结束比赛的官方赛果，不作为近期邀约。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Flames 官方赛后报道",
+              "url": "https://www.nhl.com/flames/news/topic/game-day/flames-drop-decision-in-denver"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这场10月31日客场比赛以 Colorado 5比2获胜结束；本文是11月1日发布赛后报道的历史记录。",
+      "sourceType": "职业冰球赛后报道档案",
+      "source": "Calgary Flames",
+      "author": "Calgary Flames",
+      "url": "https://www.nhl.com/flames/news/topic/game-day/flames-drop-decision-in-denver",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-14",
+        "reason": "未确认专属预览图，使用文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/flames/news/topic/game-day/flames-drop-decision-in-denver",
+        "title": "Flames drop decision in Denver",
+        "publisher": "Calgary Flames",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "november-photo-radar-20261031",
       "date": "2026-10-31",
       "dateLabel": "目标日期补档（2026-10-31）· 实际核对日期 2026-11-09",
@@ -2136,7 +2497,7 @@
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "未注明",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -2298,7 +2659,7 @@
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
       "sourceDate": "2026-10-28",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
