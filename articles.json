@@ -1,8 +1,244 @@
 {
-  "updatedAt": "2026-11-14",
-  "updatedLabel": "2026年11月14日（每日采编及三组历史补档）",
-  "editionNote": "历史档案盘点（截至2026-11-11）：2026-10-20至2026-11-11共23个日期组、59篇。已达每组至少3篇的日期组15个；未达标8组：10-26、10-27、10-28、11-05、11-06、11-07、11-09、11-10，距离最低3篇合计还差12篇。今日11-11为4篇（资讯2、吃喝玩乐2）；本次最早三组10-23、10-24、10-25现各3篇（资讯2、吃喝玩乐1）。新增历史指南和已结束活动/赛事档案均标注实际核对日期2026-11-11，不作近期邀约。下一轮优先补档10-26至10-28。",
+  "updatedAt": "2026-11-15",
+  "updatedLabel": "2026年11月15日 · 今日4篇、历史补档3组",
+  "editionNote": "历史档案盘点（截至2026-11-15）：2026-10-20至2026-11-15共27个连续日期组、84篇；27组均有3–4篇并同时覆盖资讯与吃喝玩乐，其中24组各3篇、3组各4篇。今日11-15为4篇（资讯2、吃喝玩乐2）。本次补档11-11、11-12、11-14三组，移除三条已结束活动卡，并将11-09周中活动卡改为已结束排期回看；新增补档均分开记录目标日期与实际核对日期2026-11-15。",
   "articles": [
+    {
+      "id": "calgary-2027-budget-proposal-20261115",
+      "date": "2026-11-15",
+      "dateLabel": "11月15日 · 本地资讯",
+      "sourceDate": "City of Calgary 2027–2030预算草案于2026-11-10公布；市议会公众意见环节列于2026-11-23",
+      "verifiedAt": "2026-11-15",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城2027预算草案：典型自住房估算每月多53加元，11月23日进入公众讨论",
+      "summary": "市府的草案估算，典型独立屋物业税每月增加37加元，水务和垃圾回收费合计增加16加元；数字尚待市议会审议。",
+      "deck": "这不是最终账单。对自住房业主来说，先看懂这份估算的适用房屋和仍待表决的部分。",
+      "lede": "卡城市府11月10日公布2027至2030年预算草案。按市府采用的典型独立屋估算，房产税和市政服务费用合计每月约多53加元；这是提案数字，市议会还会讨论，最终金额可能变化。",
+      "sections": [
+        {
+          "heading": "每月多53元，怎么算出来的",
+          "paragraphs": [
+            "市府估算中，典型独立屋的市政物业税每月增加37加元；垃圾与回收、水务费用合计增加16加元，总计增加53加元。估算采用的住宅评估值中位数为2026年706,000加元、2027年688,000加元；水费部分按典型住宅每月用水19立方米估算。",
+            "这是市府为说明提案影响而作的典型案例，并非每户的实际账单；你的物业评估值和用水量不同，金额也可能不同。租房住户不能直接把这个物业税估算当作自己的租金变化。"
+          ]
+        },
+        {
+          "heading": "现在仍是草案",
+          "paragraphs": [
+            "草案要求现有物业的市政税收收入在2027年增加15%。市府页面注明，预算会经过市议会审议和最终决定，提案数字可能调整；页面所列最终批准时间为2026年12月。"
+          ]
+        },
+        {
+          "heading": "想表达意见，先看11月23日议程",
+          "paragraphs": [
+            "市府将11月23日列为公众发言和市议会审议的日期。若你希望参与，先查看市府预算页的最新会议安排和参与说明；不要只按新闻摘要准备。"
+          ],
+          "links": [
+            {
+              "label": "市府2027–2030预算草案、费用估算与议程",
+              "url": "https://www.calgary.ca/our-finances/2027-budget.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "每月53加元是典型独立屋的草案估算，不是所有家庭的最终账单；市议会11月23日将讨论草案。",
+      "sourceType": "市府预算草案",
+      "source": "City of Calgary",
+      "author": "City of Calgary",
+      "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+        "title": "卡城2027预算草案：典型自住房估算每月多53加元，11月23日进入公众讨论",
+        "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "alberta-grad-requirements-update-20261115",
+      "date": "2026-11-15",
+      "dateLabel": "11月15日 · 本地资讯",
+      "sourceDate": "Alberta.ca页面更新标注2026-11-13；新毕业要求分阶段实施日期为2028–2030学年",
+      "verifiedAt": "2026-11-15",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "阿省高中毕业要求将分阶段调整：当前学生不会马上换新规则",
+      "summary": "新毕业要求从2028年秋季起分年级实施，总学分仍为100；选修学分选择增加，家长现在可先确认孩子预计进入哪一年级。",
+      "deck": "对有中学生的家庭，关键不是“今年要不要改课表”，而是孩子会在哪一年级遇到新制度。",
+      "lede": "阿省教育厅公布高中毕业要求调整时间表：新规则从2028年秋季起分阶段实施。家里有中学生的话，先按孩子届时的年级看适用时间；现有要求不会在本学期立刻改变。",
+      "sections": [
+        {
+          "heading": "新规从2028年秋季分批开始",
+          "paragraphs": [
+            "省府页面列明，2028年秋季开始适用于10年级学生，2029年秋季扩至11年级，2030年秋季起在高中阶段全面实施。具体到某个学生，需看其进入相应年级的学年；不要仅凭当前年级推断必然适用哪一套课程要求。"
+          ]
+        },
+        {
+          "heading": "总学分仍是100，选修空间增加",
+          "paragraphs": [
+            "新高中毕业文凭仍要求修满100个学分。省府目前公布的变化包括：可选学分由44增加至53，并为学术课程、职业方向、工作经验和实践学习提供更多组合空间。"
+          ]
+        },
+        {
+          "heading": "家长可以先做哪一步",
+          "paragraphs": [
+            "如果孩子将在2028年或之后读10、11年级，保存省府时间表，之后再向学校确认课程规划和过渡安排。现阶段不要据此自行改动孩子的课表，省府仍会继续发布课程细节。"
+          ],
+          "links": [
+            {
+              "label": "阿省政府：高中毕业要求即将调整",
+              "url": "https://www.alberta.ca/upcoming-changes-to-graduation-requirements"
+            }
+          ]
+        }
+      ],
+      "takeaway": "新规从2028年秋季起分阶段实施，总学分仍为100；有中学生的家庭先核对届时年级，并等学校课程规划说明。",
+      "sourceType": "省级教育政策更新",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/upcoming-changes-to-graduation-requirements",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/upcoming-changes-to-graduation-requirements",
+        "title": "阿省高中毕业要求将分阶段调整：当前学生不会马上换新规则",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "grey-cup-game-day-calgary-20261115",
+      "date": "2026-11-15",
+      "dateLabel": "11月15日 · 吃喝玩乐",
+      "sourceDate": "Grey Cup Festival主办方赛事页；比赛日期2026-11-15。市府道路安排页面核对于2026-11-15",
+      "verifiedAt": "2026-11-15",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Grey Cup 今晚在 McMahon 开赛：3点开门，周边道路白天起调整",
+      "summary": "比赛下午5点开球、场馆3点开门；东侧停车场的免费球迷活动计划下午1至5点举行。University Drive NW中段今天上午11点至晚11点封闭。",
+      "deck": "去现场看球或只是经过大学区，今天先把开球时间和道路管制分开记。",
+      "lede": "第113届 Grey Cup 今天在 McMahon Stadium 举行。主办方列出下午5点开球、3点开放场馆；市府则提醒，比赛日周边道路从上午11点起有封闭和车道调整。",
+      "sections": [
+        {
+          "heading": "比赛与免费球迷区时间",
+          "paragraphs": [
+            "主办方列出的比赛时段为下午5点至9点，场馆下午3点开门；地点是 McMahon Stadium（1817 Crowchild Trail NW）。赛事需购票。东侧停车场另有免费 FanDuel Game Day Tailgate，计划下午1点至5点举行；免费活动不代表有停车位或现场空间保证。"
+          ],
+          "links": [
+            {
+              "label": "Grey Cup主办方：比赛时间、场馆和球迷区",
+              "url": "https://www.greycupfestival.ca/events/view/8/113th-grey-cup/"
+            }
+          ]
+        },
+        {
+          "heading": "University Drive今天封闭",
+          "paragraphs": [
+            "市府列明，11月15日上午11点至晚11点，University Drive NW在16 Avenue至24 Avenue之间全封闭；只允许指定出租车、网约车和持赛事通行证车辆进入。Crowchild Trail NW部分路段缩至每方向两条车道，限速50公里；Banff Trail站附近23 Avenue NW也有车辆封闭。"
+          ]
+        },
+        {
+          "heading": "接送和绕行先看市府更新",
+          "paragraphs": [
+            "24 Street NW会改为临时北向单行，并设置赛后接送区。若要开车接人，别把普通乘客车辆驶入赛事限制区；出发前查看市府实时道路说明，现场按交通人员指引走。"
+          ],
+          "links": [
+            {
+              "label": "市府Grey Cup比赛日道路封闭与交通安排",
+              "url": "https://www.calgary.ca/events/grey-cup.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "比赛5点开球、场馆3点开放；University Drive NW指定路段11点至23点封闭，出发前核对市府交通页面。",
+      "sourceType": "有日期的本地体育赛事与公共出行提醒",
+      "source": "Grey Cup Festival；City of Calgary",
+      "author": "Grey Cup Festival",
+      "url": "https://www.greycupfestival.ca/events/view/8/113th-grey-cup/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.greycupfestival.ca/events/view/8/113th-grey-cup/",
+        "title": "Grey Cup 今晚在 McMahon 开赛：3点开门，周边道路白天起调整",
+        "publisher": "Grey Cup Festival",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "ceff-closing-screening-20261115",
+      "date": "2026-11-15",
+      "dateLabel": "11月15日 · 吃喝玩乐",
+      "sourceDate": "Calgary European Film Festival官方排片及Showpass售票页；放映日期2026-11-15",
+      "verifiedAt": "2026-11-15",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "欧洲电影节今晚收官：6点放映《Bulgaria Amore Mio》，英文字幕",
+      "summary": "影片今晚6点在 La Cité des Rocheuses 放映，售票页列出约1小时45分钟及票价范围；页面未确认余票，出门前请再查。",
+      "deck": "想找一场今晚有明确时间的电影，可以先看收官日放映；片长、地点和字幕信息都已列在主办方页面。",
+      "lede": "卡城欧洲电影节今天最后一天。今晚6点，La Cité des Rocheuses 将放映《Bulgaria Amore Mio / Adventures Italian Style Reloaded》；电影节说明所有放映均带英文字幕。",
+      "sections": [
+        {
+          "heading": "时间、地点和片长",
+          "paragraphs": [
+            "Showpass列出放映时间为下午6点至7点45分，地点在 La Cité des Rocheuses Theater（4800 Richard Rd SW）；片长105分钟。票价页面列出13.65至16.81加元。售票页没有给出可确认的余票数量，因此不要把页面按钮当作余票保证。"
+          ]
+        },
+        {
+          "heading": "语言信息先按页面标注理解",
+          "paragraphs": [
+            "电影节页面说明所有场次都有英文字幕。售票页没有清楚写明原声语言；如果字幕或语言对你很重要，购票前先向主办方确认。",
+            "主办方页面没有列出年龄分级或陪同要求；如果是带孩子去，出发前可向场馆确认。"
+          ]
+        },
+        {
+          "heading": "今夜出门前再核对",
+          "paragraphs": [
+            "这是今晚的一场定时放映，不是常设电影项目。电影节排片和票务状态可能变化，出发前看主办方最新信息；不要把晚间闭幕活动的时间与这场电影混为一谈。"
+          ],
+          "links": [
+            {
+              "label": "电影节2026排片与场馆信息",
+              "url": "https://europeincalgary.org/ceff-2026/"
+            },
+            {
+              "label": "《Bulgaria Amore Mio》场次与票务页",
+              "url": "https://www.showpass.com/bulgaria-amore-mio-bulgaria-november-15/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "今晚6点在 La Cité des Rocheuses 放映，英文字幕已由主办方确认；余票及原声语言请出发前向票务页/主办方确认。",
+      "sourceType": "有明确日期的电影节放映",
+      "source": "Calgary European Film Festival",
+      "author": "European Cultural Society of Calgary",
+      "url": "https://europeincalgary.org/ceff-2026/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://europeincalgary.org/ceff-2026/",
+        "title": "欧洲电影节今晚收官：6点放映《Bulgaria Amore Mio》，英文字幕",
+        "publisher": "European Cultural Society of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "rundle-youth-hit-and-run-appeal-20261114",
       "date": "2026-11-14",
@@ -57,26 +293,26 @@
       "id": "bearspaw-edgemont-pressure-work-20261114",
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
-      "sourceDate": "City of Calgary Newsroom 新闻稿：2026-11-13；限水页面核对：2026-11-14",
-      "verifiedAt": "2026-11-14",
+      "sourceDate": "City of Calgary Newsroom新闻稿：2026-11-13；限水页面于2026-11-14更新，当前状态复核于2026-11-15",
+      "verifiedAt": "2026-11-15",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Edgemont 水管维修期间或有低水压：第四级限水仍未解除",
-      "summary": "市府称 Edgemont 主水管维修从11月13日开始、预计7至10天，Edgemont及周边社区可能水压较低；市府仍执行全市第四级限水。",
+      "summary": "市府11月13日称，Edgemont 主水管维修预计持续7至10天；5个社区可能低水压，饮水仍安全。维修期中有 Edgemont Drive NW 局部封路，第四级限水截至11月15日仍有效。",
       "deck": "出门和用水安排以市府最新施工、限水页面为准；绿色用水数据不等于解除限制。",
       "lede": "市府11月13日更新 Bearspaw South Feeder Main 连接工程进度，并表示 Edgemont 主水管维修预计持续7至10天。Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 居民可能遇到水压偏低；饮用水仍安全。",
       "sections": [
         {
           "heading": "哪些社区可能感到水压变化",
           "paragraphs": [
-            "市府列出 Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 可能出现较低水压。公告称水仍可安全饮用；低水压提示不等于饮水安全警报。"
+            "市府列出 Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 可能遇到较低水压。11月13日的公告称，水符合监管要求、可以饮用；低水压不等于煮水通知。"
           ]
         },
         {
           "heading": "限水和道路施工另行留意",
           "paragraphs": [
-            "截至11月14日，市府当前页面仍显示第四级限制，全市不得使用饮用水进行户外用水；本次施工更新没有宣布解除限制。绿色用水数据不代表工程已完成或限制已解除。出发前查看市府最新施工信息，并以当前限水页面核对规则。",
-            "出行前查看市府当日施工信息；不要仅凭旧用水数据判断限制状态。"
+            "截至11月15日，市府当前页面仍显示第四级限制，全市禁止户外使用饮用水；施工更新没有宣布解除限水。Edgemont Drive NW 西向车道在 Edgemont Boulevard NW 处封闭，东向车道双向通行以配合维修。",
+            "经过当地请按现场指示绕行；如遇水压变化，可查看市府维修更新，并以限水实时页面核对规则。"
           ],
           "links": [
             {
@@ -90,7 +326,7 @@
           ]
         }
       ],
-      "takeaway": "Edgemont及四个邻近社区可能在维修期间遇到低水压，市府称饮水安全；第四级限水仍有效，户外不可使用饮用水。",
+      "takeaway": "五个社区可能低水压，但市府称水仍可安全饮用；Edgemont Drive NW有局部封闭，且全市第四级限水仍有效。",
       "sourceType": "市政供水工程与限水提醒",
       "source": "City of Calgary",
       "author": "City of Calgary",
@@ -109,107 +345,57 @@
       }
     },
     {
-      "id": "light-up-montgomery-20261114",
+      "id": "grey-cup-pancake-breakfast-recap-20261114",
       "date": "2026-11-14",
-      "dateLabel": "11月14日 · 吃喝玩乐",
-      "sourceDate": "Montgomery BIA 官方活动页；活动日期 2026-11-14；市府交通公告核对于2026-11-14",
-      "verifiedAt": "2026-11-14",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-15",
+      "sourceDate": "CityNews Calgary视频报道发表于2026-11-14 19:42 Alberta Time；报道Grey Cup Festival煎饼早餐现场",
+      "verifiedAt": "2026-11-15",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "今晚 Montgomery Town Square 有 Light Up Montgomery：活动5点开始",
-      "summary": "Montgomery BIA 列出活动时间为11月14日17:00至20:00，地点 Montgomery Town Square；市府交通公告提示附近道路约16:30至20:30有管制。",
-      "deck": "活动当天信息：出发前核对道路安排；未确认的节目、价格与附加体验不作推介。",
-      "lede": "Montgomery BIA 官方活动页列出 Light Up Montgomery 于11月14日17:00至20:00在 Montgomery Town Square 举行。今天市府交通公告还列出 Bowness Road NW 与 45 Street NW 附近16:30至20:30的活动交通限制。",
+      "title": "活动档案补档｜Grey Cup Festival 煎饼早餐：CityNews 记录球迷早场",
+      "summary": "CityNews Calgary 于11月14日发布现场视频，记者与球迷一起参加 Grey Cup Festival 的煎饼早餐；报道标题称现场为数千名球迷供餐。",
+      "deck": "目标日期补档 · 实际核对日期 2026-11-15。这是昨日社区活动的媒体回顾，不是早餐摊位或商家推广。",
+      "lede": "Grey Cup 周末的煎饼早餐是面向球迷的节庆活动。CityNews Calgary 在11月14日晚上发布现场视频，记者 Rayn Rashid 与球迷一同参加；媒体标题称活动为数千名球迷提供早餐。",
       "sections": [
         {
-          "heading": "时间与地点",
+          "heading": "一条活动现场回顾",
           "paragraphs": [
-            "主办方列出的活动时段为17:00至20:00，地点是 Montgomery Town Square。本文只按主办方确认的日期、时间和地点介绍，不补写未核实的节目、票价或现场安排。"
-          ],
-          "links": [
-            {
-              "label": "Montgomery BIA 官方活动页",
-              "url": "https://montgomerybia.com/light-up-montgomery/"
-            }
+            "CityNews的报道描述了113届 Grey Cup Festival 煎饼早餐现场。该视频于11月14日晚上7点42分发布；“数千名”来自媒体标题，本文不延伸推算现场人数或活动规模。"
           ]
         },
         {
-          "heading": "周边出行安排",
+          "heading": "为什么留作卡城档案",
           "paragraphs": [
-            "市府活动交通公告列出 Bowness Road NW 与 45 Street NW 周边约16:30至20:30交通限制。步行、搭车或开车前请查看公告及现场标志；活动已在今天举行，不是未来日期邀约。"
+            "这张卡记录的是卡城本地大型体育周末中的公共节庆体验，活动已结束，不构成今日出门建议，也不推广餐饮消费。"
+          ]
+        },
+        {
+          "heading": "从原始视频看活动回顾",
+          "paragraphs": [
+            "CityNews Calgary在视频中记录了记者和球迷参加早餐的现场。标题中的“数千名”是媒体自己的表述；本文照实归属给报道，不把它当作独立统计。"
           ],
           "links": [
             {
-              "label": "市府特别活动交通公告",
-              "url": "https://www.calgary.ca/roads/conditions/special-event-advisories.html"
+              "label": "CityNews Calgary原始活动视频",
+              "url": "https://calgary.citynews.ca/video/2026/11/14/calgary-feeds-thousands-of-football-fans-at-the-grey-cup-festival-pancake-breakfast/"
             }
           ]
         }
       ],
-      "takeaway": "活动时段为11月14日17:00–20:00，地点 Montgomery Town Square；附近道路约16:30–20:30受限，按市府现场信息出行。",
-      "sourceType": "社区主办方当日活动与市府交通公告",
-      "source": "Montgomery BIA；City of Calgary",
-      "author": "Montgomery BIA；City of Calgary",
-      "url": "https://montgomerybia.com/light-up-montgomery/",
+      "takeaway": "这是一条11月14日已结束活动的媒体回顾；现场规模按CityNews标题转述，不作独立人数统计。",
+      "sourceType": "本地节庆活动媒体回顾补档",
+      "source": "CityNews Calgary",
+      "author": "CityNews Calgary",
+      "url": "https://calgary.citynews.ca/video/2026/11/14/calgary-feeds-thousands-of-football-fans-at-the-grey-cup-festival-pancake-breakfast/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-14",
-        "reason": "未确认可用于本文且来源清晰的活动预览图，使用文字卡片。"
+        "checkedAt": "2026-11-15",
+        "reason": "公开视频搜索结果可确认报道标题与发布时间，但页面图片未能直接核验，因此使用纯文字来源卡片。"
       },
       "sourceEmbed": {
-        "url": "https://montgomerybia.com/light-up-montgomery/",
-        "title": "Light Up Montgomery",
-        "publisher": "Montgomery BIA",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "calgary-open-taekwondo-20261114",
-      "date": "2026-11-14",
-      "dateLabel": "11月14日 · 吃喝玩乐",
-      "sourceDate": "Calgary Open Taekwondo Championship 官方主办方页面；活动日期 2026-11-14",
-      "verifiedAt": "2026-11-14",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "Calgary Open Taekwondo Championship 今早在 Priddis 开赛",
-      "summary": "比赛在 Seven Chiefs Sportsplex & Jim Starlight Centre 举行，地址19 Bullhead Road；场馆7:30开门、首场9点开始，观众票10加元，6岁及以下免费。",
-      "deck": "场馆位于卡城以南的 Priddis，并非 Calgary 市内；比赛当天可到门口购票。",
-      "lede": "Calgary Open Taekwondo Championship 官方页面列出赛事于11月14日在 Priddis 的 Seven Chiefs Sportsplex & Jim Starlight Centre 举行。场馆7:30开门、首场赛事9:00开始；本稿核对时赛事日已开始。",
-      "sections": [
-        {
-          "heading": "比赛地点和观赛时间",
-          "paragraphs": [
-            "地址为19 Bullhead Road, Priddis, AB，地点在卡城以南的 Priddis，不应误认为 Calgary 市区场馆。官方列出开门时间7:30、首场赛事9:00。"
-          ]
-        },
-        {
-          "heading": "门票与现场购票",
-          "paragraphs": [
-            "主办方列出观众票价为10加元，6岁及以下免费；可在门口以现金或银行卡购票，无需预订。页面没有说明赛事语言，不对语言或余票作推断。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Open Taekwondo Championship 官方页面",
-              "url": "https://calgaryopentkd.com/"
-            }
-          ]
-        }
-      ],
-      "takeaway": "这是11月14日已开始的赛事记录：场馆在 Priddis，观众票10加元、6岁及以下免费，购票方式和当天安排以主办方页面为准。",
-      "sourceType": "主办方赛事与观众信息",
-      "source": "Calgary Open Taekwondo Championship",
-      "author": "Calgary Open Taekwondo Championship",
-      "url": "https://calgaryopentkd.com/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-14",
-        "reason": "未确认与当届赛事直接对应且可用于来源卡片的图片，使用纯文字卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://calgaryopentkd.com/",
-        "title": "Calgary Open Taekwondo Championship",
-        "publisher": "Calgary Open Taekwondo Championship",
+        "url": "https://calgary.citynews.ca/video/2026/11/14/calgary-feeds-thousands-of-football-fans-at-the-grey-cup-festival-pancake-breakfast/",
+        "title": "活动档案补档｜Grey Cup Festival 煎饼早餐：CityNews 记录球迷早场",
+        "publisher": "CityNews Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -278,8 +464,8 @@
       "id": "grey-cup-road-closures-20261113",
       "date": "2026-11-13",
       "dateLabel": "11月13日 · 生活提醒",
-      "sourceDate": "市府 Grey Cup 交通页面：已核对 2026-11-13，页面未列发布日期",
-      "verifiedAt": "2026-11-13",
+      "sourceDate": "市府Grey Cup交通页面：2026-11-15复核，比赛日道路调整为11月15日11:00–23:00；页面未列原发布日期",
+      "verifiedAt": "2026-11-15",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月15日 Grey Cup 比赛日 McMahon 周边多条道路限行：University Drive 将封闭11小时",
@@ -294,9 +480,9 @@
           ]
         },
         {
-          "heading": "去球场可考虑坐 CTrain",
+          "heading": "比赛日周边行人和接送也要留意",
           "paragraphs": [
-            "市府提醒 McMahon Stadium 与 Banff Trail CTrain 站周边会出现更多行人，尤其在比赛前后；官方建议搭乘红线至 Banff Trail，并遵从交通人员和现场标牌。计划接送的人也要留意 University Drive 的接送限制。"
+            "市府提醒 McMahon Stadium 与 Banff Trail CTrain 站周边会有较多行人，尤其在比赛前后。University Drive NW 的封闭路段只允许指定出租车、网约车和持赛事通行证车辆进入；24 Street NW 设有赛后公共接送区。"
           ],
           "links": [
             {
@@ -310,7 +496,7 @@
           ]
         }
       ],
-      "takeaway": "11 月 15 日 11:00–23:00 McMahon 周边交通调整；穿过 University Drive NW 16–24 Avenue 的行程请改道，前往球场优先考虑 CTrain。",
+      "takeaway": "11月15日11:00–23:00 McMahon 周边交通调整；University Drive NW 16至24 Avenue 全封闭，出门前查看市府当日路况。",
       "sourceType": "大型活动交通提醒",
       "source": "City of Calgary",
       "author": "City of Calgary",
@@ -490,56 +676,121 @@
       }
     },
     {
-      "id": "inglewood-holiday-night-market-20261113",
+      "id": "womens-neurology-fund-archive-20261112",
       "date": "2026-11-12",
-      "dateLabel": "11月12日 · 周末去哪",
-      "sourceDate": "主办方列出的活动日期：2026-11-13、2026-11-14",
-      "verifiedAt": "2026-11-13",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "Inglewood 夜市11月13–14日在 Crossroads 举行：下午4点至9点",
-      "summary": "Inglewood Holiday Night Market 本周五、周六在 Crossroads Market 的 Quonset 举行，主办方列出门票价格、时段和儿童长者免票条件。",
-      "deck": "这是有明确日期的夜市活动；想去的话先记下地址和入场费用。",
-      "lede": "Inglewood Holiday Night Market 于 11 月 13 日和 14 日在 Crossroads Market 的 The Quonset 举行。主办方列出两天下午 4 点至晚 9 点开放，现场有本地摊位和音乐。",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-15",
+      "sourceDate": "LiveWire Calgary报道日期2026-11-12；阿省项目于2026-11-05开放申请，截止2026-12-02 23:59",
+      "verifiedAt": "2026-11-15",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "历史补档｜阿省开放女性神经健康研究资助，单项最高100万",
+      "summary": "省府为女性神经健康创新研究提供总额500万加元的项目资金；符合资格的机构和团队可在12月2日午夜前申请。",
+      "deck": "目标日期补档 · 实际核对日期 2026-11-15。这是给研究团队的资助项目，不是个人医疗补助。",
+      "lede": "LiveWire Calgary在11月12日报道，阿省已启动首轮女性神经健康研究资助。今天补档时，申请期限仍未到；普通患者不能把这笔资金当作个人治疗或检查补贴。",
       "sections": [
         {
-          "heading": "时间、地点和入场",
+          "heading": "资助面向研究与创新项目",
           "paragraphs": [
-            "活动地址为1235 26 Avenue SE，主办方公布的入场费是5加元；65岁及以上长者和12岁以下儿童免票。"
+            "阿省项目页面列出总额500万加元、每个项目最高100万加元，资助期最长两年。优先方向是改善女性神经健康领域的预防、及时诊断、医疗可及性和患者结果。"
           ]
         },
         {
-          "heading": "出门前确认当日安排",
+          "heading": "哪些团队可以看申请条件",
           "paragraphs": [
-            "主办方介绍有60多个摊位及现场音乐，但没有在这份活动公告中列出每个时段的演出表。想确认当天交通或现场变动，可回到主办方页面查看。"
+            "省府列出的合资格申请者包括医疗系统机构及合作方、省内认可的高等院校、原住民政府或组织、市镇，以及符合要求的注册营利实体。个人患者不属于申请者类别；卡城的研究团队应先核对完整资格和合作要求。"
+          ]
+        },
+        {
+          "heading": "申请截止日期仍在未来",
+          "paragraphs": [
+            "省府页面列明申请于11月5日开放，截止为12月2日晚上11点59分，预计2027年1月8日通知结果。若团队有合适项目，应以省府页面的最新条款和提交步骤为准。"
           ],
           "links": [
             {
-              "label": "Inglewood Night Market 主办方活动信息",
-              "url": "https://www.inglewoodnightmarket.ca/"
+              "label": "阿省项目资格、资助与申请日期",
+              "url": "https://www.alberta.ca/closing-the-gap-funding-for-womens-neurological-health"
             },
             {
-              "label": "主办方节日夜市详情",
-              "url": "https://www.inglewoodnightmarket.ca/pages/holiday-vendor-registration"
+              "label": "LiveWire Calgary本地报道（2026-11-12）",
+              "url": "https://livewirecalgary.com/2026/11/12/new-alberta-womens-neurology-research-fund-highlights-multi-specialty-gaps/"
             }
           ]
         }
       ],
-      "takeaway": "11月13、14日下午4点至晚9点，Crossroads Market 的 The Quonset；入场5加元，12岁以下与65岁以上免票。",
-      "sourceType": "有明确日期的社区夜市活动",
-      "source": "Inglewood Night Market",
-      "author": "Inglewood Night Market",
-      "url": "https://www.inglewoodnightmarket.ca/",
-      "sourceTitle": "Inglewood Holiday Night Market",
+      "takeaway": "这笔500万加元资金面向合资格研究/创新项目，截止日为12月2日；不是患者个人医疗补贴。",
+      "sourceType": "省级科研资助计划历史补档",
+      "source": "Government of Alberta；LiveWire Calgary",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/closing-the-gap-funding-for-womens-neurological-health",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-12",
-        "reason": "核对原文后未确认可直接代表故事的预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
       },
       "sourceEmbed": {
-        "url": "https://www.inglewoodnightmarket.ca/",
-        "title": "Inglewood Holiday Night Market",
-        "publisher": "Inglewood Night Market",
+        "url": "https://www.alberta.ca/closing-the-gap-funding-for-womens-neurological-health",
+        "title": "历史补档｜阿省开放女性神经健康研究资助，单项最高100万",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "wandering-earth-2-screening-archive-20261112",
+      "date": "2026-11-12",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-15",
+      "sourceDate": "放映时间2026-11-12 20:15–23:00；Calgary European Film Festival第15届于2026-11-06至11-15举行",
+      "verifiedAt": "2026-11-15",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史活动补档｜《流浪地球2》曾于11月12日晚在卡城放映",
+      "summary": "这场普通话电影节放映已结束：La Cité des Rocheuses 当晚8点15分开场，片长2小时53分钟，主办方注明原语言配英文字幕。",
+      "deck": "目标日期补档 · 实际核对日期 2026-11-15。放映已结束，以下仅作本地华语电影活动记录。",
+      "lede": "《流浪地球2》于11月12日晚作为卡城欧洲电影节的一场影片放映。现在补档，是为了记录本地华语电影文化活动，不是提醒读者购票或前往。",
+      "sections": [
+        {
+          "heading": "当晚的场次信息",
+          "paragraphs": [
+            "Showpass活动页列出放映日期为11月12日，下午8点15分至晚上11点，在 La Cité des Rocheuses Theater（4800 Richard Rd SW）举行；片长2小时53分钟。页面现显示该场次不可购票，活动已经结束。"
+          ]
+        },
+        {
+          "heading": "中文原片与字幕说明",
+          "paragraphs": [
+            "售票页将影片标为中国电影，并注明电影节影片以原语言放映、配英文字幕。这里按主办方的字幕说明记录；不推断其他语言服务。"
+          ]
+        },
+        {
+          "heading": "补档来源",
+          "paragraphs": [
+            "活动不属于近期出门推荐。想核对当年场次和主办方信息，可查看售票页及电影节排期。"
+          ],
+          "links": [
+            {
+              "label": "《流浪地球2》11月12日场次存档",
+              "url": "https://www.showpass.com/the-wandering-earth-2-china-ceff-friends-of-europe/"
+            },
+            {
+              "label": "Calgary European Film Festival官方排期",
+              "url": "https://europeincalgary.org/ceff-2026/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "《流浪地球2》11月12日的卡城场次已结束；电影节售票页标注原语言、英文字幕。",
+      "sourceType": "华语电影文化活动历史补档",
+      "source": "Calgary European Film Festival；Showpass",
+      "author": "European Cultural Society of Calgary",
+      "url": "https://www.showpass.com/the-wandering-earth-2-china-ceff-friends-of-europe/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.showpass.com/the-wandering-earth-2-china-ceff-friends-of-europe/",
+        "title": "历史活动补档｜《流浪地球2》曾于11月12日晚在卡城放映",
+        "publisher": "European Cultural Society of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -548,25 +799,25 @@
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
-      "sourceDate": "市府水务页面更新于2026-11-11；用水数据为2026-11-10",
-      "verifiedAt": "2026-11-14",
+      "sourceDate": "市府当前限水页更新于2026-11-14（第四级限水仍有效）；文章所述每日用水统计为2026-11-10，市府更新发表于2026-11-11",
+      "verifiedAt": "2026-11-15",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城限水进入第七个“绿灯日”：户外用水仍暂停",
-      "summary": "市府11月11日更新称，前一天全市用水量为4.73亿升，连续七天低于目标线；第四级限水仍在执行，户外用水不允许。",
+      "summary": "市府11月11日更新称，前一天用水量为4.73亿升；截至11月15日，第四级限水仍在全市生效，户外用水暂停。",
       "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
-      "lede": "卡城市府11月11日更新：周二（10日）全市用水量为4.73亿升，已经连续七天处于目标范围。市府仍在连接 Bearspaw 南部供水主管线，第四级限水继续有效。",
+      "lede": "卡城市府11月11日公布的最新统计是：11月10日全市用水量4.73亿升。市府限水页面于11月14日更新时仍明确写着，全市第四级限制生效、禁止户外用水；这张卡保留历史数字，并注明当前规则已于11月15日复核。",
       "sections": [
         {
           "heading": "连续七天在目标线内，限水仍有效",
           "paragraphs": [
-            "市府把每日用水低于5亿升列为绿色目标。最新统计是11月10日的4.73亿升；页面同时明确写着，第四级限制仍在全市生效，禁止户外用水。"
+            "市府11月11日记录，11月10日用水量为4.73亿升，当时连续七天处于目标范围。这个数字不是今天的用水量；当前限制是否解除要看最新页面。"
           ]
         },
         {
           "heading": "家里可以先做什么",
           "paragraphs": [
-            "当前限制期间，居民应继续减少室内用水，查看市府列出的日常节水做法。若收到市府施工或供水通知，以通知和实时限制页面为准；这次的绿色用水数据不代表工程已完成或限制已解除。"
+            "截至2026年11月15日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂时禁止，并继续要求居民减少室内用水。不要因为此前用水量进入绿色目标就自行恢复户外浇灌。"
           ],
           "links": [
             {
@@ -580,7 +831,7 @@
           ]
         }
       ],
-      "takeaway": "目前仍是第四级限水：不要户外用水；限水是否解除，以市府当前页面为准。",
+      "takeaway": "截至2026年11月15日，市府仍执行第四级限水；户外用水暂停。4.73亿升是11月10日统计，不是今日数据。",
       "sourceType": "市府供水工程与限水公告",
       "source": "City of Calgary",
       "author": "City of Calgary",
@@ -594,6 +845,122 @@
         "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
         "title": "Stage 4 water restrictions in effect",
         "publisher": "City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "downtown-assault-police-appeal-archive-20261111",
+      "date": "2026-11-11",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-15",
+      "sourceDate": "Calgary Police Service新闻稿：2026-11-11；事件发生于2026-11-08约13:23",
+      "verifiedAt": "2026-11-15",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "历史补档｜警方11月11日就市中心严重袭击案征集线索",
+      "summary": "警方当时称，一名男子在12 Avenue SW近14 Street SW遇袭后送院；11月11日发布时仍处于危重状态，警方请求目击者提供线索。",
+      "deck": "这是对11月11日警方公告的历史补档；伤者状况只反映公告发布时的信息，不代表今天的最新医疗情况。",
+      "lede": "目标日期补档 · 实际核对日期 2026-11-15。卡城警方11月11日就周末市中心一宗严重袭击案向公众征集信息。以下仅记录警方当时公布的地点、时间和求助方式，不把当时的伤情当作当前进展。",
+      "sections": [
+        {
+          "heading": "警方公布的时间和地点",
+          "paragraphs": [
+            "警方通报称，事件发生于11月8日下午约1点23分，地点在12 Avenue SW近14 Street SW。警方到场时发现一名失去意识的男子，并将其送医。"
+          ]
+        },
+        {
+          "heading": "伤情与案件进展需按公告日期理解",
+          "paragraphs": [
+            "11月11日新闻稿称，伤者当时仍在医院、情况危重，且当时没有嫌疑人被拘留。这些是该日期的警方通报；本次没有据此推断伤者目前状况或案件后续。"
+          ]
+        },
+        {
+          "heading": "警方仍征集知情信息",
+          "paragraphs": [
+            "警方原公告请当时在附近的人，或掌握可能帮助调查信息的人拨打403-266-1234。若你准备提供线索，请先打开警方原文确认最新联系方式。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service原始公告",
+              "url": "https://newsroom.calgary.ca/police-investigate-downtown-assault/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "历史补档记录警方11月11日发布的求助；伤情仅限当时通报，案件新进展以警方页面为准。",
+      "sourceType": "警方公告历史补档",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/police-investigate-downtown-assault/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/police-investigate-downtown-assault/",
+        "title": "历史补档｜警方11月11日就市中心严重袭击案征集线索",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "flames-rangers-recap-archive-20261111",
+      "date": "2026-11-11",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-15",
+      "sourceDate": "比赛于2026-11-11在卡尔加里举行；Calgary Flames/NHL赛后报道发布于2026-11-12",
+      "verifiedAt": "2026-11-15",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "历史赛果补档｜Flames 主场1比3负于 Rangers，Klapka 破门",
+      "summary": "11月11日 Scotiabank Saddledome 的比赛中，纽约第二节连进两球，卡城由 Adam Klapka 第三节追回一分。",
+      "deck": "目标日期补档 · 实际核对日期 2026-11-15。这是已结束比赛的赛果回看，不是购票或观赛预告。",
+      "lede": "这张卡补记11月11日的主场比赛。NHL赛后稿记录，Calgary Flames 最终以1比3不敌 New York Rangers；报道于次日发布，不能把它误读成今天的赛程。",
+      "sections": [
+        {
+          "heading": "比分如何形成",
+          "paragraphs": [
+            "NHL赛报称，Rangers前两节取得3比0领先；Adam Klapka 在第三节为 Flames 打进强打进球，最终比分定格为3比1。"
+          ]
+        },
+        {
+          "heading": "一场已经结束的主场比赛",
+          "paragraphs": [
+            "比赛当晚在 Scotiabank Saddledome 举行，官方赛事摘要记录观众人数17,298人。本文为赛果档案，不提供已经结束的场次、票务或下一场时间。"
+          ]
+        },
+        {
+          "heading": "查看原始赛报",
+          "paragraphs": [
+            "想复盘完整比赛数据，可看 Flames 和 NHL 的赛后记录；两份记录的比赛日期和最终比分一致。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Flames官方赛后稿",
+              "url": "https://www.nhl.com/flames/news/flames-fall-to-rangers-11-11-26"
+            },
+            {
+              "label": "NHL官方赛后报道",
+              "url": "https://www.nhl.com/news/new-york-rangers-calgary-flames-game-recap-november-11-2026"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月11日主场赛果为Flames 1比3负于Rangers；这是一条历史赛果档案。",
+      "sourceType": "职业冰球赛果历史补档",
+      "source": "Calgary Flames；NHL",
+      "author": "Calgary Flames",
+      "url": "https://www.nhl.com/flames/news/flames-fall-to-rangers-11-11-26",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-15",
+        "reason": "检查了原始来源页面；没有确认到与这条事实直接相关且可稳定远程使用的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.nhl.com/flames/news/flames-fall-to-rangers-11-11-26",
+        "title": "历史赛果补档｜Flames 主场1比3负于 Rangers，Klapka 破门",
+        "publisher": "Calgary Flames",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -849,20 +1216,20 @@
     {
       "id": "grey-cup-free-festival-20261109",
       "date": "2026-11-09",
-      "dateLabel": "11月9日·周中出门",
-      "sourceDate": "City of Calgary 与 Grey Cup Festival 官方活动表，核对于2026-11-09",
-      "verifiedAt": "2026-11-13",
+      "dateLabel": "11月9日 · 活动排期（已结束）",
+      "sourceDate": "Grey Cup Festival主办方活动表列出11月11日至14日的免费街区活动；原卡发布于11月9日，当前状态于2026-11-15复核",
+      "verifiedAt": "2026-11-15",
       "category": "活动与出门",
       "categoryClass": "culture",
-      "title": "Grey Cup 免费户外活动11月11–14日在 Stampede Park 举行",
-      "summary": "Stampede Park 的 Suncor Street Festival 首日为11月11日16:30至21:00；周四至周六有免费无人机展示。官方未注明节目语言。",
-      "deck": "不看球也能先挑免费户外项目；日期和时段要分开看，别把整周活动误当成每天都有同一场。",
-      "lede": "Grey Cup 赛事周的免费户外活动于 11 月 11 日起在 Stampede Park 举行。市府列出部分家庭向节目，主办方日程则给出逐日时间；想去之前先对照当天安排。",
+      "title": "Grey Cup Festival 免费街区活动排期回看：11月11–14日场次已过",
+      "summary": "主办方日程列出 Suncor Street Festival 于11月11日至14日在 Stampede Park 开放，免费无人机展示安排在12日至14日；上述日期均已过去。",
+      "deck": "这张卡保留主办方公布的街区活动时间表，方便回看赛事周免费项目的安排。",
+      "lede": "Grey Cup Festival 的这组免费街区活动已在11月11日至14日结束。主办方日程将 Suncor Street Festival 列为逐日开放，并把无人机展示安排在后三晚；以下是当时的排期记录，不是仍可参加的活动。",
       "sections": [
         {
-          "heading": "首日开放时间",
+          "heading": "街区活动排期",
           "paragraphs": [
-            "主办方日程列出，Suncor Street Festival 于11月11日16:30至21:00开放；11月12日至14日为每天11:00至21:00。市府说明，Grey Cup Festival 在 Stampede Park 有免费家庭向节目与现场娱乐。"
+            "主办方列出的开放时间为：11月11日16:30至21:00；11月12日至14日每天11:00至21:00。City of Calgary页面也说明 Stampede Park 有免费家庭向项目。上述时段现已过去。"
           ],
           "links": [
             {
@@ -870,31 +1237,19 @@
               "url": "https://www.greycupfestival.ca/events/all/"
             },
             {
-              "label": "卡城市府：Grey Cup 活动与交通信息",
+              "label": "卡城市府：Grey Cup 活动信息",
               "url": "https://www.calgary.ca/events/grey-cup.html"
             }
           ]
         },
         {
-          "heading": "免费无人机展示不是每天都有",
+          "heading": "无人机展示日期",
           "paragraphs": [
-            "主办方日程列出的免费无人机展示安排在11月12、13、14日，每晚20:45至21:00；页面没有把它列在11月11日。不要把展示时间和整个街头节庆的开放时间混为一谈。"
-          ]
-        },
-        {
-          "heading": "语言和交通先看当天信息",
-          "paragraphs": [
-            "主办方页面没有标注节目语言。市府建议前往 Stampede Park 可乘 Red Line CTrain 到 Victoria Park/Stampede 站；周边活动期间可能有更多行人，开车前查看实时路况。"
-          ],
-          "links": [
-            {
-              "label": "卡城市府：交通与公共交通建议",
-              "url": "https://www.calgary.ca/events/grey-cup.html"
-            }
+            "主办方列出的免费无人机展示时间是11月12日、13日和14日每晚20:45至21:00，没有列在11月11日。这里记录的是当时公布的节目安排；实际举行情况未另行核实。"
           ]
         }
       ],
-      "takeaway": "免费户外区首日是11月11日16:30开场；无人机展示为11月12日至14日20:45。语言未确认，出门前再核对官方日程和交通信息。",
+      "takeaway": "主办方公布的免费街区活动排期为11月11日至14日，无人机展示原定在后三晚举行；这些场次已过，本文仅作排期回看。",
       "sourceType": "有明确日期的城市大型体育文化活动",
       "source": "City of Calgary；Grey Cup Festival",
       "author": "City of Calgary；Grey Cup Festival",
@@ -2497,7 +2852,7 @@
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "未注明",
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -2509,7 +2864,7 @@
           "heading": "制度已切换，全年 UTC-6",
           "paragraphs": [
             "阿省政府确认，Alberta Time 等同 UTC-6。省内已于11月1日切换，不再像以往那样在秋季把时钟拨回一小时。",
-            "阿省官方页面本身未注明发布日期；本次于 2026 年 11 月 13 日复核，页面确认永久 Alberta Time 已采用，等同 UTC-6。"
+            "阿省官方页面未注明发布时间；本次于2026年11月15日复核时，页面确认 Alberta Time 已采用，等同 UTC-6。"
           ],
           "links": [
             {
@@ -2658,23 +3013,23 @@
       "id": "parkdale-water-repairs-20261029",
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
-      "sourceDate": "2026-10-28",
-      "verifiedAt": "2026-11-14",
+      "sourceDate": "市府工程页于2026-11-15复核：Parkdale Boulevard预计施工至2026-12，期间有车道封闭和Bow River Pathway绕行；原市府通知2026-10-28",
+      "verifiedAt": "2026-11-15",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
       "summary": "市府 11 月 12 日称，Parkdale Boulevard 沿线各工区开挖正在进行或已完成，并同步修复一段较短管线；施工及 Bow River Pathway 绕行仍需留意。",
       "deck": "这是对 10 月 29 日提醒的状态更新，出发前仍应查市府最新施工图和现场标志。",
-      "lede": "补充核对说明：原始提醒仍保留 2026 年 10 月 29 日日期；2026 年 11 月 13 日回查市府更新后，Parkdale Boulevard 沿线多个工作区的开挖仍在进行或已完成。市府也利用工期修复 Shaganappi Pump Station 与 Memorial Pump Station 之间一小段管线。",
+      "lede": "补充核对说明：原始提醒仍保留2026年10月29日日期。市府工程页于2026年11月15日复核时，仍列出 Parkdale Boulevard NW 车道封闭和 Bow River Pathway 绕行，预计工期延续至2026年12月。具体工区以市府当日图示和现场标牌为准。",
       "sections": [
         {
           "heading": "Parkdale 一带目前仍有施工影响",
           "paragraphs": [
-            "市府 11 月 12 日更新称，Parkdale Boulevard NW 各工作点都在进行或已经完成开挖，工程还包含一段额外管线维修。市府项目页将该路段维修与 Bow River Pathway 绕行列为施工事项，计划期延续至 2026 年 12 月；实际封闭和绕行以当天标牌为准。"
+            "市府当前项目页将 Parkdale Boulevard NW 六处管线修复列为2026年10月29日至12月的工程安排，并提示车道封闭与 Bow River Pathway 绕行。11月15日的页面仍保留该安排；单个工区当天是否封闭，以现场标牌和实时交通图为准。"
           ],
           "links": [
             {
-              "label": "市府 11 月 12 日 Bearspaw 工程进度",
+              "label": "市府2026年11月13日 Bearspaw 工程进度",
               "url": "https://newsroom.calgary.ca/water-savings-remain-strong-as-bearspaw-connection-work-enters-its-second-week/"
             },
             {
@@ -3445,7 +3800,7 @@
       "categoryClass": "official",
       "title": "在卡城找自习和上网地点？市立图书馆会员可免费用 Wi-Fi 和电脑",
       "summary": "Calgary Public Library 提供免费会员服务，馆内包括 Wi-Fi、电脑和打印等资源；是否收费及具体规则以各项服务页面为准。",
-      "deck": "这是长期适用的公共服务指南，不是新开馆或限时优惠。",
+      "deck": "需要找个地方自习、上网或用电脑？卡城公共图书馆提供会员服务，具体设备和使用规则以服务页面为准。",
       "lede": "补档说明：这条生活指南于2026年11月9日重新核对后补入10月25日日期组；图书馆服务页面未标明发布日期，不能称为10月25日发布的新消息。",
       "sections": [
         {
