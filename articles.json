@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15",
-  "updatedLabel": "2026年11月15日 · 今日4篇、历史补档3组",
+  "updatedAt": "2026-11-16",
+  "updatedLabel": "2026年11月16日 · 今日4篇",
   "editionNote": "历史档案盘点（截至2026-11-15）：2026-10-20至2026-11-15共27个连续日期组、84篇；27组均有3–4篇并同时覆盖资讯与吃喝玩乐，其中24组各3篇、3组各4篇。今日11-15为4篇（资讯2、吃喝玩乐2）。本次补档11-11、11-12、11-14三组，移除三条已结束活动卡，并将11-09周中活动卡改为已结束排期回看；新增补档均分开记录目标日期与实际核对日期2026-11-15。",
   "articles": [
     {
@@ -119,20 +119,20 @@
     {
       "id": "grey-cup-game-day-calgary-20261115",
       "date": "2026-11-15",
-      "dateLabel": "11月15日 · 吃喝玩乐",
+      "dateLabel": "历史赛程档案 · 2026年11月15日",
       "sourceDate": "Grey Cup Festival主办方赛事页；比赛日期2026-11-15。市府道路安排页面核对于2026-11-15",
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "Grey Cup 今晚在 McMahon 开赛：3点开门，周边道路白天起调整",
-      "summary": "比赛下午5点开球、场馆3点开门；东侧停车场的免费球迷活动计划下午1至5点举行。University Drive NW中段今天上午11点至晚11点封闭。",
-      "deck": "去现场看球或只是经过大学区，今天先把开球时间和道路管制分开记。",
-      "lede": "第113届 Grey Cup 今天在 McMahon Stadium 举行。主办方列出下午5点开球、3点开放场馆；市府则提醒，比赛日周边道路从上午11点起有封闭和车道调整。",
+      "title": "历史赛程档案｜Grey Cup 原定11月15日在 McMahon 举行",
+      "summary": "主办方赛程列出下午5点开球、场馆下午3点开放及东侧球迷活动时段；市府曾公布比赛日道路安排。本文只记录当时计划，不描述实际赛果或执行情况。",
+      "deck": "11月15日赛事日期已过；以下是主办方和市府公布的历史赛程，不是活动邀约。",
+      "lede": "本条为2026年11月15日 Grey Cup 比赛日的赛程档案。主办方页面列出比赛及场馆时段，市府页面列出当日道路安排；这些资料说明的是原定安排，不据此推断活动实际如何举行。",
       "sections": [
         {
-          "heading": "比赛与免费球迷区时间",
+          "heading": "主办方公布的比赛日时段",
           "paragraphs": [
-            "主办方列出的比赛时段为下午5点至9点，场馆下午3点开门；地点是 McMahon Stadium（1817 Crowchild Trail NW）。赛事需购票。东侧停车场另有免费 FanDuel Game Day Tailgate，计划下午1点至5点举行；免费活动不代表有停车位或现场空间保证。"
+            "主办方赛程列出比赛原定下午5点至9点，场馆下午3点开放，地点为 McMahon Stadium（1817 Crowchild Trail NW）。东侧停车场的 FanDuel Game Day Tailgate 原定下午1点至5点。本文不声称这些安排实际举行。"
           ],
           "links": [
             {
@@ -142,15 +142,15 @@
           ]
         },
         {
-          "heading": "University Drive今天封闭",
+          "heading": "市府公布的历史道路安排",
           "paragraphs": [
-            "市府列明，11月15日上午11点至晚11点，University Drive NW在16 Avenue至24 Avenue之间全封闭；只允许指定出租车、网约车和持赛事通行证车辆进入。Crowchild Trail NW部分路段缩至每方向两条车道，限速50公里；Banff Trail站附近23 Avenue NW也有车辆封闭。"
+            "市府页面曾列明，11月15日上午11点至晚11点，University Drive NW 在16 Avenue至24 Avenue之间计划封闭，并说明部分道路和接送安排。此处保留为当日历史交通计划，不代表这些管制目前仍有效或实际执行情况已核实。"
           ]
         },
         {
-          "heading": "接送和绕行先看市府更新",
+          "heading": "不把计划当成事后记录",
           "paragraphs": [
-            "24 Street NW会改为临时北向单行，并设置赛后接送区。若要开车接人，别把普通乘客车辆驶入赛事限制区；出发前查看市府实时道路说明，现场按交通人员指引走。"
+            "原公告还列有24 Street NW临时单行及接送安排。现存来源是赛前安排页面，本文不补写比赛结果、现场人流或道路管制是否按计划实施。"
           ],
           "links": [
             {
@@ -160,7 +160,7 @@
           ]
         }
       ],
-      "takeaway": "比赛5点开球、场馆3点开放；University Drive NW指定路段11点至23点封闭，出发前核对市府交通页面。",
+      "takeaway": "这是2026年11月15日的历史赛程与道路计划档案，不是当前出行指引；不据此断言赛事或管制的实际结果。",
       "sourceType": "有日期的本地体育赛事与公共出行提醒",
       "source": "Grey Cup Festival；City of Calgary",
       "author": "Grey Cup Festival",
@@ -172,7 +172,7 @@
       },
       "sourceEmbed": {
         "url": "https://www.greycupfestival.ca/events/view/8/113th-grey-cup/",
-        "title": "Grey Cup 今晚在 McMahon 开赛：3点开门，周边道路白天起调整",
+        "title": "Grey Cup 2026 比赛日安排（赛前页面）",
         "publisher": "Grey Cup Festival",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -181,33 +181,32 @@
     {
       "id": "ceff-closing-screening-20261115",
       "date": "2026-11-15",
-      "dateLabel": "11月15日 · 吃喝玩乐",
+      "dateLabel": "历史放映档案 · 2026年11月15日",
       "sourceDate": "Calgary European Film Festival官方排片及Showpass售票页；放映日期2026-11-15",
-      "verifiedAt": "2026-11-15",
+      "verifiedAt": "2026-11-16",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "欧洲电影节今晚收官：6点放映《Bulgaria Amore Mio》，英文字幕",
-      "summary": "影片今晚6点在 La Cité des Rocheuses 放映，售票页列出约1小时45分钟及票价范围；页面未确认余票，出门前请再查。",
-      "deck": "想找一场今晚有明确时间的电影，可以先看收官日放映；片长、地点和字幕信息都已列在主办方页面。",
-      "lede": "卡城欧洲电影节今天最后一天。今晚6点，La Cité des Rocheuses 将放映《Bulgaria Amore Mio / Adventures Italian Style Reloaded》；电影节说明所有放映均带英文字幕。",
+      "title": "历史放映档案｜欧洲电影节原定11月15日放映《Bulgaria Amore Mio》",
+      "summary": "电影节排片和票务页列出11月15日下午6点在 La Cité des Rocheuses 的放映安排及英文字幕信息；本文仅存档原定安排，不描述放映是否实际举行。",
+      "deck": "11月15日场次已过；这是一条历史排片记录，不是观影或购票邀请。",
+      "lede": "Calgary European Film Festival 的2026年排片曾列出《Bulgaria Amore Mio / Adventures Italian Style Reloaded》于11月15日下午6点放映。日期已过，本文只记录来源页公布的计划，不推断放映结果或余票情况。",
       "sections": [
         {
           "heading": "时间、地点和片长",
           "paragraphs": [
-            "Showpass列出放映时间为下午6点至7点45分，地点在 La Cité des Rocheuses Theater（4800 Richard Rd SW）；片长105分钟。票价页面列出13.65至16.81加元。售票页没有给出可确认的余票数量，因此不要把页面按钮当作余票保证。"
+            "Showpass当时列出的时段为下午6点至7点45分，地点在 La Cité des Rocheuses Theater（4800 Richard Rd SW）；片长105分钟。历史票价范围为13.65至16.81加元。当时的售票页面未给出可确认的余票数量；本文只存档活动前公布的信息。"
           ]
         },
         {
-          "heading": "语言信息先按页面标注理解",
+          "heading": "当时页面列出的字幕与限制信息",
           "paragraphs": [
-            "电影节页面说明所有场次都有英文字幕。售票页没有清楚写明原声语言；如果字幕或语言对你很重要，购票前先向主办方确认。",
-            "主办方页面没有列出年龄分级或陪同要求；如果是带孩子去，出发前可向场馆确认。"
+            "电影节页面当时说明所有场次带英文字幕；售票页没有清楚写明原声语言或年龄分级。由于场次日期已过，这里仅记录当时的页面信息，不提供当前观影或购票指引。"
           ]
         },
         {
-          "heading": "今夜出门前再核对",
+          "heading": "仅保留当时排片信息",
           "paragraphs": [
-            "这是今晚的一场定时放映，不是常设电影项目。电影节排片和票务状态可能变化，出发前看主办方最新信息；不要把晚间闭幕活动的时间与这场电影混为一谈。"
+            "排片页将该场次列为电影节闭幕日放映。由于活动日期已过，本文不保留出门、购票或查询余票的行动号召，也不将场次安排说成已实际完成。"
           ],
           "links": [
             {
@@ -221,7 +220,7 @@
           ]
         }
       ],
-      "takeaway": "今晚6点在 La Cité des Rocheuses 放映，英文字幕已由主办方确认；余票及原声语言请出发前向票务页/主办方确认。",
+      "takeaway": "原定放映时间为2026年11月15日18:00；这是历史排片档案，不是当前场次或购票信息。",
       "sourceType": "有明确日期的电影节放映",
       "source": "Calgary European Film Festival",
       "author": "European Cultural Society of Calgary",
@@ -233,7 +232,7 @@
       },
       "sourceEmbed": {
         "url": "https://europeincalgary.org/ceff-2026/",
-        "title": "欧洲电影节今晚收官：6点放映《Bulgaria Amore Mio》，英文字幕",
+        "title": "Calgary European Film Festival 2026 放映日程（赛前页面）",
         "publisher": "European Cultural Society of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -463,26 +462,26 @@
     {
       "id": "grey-cup-road-closures-20261113",
       "date": "2026-11-13",
-      "dateLabel": "11月13日 · 生活提醒",
-      "sourceDate": "市府Grey Cup交通页面：2026-11-15复核，比赛日道路调整为11月15日11:00–23:00；页面未列原发布日期",
-      "verifiedAt": "2026-11-15",
+      "dateLabel": "历史交通安排档案 · 2026年11月15日",
+      "sourceDate": "市府 Grey Cup 交通页面所列比赛日道路安排：2026-11-15 11:00–23:00；本次于2026-11-16回查并转为历史档案",
+      "verifiedAt": "2026-11-16",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "11月15日 Grey Cup 比赛日 McMahon 周边多条道路限行：University Drive 将封闭11小时",
-      "summary": "Grey Cup 比赛日 11 月 15 日上午 11 点至晚 11 点实施交通调整；University Drive NW 的 16 至 24 Avenue 段全封闭。",
-      "deck": "比赛在 McMahon Stadium 举行，附近住宅停车和步行人流也会受影响。",
-      "lede": "11 月 15 日的 Grey Cup 会让 McMahon Stadium 周边交通明显不同。市府列出的道路封闭和限行时段为上午 11 点至晚上 11 点，其中 University Drive NW 在 16 Avenue 与 24 Avenue 之间全封闭。",
+      "title": "历史交通安排｜Grey Cup 当天 McMahon 周边道路曾限行",
+      "summary": "市府赛前公布的11月15日交通安排包括 University Drive NW 局部封闭及 McMahon 周边限行；相关时段已过，以下仅作当时安排回看。",
+      "deck": "这张卡存档的是市府在比赛前公布的道路安排，不是当前出行提醒。",
+      "lede": "市府页面曾列出 Grey Cup 比赛日（11月15日）的道路调整。比赛日已过，以下保留当时公布的路段和时段，不作为现在的路线建议，也不推断现场实际执行情况。",
       "sections": [
         {
-          "heading": "哪些路段会变",
+          "heading": "当时公布的道路安排",
           "paragraphs": [
-            "市府还列出 Crowchild Trail NW 双向缩减至每方向两条车道、限速降至 50 公里/小时，并限制进入球场周边的左转。周边社区可能实施临时停车限制；居民仍可进入住所，但需按现场检查点要求出示地址证明。"
+            "市府赛前页面列出11月15日11:00至23:00的 McMahon Stadium 周边交通调整，其中 University Drive NW 在16 Avenue与24 Avenue之间全封闭。页面还列出 Crowchild Trail NW 车道缩减、限速调整及部分左转限制；这些均为当时公布的临时安排。"
           ]
         },
         {
-          "heading": "比赛日周边行人和接送也要留意",
+          "heading": "接送与周边通行的赛前说明",
           "paragraphs": [
-            "市府提醒 McMahon Stadium 与 Banff Trail CTrain 站周边会有较多行人，尤其在比赛前后。University Drive NW 的封闭路段只允许指定出租车、网约车和持赛事通行证车辆进入；24 Street NW 设有赛后公共接送区。"
+            "市府当时提醒比赛前后 McMahon Stadium 和 Banff Trail CTrain 站附近行人较多，并列出指定车辆进入及公共接送区安排。由于比赛日已过，本文不保留当前出行号召；实时道路状况请查看市府交通页面。"
           ],
           "links": [
             {
@@ -496,7 +495,7 @@
           ]
         }
       ],
-      "takeaway": "11月15日11:00–23:00 McMahon 周边交通调整；University Drive NW 16至24 Avenue 全封闭，出门前查看市府当日路况。",
+      "takeaway": "11月15日比赛日交通安排已过期；此卡仅记录市府赛前发布的计划，不代表实际执行结果。",
       "sourceType": "大型活动交通提醒",
       "source": "City of Calgary",
       "author": "City of Calgary",
@@ -508,7 +507,7 @@
       },
       "sourceEmbed": {
         "url": "https://www.calgary.ca/events/grey-cup.html",
-        "title": "2026 Grey Cup Festival and 113th Grey Cup",
+        "title": "2026 Grey Cup Festival and 113th Grey Cup（历史交通安排）",
         "publisher": "City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -517,9 +516,9 @@
     {
       "id": "zoolights-opening-20261113",
       "date": "2026-11-13",
-      "dateLabel": "11月13日 · 吃喝玩乐",
+      "dateLabel": "历史活动档案 · 2026年11月15日",
       "sourceDate": "Calgary Zoo 官方页面：2026-11-13 至 2027-01-03",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-16",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
       "title": "Calgary Zoo 冬季灯展11月13日开场：每晚5:30至9:30",
@@ -567,26 +566,26 @@
     {
       "id": "aiyaa-confluence-20261115-archive",
       "date": "2026-11-13",
-      "dateLabel": "11月13日 · 吃喝玩乐",
+      "dateLabel": "历史活动档案 · 2026年11月15日",
       "sourceDate": "AIYAA 主办页面与日程：2026-11-15；活动时间 13:00–17:00",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-16",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "11月15日北区有免费青少年艺术展和音乐演出：Vivo下午1点开始",
-      "summary": "AIYAA 的 CONFLUENCE 2026 将于 11 月 15 日在 Vivo 举办，包含青少年艺术展、多元文化家庭工作坊和音乐表演。",
-      "deck": "公开入场免费；部分手作可随到随做，艺术家绘画工作坊则需预先报名且名额有限。",
-      "lede": "11 月 15 日想找个能带家人一起逛的文化活动，可以看看 AIYAA 的 CONFLUENCE 2026。主办方列出的时间是下午 1 点至 5 点，地点在 Vivo for Healthier Generations 的室内公园，从东入口进入。",
+      "title": "历史活动档案｜AIYAA CONFLUENCE 原定11月15日在 Vivo 举行",
+      "summary": "主办方日程列出活动原定13:00–17:00在 Vivo 举行，包含青少年艺术展、工作坊和音乐表演；本文只记载预告，不推断活动实际情况。",
+      "deck": "活动日期已过，以下是主办方公布的历史日程，不是现时出行邀请。",
+      "lede": "AIYAA 主办页面将 CONFLUENCE 2026 列为2026年11月15日活动，时间13:00–17:00，地点为 Vivo。本文于11月16日回查并转为历史档案；只保留来源所载安排，不补写现场结果。",
       "sections": [
         {
-          "heading": "现场有什么",
+          "heading": "主办方预告的活动内容",
           "paragraphs": [
-            "主办方介绍，活动有青少年视觉艺术展、器乐与声乐表演，以及多元文化家庭工作坊。免费手作包括立体花灯、圣诞松果装饰和彩珠手链，页面称可随到随参加、无需报名。"
+            "主办方页面介绍了青少年视觉艺术展、器乐与声乐表演，以及多元文化家庭工作坊；页面所述免费手作项目和参与方式均属于活动前公布的信息。"
           ]
         },
         {
-          "heading": "普通入场免费，绘画工作坊要先报名",
+          "heading": "仅记录来源页面所列安排",
           "paragraphs": [
-            "主办方列明公众免费入场。艺术家带领的绘画工作坊也免费，但要提前报名且只有 30 个名额；页面没有公布实时余位。主办信息有中文和英文，演出具体曲目与各节目开始时间未列出。"
+            "原页面曾列出公众入场及绘画工作坊报名信息。当前文章不提供报名或到场号召，也不声称活动、工作坊或演出已按计划完成。"
           ],
           "links": [
             {
@@ -600,7 +599,7 @@
           ]
         }
       ],
-      "takeaway": "11 月 15 日 13:00–17:00，Vivo（11950 Country Village Link NE）东入口室内公园；公众免费入场，绘画工作坊需要预先报名。",
+      "takeaway": "AIYAA 页面所列历史时段为2026年11月15日13:00–17:00、地点 Vivo；实际举行情况未由赛前日程证明。",
       "sourceType": "华人社区主办的免费公共文化活动",
       "source": "Alberta International Young Artists Association (AIYAA)",
       "author": "AIYAA",
@@ -612,7 +611,7 @@
       },
       "sourceEmbed": {
         "url": "https://2026-confluence-2026-5sibigm.gamma.site/",
-        "title": "百彩汇流 CONFLUENCE 2026",
+        "title": "百彩汇流 CONFLUENCE 2026（历史活动排期）",
         "publisher": "Alberta International Young Artists Association (AIYAA)",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -1154,20 +1153,20 @@
     {
       "id": "yyc-noodle-festival-20261109",
       "date": "2026-11-09",
-      "dateLabel": "11月9日·吃喝玩乐",
+      "dateLabel": "历史活动档案 · 2026年11月5日至15日",
       "sourceDate": "官方活动页列出2026年11月5日至15日；页面未注明发布日期",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-16",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城面食节举办至11月15日：活动不收门票，参赛菜品各店定价",
-      "summary": "YYC Noodle Festival 正在卡城多家餐馆举行，至11月15日结束。官方列出参与店家；每道参赛面食单独付费，部分收入捐给 Leftovers Foundation。",
-      "deck": "想了解今年的参赛名单，可看主办方官网；这不是统一票价的节庆入场活动。",
-      "lede": "今年的 YYC Noodle Festival 从11月5日办到15日。主办方把参与餐馆和地址列在官网；不用买节庆门票，但参赛菜品由各家餐馆按自己的价格出售。",
+      "title": "历史活动档案｜YYC Noodle Festival 2026 于11月5日至15日排期",
+      "summary": "主办方公布的2026年活动日期为11月5日至15日，并列出参与餐馆；FAQ说明无需节庆门票、菜品由餐馆单独定价。本条是过期活动档案，不是到店邀请。",
+      "deck": "活动日期已过；这里保留主办方公布的历史日程与参与方式，不构成当前消费推荐。",
+      "lede": "YYC Noodle Festival 官方页面和 FAQ 将2026年活动日期列为11月5日至15日。本文于11月16日回查后改为历史档案，仅保留当时公布的日期及参与规则，不暗示活动仍在举行。",
       "sections": [
         {
-          "heading": "活动还剩几天",
+          "heading": "主办方公布的活动日期",
           "paragraphs": [
-            "官方活动页确认，本届面食节日期为 11 月 5 日至 15 日，参与餐馆分布在卡城不同地点。活动不是集中在一个场馆里的市集。"
+            "官方活动页列出本届日期为2026年11月5日至15日，参与餐馆分布在卡城不同地点；这是一项跨餐馆活动，并非集中在单一场馆。上述为主办方日程资料，不证明每家店在每个时段的实际营业情况。"
           ],
           "links": [
             {
@@ -1177,9 +1176,9 @@
           ]
         },
         {
-          "heading": "价格和参与方式各家不同",
+          "heading": "官方 FAQ 所列参与方式",
           "paragraphs": [
-            "主办方 FAQ 说明，不需要购买节庆门票；参赛菜品向餐馆单独购买，价格由餐馆决定。是否可外带、是否需要订位，也要逐家确认。"
+            "主办方 FAQ 说明无需购买节庆门票，参赛菜品由各餐馆单独出售并自行定价。本文不提供现时营业、订位或消费引导。"
           ],
           "links": [
             {
@@ -1189,13 +1188,13 @@
           ]
         },
         {
-          "heading": "每碗面还有一项公益去向",
+          "heading": "主办方当时公布的公益安排",
           "paragraphs": [
-            "主办方表示，每份参赛面食收入的一部分会捐给 Calgary 的 Leftovers Foundation。具体菜品、价格、营业时间和饮食限制以各餐馆公布的信息为准；这里不代替餐馆做推荐或排名。"
+            "活动页面当时表示，参赛面食收入的一部分计划捐给 Calgary 的 Leftovers Foundation。此卡存档的是主办方活动前公布的安排，不补写实际捐款或活动结果。"
           ]
         }
       ],
-      "takeaway": "活动至 11 月 15 日结束。想了解参与名单，可先看主办方页面；再逐店核对地址、价格和当天营业情况。",
+      "takeaway": "YYC Noodle Festival 2026 的官方档期为11月5日至15日，现已结束；此卡是历史安排，不是当前到店邀请。",
       "sourceType": "有明确日期的本地餐饮节庆",
       "source": "YYC Noodle Festival",
       "author": "YYC Noodle Festival",
@@ -1207,7 +1206,7 @@
       },
       "sourceEmbed": {
         "url": "https://www.yycnoodlefestival.com/",
-        "title": "YYC Noodle Festival 2026",
+        "title": "YYC Noodle Festival 2026（历史活动排期）",
         "publisher": "YYC Noodle Festival",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -1261,7 +1260,7 @@
       },
       "sourceEmbed": {
         "url": "https://www.calgary.ca/events/grey-cup.html",
-        "title": "2026 Grey Cup Festival and 113th Grey Cup",
+        "title": "2026 Grey Cup Festival and 113th Grey Cup（历史活动排期）",
         "publisher": "City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -4628,6 +4627,216 @@
         "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
         "title": "Investigation into fatal collision continues",
         "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-fatal-shooting-bowness-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 本地资讯",
+      "sourceDate": "警方通报日期：2026-11-15；警方称枪击约于2026-11-15 08:50发生",
+      "verifiedAt": "2026-11-16",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "警方通报 Bowness 超市停车场致命枪击：事发于昨天上午",
+      "summary": "警方称，11月15日上午约8:50，Real Canadian Superstore 停车场发生枪击，一名男子被发现死亡。警方在当日通报时称相信属孤立事件、当时没有持续公共风险，且尚无人被捕。",
+      "deck": "这是警方11月15日发布的案件通报；其中关于公共风险和拘捕情况仅代表通报发布时的信息。",
+      "lede": "Calgary Police Service 于11月15日通报，Bowness 的 Real Canadian Superstore 停车场发生致命枪击。以下仅按警方原文记录地点、时间和当时公布的调查状态，不推测身份或动机。",
+      "sections": [
+        {
+          "heading": "警方公布的时间与地点",
+          "paragraphs": [
+            "警方称，枪击约于11月15日上午8:50发生在 3400 69 St NW 的 Real Canadian Superstore 停车场。警员到场后发现一名男子死亡。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service 原始通报",
+              "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/"
+            }
+          ]
+        },
+        {
+          "heading": "风险评估有明确的通报时点",
+          "paragraphs": [
+            "警方在11月15日发布通报时表示，他们认为这是孤立事件，当时没有持续的公众风险；同一通报称尚无人被拘捕。这些是发布时的状态，不应被理解为之后的更新。"
+          ]
+        },
+        {
+          "heading": "警方当时征集目击及影像线索",
+          "paragraphs": [
+            "原通报请目击者或持有行车记录仪、监控录像的人致电403-266-1234。若需了解案件后续，应以警方原文及其最新公告为准。"
+          ]
+        }
+      ],
+      "takeaway": "警方11月15日通报称一名男子死亡，并记录了当时的风险评估与线索征集；本文不推测受害者身份、嫌疑人或动机。",
+      "sourceType": "警方通报",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "使用警方原始通报来源卡片；未确认可直接对应案件且适合展示的来源页图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
+        "title": "Police Investigate Fatal Shooting",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "canyon-meadows-elevator-modernization-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 生活提醒",
+      "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
+      "verifiedAt": "2026-11-16",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
+      "summary": "Calgary Transit 列出电梯因现代化改造关闭，预计12月3日凌晨2:30恢复；站台目前可经楼梯或扶梯到达，无法使用楼梯的乘客可搭替代接驳车。",
+      "deck": "电梯停用不等于车站完全无法进入；接驳车连接 Canyon Meadows 与 Fish Creek-Lacombe 红线站。",
+      "lede": "Calgary Transit 当前停运页面列出 Canyon Meadows Station 电梯自11月9日凌晨起关闭，预计12月3日凌晨结束改造。需要无障碍替代路线的乘客可按官方说明使用接驳车。",
+      "sections": [
+        {
+          "heading": "电梯关闭期间的车站通行",
+          "paragraphs": [
+            "页面列出的关闭时段为11月9日04:20至12月3日02:30，原因是现代化改造。站台仍可通过楼梯或扶梯到达，因此不要把电梯停运理解为所有乘客都无法进站。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Transit 电梯停运与替代安排",
+              "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html"
+            }
+          ]
+        },
+        {
+          "heading": "无法使用楼梯时的接驳方向",
+          "paragraphs": [
+            "无法使用楼梯的乘客可从 Canyon Meadows 巴士环线搭接驳车前往 Fish Creek-Lacombe，以接驳红线。乘火车抵达 Fish Creek-Lacombe 后，可在南入口附近乘车返回 Canyon Meadows 巴士环线、Park & Ride 或 Cantrell Drive 入口。"
+          ]
+        }
+      ],
+      "takeaway": "计划乘车且不能走楼梯者，可按 Calgary Transit 页面所列两端乘车点安排接驳；出发前查看官方页面的最新状态。",
+      "sourceType": "公共交通服务提醒",
+      "source": "Calgary Transit",
+      "author": "Calgary Transit",
+      "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "使用 Calgary Transit 原始服务页面来源卡片；未确认直接相关且适合作为预览的图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
+        "title": "Escalator and elevator outages",
+        "publisher": "Calgary Transit",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hindu-heritage-month-library-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 活动与出门",
+      "sourceDate": "Calgary Public Library 活动列表列出日期：2026-11-21 12:00；详情页未注明发布日期",
+      "verifiedAt": "2026-11-16",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "中央图书馆11月21日办印度教文化月活动：有舞蹈、纱丽体验和免费 mehndi",
+      "summary": "Calgary Public Library 与 Hindu Heritage Society 合作，活动介绍包括艺术、音乐、舞蹈、印度文化学习、纱丽穿戴体验、samosas 和免费 mehndi。官方列表列出周六中午12点。",
+      "deck": "活动在 Central Library 举行；详情页没有确认结束时间、费用、报名要求、语言、年龄限制或剩余名额。",
+      "lede": "想在周末了解印度文化，Calgary Public Library 的活动详情介绍了 Hindu Heritage Month at the Library。图书馆活动列表将其排在11月21日（周六）中午12点；其他参与条件请以当前详情页为准。",
+      "sections": [
+        {
+          "heading": "活动介绍包含哪些体验",
+          "paragraphs": [
+            "Central Library 与 Hindu Heritage Society 合作，活动介绍包括艺术、音乐、舞蹈和印度传统文化学习，也提及纱丽穿戴体验、samosas 及免费 mehndi（手绘海娜）。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Public Library 活动详情",
+              "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library"
+            },
+            {
+              "label": "Calgary Public Library 当前活动列表",
+              "url": "https://www.calgarylibrary.ca/events-and-programs/events"
+            }
+          ]
+        },
+        {
+          "heading": "官方页面尚未确认的实用信息",
+          "paragraphs": [
+            "详情页没有列出结束时间、费用、是否需要报名、活动语言、年龄限制或剩余容量。出发前请查看图书馆当前页面；本文不把未列出的条件当作已确认。"
+          ]
+        }
+      ],
+      "takeaway": "图书馆活动列表列出11月21日12:00；报名、费用、时长及适龄信息仍应以 Calgary Public Library 当前页面为准。",
+      "sourceType": "公共图书馆文化活动",
+      "source": "Calgary Public Library",
+      "author": "Calgary Public Library",
+      "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "使用图书馆原始活动页来源卡片；未确认直接对应本场活动且适合远程显示的预览图。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
+        "title": "Hindu Heritage Month at the Library",
+        "publisher": "Calgary Public Library",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "diy-cloisonne-workshop-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 活动与出门",
+      "sourceDate": "Heritage Arts Club 主办方票务页列出的活动日期：2026-11-21",
+      "verifiedAt": "2026-11-16",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "11月21日 The New Gallery 有掐丝珐琅 DIY 工作坊：分粤语、英语和普通话场次",
+      "summary": "Heritage Arts Club 页面列出三个时段：粤语10:00–12:00、英语13:00–15:00、普通话15:30–17:30；地点为 Calgary 的 The New Gallery，适合12岁以上，每人参加一场。",
+      "deck": "这是中国传统工艺文化体验，不是商家推荐；票价与实时余票未能确认，报名前请查看主办方页面。",
+      "lede": "想动手体验中国传统工艺，Heritage Arts Club 的 DIY Cloisonné Workshop 页面列出11月21日在 The New Gallery 举行的三种语言场次。活动适合12岁以上，报名价格和余位请以主办方票务页为准。",
+      "sections": [
+        {
+          "heading": "三个语言场次与地点",
+          "paragraphs": [
+            "主办方票务页列出的粤语场为10:00–12:00，英语场为13:00–15:00，普通话场为15:30–17:30。地点是 The New Gallery，208 Centre Street S, Calgary。"
+          ],
+          "links": [
+            {
+              "label": "Heritage Arts Club：DIY Cloisonné Workshop 票务页",
+              "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380"
+            }
+          ]
+        },
+        {
+          "heading": "年龄和参与场次",
+          "paragraphs": [
+            "页面标注适合12岁及以上参加者，每人只参加一个场次。票价和实时可购名额本次无法确认；请在决定前打开主办方页面核对，不要把此活动理解为免费。"
+          ]
+        }
+      ],
+      "takeaway": "活动日期为11月21日，三种语言时段可选；票价与余票未确认，先查看 Heritage Arts Club 的原始票务页面。",
+      "sourceType": "中国传统工艺文化工作坊",
+      "source": "Heritage Arts Club",
+      "author": "Heritage Arts Club",
+      "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "Eventbrite 页面本次无法直接确认可用且与工作坊相关的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
+        "title": "DIY Cloisonne Workshop Tickets",
+        "publisher": "Heritage Arts Club",
         "thumbnail": null,
         "thumbnailAlt": null
       }
