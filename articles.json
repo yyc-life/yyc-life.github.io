@@ -1,8 +1,236 @@
 {
-  "updatedAt": "2026-11-16",
-  "updatedLabel": "2026年11月16日 · 今日4篇",
+  "updatedAt": "2026-11-17",
+  "updatedLabel": "2026年11月17日 · 今日4篇",
   "editionNote": "历史档案盘点（截至2026-11-15）：2026-10-20至2026-11-15共27个连续日期组、84篇；27组均有3–4篇并同时覆盖资讯与吃喝玩乐，其中24组各3篇、3组各4篇。今日11-15为4篇（资讯2、吃喝玩乐2）。本次补档11-11、11-12、11-14三组，移除三条已结束活动卡，并将11-09周中活动卡改为已结束排期回看；新增补档均分开记录目标日期与实际核对日期2026-11-15。",
   "articles": [
+    {
+      "id": "calgary-snowfall-warning-20261117",
+      "date": "2026-11-17",
+      "dateLabel": "11月17日 · 生活提醒",
+      "sourceDate": "ECCC Calgary预警于2026-11-17 10:46 ABT核对；预报更新于11:00 ABT",
+      "verifiedAt": "2026-11-17",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城今早仍有降雪预警：晚间降雪更明显，通勤先查路况",
+      "summary": "ECCC对卡城发布黄色降雪预警、信心高；预计今晚5–10厘米，周三约5厘米，周三晚逐渐减弱。",
+      "deck": "卡城处在南阿省预估总量的较低一端，官方没有给卡城单独的总雪量；今晚和明早出门要留出余量。",
+      "lede": "加拿大环境与气候变化部（ECCC）周二11月17日10:46 ABT的页面显示，黄色降雪预警适用于卡城市，预报信心为高。南阿省整体预计15–20厘米，卡城在较低一端，不能把区域总量当成卡城的精确数字。",
+      "sections": [
+        {
+          "heading": "今天到周三的降雪节奏",
+          "paragraphs": [
+            "ECCC 11:00 ABT更新的预报显示，今天接近中午开始下雪，白天约2厘米；今晚预计5–10厘米，周三约5厘米，周三晚逐渐减弱。",
+            "ECCC提醒道路和步道可能难走，降雪也可能影响通勤高峰。"
+          ],
+          "links": [
+            {
+              "label": "ECCC：卡尔加里官方预报与降雪预警",
+              "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093"
+            }
+          ]
+        },
+        {
+          "heading": "出门前先看实时状况",
+          "paragraphs": [
+            "开车或搭乘交通工具前，查看路线、道路封闭和交通状态；驾车放慢速度、拉大车距并打开车灯，也为行程多留时间。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：实时交通、道路状况与封闭信息",
+              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "卡城没有单独的精确总雪量；重点留意今晚至周三的降雪，出发前查实时道路和交通信息。",
+      "sourceType": "官方天气预报与预警",
+      "source": "Environment and Climate Change Canada",
+      "author": "Environment and Climate Change Canada",
+      "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-17",
+        "reason": "未核实来源页存在相关直接预览图；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093",
+        "title": "卡城今早仍有降雪预警：晚间降雪更明显，通勤先查路况",
+        "publisher": "Environment and Climate Change Canada",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "alert-ready-test-alberta-20261117",
+      "date": "2026-11-17",
+      "dateLabel": "11月17日 · 生活提醒",
+      "sourceDate": "Public Safety Canada当前页面确认测试日期为2026-11-18；Pelmorex Corp于2026-11-16发布测试时间",
+      "verifiedAt": "2026-11-17",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "明天全国测试紧急警报：阿省预计下午1:55收到",
+      "summary": "11月18日全国无线、电视和广播将进行 Alert Ready 测试；阿省时间为下午1:55。",
+      "deck": "手机响起并显示测试信息时无需采取行动；兼容设备和接收条件会影响是否收到。",
+      "lede": "Public Safety Canada目前确认，全国公共警报系统测试安排在11月18日。Pelmorex Corp于11月16日公布阿省测试时间为下午1:55 ABT，测试将通过无线、电视和广播发出。",
+      "sections": [
+        {
+          "heading": "阿省测试安排",
+          "paragraphs": [
+            "Pelmorex说明，兼容手机需连接LTE或5G网络；测试警报会标明是测试信息，不需要采取行动。",
+            "部分兼容手机可能收不到测试警报；没有收到并不能单独证明设备或系统故障。"
+          ],
+          "links": [
+            {
+              "label": "Pelmorex Corp：2026年11月18日全国测试及阿省时间",
+              "url": "https://www.globenewswire.com/news-release/2026/11/16/3403288/0/en/emergency-alert-test-in-canada-alert-ready-to-issue-nationwide-test-on-november-18-2026.html"
+            }
+          ]
+        },
+        {
+          "heading": "官方日期与测试范围",
+          "paragraphs": [
+            "Public Safety Canada列出的当前测试日期为11月18日，范围涵盖全国无线设备、电视和广播。若想了解系统和日期信息，以政府页面为准。"
+          ],
+          "links": [
+            {
+              "label": "Public Safety Canada：National Public Alerting System",
+              "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx"
+            }
+          ]
+        }
+      ],
+      "takeaway": "阿省测试时间为11月18日下午1:55；测试警报无需行动，未收到也不等于系统故障。",
+      "sourceType": "政府警报系统说明与运营方公告",
+      "source": "Public Safety Canada；Pelmorex Corp",
+      "author": "Public Safety Canada；Pelmorex Corp",
+      "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-17",
+        "reason": "未核实来源页存在相关直接预览图；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx",
+        "title": "明天全国测试紧急警报：阿省预计下午1:55收到",
+        "publisher": "Public Safety Canada",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "tcg-station-calgary-20261117",
+      "date": "2026-11-17",
+      "dateLabel": "11月17日 · 吃喝玩乐",
+      "sourceDate": "Roots Collective YYC活动页；Tourism Calgary活动列表；活动日期2026-11-21",
+      "verifiedAt": "2026-11-17",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "TCG Station 周六在华埠文化中心办卡牌交流活动",
+      "summary": "社区卡牌活动列有60多位摊主、拍照区及交换和游戏空间；Tourism Calgary列为免费入场。",
+      "deck": "这是社区举办的卡牌活动信息，不是商家推荐；票务及现场空间是否仍有名额无法从页面确认。",
+      "lede": "Roots Collective YYC列出的 TCG Station 将于11月21日（周六）上午11点至下午5点，在 Calgary Chinese Cultural Centre Museum 举行。活动介绍包括60多位摊主、拍照区，以及交换和游戏空间。",
+      "sections": [
+        {
+          "heading": "日期、地点与活动内容",
+          "paragraphs": [
+            "地点为 Calgary Chinese Cultural Centre Museum，197 1 Street SW。主办方将其介绍为社区卡牌展会，页面列有60多位摊主、拍照区和可交换、游玩的区域。"
+          ],
+          "links": [
+            {
+              "label": "Roots Collective YYC：TCG Station活动页",
+              "url": "https://www.eventbrite.com/e/tcg-station-tickets-2004195515739"
+            },
+            {
+              "label": "Tourism Calgary：TCG Station（免费入场信息）",
+              "url": "https://www.visitcalgary.com/events/tcg-station"
+            }
+          ]
+        },
+        {
+          "heading": "页面没有说明的事项",
+          "paragraphs": [
+            "Tourism Calgary列出免费入场；当前票务或现场空间是否仍有名额无法从页面确认。主办方页面未说明活动语言或年龄政策，也未说明中文服务；不要据此假定。"
+          ]
+        }
+      ],
+      "takeaway": "活动定于11月21日11:00–17:00，地址与免费入场信息见来源页；语言、年龄政策和余位未确认。",
+      "sourceType": "社区活动主办方页面与旅游活动列表",
+      "source": "Roots Collective YYC；Tourism Calgary",
+      "author": "Roots Collective YYC；Tourism Calgary",
+      "url": "https://www.eventbrite.com/e/tcg-station-tickets-2004195515739",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-17",
+        "reason": "未核实来源页存在相关直接预览图；未使用商标或无关图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.eventbrite.com/e/tcg-station-tickets-2004195515739",
+        "title": "TCG Station 周六在华埠文化中心办卡牌交流活动",
+        "publisher": "Roots Collective YYC",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "contemporary-connections-ukrainian-tour-20261117",
+      "date": "2026-11-17",
+      "dateLabel": "11月17日 · 吃喝玩乐",
+      "sourceDate": "Contemporary Calgary活动与项目页面；Showpass登记页；活动日期2026-11-21",
+      "verifiedAt": "2026-11-17",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "当代艺术馆周六有乌克兰语导览：免费但建议提前登记",
+      "summary": "Contemporary Connections导览为乌克兰语；导览后有交流及可选聚会，现场参加视剩余空间而定。",
+      "deck": "这场活动使用乌克兰语，不是中文导览；登记页显示0元，但目前是否还能登记无法确认。",
+      "lede": "Contemporary Calgary 的 Contemporary Connections: Ukrainian Tour 定于11月21日（周六）中午12点至1点，在 Flanagan Family Gallery 举行。官方称活动免费并建议提前登记；现场参加仅在有空间时接纳。",
+      "sections": [
+        {
+          "heading": "半小时导览，之后继续交流",
+          "paragraphs": [
+            "官方活动页说明，约30分钟的乌克兰语导览后接续交流，并可选择参加 mixer。地址为 Contemporary Calgary，701 11 St SW。活动页未列年龄限制。"
+          ],
+          "links": [
+            {
+              "label": "Contemporary Calgary：本场乌克兰语导览详情",
+              "url": "https://www.contemporarycalgary.com/whats-on"
+            },
+            {
+              "label": "Contemporary Calgary：Contemporary Connections语言活动系列",
+              "url": "https://www.contemporarycalgary.com/contemporary-connections"
+            }
+          ]
+        },
+        {
+          "heading": "免费不代表现场一定有位",
+          "paragraphs": [
+            "主办方称活动免费、建议提前登记；walk-in仅在有剩余空间时接纳。Showpass页头显示11月21日，但正文有一处仍写11月14日；这与Contemporary Calgary活动日历列出的11月21日不一致。本文按主办方日历及登记页页头所示日期整理，登记余位仍无法确认，出发前请再核对主办方页面。"
+          ],
+          "links": [
+            {
+              "label": "Showpass：本场活动登记页",
+              "url": "https://www.showpass.com/contemporary-connections-ukrainian-tour-3/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月21日中午的乌克兰语导览免费；非中文活动，登记和现场余位需以主办方页面当前显示为准。",
+      "sourceType": "美术馆官方活动、项目与登记页面",
+      "source": "Contemporary Calgary；Showpass",
+      "author": "Contemporary Calgary；Showpass",
+      "url": "https://www.contemporarycalgary.com/whats-on",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-17",
+        "reason": "未核实来源页存在相关直接预览图；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.contemporarycalgary.com/whats-on",
+        "title": "当代艺术馆周六有乌克兰语导览：免费但建议提前登记",
+        "publisher": "Contemporary Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "calgary-2027-budget-proposal-20261115",
       "date": "2026-11-15",
