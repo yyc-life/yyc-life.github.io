@@ -1,8 +1,228 @@
 {
-  "updatedAt": "2026-11-17",
-  "updatedLabel": "2026年11月17日 · 今日4篇",
+  "updatedAt": "2026-11-18",
+  "updatedLabel": "2026年11月18日 · 今日4篇",
   "editionNote": "历史档案盘点（截至2026-11-15）：2026-10-20至2026-11-15共27个连续日期组、84篇；27组均有3–4篇并同时覆盖资讯与吃喝玩乐，其中24组各3篇、3组各4篇。今日11-15为4篇（资讯2、吃喝玩乐2）。本次补档11-11、11-12、11-14三组，移除三条已结束活动卡，并将11-09周中活动卡改为已结束排期回看；新增补档均分开记录目标日期与实际核对日期2026-11-15。",
   "articles": [
+    {
+      "id": "yyc-transit-snow-detours-20261118",
+      "date": "2026-11-18",
+      "dateLabel": "11月18日 · 生活提醒",
+      "sourceDate": "Calgary Transit服务更新页于2026-11-18显示雪天绕行生效；ECCC卡城预警更新于11月18日6:24 ABT",
+      "verifiedAt": "2026-11-18",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城公交雪天绕行已启动：出门前先查线路并预留时间",
+      "summary": "Calgary Transit当前提示雪天绕行生效；ECCC今早对卡城发布降雪预警，预计今天仍有降雪并可能影响通勤。",
+      "deck": "路线可能临时改变。出发前查自己的公交线路和实时到站信息，给通勤多留一点时间。",
+      "lede": "卡城下雪不仅让开车慢下来，公交路线也可能临时绕行。Calgary Transit的服务更新页目前写明雪天绕行生效，并提醒乘客在早晨出发前查看线路、预留通勤时间。",
+      "sections": [
+        {
+          "heading": "先核对自己的公交线路",
+          "paragraphs": [
+            "打开Calgary Transit服务更新页，搜索常搭的线路；页面提示雪天绕行正在生效，但未在当前文字列表中列出受影响的每条线路。临出门前再用Plan a Trip或Next Ride确认行程和到站时间。",
+            "今早加拿大环境与气候变化部对卡城市发布黄色降雪预警，预计今天还会有5至10厘米降雪，降雪可能影响通勤高峰。预警覆盖南阿省多个地区，不能把区域累计雪量当作卡城单独数字。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Transit：当前服务更新与雪天绕行",
+              "url": "https://www.calgarytransit.com/service-updates.html"
+            },
+            {
+              "label": "Environment and Climate Change Canada：卡城天气与预警",
+              "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093"
+            }
+          ]
+        },
+        {
+          "heading": "给换乘和步行留出余量",
+          "paragraphs": [
+            "如果需要换乘，留意临时站点或路线变化；在人行道和站点周围也要预留更多步行时间。公交绕行状态会变化，以出发前的线路查询和现场公告为准。"
+          ]
+        }
+      ],
+      "takeaway": "雪天绕行已生效；出门前查线路状态和实时到站信息，并为通勤多留时间。",
+      "sourceType": "公共交通服务更新与官方天气预警",
+      "source": "Calgary Transit；Environment and Climate Change Canada",
+      "author": "Calgary Transit；Environment and Climate Change Canada",
+      "url": "https://www.calgarytransit.com/service-updates.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-18",
+        "reason": "核对了公交服务页和天气预警；未确认适合直接代表雪天绕行的原文预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarytransit.com/service-updates.html",
+        "title": "Service Updates",
+        "publisher": "Calgary Transit",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-child-seat-checks-20261118",
+      "date": "2026-11-18",
+      "dateLabel": "11月18日 · 生活提醒",
+      "sourceDate": "Calgary Police Service新闻稿发布于2026-11-16 15:51 America/Edmonton；整月检查安排",
+      "verifiedAt": "2026-11-18",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "卡城警方11月仍在查儿童安全座椅：胸扣太低、绑带太松都常见",
+      "summary": "警方称11月会在全市设检查站；座椅未正确固定，司机最高可能被罚211加元。具体检查地点和时段未公布。",
+      "deck": "有孩子乘车的家庭可以按座椅说明先自查；警方没有公布检查站具体地点或时间。",
+      "lede": "卡尔加里警方说，整个11月都会在市内设置检查站，查看车上的儿童安全座椅是否正确安装、孩子是否妥善固定。警方没有公布各检查站的位置和时段，开车接送孩子的家庭可以先按座椅说明检查一遍。",
+      "sections": [
+        {
+          "heading": "警方列出的常见安装问题",
+          "paragraphs": [
+            "检查中常见的问题包括胸扣位置偏低、座椅内置绑带太松、前向式座椅没有系顶部固定带，以及座椅底座安装后仍松动。不同座椅适用的年龄、体重和安装方式不同，应按制造商说明确认。",
+            "警方表示，儿童未正确固定在安全座椅内，司机最高可能被罚211加元。阿省规定，司机须确保16岁以下儿童受到适当约束。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service：Check stops for child safety",
+              "url": "https://newsroom.calgary.ca/check-stops-for-child-safety/"
+            },
+            {
+              "label": "阿省政府：儿童安全座椅选择与安装指南",
+              "url": "https://www.alberta.ca/child-seats"
+            },
+            {
+              "label": "卡城华人网 KaCheng：警方11月儿童座椅检查行动（中文线索）",
+              "url": "https://kacheng.ca/zh-hans/news/calgary-police-run-child-safety-seat-check-stops-all/"
+            }
+          ]
+        },
+        {
+          "heading": "上路前先做一次检查",
+          "paragraphs": [
+            "检查胸扣是否按座椅说明放在合适位置、内置绑带是否贴合、顶部系带是否接上锚点，并确认座椅底座没有松动。若对适用型号或安装方式不确定，先查阿省指南或联系合格的座椅检查服务；不要按其他车型的经验照搬。"
+          ]
+        }
+      ],
+      "takeaway": "警方的检查行动持续整个11月；按自家座椅说明核对胸扣、绑带、顶部固定带和底座，检查站的具体位置未公布。",
+      "sourceType": "警方道路安全提醒",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/check-stops-for-child-safety/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-18",
+        "reason": "原始警方通报及中文线索页均未确认适合本条的直接预览图；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/check-stops-for-child-safety/",
+        "title": "Check stops for child safety",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-hiphop-streetdance-festival-20261118",
+      "date": "2026-11-18",
+      "dateLabel": "11月18日 · 吃喝玩乐",
+      "sourceDate": "Calgary Hip Hop & Streetdance Festival主办方节目表；活动日期2026-11-19至22，页面未注明发布日期",
+      "verifiedAt": "2026-11-18",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城街舞节明晚开场：电影放映、battle与周日华埠决赛",
+      "summary": "11月19日至22日的街舞节分布在 Contemporary Calgary、Pulse Studios 和华埠文化中心；部分项目需购票。",
+      "deck": "从周四晚的舞蹈短片放映到周日决赛，活动场地、时间和票价各不相同，出发前先看具体场次。",
+      "lede": "第五届 Calgary Hip Hop & Streetdance Festival 将于11月19日至22日举行，节目包括舞蹈电影、街舞课程、battle和现场演出。它不是单一场馆的活动：周四开场在 Contemporary Calgary，周末比赛和周日决赛另有场地。",
+      "sections": [
+        {
+          "heading": "周四开场与周末决赛",
+          "paragraphs": [
+            "11月19日（周四）在 Contemporary Calgary（701 11 St SW）举行电影放映和开场活动，下午6:30开门、7点放映，之后还有3对3 battle；该场票价为15加元。",
+            "11月21日预赛在 Pulse Studios（110 10 Ave NW）举行，首场比赛上午10:15开始；11月22日决赛与 showcase 在 Calgary Chinese Cultural Centre（197 1 St SW），下午1点开门、1:30开始。主办方说明，预赛观众票包含周日决赛入场。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Hip Hop & Streetdance Festival：2026节目表、地点与票务",
+              "url": "https://www.calgaryhhsdf.com/schedule"
+            }
+          ]
+        },
+        {
+          "heading": "报名与观演信息",
+          "paragraphs": [
+            "主办方节目表列出的预赛观众常规票为45加元，周日决赛单独票价也列为45加元；已购买预赛票的人可凭同一张票看决赛。网页没有说明活动是否提供中文服务或一般观众年龄限制，当前剩余名额也未在节目表中确认。"
+          ]
+        }
+      ],
+      "takeaway": "街舞节从11月19日办到22日；周四开场票价15加元，周日华埠文化中心决赛下午1:30开始。票务余量及语言、年龄信息以主办方页面为准。",
+      "sourceType": "街舞文化节主办方节目表",
+      "source": "Calgary Hip Hop & Streetdance Festival",
+      "author": "Calgary Hip Hop & Streetdance Festival",
+      "url": "https://www.calgaryhhsdf.com/schedule",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-18",
+        "reason": "查看了主办方节目表；页面图片为节庆视觉素材，未确认可作为与单一场次直接对应的原文预览，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgaryhhsdf.com/schedule",
+        "title": "2026 Program",
+        "publisher": "Calgary Hip Hop & Streetdance Festival",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "metis-flag-raising-lougheed-20261118",
+      "date": "2026-11-18",
+      "dateLabel": "11月18日 · 吃喝玩乐",
+      "sourceDate": "Lougheed House主办方活动页及Tourism Calgary日历；活动日期2026-11-20",
+      "verifiedAt": "2026-11-18",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "周五Lougheed House举行 Métis 升旗活动：免费，建议登记",
+      "summary": "活动为11月20日上午11点至中午，在 Lougheed House 举行；Métis 政府成员和长者将发言，之后可参观博物馆。",
+      "deck": "这是一场纪念 Métis Week 的本地文化活动；主办方写明免费，报名建议而非强制。",
+      "lede": "本周五的 Métis Flag Raising & Open House 将在 Lougheed House 举行，现场由 Otipemisiwak Government 成员升起 Métis 旗帜，并有政府成员和一位 Métis 长者发言。对于想了解卡尔加里本地 Métis 历史与社区的居民，这是一个有明确时间、地点的公开活动。",
+      "sections": [
+        {
+          "heading": "时间、地点和活动安排",
+          "paragraphs": [
+            "活动定于11月20日（周五）上午11点至中午，地点为 Lougheed House，地址是707 13 Avenue SW。主办方说，仪式后欢迎参加者参观博物馆；页面没有列出参观部分的额外费用或持续时间。",
+            "Lougheed House 主办页面标注活动免费，并建议预先登记。页面没有说明活动语言或年龄限制；如需要无障碍或语言安排，可在出发前联系场馆确认。"
+          ],
+          "links": [
+            {
+              "label": "Lougheed House：Métis Flag Raising & Open House",
+              "url": "https://www.lougheedhouse.com/events"
+            },
+            {
+              "label": "Tourism Calgary：活动日期与地点",
+              "url": "https://www.visitcalgary.com/events/metis-flag-raising-open-house"
+            }
+          ]
+        },
+        {
+          "heading": "这是纪念 Métis Week 的社区活动",
+          "paragraphs": [
+            "主办方将活动与 Métis Week 相连，安排升旗并邀请 Otipemisiwak Government 成员和 Métis 长者发言。对第一次接触这段历史的观众，现场活动语言和问答安排仍应向主办方确认。"
+          ]
+        }
+      ],
+      "takeaway": "11月20日11:00–12:00在 Lougheed House 举行，免费、建议登记；语言与年龄安排未说明。",
+      "sourceType": "文化与社区活动主办方页面",
+      "source": "Lougheed House；Tourism Calgary",
+      "author": "Lougheed House",
+      "url": "https://www.lougheedhouse.com/events",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-18",
+        "reason": "核对了主办方与旅游日历；未确认适合直接代表升旗活动的原始预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.lougheedhouse.com/events",
+        "title": "Métis Flag Raising & Open House",
+        "publisher": "Lougheed House",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "calgary-snowfall-warning-20261117",
       "date": "2026-11-17",
@@ -520,31 +740,34 @@
       "id": "bearspaw-edgemont-pressure-work-20261114",
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
-      "sourceDate": "City of Calgary Newsroom新闻稿：2026-11-13；限水页面于2026-11-14更新，当前状态复核于2026-11-15",
-      "verifiedAt": "2026-11-15",
+      "sourceDate": "市府11月13日公告预计 Edgemont 主水管维修需7至10天；市府11月17日最新进度未说明该维修是否完工；本次于2026-11-18复核",
+      "verifiedAt": "2026-11-18",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "Edgemont 水管维修期间或有低水压：第四级限水仍未解除",
-      "summary": "市府11月13日称，Edgemont 主水管维修预计持续7至10天；5个社区可能低水压，饮水仍安全。维修期中有 Edgemont Drive NW 局部封路，第四级限水截至11月15日仍有效。",
-      "deck": "出门和用水安排以市府最新施工、限水页面为准；绿色用水数据不等于解除限制。",
-      "lede": "市府11月13日更新 Bearspaw South Feeder Main 连接工程进度，并表示 Edgemont 主水管维修预计持续7至10天。Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 居民可能遇到水压偏低；饮用水仍安全。",
+      "title": "Edgemont 低水压维修提醒：市府最新更新未确认完工状态",
+      "summary": "市府11月13日预计维修需7至10天，并列出5个可能受影响社区；11月17日最新工程更新未说明 Edgemont 维修是否完工，当前水压与封路状态未确认。",
+      "deck": "原提醒保留在11月14日档案中；不要把预计工期当作完工确认，也不要把旧道路安排当作今天仍有效。",
+      "lede": "这条卡片保留2026年11月14日的原始提醒日期。市府11月13日称，Edgemont 主水管漏水维修预计需要7至10天，Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 的部分用户可能遇到低水压，水质仍符合监管要求。市府11月17日的最新 Bearspaw 工程更新没有提到这项 Edgemont 维修是否完工，因此目前不能确认这些社区的水压和道路状态。",
       "sections": [
         {
-          "heading": "哪些社区可能感到水压变化",
+          "heading": "上次官方公告说了什么",
           "paragraphs": [
-            "市府列出 Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 可能遇到较低水压。11月13日的公告称，水符合监管要求、可以饮用；低水压不等于煮水通知。"
+            "市府11月13日公告称，维修约需7至10天；受影响社区可能低水压，但饮用水符合监管要求。公告当时还列出 Edgemont Drive NW 局部交通安排。"
           ]
         },
         {
-          "heading": "限水和道路施工另行留意",
+          "heading": "最新页面没有确认是否完工",
           "paragraphs": [
-            "截至11月15日，市府当前页面仍显示第四级限制，全市禁止户外使用饮用水；施工更新没有宣布解除限水。Edgemont Drive NW 西向车道在 Edgemont Boulevard NW 处封闭，东向车道双向通行以配合维修。",
-            "经过当地请按现场指示绕行；如遇水压变化，可查看市府维修更新，并以限水实时页面核对规则。"
+            "市府11月17日的工程更新继续报告连接工程和 Parkdale 维修进度，但没有说明 Edgemont 漏水维修是否结束。不要仅按原预计工期推断今天仍低水压，也不要假定道路封闭仍在。住在相关社区或准备经过当地，可查看市府最新通告或联系311确认。"
           ],
           "links": [
             {
-              "label": "市府11月13日施工更新",
+              "label": "市府11月13日 Edgemont 维修原始公告",
               "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
+            },
+            {
+              "label": "市府11月17日最新工程进度",
+              "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/"
             },
             {
               "label": "市府当前限水规则",
@@ -553,14 +776,14 @@
           ]
         }
       ],
-      "takeaway": "五个社区可能低水压，但市府称水仍可安全饮用；Edgemont Drive NW有局部封闭，且全市第四级限水仍有效。",
+      "takeaway": "市府原预计维修需7至10天，但11月17日最新页面未确认 Edgemont 是否完工；当天低水压和道路情况请向市府核实，不沿用旧状态猜测。",
       "sourceType": "市政供水工程与限水提醒",
       "source": "City of Calgary",
       "author": "City of Calgary",
       "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-14",
+        "checkedAt": "2026-11-18",
         "reason": "未确认与本次维修影响直接对应的来源图片，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
@@ -1026,14 +1249,14 @@
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
-      "sourceDate": "市府当前限水页更新于2026-11-14（第四级限水仍有效）；文章所述每日用水统计为2026-11-10，市府更新发表于2026-11-11",
-      "verifiedAt": "2026-11-15",
+      "sourceDate": "市府11月11日公布的用水数据为2026-11-10；限水页面于2026-11-17更新并确认第四级限制仍有效；本次于2026-11-18复核",
+      "verifiedAt": "2026-11-18",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城限水进入第七个“绿灯日”：户外用水仍暂停",
-      "summary": "市府11月11日更新称，前一天用水量为4.73亿升；截至11月15日，第四级限水仍在全市生效，户外用水暂停。",
+      "summary": "市府11月11日公布，前一天用水量为4.73亿升；市府11月17日仍确认第四级限水在全市生效，户外用水暂停。",
       "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
-      "lede": "卡城市府11月11日公布的最新统计是：11月10日全市用水量4.73亿升。市府限水页面于11月14日更新时仍明确写着，全市第四级限制生效、禁止户外用水；这张卡保留历史数字，并注明当前规则已于11月15日复核。",
+      "lede": "卡城市府11月11日公布的历史统计是：11月10日全市用水量4.73亿升。市府限水页面于11月17日更新时仍显示全市第四级限制生效、禁止户外用水；这张卡保留历史数字，并注明现行规则已于11月18日复核。",
       "sections": [
         {
           "heading": "连续七天在目标线内，限水仍有效",
@@ -1044,7 +1267,7 @@
         {
           "heading": "家里可以先做什么",
           "paragraphs": [
-            "截至2026年11月15日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂时禁止，并继续要求居民减少室内用水。不要因为此前用水量进入绿色目标就自行恢复户外浇灌。"
+            "截至2026年11月18日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。不要因为此前用水量进入绿色目标就自行恢复户外浇灌。"
           ],
           "links": [
             {
@@ -1058,14 +1281,14 @@
           ]
         }
       ],
-      "takeaway": "截至2026年11月15日，市府仍执行第四级限水；户外用水暂停。4.73亿升是11月10日统计，不是今日数据。",
+      "takeaway": "截至2026年11月18日，市府仍执行第四级限水；户外用水暂停。4.73亿升是11月10日统计，不是今日数据。",
       "sourceType": "市府供水工程与限水公告",
       "source": "City of Calgary",
       "author": "City of Calgary",
       "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-11",
+        "checkedAt": "2026-11-18",
         "reason": "官方页面没有确认到适合代表这条内容的原文预览图；使用纯文字来源卡片。"
       },
       "sourceEmbed": {
@@ -3078,8 +3301,8 @@
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
-      "sourceDate": "未注明",
-      "verifiedAt": "2026-11-15",
+      "sourceDate": "阿省政府现行页面于2026-11-18复核：Alberta Time为UTC-6，已于2026-11-01生效；页面未注明首次发布日期",
+      "verifiedAt": "2026-11-18",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -3091,7 +3314,7 @@
           "heading": "制度已切换，全年 UTC-6",
           "paragraphs": [
             "阿省政府确认，Alberta Time 等同 UTC-6。省内已于11月1日切换，不再像以往那样在秋季把时钟拨回一小时。",
-            "阿省官方页面未注明发布时间；本次于2026年11月15日复核时，页面确认 Alberta Time 已采用，等同 UTC-6。"
+            "阿省官方页面未注明发布时间；本次于2026年11月18日复核，仍确认 Alberta Time 等同 UTC-6，且已于11月1日采用。"
           ],
           "links": [
             {
@@ -3122,7 +3345,7 @@
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-10-30",
+        "checkedAt": "2026-11-18",
         "reason": "省政府页面未确认与该文内容直接对应的预览图，使用纯文字来源卡片。"
       }
     },
@@ -3240,24 +3463,24 @@
       "id": "parkdale-water-repairs-20261029",
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
-      "sourceDate": "市府工程页于2026-11-15复核：Parkdale Boulevard预计施工至2026-12，期间有车道封闭和Bow River Pathway绕行；原市府通知2026-10-28",
-      "verifiedAt": "2026-11-15",
+      "sourceDate": "市府11月17日工程进度确认 Parkdale Boulevard 仍在铺设和焊接替换管段；项目页于2026-11-18复核仍列车道与Bow River Pathway绕行；原通知2026-10-28",
+      "verifiedAt": "2026-11-18",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
-      "summary": "市府 11 月 12 日称，Parkdale Boulevard 沿线各工区开挖正在进行或已完成，并同步修复一段较短管线；施工及 Bow River Pathway 绕行仍需留意。",
+      "summary": "市府11月17日称，Parkdale Boulevard 多处仍在安装和焊接替换管段；车道与 Bow River Pathway 绕行仍需留意。",
       "deck": "这是对 10 月 29 日提醒的状态更新，出发前仍应查市府最新施工图和现场标志。",
-      "lede": "补充核对说明：原始提醒仍保留2026年10月29日日期。市府工程页于2026年11月15日复核时，仍列出 Parkdale Boulevard NW 车道封闭和 Bow River Pathway 绕行，预计工期延续至2026年12月。具体工区以市府当日图示和现场标牌为准。",
+      "lede": "这条提醒保留原始日期2026年10月29日。市府11月17日工程更新称，Parkdale Boulevard 上的额外管道维修仍在进行，多处正在安装、焊接替换管段；项目页于11月18日仍列出车道封闭和 Bow River Pathway 绕行，个别工区当日状态以现场标牌和实时交通图为准。",
       "sections": [
         {
           "heading": "Parkdale 一带目前仍有施工影响",
           "paragraphs": [
-            "市府当前项目页将 Parkdale Boulevard NW 六处管线修复列为2026年10月29日至12月的工程安排，并提示车道封闭与 Bow River Pathway 绕行。11月15日的页面仍保留该安排；单个工区当天是否封闭，以现场标牌和实时交通图为准。"
+            "市府11月17日表示，Parkdale Boulevard 在 Shaganappi Pump Station 与 Memorial Pump Station 之间的额外维修仍在施工，五处位置正在安装和焊接替换管段。市府项目页于11月18日仍列出沿线车道封闭及 Bow River Pathway 绕行，施工排期延续至12月。"
           ],
           "links": [
             {
-              "label": "市府2026年11月13日 Bearspaw 工程进度",
-              "url": "https://newsroom.calgary.ca/water-savings-remain-strong-as-bearspaw-connection-work-enters-its-second-week/"
+              "label": "市府2026年11月17日 Bearspaw 工程进度",
+              "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/"
             },
             {
               "label": "市府 Parkdale Boulevard Repairs 项目页",
@@ -3282,18 +3505,18 @@
       "sourceType": "市府公告",
       "source": "City of Calgary Newsroom",
       "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/bearspaw-south-feeder-main-reaches-95-installation-construction-to-connect-the-new-feeder-main-and-stage-4-water-restrictions-begin-november-4/",
+      "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/",
       "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/bearspaw-south-feeder-main-reaches-95-installation-construction-to-connect-the-new-feeder-main-and-stage-4-water-restrictions-begin-november-4/",
-        "title": "Bearspaw South Feeder Main reaches 95% installation; construction to connect the new feeder main and Stage 4 water restrictions begin November 4",
+        "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/",
+        "title": "Water use still in the green zone as Bearspaw connection work progresses on schedule",
         "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-13",
-        "reason": "更新施工状态时核对了原文和当前市府页面；无须另选图片，保留纯文字来源卡片。"
+        "checkedAt": "2026-11-18",
+        "reason": "11月17日市府工程更新及当前项目页已复核；未确认与 Parkdale 维修直接对应的可用预览图，保留纯文字来源卡片。"
       }
     },
     {
