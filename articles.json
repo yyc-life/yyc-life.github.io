@@ -1,26 +1,225 @@
 {
-  "updatedAt": "2026-11-18",
-  "updatedLabel": "2026年11月18日 · 今日4篇",
-  "editionNote": "历史档案盘点（截至2026-11-15）：2026-10-20至2026-11-15共27个连续日期组、84篇；27组均有3–4篇并同时覆盖资讯与吃喝玩乐，其中24组各3篇、3组各4篇。今日11-15为4篇（资讯2、吃喝玩乐2）。本次补档11-11、11-12、11-14三组，移除三条已结束活动卡，并将11-09周中活动卡改为已结束排期回看；新增补档均分开记录目标日期与实际核对日期2026-11-15。",
+  "updatedAt": "2026-11-19",
+  "updatedLabel": "2026年11月19日 · 今日4篇",
+  "editionNote": "截至2026-11-19，2026-10-20至2026-11-19共31个连续日期组、99篇；其中25组各3篇、6组各4篇，所有日期组均同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。11月17日组移除已过期降雪预警与警报测试，新增明确标注目标日与实际核对日期的议会决定补档，恢复为3篇；11月18日公交雪天绕行仍在生效，保留该提醒。",
   "articles": [
+    {
+      "id": "gemini-vape-licence-revoked-20261119",
+      "date": "2026-11-19",
+      "dateLabel": "11月19日 · 本地资讯",
+      "sourceDate": "卡城市府新闻稿发布于2026-11-18；执照复核听证后撤销电子烟零售类别",
+      "verifiedAt": "2026-11-19",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城一间便利店电子烟零售许可被撤：市府称案件涉及向未成年人销售",
+      "summary": "市府11月18日撤销 Gemini Convenience Store 的电子烟零售许可类别；该店不得再销售或提供电子烟产品。烟草销售须先通过书面批准的年龄核验系统。",
+      "deck": "这是针对未成年人接触电子烟的执法决定；市府页面称撤销已生效。",
+      "lede": "卡城市府已撤销东北区 Gemini Convenience Store 的电子烟零售许可类别，商店不得再销售或提供电子烟产品。决定是在营业执照复核听证后作出，市府称案件涉及向未成年人销售电子烟。",
+      "sections": [
+        {
+          "heading": "电子烟许可已撤销",
+          "paragraphs": [
+            "市府11月18日公告说，执法行动与向未成年人销售电子烟有关，并由市府与 Alberta Health Services 协作。市府审阅证据及商家的监管记录后，撤销其电子烟零售类别。"
+          ]
+        },
+        {
+          "heading": "烟草销售另有条件",
+          "paragraphs": [
+            "商店的烟草零售类别仍在，但恢复烟草销售前，必须先取得市府对销售点年龄核验系统的书面批准。条件包括每笔交易检查政府照片证件并进行电子年龄核验，系统故障时须停止销售。公告没有说明该系统是否已获批准。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：Gemini Convenience Store许可决定",
+              "url": "https://newsroom.calgary.ca/city-revokes-vaping-retailer-licence-for-gemini-convenience-store/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "电子烟零售类别已撤销；烟草销售只有在年龄核验系统获市府书面批准后才可恢复。",
+      "sourceType": "市府营业执照复核决定",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://newsroom.calgary.ca/city-revokes-vaping-retailer-licence-for-gemini-convenience-store/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-19",
+        "reason": "核对原始页面后，未将网页图片地址确认为可直接使用的相关预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/city-revokes-vaping-retailer-licence-for-gemini-convenience-store/",
+        "title": "City revokes vaping retailer licence for Gemini Convenience Store",
+        "publisher": "The City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "country-hills-boulevard-widening-open-20261119",
+      "date": "2026-11-19",
+      "dateLabel": "11月19日 · 本地资讯",
+      "sourceDate": "卡城市府新闻稿发布于2026-11-17；全线六车道已开放",
+      "verifiedAt": "2026-11-19",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "东北卡城 Country Hills Boulevard 拓宽完工：Barlow Trail 至36街全线六车道开放",
+      "summary": "市府称11月17日全线开放，约800米路段从双车道扩为六车道，新增路口信号灯，并建有人行道与区域步道。",
+      "deck": "常走东北区这段路的司机、骑行和步行居民，现在可按新道路配置出行。",
+      "lede": "东北卡城 Country Hills Boulevard NE 从 Barlow Trail 到36 Street NE 的拓宽工程已完成，六车道于11月17日开放。常走该路段的居民可按新的路口和步行设施安排通勤。",
+      "sections": [
+        {
+          "heading": "哪些地方变了",
+          "paragraphs": [
+            "市府称工程把约800米路段从双车道扩建为六车道，并改造交叉路口、增设交通信号灯。项目还包括南侧区域步道和北侧人行道，方便步行、骑行及驾车通行。"
+          ]
+        },
+        {
+          "heading": "经过时留意新配置",
+          "paragraphs": [
+            "工程范围为 Barlow Trail 至36 Street NE。全线已开放；首次经过的司机可留意新信号灯、车道线和转弯位置。市府表示该路段每天约有24,000辆车通行。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：Country Hills Boulevard拓宽工程",
+              "url": "https://newsroom.calgary.ca/country-hills-boulevard-ne-widening-project-complete-bringing-six-lanes-and-smoother-travel-to-northeast-calgary/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Country Hills Boulevard NE 这段六车道已开放，经过 Barlow Trail 至36街时留意新信号灯及道路配置。",
+      "sourceType": "市府道路工程完工公告",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://newsroom.calgary.ca/country-hills-boulevard-ne-widening-project-complete-bringing-six-lanes-and-smoother-travel-to-northeast-calgary/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-19",
+        "reason": "核对原始页面后，未将网页图片地址确认为可直接使用的相关预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/country-hills-boulevard-ne-widening-project-complete-bringing-six-lanes-and-smoother-travel-to-northeast-calgary/",
+        "title": "Country Hills Boulevard N.E. Widening project complete",
+        "publisher": "The City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "aye-youth-explosion-20261119",
+      "date": "2026-11-19",
+      "dateLabel": "11月19日 · 吃喝玩乐",
+      "sourceDate": "National Music Centre / Studio Bell活动页；活动日期2026-11-20",
+      "verifiedAt": "2026-11-19",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Studio Bell周五办原住民青年音乐与故事之夜：AYE现场演出门票20元起",
+      "summary": "A Youth Explosion由 Canada Bridges 与 National Music Centre 合办，11月20日在Studio Bell举行，包含青年表演、音乐、艺术与讲述。",
+      "deck": "这是一场有明确日期的原住民青年文化演出；主办方页面未列活动语言、年龄政策或当前余票。",
+      "lede": "想看本地原住民青年艺术家的音乐与故事演出，周五晚可留意 Studio Bell 的 A Youth Explosion（AYE）。活动由 Canada Bridges 与 National Music Centre 合办，官方列明开门和演出时间及票价。",
+      "sections": [
+        {
+          "heading": "时间、地点与票价",
+          "paragraphs": [
+            "活动在11月20日（周五）举行，下午5:30开门、6:30开始演出，地点为 Studio Bell（850 4 Street SE）。官方页面列出票价为预购20加元、现场25加元；当前余票未确认。"
+          ]
+        },
+        {
+          "heading": "节目内容与语言信息",
+          "paragraphs": [
+            "主办方介绍节目包括原住民青年表演、音乐、艺术和故事讲述，并有艺人 LOV（Lovina Tootoosis）演出。活动页面未列活动语言或年龄政策，也没有说明提供中文服务；需确认入场年龄或语言协助时，可先联系主办方。"
+          ],
+          "links": [
+            {
+              "label": "Studio Bell / National Music Centre：AYE活动详情与购票",
+              "url": "https://www.studiobell.ca/whats-on/event/canada-bridges-nmc-present-aye-a-youth-explosion"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月20日5:30开门、6:30演出；预购20元、现场25元，当前余票及语言、年龄政策未确认。",
+      "sourceType": "主办方与场馆活动页面",
+      "source": "National Music Centre / Studio Bell",
+      "author": "National Music Centre / Studio Bell",
+      "url": "https://www.studiobell.ca/whats-on/event/canada-bridges-nmc-present-aye-a-youth-explosion",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-19",
+        "reason": "核对原始页面后，未将网页图片地址确认为可直接使用的相关预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.studiobell.ca/whats-on/event/canada-bridges-nmc-present-aye-a-youth-explosion",
+        "title": "Canada Bridges & NMC Present: A Youth Explosion 2026",
+        "publisher": "National Music Centre / Studio Bell",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "lions-festival-of-lights-20261119",
+      "date": "2026-11-19",
+      "dateLabel": "11月19日 · 吃喝玩乐",
+      "sourceDate": "Lions Festival of Lights Society官方页面；开幕2026-11-21",
+      "verifiedAt": "2026-11-19",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城灯光节周六开幕：Confederation Park免费夜间观赏至明年1月",
+      "summary": "Lions Festival of Lights于11月21日下午5点开幕；之后每晚5:30至午夜亮灯，免费开放到2027年1月8日。",
+      "deck": "适合想找免费户外夜间活动的家庭和居民；周末经过14街西北段要预留交通时间。",
+      "lede": "卡城 Lions Festival of Lights 将于11月21日（周六）下午5点举行开幕亮灯，之后每天傍晚开放。活动沿 Confederation Park Golf Course 一带布置，免费入场，不需预约时段。",
+      "sections": [
+        {
+          "heading": "开幕日和日常开放时间",
+          "paragraphs": [
+            "官方页面列出开幕时间为11月21日下午5点；从次日起，每晚5:30亮灯至午夜，展期到2027年1月8日。活动免费，也不需门票或预约时段。"
+          ]
+        },
+        {
+          "heading": "地点与交通",
+          "paragraphs": [
+            "灯饰沿14 Street NW、24 Avenue以北的 Confederation Park Golf Course 一带展出，可步行观赏，也可驾车慢行经过。主办方提醒，12月周末14街可能拥堵，注意暗处行人并预留时间。"
+          ],
+          "links": [
+            {
+              "label": "Lions Festival of Lights Society：日期、时间及到访信息",
+              "url": "https://www.lionsfestivaloflights.ca/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月21日5点开幕；之后每日5:30至午夜免费开放至2027年1月8日，地址在Confederation Park的14 Street NW沿线。",
+      "sourceType": "活动主办方页面",
+      "source": "Lions Festival of Lights Society",
+      "author": "Lions Festival of Lights Society",
+      "url": "https://www.lionsfestivaloflights.ca/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-19",
+        "reason": "核对原始页面后，未将网页图片地址确认为可直接使用的相关预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.lionsfestivaloflights.ca/",
+        "title": "40th Annual Lions Festival of Lights",
+        "publisher": "Lions Festival of Lights Society",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "yyc-transit-snow-detours-20261118",
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 生活提醒",
-      "sourceDate": "Calgary Transit服务更新页于2026-11-18显示雪天绕行生效；ECCC卡城预警更新于11月18日6:24 ABT",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "Calgary Transit服务更新页于2026-11-19仍显示雪天绕行生效",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城公交雪天绕行已启动：出门前先查线路并预留时间",
-      "summary": "Calgary Transit当前提示雪天绕行生效；ECCC今早对卡城发布降雪预警，预计今天仍有降雪并可能影响通勤。",
-      "deck": "路线可能临时改变。出发前查自己的公交线路和实时到站信息，给通勤多留一点时间。",
-      "lede": "卡城下雪不仅让开车慢下来，公交路线也可能临时绕行。Calgary Transit的服务更新页目前写明雪天绕行生效，并提醒乘客在早晨出发前查看线路、预留通勤时间。",
+      "summary": "Calgary Transit服务更新页今天仍显示雪天绕行生效；具体受影响线路会变，出发前查线路和实时到站信息。",
+      "deck": "绕行仍在生效，受影响路线以出发前的官方服务更新为准。",
+      "lede": "卡城公交雪天绕行今天仍在生效。Calgary Transit服务更新页提醒乘客出门前查看线路，并预留更多通勤时间；各线路受影响情况可能不同。",
       "sections": [
         {
-          "heading": "先核对自己的公交线路",
+          "heading": "出发前查线路",
           "paragraphs": [
-            "打开Calgary Transit服务更新页，搜索常搭的线路；页面提示雪天绕行正在生效，但未在当前文字列表中列出受影响的每条线路。临出门前再用Plan a Trip或Next Ride确认行程和到站时间。",
-            "今早加拿大环境与气候变化部对卡城市发布黄色降雪预警，预计今天还会有5至10厘米降雪，降雪可能影响通勤高峰。预警覆盖南阿省多个地区，不能把区域累计雪量当作卡城单独数字。"
+            "打开Calgary Transit服务更新页查看雪天绕行和临时停站信息；页面提醒，雪天绕行已生效。如果路线不在页面列出的更新中，官方说明代表目前没有该线路的服务更新。"
           ],
           "links": [
             {
@@ -28,27 +227,27 @@
               "url": "https://www.calgarytransit.com/service-updates.html"
             },
             {
-              "label": "Environment and Climate Change Canada：卡城天气与预警",
-              "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093"
+              "label": "Calgary Transit：雪天绕行线路和地图",
+              "url": "https://www.calgarytransit.com/rider-information/traveling-in-winter/snow-detours.html"
             }
           ]
         },
         {
-          "heading": "给换乘和步行留出余量",
+          "heading": "给路上多留时间",
           "paragraphs": [
-            "如果需要换乘，留意临时站点或路线变化；在人行道和站点周围也要预留更多步行时间。公交绕行状态会变化，以出发前的线路查询和现场公告为准。"
+            "雪天路线和站点可能临时调整。搭车前用Plan a Trip或Next Ride核对行程和实时到站，换乘时也为步行和等车多留余量。"
           ]
         }
       ],
-      "takeaway": "雪天绕行已生效；出门前查线路状态和实时到站信息，并为通勤多留时间。",
-      "sourceType": "公共交通服务更新与官方天气预警",
-      "source": "Calgary Transit；Environment and Climate Change Canada",
-      "author": "Calgary Transit；Environment and Climate Change Canada",
+      "takeaway": "截至11月19日，Calgary Transit仍显示雪天绕行生效；出发前查自己的线路、站点和实时到站信息。",
+      "sourceType": "Calgary Transit当前服务更新",
+      "source": "Calgary Transit",
+      "author": "Calgary Transit",
       "url": "https://www.calgarytransit.com/service-updates.html",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-18",
-        "reason": "核对了公交服务页和天气预警；未确认适合直接代表雪天绕行的原文预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-19",
+        "reason": "查阅了Calgary Transit当前服务更新和绕行线路页；未核实有与本条绕行直接对应的来源预览图，使用纯文字卡片。"
       },
       "sourceEmbed": {
         "url": "https://www.calgarytransit.com/service-updates.html",
@@ -63,7 +262,7 @@
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 生活提醒",
       "sourceDate": "Calgary Police Service新闻稿发布于2026-11-16 15:51 America/Edmonton；整月检查安排",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城警方11月仍在查儿童安全座椅：胸扣太低、绑带太松都常见",
@@ -224,115 +423,59 @@
       }
     },
     {
-      "id": "calgary-snowfall-warning-20261117",
+      "id": "calgary-data-centre-pause-motion-backfill-20261117",
       "date": "2026-11-17",
-      "dateLabel": "11月17日 · 生活提醒",
-      "sourceDate": "ECCC Calgary预警于2026-11-17 10:46 ABT核对；预报更新于11:00 ABT",
-      "verifiedAt": "2026-11-17",
-      "category": "生活提醒",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-19",
+      "sourceDate": "市议会于2026-11-17表决；CityNews同日及Global于2026-11-18报道",
+      "verifiedAt": "2026-11-19",
+      "category": "本地资讯",
       "categoryClass": "official",
-      "title": "卡城今早仍有降雪预警：晚间降雪更明显，通勤先查路况",
-      "summary": "ECCC对卡城发布黄色降雪预警、信心高；预计今晚5–10厘米，周三约5厘米，周三晚逐渐减弱。",
-      "deck": "卡城处在南阿省预估总量的较低一端，官方没有给卡城单独的总雪量；今晚和明早出门要留出余量。",
-      "lede": "加拿大环境与气候变化部（ECCC）周二11月17日10:46 ABT的页面显示，黄色降雪预警适用于卡城市，预报信心为高。南阿省整体预计15–20厘米，卡城在较低一端，不能把区域总量当成卡城的精确数字。",
+      "title": "卡城市议会推动研究大型数据中心新规：暂停申请尚未生效，仍待公开听证",
+      "summary": "市议会11月17日以13比2要求市府研究土地使用规则和临时暂停权限；拟议修例仍需公开听证，现阶段不是已生效的禁令。",
+      "deck": "这是对11月17日市议会决定的补档，卡村于11月19日核对。市府还要研究用水、电力等城市资源影响。",
+      "lede": "这是对2026年11月17日市议会决定的补档，卡村于2026年11月19日核对。议会以13比2要求市府研究大型数据中心的土地使用规则和临时暂停新申请的权限；暂停尚未生效，修例还要经过公开听证。",
       "sections": [
         {
-          "heading": "今天到周三的降雪节奏",
+          "heading": "议会这次决定了什么",
           "paragraphs": [
-            "ECCC 11:00 ABT更新的预报显示，今天接近中午开始下雪，白天约2厘米；今晚预计5–10厘米，周三约5厘米，周三晚逐渐减弱。",
-            "ECCC提醒道路和步道可能难走，降雪也可能影响通勤高峰。"
-          ],
-          "links": [
-            {
-              "label": "ECCC：卡尔加里官方预报与降雪预警",
-              "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093"
-            }
+            "CityNews与Global报道，市议会11月17日以13比2通过相关动议，要求市府研究如何在土地使用条例中赋予议会临时暂停新兴行业申请的权限，并为大型数据中心制定更明确的分区规则。官方动议文件还要求评估水、电力及其他市政资源影响。"
           ]
         },
         {
-          "heading": "出门前先看实时状况",
+          "heading": "目前还没有暂停新申请",
           "paragraphs": [
-            "开车或搭乘交通工具前，查看路线、道路封闭和交通状态；驾车放慢速度、拉大车距并打开车灯，也为行程多留时间。"
+            "这次表决是要求开展政策与修例工作，不等于暂停已生效。Global报道指出，拟议的条例修正要先经过公开听证，预计在2027年春季提交；公众届时可提出意见。生效时间和具体影响仍要等后续程序。"
           ],
           "links": [
             {
-              "label": "卡城市府：实时交通、道路状况与封闭信息",
-              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+              "label": "CityNews：11月17日议会表决报道",
+              "url": "https://calgary.citynews.ca/2026/11/17/calgary-city-council-eyes-pause-on-new-data-centre-applications/"
+            },
+            {
+              "label": "Global News：公开听证与临时暂停仍待后续程序",
+              "url": "https://globalnews.ca/news/12154507/calgary-to-explore-new-rules-for-data-centres-but-temporary-pause-will-go-to-public-hearing/"
+            },
+            {
+              "label": "市议会动议EC2026-01010原文",
+              "url": "https://livewirecalgary.com/wp-content/uploads/2026/10/Notice-of-Motion-Notice-of-Motion-Addressing-Large-Scale-Data-Centre-Impacts-on-Municipal-Resources-EC2026-01010.pdf"
             }
           ]
         }
       ],
-      "takeaway": "卡城没有单独的精确总雪量；重点留意今晚至周三的降雪，出发前查实时道路和交通信息。",
-      "sourceType": "官方天气预报与预警",
-      "source": "Environment and Climate Change Canada",
-      "author": "Environment and Climate Change Canada",
-      "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093",
+      "takeaway": "议会已要求研究大型数据中心新规，但暂停申请还没有生效；拟议修例须经过公开听证。",
+      "sourceType": "市议会动议及两家本地媒体对表决结果的报道",
+      "source": "Calgary CityNews；Global News；The City of Calgary",
+      "author": "Calgary CityNews；Global News；The City of Calgary",
+      "url": "https://calgary.citynews.ca/2026/11/17/calgary-city-council-eyes-pause-on-new-data-centre-applications/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-17",
-        "reason": "未核实来源页存在相关直接预览图；使用纯文字来源卡片。"
+        "checkedAt": "2026-11-19",
+        "reason": "核对原始页面后，未将网页图片地址确认为可直接使用的相关预览图，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
-        "url": "https://weather.gc.ca/en/location/index.html?coords=51.05,-114.093",
-        "title": "卡城今早仍有降雪预警：晚间降雪更明显，通勤先查路况",
-        "publisher": "Environment and Climate Change Canada",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "alert-ready-test-alberta-20261117",
-      "date": "2026-11-17",
-      "dateLabel": "11月17日 · 生活提醒",
-      "sourceDate": "Public Safety Canada当前页面确认测试日期为2026-11-18；Pelmorex Corp于2026-11-16发布测试时间",
-      "verifiedAt": "2026-11-17",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "明天全国测试紧急警报：阿省预计下午1:55收到",
-      "summary": "11月18日全国无线、电视和广播将进行 Alert Ready 测试；阿省时间为下午1:55。",
-      "deck": "手机响起并显示测试信息时无需采取行动；兼容设备和接收条件会影响是否收到。",
-      "lede": "Public Safety Canada目前确认，全国公共警报系统测试安排在11月18日。Pelmorex Corp于11月16日公布阿省测试时间为下午1:55 ABT，测试将通过无线、电视和广播发出。",
-      "sections": [
-        {
-          "heading": "阿省测试安排",
-          "paragraphs": [
-            "Pelmorex说明，兼容手机需连接LTE或5G网络；测试警报会标明是测试信息，不需要采取行动。",
-            "部分兼容手机可能收不到测试警报；没有收到并不能单独证明设备或系统故障。"
-          ],
-          "links": [
-            {
-              "label": "Pelmorex Corp：2026年11月18日全国测试及阿省时间",
-              "url": "https://www.globenewswire.com/news-release/2026/11/16/3403288/0/en/emergency-alert-test-in-canada-alert-ready-to-issue-nationwide-test-on-november-18-2026.html"
-            }
-          ]
-        },
-        {
-          "heading": "官方日期与测试范围",
-          "paragraphs": [
-            "Public Safety Canada列出的当前测试日期为11月18日，范围涵盖全国无线设备、电视和广播。若想了解系统和日期信息，以政府页面为准。"
-          ],
-          "links": [
-            {
-              "label": "Public Safety Canada：National Public Alerting System",
-              "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx"
-            }
-          ]
-        }
-      ],
-      "takeaway": "阿省测试时间为11月18日下午1:55；测试警报无需行动，未收到也不等于系统故障。",
-      "sourceType": "政府警报系统说明与运营方公告",
-      "source": "Public Safety Canada；Pelmorex Corp",
-      "author": "Public Safety Canada；Pelmorex Corp",
-      "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-17",
-        "reason": "未核实来源页存在相关直接预览图；使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.passengerprotect-protectiondespassagers.gc.ca/cnt/mrgnc-mngmnt/mrgnc-prprdnss/ntnl-pblc-lrtng-sstm-en.aspx",
-        "title": "明天全国测试紧急警报：阿省预计下午1:55收到",
-        "publisher": "Public Safety Canada",
+        "url": "https://calgary.citynews.ca/2026/11/17/calgary-city-council-eyes-pause-on-new-data-centre-applications/",
+        "title": "Calgary council eyes pause on new data centre applications",
+        "publisher": "Calgary CityNews",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -740,56 +883,58 @@
       "id": "bearspaw-edgemont-pressure-work-20261114",
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
-      "sourceDate": "市府11月13日公告预计 Edgemont 主水管维修需7至10天；市府11月17日最新进度未说明该维修是否完工；本次于2026-11-18复核",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "卡城市府11月13日维修公告预计工期7–10天；Calgary Transit于2026-11-19仍列出相关车道及公交站封闭",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "Edgemont 低水压维修提醒：市府最新更新未确认完工状态",
-      "summary": "市府11月13日预计维修需7至10天，并列出5个可能受影响社区；11月17日最新工程更新未说明 Edgemont 维修是否完工，当前水压与封路状态未确认。",
-      "deck": "原提醒保留在11月14日档案中；不要把预计工期当作完工确认，也不要把旧道路安排当作今天仍有效。",
-      "lede": "这条卡片保留2026年11月14日的原始提醒日期。市府11月13日称，Edgemont 主水管漏水维修预计需要7至10天，Edgemont、Hamptons、Citadel、Hawkwood 和 Arbour Lake 的部分用户可能遇到低水压，水质仍符合监管要求。市府11月17日的最新 Bearspaw 工程更新没有提到这项 Edgemont 维修是否完工，因此目前不能确认这些社区的水压和道路状态。",
+      "title": "Edgemont 水管维修预计持续7–10天：公交绕行和站点调整仍在生效",
+      "summary": "市府称Edgemont等5个西北社区在维修期间可能低水压，供水符合饮用标准；Calgary Transit 11月19日仍列有Edgemont Drive水管维修封路及7条公交线路受影响。",
+      "deck": "市府公布的是预计维修期，未给出完工确认；公交官网目前仍列出封路与临时站点安排。",
+      "lede": "卡城市府11月13日公布Edgemont水管漏水维修，预计需7至10天，Edgemont、Hamptons、Citadel、Hawkwood和Arbour Lake部分住户维修期间可能遇到低水压。市府表示水质符合饮用标准。到11月19日，Calgary Transit仍列出Edgemont Drive水管维修的车道封闭和公交站调整。",
       "sections": [
         {
-          "heading": "上次官方公告说了什么",
+          "heading": "维修影响范围与饮水安全",
           "paragraphs": [
-            "市府11月13日公告称，维修约需7至10天；受影响社区可能低水压，但饮用水符合监管要求。公告当时还列出 Edgemont Drive NW 局部交通安排。"
-          ]
-        },
-        {
-          "heading": "最新页面没有确认是否完工",
-          "paragraphs": [
-            "市府11月17日的工程更新继续报告连接工程和 Parkdale 维修进度，但没有说明 Edgemont 漏水维修是否结束。不要仅按原预计工期推断今天仍低水压，也不要假定道路封闭仍在。住在相关社区或准备经过当地，可查看市府最新通告或联系311确认。"
+            "市府公告说，维修期间五个西北社区的部分用户可能遇到低水压；水仍符合监管要求，可以饮用。市府原先预计维修约7至10天，但截至11月19日未找到市府确认完工的更新。"
           ],
           "links": [
             {
-              "label": "市府11月13日 Edgemont 维修原始公告",
+              "label": "卡城市府：Edgemont水管维修及低水压公告（11月13日）",
               "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
+            }
+          ]
+        },
+        {
+          "heading": "Edgemont Drive封路与公交站调整",
+          "paragraphs": [
+            "Calgary Transit截至11月19日仍列出Edgemont Drive水管维修封路，受影响线路为54、77、129、154、704、706和818；北行 Edgemont Boulevard 的站点#6250暂时关闭，乘客请使用北侧约45米处临时站。出发前再查实时服务更新。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Transit：当前线路服务更新",
+              "url": "https://www.calgarytransit.com/home.html"
             },
             {
-              "label": "市府11月17日最新工程进度",
-              "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/"
-            },
-            {
-              "label": "市府当前限水规则",
-              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+              "label": "Calgary Transit：实时车辆与路线信息",
+              "url": "https://www.calgarytransit.com/service-updates.html"
             }
           ]
         }
       ],
-      "takeaway": "市府原预计维修需7至10天，但11月17日最新页面未确认 Edgemont 是否完工；当天低水压和道路情况请向市府核实，不沿用旧状态猜测。",
-      "sourceType": "市政供水工程与限水提醒",
-      "source": "City of Calgary",
-      "author": "City of Calgary",
+      "takeaway": "市府预计维修需7–10天且部分住户可能低水压；截至11月19日，公交官网仍列出封路和线路、站点调整。",
+      "sourceType": "市府水管维修公告与公交实时服务更新",
+      "source": "The City of Calgary；Calgary Transit",
+      "author": "The City of Calgary；Calgary Transit",
       "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-18",
-        "reason": "未确认与本次维修影响直接对应的来源图片，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-19",
+        "reason": "核对市府维修公告及公交当前服务更新；未将相关工程图片确认为可直接使用的来源预览图，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
         "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
         "title": "Water use stays in the green zone as connection work progresses on new Bearspaw South Feeder Main",
-        "publisher": "City of Calgary Newsroom",
+        "publisher": "The City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -1249,12 +1394,12 @@
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
-      "sourceDate": "市府11月11日公布的用水数据为2026-11-10；限水页面于2026-11-17更新并确认第四级限制仍有效；本次于2026-11-18复核",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "限水于2026-11-04生效；市府页面于2026-11-18更新后仍列第四级全市生效",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城限水进入第七个“绿灯日”：户外用水仍暂停",
-      "summary": "市府11月11日公布，前一天用水量为4.73亿升；市府11月17日仍确认第四级限水在全市生效，户外用水暂停。",
+      "summary": "市府11月11日公布11月10日用水量为4.73亿升；官方页面11月18日仍确认第四级全市限水有效，户外用水暂停。",
       "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
       "lede": "卡城市府11月11日公布的历史统计是：11月10日全市用水量4.73亿升。市府限水页面于11月17日更新时仍显示全市第四级限制生效、禁止户外用水；这张卡保留历史数字，并注明现行规则已于11月18日复核。",
       "sections": [
@@ -1265,9 +1410,9 @@
           ]
         },
         {
-          "heading": "家里可以先做什么",
+          "heading": "当前限水状态（11月18日市府更新）",
           "paragraphs": [
-            "截至2026年11月18日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。不要因为此前用水量进入绿色目标就自行恢复户外浇灌。"
+            "截至2026年11月18日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。此前用水量处于绿色目标，不代表可以恢复户外浇灌。"
           ],
           "links": [
             {
@@ -2415,8 +2560,8 @@
       "id": "bearspaw-restrictions-nov-2026",
       "date": "2026-11-04",
       "dateLabel": "11月4日更新 · 11月9日复核",
-      "sourceDate": "2026-10-15",
-      "verifiedAt": "2026-11-11",
+      "sourceDate": "Stage 4于2026-11-04生效；市府官方页面于2026-11-19核实仍在生效",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月4日起卡城实施第四级户外限水：室内也请节水",
@@ -2435,7 +2580,7 @@
           "heading": "室内外用水安排",
           "paragraphs": [
             "市府当前第四级规则是：限制期间禁止户外用水。市府也请居民减少室内用水。洗衣和洗碗尽量等到满载再开，只在需要时冲厕，淋浴尽量缩短至三分钟。",
-            "11月9日回查时，市府页面仍显示第四级限水有效；请以最新官方页面确认之后是否调整。"
+            "截至2026年11月19日，市府当前页面仍显示第四级限水有效：所有户外用水暂停，并请居民减少室内用水。洗衣和洗碗尽量等到满载再开，只在需要时冲厕，淋浴尽量缩短至三分钟。"
           ],
           "links": [
             {
@@ -3301,8 +3446,8 @@
       "id": "alberta-time-20261101-20261030",
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
-      "sourceDate": "阿省政府现行页面于2026-11-18复核：Alberta Time为UTC-6，已于2026-11-01生效；页面未注明首次发布日期",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "阿省政府页面于2026-11-19仍说明Alberta Time为永久制度、UTC-6，自2026-11-01起实施",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -3314,7 +3459,7 @@
           "heading": "制度已切换，全年 UTC-6",
           "paragraphs": [
             "阿省政府确认，Alberta Time 等同 UTC-6。省内已于11月1日切换，不再像以往那样在秋季把时钟拨回一小时。",
-            "阿省官方页面未注明发布时间；本次于2026年11月18日复核，仍确认 Alberta Time 等同 UTC-6，且已于11月1日采用。"
+            "阿省官方页面于2026年11月19日复核，仍确认Alberta Time等同UTC-6，且已于11月1日采用。"
           ],
           "links": [
             {
@@ -3463,19 +3608,19 @@
       "id": "parkdale-water-repairs-20261029",
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
-      "sourceDate": "市府11月17日工程进度确认 Parkdale Boulevard 仍在铺设和焊接替换管段；项目页于2026-11-18复核仍列车道与Bow River Pathway绕行；原通知2026-10-28",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "市府Bearspaw feeder main工程页于2026-11-19仍列Parkdale Boulevard车道及Bow River Pathway绕行至12月",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
-      "summary": "市府11月17日称，Parkdale Boulevard 多处仍在安装和焊接替换管段；车道与 Bow River Pathway 绕行仍需留意。",
+      "summary": "市府当前工程页仍列Parkdale Boulevard多处车道和 Bow River Pathway 绕行，预计持续至12月；出发前查市府交通地图。",
       "deck": "这是对 10 月 29 日提醒的状态更新，出发前仍应查市府最新施工图和现场标志。",
       "lede": "这条提醒保留原始日期2026年10月29日。市府11月17日工程更新称，Parkdale Boulevard 上的额外管道维修仍在进行，多处正在安装、焊接替换管段；项目页于11月18日仍列出车道封闭和 Bow River Pathway 绕行，个别工区当日状态以现场标牌和实时交通图为准。",
       "sections": [
         {
           "heading": "Parkdale 一带目前仍有施工影响",
           "paragraphs": [
-            "市府11月17日表示，Parkdale Boulevard 在 Shaganappi Pump Station 与 Memorial Pump Station 之间的额外维修仍在施工，五处位置正在安装和焊接替换管段。市府项目页于11月18日仍列出沿线车道封闭及 Bow River Pathway 绕行，施工排期延续至12月。"
+            "市府工程页于11月19日仍列出 Parkdale Boulevard 车道封闭和 Bow River Pathway 绕行，预估施工安排延续至12月；另一条市府进度公告于11月18日仍称 Parkdale 水管维修在推进。"
           ],
           "links": [
             {
@@ -5143,7 +5288,7 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 生活提醒",
       "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-19",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
