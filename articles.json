@@ -1,8 +1,224 @@
 {
-  "updatedAt": "2026-11-19",
-  "updatedLabel": "2026年11月19日 · 今日4篇",
+  "updatedAt": "2026-11-20",
+  "updatedLabel": "2026年11月20日 · 今日4篇",
   "editionNote": "截至2026-11-19，2026-10-20至2026-11-19共31个连续日期组、99篇；其中25组各3篇、6组各4篇，所有日期组均同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。11月17日组移除已过期降雪预警与警报测试，新增明确标注目标日与实际核对日期的议会决定补档，恢复为3篇；11月18日公交雪天绕行仍在生效，保留该提醒。",
   "articles": [
+    {
+      "id": "calgary-road-fatalities-2026-nov20",
+      "date": "2026-11-20",
+      "dateLabel": "11月20日 · 本地资讯",
+      "sourceDate": "Calgary CityNews报道发布于2026-11-16；警方与市府公布的年内统计截至该日",
+      "verifiedAt": "2026-11-20",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "截至11月16日，卡城今年已有35人死于道路碰撞",
+      "summary": "警方与市府公布的阶段统计显示，2026年至11月16日已有29宗致命碰撞、35人死亡；警方称这已是卡城近十年死亡人数第二高的一年。",
+      "deck": "这是一组截至11月16日的阶段数字，不代表11月20日的最终年终统计。",
+      "lede": "卡城警方与市府11月16日公布的统计显示，今年截至当日有35人死于道路碰撞，涉及29宗事故；警方称这是近十年死亡人数第二高的一年。对每天开车、步行、骑行或搭车出门的人来说，冬季路况下留意彼此、降低车速、避免分心，都是实际能做的事。",
+      "sections": [
+        {
+          "heading": "先看清数字的时间范围",
+          "paragraphs": [
+            "这是警方和市府在世界道路交通事故受害者纪念日公布的阶段数据，截止日期为11月16日。CityNews报道指出，当时10名死者是行人，其中包括两名幼童；数据可能随警方后续统计而变化。"
+          ]
+        },
+        {
+          "heading": "每种出行方式都要给彼此留余地",
+          "paragraphs": [
+            "警方的 Drive to Zero（零重大伤亡）倡议提醒所有道路使用者注意周围、遵守交通规则并相互照看。入冬后路面、能见度和停车距离都可能变化：开车时按路况减速、不要看手机；步行或骑行时选明亮路线并留意车辆。"
+          ],
+          "links": [
+            {
+              "label": "Calgary CityNews：2026年道路死亡统计（11月16日）",
+              "url": "https://calgary.citynews.ca/2026/11/16/calgary-traffic-fatalities-2026-second-deadliest-year-decade/"
+            },
+            {
+              "label": "Calgary Police Service：Drive to Zero",
+              "url": "https://www.calgarypolice.ca/public-safety/traffic-and-road-safety/vision-zero.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "35人死亡是截至2026年11月16日的阶段统计；所有道路使用者都可以通过减速、专注和照看彼此降低风险。",
+      "sourceType": "警方与市府道路安全阶段统计",
+      "source": "Calgary CityNews；Calgary Police Service",
+      "author": "Calgary CityNews",
+      "url": "https://calgary.citynews.ca/2026/11/16/calgary-traffic-fatalities-2026-second-deadliest-year-decade/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-20",
+        "reason": "原报道未确认可直接使用的相关预览图；采用可点击的纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgary.citynews.ca/2026/11/16/calgary-traffic-fatalities-2026-second-deadliest-year-decade/",
+        "title": "Calgary traffic fatalities reach 35 in 2026 as deaths near 2025 total",
+        "publisher": "Calgary CityNews",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-diwali-fireworks-safety-results-20261120",
+      "date": "2026-11-20",
+      "dateLabel": "11月20日 · 本地资讯",
+      "sourceDate": "卡城市府新闻稿发布于2026-11-19；统计覆盖2026年排灯节及 Bandi Chhor Divas 期间的三天",
+      "verifiedAt": "2026-11-20",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城排灯节期间烟花求助比去年少65%：市府仍记录5宗起火",
+      "summary": "市府称三天内收到72宗烟花相关求助，低于去年的207宗以上；消防部门处理5宗草地或垃圾箱火情，执法人员开出8张罚单并发出70次警告。",
+      "deck": "市府把下降归因于安全宣传、执法和社区合作；私人烟花在卡城全年都不允许自行燃放。",
+      "lede": "排灯节和 Bandi Chhor Divas 期间，卡城市府收到的烟花相关求助比去年同期少了约三分之二。市府11月19日公布的数据也显示，节日期间仍有火情和执法记录；对居民有用的一点是，卡城烟花规则全年适用，不限于某个节日。",
+      "sections": [
+        {
+          "heading": "求助量下降，但火情没有归零",
+          "paragraphs": [
+            "市府统计的三个节日日期间共有72宗烟花相关电话和311服务请求，2025年同期超过207宗。消防部门处理了5宗由烟花引起的火情，涉及草地或垃圾箱；警方及社区安全执法人员开出8张罚单，并发出70次警告。市府称多语种宣传、社区联络和执法共同参与了今年的安全工作。"
+          ]
+        },
+        {
+          "heading": "私人烟花规则全年适用",
+          "paragraphs": [
+            "市府提醒，在卡城，私人烟花全年都不允许自行燃放；只有持证专业人员在取得许可后才能施放。若正在发生的烟花活动带来即时危险，打911；正在发生但没有紧急危险，可打警方非紧急电话403-266-1234；已经结束的事件可提交311。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：2026排灯节烟花安全结果及全年规则",
+              "url": "https://newsroom.calgary.ca/fireworks-related-calls-drop-significantly-during-diwali-2026/"
+            },
+            {
+              "label": "卡城市府：烟花规则",
+              "url": "https://www.calgary.ca/fireworks"
+            }
+          ]
+        }
+      ],
+      "takeaway": "排灯节期间的烟花求助比去年少，但仍有5宗火情；卡城私人烟花禁令全年适用，报告渠道按是否正在发生及是否紧急选择。",
+      "sourceType": "市府排灯节安全统计与烟花规则",
+      "source": "The City of Calgary Newsroom",
+      "author": "The City of Calgary",
+      "url": "https://newsroom.calgary.ca/fireworks-related-calls-drop-significantly-during-diwali-2026/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-20",
+        "reason": "市府新闻稿未确认适合该故事的直接相关预览图；使用可点击的纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/fireworks-related-calls-drop-significantly-during-diwali-2026/",
+        "title": "Fireworks-related calls drop significantly during Diwali 2026",
+        "publisher": "The City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "tawanan-night-calgary-20261120",
+      "date": "2026-11-20",
+      "dateLabel": "11月20日 · 吃喝玩乐",
+      "sourceDate": "主办方 Broadway Production 的 Showpass 售票页及 Tourism Calgary 活动页；活动时间为2026-11-20 19:00至11-21 00:00",
+      "verifiedAt": "2026-11-20",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "菲律宾喜剧音乐之夜今晚在卡城中华文化中心举行：票价约86元起",
+      "summary": "Tawanan Night 今晚7点至午夜在 Calgary Chinese Cultural Centre 举行，阵容包括 Wacky Kiray、Daniela Diva、Zaragine 和 Boobsie；票价列为86.42至144.43加元。",
+      "deck": "演出语言、年龄政策和当前余票未在主办方售票页说明，购票前请直接查看活动页。",
+      "lede": "想找今晚的菲律宾文化演出，可以留意 Tawanan Night：售票页把它列为喜剧与音乐现场，晚上7点在卡城中华文化中心开场，地址是197 1 St SW。票价不低，且页面没有说明演出语言、年龄政策或当前余票，最好先看售票页再决定。",
+      "sections": [
+        {
+          "heading": "时间、地点和票价",
+          "paragraphs": [
+            "主办方 Broadway Production 的 Showpass 页面列出11月20日晚上7点开场、午夜结束，场地是 Calgary Chinese Cultural Centre（卡城中华文化中心），地址197 1 St SW。列出的票价为86.42至144.43加元。"
+          ]
+        },
+        {
+          "heading": "演出信息仍有几项没写明",
+          "paragraphs": [
+            "页面介绍四位演出者 Wacky Kiray、Daniela Diva、Zaragine 和 Boobsie，并将活动称为喜剧音乐演出。主办方页面没有列出演出语言、年龄限制或实时余票数量；不要据此假设有中文或英文服务，购票前可向售票页确认。"
+          ],
+          "links": [
+            {
+              "label": "主办方售票页：Tawanan Night in Calgary",
+              "url": "https://www.showpass.com/fr/tawanan-night-in-calgary/?source_channel=discovery"
+            },
+            {
+              "label": "Tourism Calgary活动页",
+              "url": "https://www.visitcalgary.com/events/tawanan-night"
+            }
+          ]
+        }
+      ],
+      "takeaway": "活动今晚7点开场，售票页列价86.42至144.43加元；语言、年龄规则及余票需以主办方最新页面为准。",
+      "sourceType": "有日期的菲律宾喜剧音乐演出",
+      "source": "Broadway Production / Showpass",
+      "author": "Broadway Production",
+      "url": "https://www.showpass.com/fr/tawanan-night-in-calgary/?source_channel=discovery",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-20",
+        "reason": "售票页展示的活动图未另行确认可嵌入；保留可点击的主办方来源卡片，不复制图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.showpass.com/fr/tawanan-night-in-calgary/?source_channel=discovery",
+        "title": "Tawanan Night in Calgary with Wacky Kiray, Zaragine, Daniella Diva and Boobsie",
+        "publisher": "Broadway Production / Showpass",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "cuff-docs-weekend-program-20261120",
+      "date": "2026-11-20",
+      "dateLabel": "11月20日 · 吃喝玩乐",
+      "sourceDate": "Calgary Underground Film Festival主办方节目表；影展日期2026-11-18至11-22，当前核对为11-20",
+      "verifiedAt": "2026-11-20",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "纪录片影展周末仍有多场：卡城 CUFF.Docs 今晚两部影片，门票12元起",
+      "summary": "CUFF.Docs 在 Globe Cinema 举行至11月22日；今晚节目表列出6:30的《Dernsie》和9:15的《Cornbread Mafia》。普通票12元，学生、长者及会员10元。",
+      "deck": "售票数量、影片放映语言和年龄分级未能从主办方页面确认；Globe Cinema影厅需走楼梯，场馆不无障碍。",
+      "lede": "卡尔加里地下电影节的纪录片单元 CUFF.Docs 正在 Globe Cinema 举行，到周日11月22日结束。今晚有两场纪录片，主办方页面列出票价和影院位置；如果想去，先确认场次与余票，也要留意影厅需要走楼梯。",
+      "sections": [
+        {
+          "heading": "今晚两场，周末还有其他选择",
+          "paragraphs": [
+            "主办方节目表列出今晚6:30放映《Dernsie: The Amazing Life of Bruce Dern》（111分钟），9:15放映《Cornbread Mafia》（83分钟）。周六和周日还有其他纪录片场次，完整时间表以影展官网为准。"
+          ]
+        },
+        {
+          "heading": "票价与进场信息",
+          "paragraphs": [
+            "主办方列出单场普通票12加元，学生、长者、CUFF会员和CJSW Friends Card持有人10加元；影展现场售票处通常在放映前一小时开放。当前余票数量未确认。影厅位于 Globe Cinema 上层，入场和洗手间都要走楼梯，主办方明确说明场地不具无障碍条件。节目页未列年龄限制或放映语言/字幕信息。"
+          ],
+          "links": [
+            {
+              "label": "主办方：CUFF.Docs 2026节目表",
+              "url": "https://www.calgaryundergroundfilm.org/cuff-docs/2026/schedule/"
+            },
+            {
+              "label": "主办方：票价、现场售票与无障碍说明",
+              "url": "https://www.calgaryundergroundfilm.org/cuff-docs/tickets-passes/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "影展持续至11月22日，单场票价12加元起；先核对余票，并注意 Globe Cinema 上层影厅要走楼梯。",
+      "sourceType": "限时纪录片影展节目",
+      "source": "Calgary Underground Film Festival",
+      "author": "Calgary Underground Film Festival",
+      "url": "https://www.calgaryundergroundfilm.org/cuff-docs/2026/schedule/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-20",
+        "reason": "未确认主办方网页图片可用于来源卡片，使用纯文字卡片链接至官方节目表。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgaryundergroundfilm.org/cuff-docs/2026/schedule/",
+        "title": "14th CUFF.Docs Documentary Film Festival — Schedule",
+        "publisher": "Calgary Underground Film Festival",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "gemini-vape-licence-revoked-20261119",
       "date": "2026-11-19",
@@ -199,60 +415,6 @@
         "url": "https://www.lionsfestivaloflights.ca/",
         "title": "40th Annual Lions Festival of Lights",
         "publisher": "Lions Festival of Lights Society",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "yyc-transit-snow-detours-20261118",
-      "date": "2026-11-18",
-      "dateLabel": "11月18日 · 生活提醒",
-      "sourceDate": "Calgary Transit服务更新页于2026-11-19仍显示雪天绕行生效",
-      "verifiedAt": "2026-11-19",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "卡城公交雪天绕行已启动：出门前先查线路并预留时间",
-      "summary": "Calgary Transit服务更新页今天仍显示雪天绕行生效；具体受影响线路会变，出发前查线路和实时到站信息。",
-      "deck": "绕行仍在生效，受影响路线以出发前的官方服务更新为准。",
-      "lede": "卡城公交雪天绕行今天仍在生效。Calgary Transit服务更新页提醒乘客出门前查看线路，并预留更多通勤时间；各线路受影响情况可能不同。",
-      "sections": [
-        {
-          "heading": "出发前查线路",
-          "paragraphs": [
-            "打开Calgary Transit服务更新页查看雪天绕行和临时停站信息；页面提醒，雪天绕行已生效。如果路线不在页面列出的更新中，官方说明代表目前没有该线路的服务更新。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Transit：当前服务更新与雪天绕行",
-              "url": "https://www.calgarytransit.com/service-updates.html"
-            },
-            {
-              "label": "Calgary Transit：雪天绕行线路和地图",
-              "url": "https://www.calgarytransit.com/rider-information/traveling-in-winter/snow-detours.html"
-            }
-          ]
-        },
-        {
-          "heading": "给路上多留时间",
-          "paragraphs": [
-            "雪天路线和站点可能临时调整。搭车前用Plan a Trip或Next Ride核对行程和实时到站，换乘时也为步行和等车多留余量。"
-          ]
-        }
-      ],
-      "takeaway": "截至11月19日，Calgary Transit仍显示雪天绕行生效；出发前查自己的线路、站点和实时到站信息。",
-      "sourceType": "Calgary Transit当前服务更新",
-      "source": "Calgary Transit",
-      "author": "Calgary Transit",
-      "url": "https://www.calgarytransit.com/service-updates.html",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-19",
-        "reason": "查阅了Calgary Transit当前服务更新和绕行线路页；未核实有与本条绕行直接对应的来源预览图，使用纯文字卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.calgarytransit.com/service-updates.html",
-        "title": "Service Updates",
-        "publisher": "Calgary Transit",
         "thumbnail": null,
         "thumbnailAlt": null
       }
