@@ -1,8 +1,241 @@
 {
-  "updatedAt": "2026-11-20",
-  "updatedLabel": "2026年11月20日 · 今日4篇",
+  "updatedAt": "2026-11-21",
+  "updatedLabel": "2026年11月21日 · 今日4篇",
   "editionNote": "截至2026-11-19，2026-10-20至2026-11-19共31个连续日期组、99篇；其中25组各3篇、6组各4篇，所有日期组均同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。11月17日组移除已过期降雪预警与警报测试，新增明确标注目标日与实际核对日期的议会决定补档，恢复为3篇；11月18日公交雪天绕行仍在生效，保留该提醒。",
   "articles": [
+    {
+      "id": "alberta-bill43-lrt-oversight-20261121",
+      "date": "2026-11-21",
+      "dateLabel": "11月21日 · 本地资讯",
+      "sourceDate": "KaCheng 中文线索发布于2026-11-20；Bill 43 于2026-11-19提出并进入一读",
+      "verifiedAt": "2026-11-21",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "阿省拟扩大对卡城 LRT 的介入权：Bill 43 仍在一读，还不是现行法律",
+      "summary": "第43号法案若通过，卡城市府需向省府提交既有和拟建城市轨道线路计划，部分设计与项目变更可能须获部长批准；法案目前尚未通过，也没有新命令针对绿线。",
+      "deck": "这项提案影响卡城未来轨道交通规划；现阶段不代表绿线已被叫停或线路已改变。",
+      "lede": "卡城 LRT 的规划权可能迎来新变化。阿省11月19日提出的 Bill 43 仍处于一读阶段，法案拟要求城市提交轨道网络计划，并让省交通厅长指示既有或拟建线路的部分变更；目前它还不是法律。",
+      "sections": [
+        {
+          "heading": "法案通过后，哪些事可能要经过省府",
+          "paragraphs": [
+            "法案拟要求市府为现有及拟建轨道线路提交网络计划，内容包括走廊与线位、车站、车辆类型、相关设施和扩建计划。对拟建线路，部长可要求修改计划；市府考虑改变线路规划、设计、项目交付、资产管理或乘客安全设施时，也可能须先通知部长。",
+            "草案还写明，市府若被要求按部长指示修改，相关合规成本由市府承担。条文涉及既有及拟建线路，但具体如何实施仍取决于立法进程及后续法规。"
+          ]
+        },
+        {
+          "heading": "绿线目前没有新指令",
+          "paragraphs": [
+            "KaCheng 的报道引述 CBC 称，省长曾以绿线为例谈到省府介入；但卡城网更新同时指出，截至报道时省府没有就绿线设计发出新命令。读者应把“拟赋予更大权限”和“已对具体项目下令”分开看。"
+          ],
+          "links": [
+            {
+              "label": "KaCheng 中文线索与原文说明",
+              "url": "https://kacheng.ca/zh-hans/news/update-bill-43-alberta-may-direct-calgary-lrt-design/"
+            },
+            {
+              "label": "阿省议会：Bill 43 原文（第一读版本）",
+              "url": "https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-043.pdf"
+            },
+            {
+              "label": "阿省议会：法案进度仪表板",
+              "url": "https://www.assembly.ab.ca/assembly-business/assembly-dashboard?anchor=g12147&billinfoid=12147&legl=31&rx=293&session=2"
+            }
+          ]
+        }
+      ],
+      "takeaway": "Bill 43 是尚待审议的提案，不是已经生效的规则；目前没有针对卡城绿线的新部长命令。",
+      "sourceType": "省议会法案与中文本地新闻线索",
+      "source": "KaCheng；Legislative Assembly of Alberta",
+      "author": "KaCheng Editorial Team",
+      "url": "https://kacheng.ca/zh-hans/news/update-bill-43-alberta-may-direct-calgary-lrt-design/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-21",
+        "reason": "中文线索使用资料图；未确认可代表法案或卡城线路的直接原始配图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://kacheng.ca/zh-hans/news/update-bill-43-alberta-may-direct-calgary-lrt-design/",
+        "title": "更新：43号法案拟让省厅长可随时改卡城轻轨设计",
+        "publisher": "卡城网 KaCheng",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-cold-weekend-forecast-20261121",
+      "date": "2026-11-21",
+      "dateLabel": "11月21日 · 生活提醒",
+      "sourceDate": "加拿大环境与气候变化部卡城预报发布于2026-11-21 05:00 Alberta Time",
+      "verifiedAt": "2026-11-21",
+      "category": "生活提醒",
+      "categoryClass": "weather",
+      "title": "卡城周六最高约零下4°C，早晨体感零下11°C：出门前看风寒和飘雪",
+      "summary": "加拿大环境部周六早间实况为零下5°C、体感零下11°C；当天预报最高零下4°C，上午有30%飘雪机会。页面未发布极端寒冷警报。",
+      "deck": "早上等车、遛狗或带孩子出门，按风寒穿衣；天气和道路情况出门前再查一次。",
+      "lede": "今天卡城早上实测约零下5°C，体感零下11°C；环境部预报白天最高约零下4°C，上午有三成飘雪机会。没有极端寒冷警报不等于体感不冷，等公交或长时间在户外的话，手套、帽子和挡风层会更实用。",
+      "sections": [
+        {
+          "heading": "今天的官方预报",
+          "paragraphs": [
+            "加拿大环境与气候变化部在11月21日05:00 Alberta Time 发布的预报列出：周六最高零下4°C，上午30%机会飘雪。卡尔加里机场07:00实况为零下5.3°C，风寒指数零下11。预报会变化，出发前可再看小时预报和警报。"
+          ],
+          "links": [
+            {
+              "label": "加拿大环境与气候变化部：Calgary 当前预报与警报",
+              "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009"
+            },
+            {
+              "label": "加拿大环境与气候变化部：卡城天气警报",
+              "url": "https://www.weather.gc.ca/warnings/report_e.html?ab12="
+            }
+          ]
+        },
+        {
+          "heading": "等车、步行和带孩子外出时",
+          "paragraphs": [
+            "风寒指数反映风对裸露皮肤的降温影响，不能替代体感判断。长时间在户外可分层穿衣、遮住耳朵和手部；步行时留意湿滑路段，开车前清理车窗和灯面。若出现新的天气警报，以环境部最新页面为准。"
+          ]
+        }
+      ],
+      "takeaway": "周六早间体感约零下11°C；按风寒准备衣物，并在出门前查看最新小时预报及警报。",
+      "sourceType": "加拿大环境与气候变化部天气预报",
+      "source": "Environment and Climate Change Canada",
+      "author": "Environment and Climate Change Canada",
+      "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-21",
+        "reason": "官方预报页无确认可直接代表卡城当前天气的预览图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009",
+        "title": "Calgary, AB — Current Conditions and Forecast",
+        "publisher": "Environment and Climate Change Canada",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "cpl-final-cavalry-ottawa-20261121",
+      "date": "2026-11-21",
+      "dateLabel": "11月21日 · 吃喝玩乐",
+      "sourceDate": "Canadian Premier League 决赛预告发布于2026-11-20；Cavalry FC 主办方公告发布于2026-11-08",
+      "verifiedAt": "2026-11-21",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城 Cavalry 今天下午争加拿大超级联赛冠军：主场决赛2点开球",
+      "summary": "Cavalry FC 今天在 Spruce Meadows 的 ATCO Field 迎战卫冕冠军 Atlético Ottawa，下午2点开球。Ticketmaster 列出儿童2岁及以下可坐家长腿上，3岁起需票；票价和余座以实时页面为准。",
+      "deck": "票务页核查时仍显示购票入口；票价和可选座位以页面即时库存为准。",
+      "lede": "今天下午，卡尔加里的 Cavalry FC 将在主场踢加拿大超级联赛（CPL）决赛，对手是卫冕冠军 Atlético Ottawa。比赛下午2点在 Spruce Meadows 的 ATCO Field 开始；对本地球迷来说，这是赛季冠军战，也可能让 Cavalry 成为首支同季拿下常规赛与季后赛冠军的 CPL 球队。",
+      "sections": [
+        {
+          "heading": "比赛时间与观看方式",
+          "paragraphs": [
+            "CPL 和 Cavalry FC 页面都列出11月21日决赛在 ATCO Field 举行；开球时间为下午2点 Alberta Time。联赛预告列出 CBC、TSN 和 OneSoccer 转播。"
+          ],
+          "links": [
+            {
+              "label": "Cavalry FC：决赛地点与开球时间",
+              "url": "https://www.cplsoccer.com/cavalryfc/news/2026-canadian-premier-league-final-returns-to-atco-field"
+            },
+            {
+              "label": "CPL：比赛前瞻与转播信息",
+              "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final"
+            }
+          ]
+        },
+        {
+          "heading": "到场前先核对票务",
+          "paragraphs": [
+            "Ticketmaster 活动页列出的公众售票窗口截至今天16:00，页面提示余票会因活动而异；票价、座位和实际库存以购票页即时显示为准。儿童2岁及以下可坐家长腿上，3岁及以上需要单独门票。主办方没有标注现场语言或额外年龄限制。比赛若90分钟打平会进入加时，仍未分胜负则点球决胜。"
+          ],
+          "links": [
+            {
+              "label": "Ticketmaster：2026 CPL Final 票务页",
+              "url": "https://www.ticketmaster.ca/2026-cpl-final-cavalry-fc-vs-calgary-alberta-11-21-2026/event/11006563811D2BB7"
+            },
+            {
+              "label": "Ticketmaster：2026 CPL Final 票务页与入场说明",
+              "url": "https://www.ticketmaster.ca/2026-cpl-final-cavalry-fc-vs-calgary-alberta-11-21-2026/event/11006563811D2BB7"
+            }
+          ]
+        }
+      ],
+      "takeaway": "决赛今天14:00在 Spruce Meadows 的 ATCO Field 开球；现场票务和座位以 Ticketmaster 即时页面为准。",
+      "sourceType": "本地职业足球决赛及官方票务",
+      "source": "Canadian Premier League；Cavalry FC；Ticketmaster",
+      "author": "Canadian Premier League",
+      "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-21",
+        "reason": "未确认原文页存在可直接代表本场决赛的合适预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final",
+        "title": "PREVIEW: Cavalry FC vs. Atlético Ottawa | 2026 CPL Final",
+        "publisher": "Canadian Premier League",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "spark-earth-science-weekend-sue-20261121",
+      "date": "2026-11-21",
+      "dateLabel": "11月21日 · 吃喝玩乐",
+      "sourceDate": "TELUS Spark Science Centre 主办方活动页；活动日期2026-11-21至11-22；SUE 展览至11-29",
+      "verifiedAt": "2026-11-21",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "TELUS Spark 本周末办地球科学体验：化石、恐龙讲座，SUE 展览月底结束",
+      "summary": "11月21–22日10:00–15:00，Spark 多个展区有化石体验、科学演示和恐龙主题活动；需普通门票或会员。成人票33.95元，儿童票24.95元（3–17岁），0–2岁免费。",
+      "deck": "适合带孩子或对化石有兴趣的居民；化石翻模名额有限，到场后需在 Steven’s Lab 登记。",
+      "lede": "想找一个适合全家动手参与的周末活动，TELUS Spark 正在举行两天的地球科学体验。现场有化石、地质与恐龙主题活动，入场包含在普通门票或会员中；SUE 霸王龙展览也将在月底结束。",
+      "sections": [
+        {
+          "heading": "两天活动与地点",
+          "paragraphs": [
+            "主办方列出活动时间为11月21日和22日10:00–15:00，地点包括 Spark Atrium、Inspiration Stage、Steven’s Lab、Creative Kids Museum 和 Infinity Dome。内容有化石观察、恐龙主题讲座、制作恐龙皇冠等；具体节目时段以主办方日程为准。"
+          ],
+          "links": [
+            {
+              "label": "TELUS Spark：Earth Science Weekend 活动页",
+              "url": "https://www.sparkscience.ca/earth-science-weekend"
+            }
+          ]
+        },
+        {
+          "heading": "门票、年龄与有限名额",
+          "paragraphs": [
+            "活动适合各年龄，包含在普通门票或 Spark 会员资格内；成人普通票33.95加元，65岁以上29.95，学生29.95，3–17岁儿童24.95，0–2岁免费。16岁以下须由家长、监护人或照护者陪同。主办方说明 Fossil Casting（化石翻模）建议7岁以上、名额有限，到场后需在 Steven’s Lab 登记。活动页没有标注活动语言或可用名额。SUE: The T. rex Experience 展至11月29日。"
+          ],
+          "links": [
+            {
+              "label": "TELUS Spark：门票价格与参观安排",
+              "url": "https://www.sparkscience.ca/admission"
+            }
+          ]
+        }
+      ],
+      "takeaway": "活动本周六、日10:00–15:00，须购买普通门票或持会员资格；化石翻模名额有限，SUE 展览到11月29日。",
+      "sourceType": "公共科学馆限时主题活动",
+      "source": "TELUS Spark Science Centre",
+      "author": "TELUS Spark Science Centre",
+      "url": "https://www.sparkscience.ca/earth-science-weekend",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-21",
+        "reason": "活动页主图与具体活动内容相关，但未确认可作为来源卡片远程显示的原始预览地址，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.sparkscience.ca/earth-science-weekend",
+        "title": "Earth Science Weekend: Farewell to SUE",
+        "publisher": "TELUS Spark Science Centre",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "calgary-road-fatalities-2026-nov20",
       "date": "2026-11-20",
@@ -114,40 +347,25 @@
     {
       "id": "tawanan-night-calgary-20261120",
       "date": "2026-11-20",
-      "dateLabel": "11月20日 · 吃喝玩乐",
+      "dateLabel": "11月20日 · 活动档案",
       "sourceDate": "主办方 Broadway Production 的 Showpass 售票页及 Tourism Calgary 活动页；活动时间为2026-11-20 19:00至11-21 00:00",
-      "verifiedAt": "2026-11-20",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "菲律宾喜剧音乐之夜今晚在卡城中华文化中心举行：票价约86元起",
-      "summary": "Tawanan Night 今晚7点至午夜在 Calgary Chinese Cultural Centre 举行，阵容包括 Wacky Kiray、Daniela Diva、Zaragine 和 Boobsie；票价列为86.42至144.43加元。",
-      "deck": "演出语言、年龄政策和当前余票未在主办方售票页说明，购票前请直接查看活动页。",
-      "lede": "想找今晚的菲律宾文化演出，可以留意 Tawanan Night：售票页把它列为喜剧与音乐现场，晚上7点在卡城中华文化中心开场，地址是197 1 St SW。票价不低，且页面没有说明演出语言、年龄政策或当前余票，最好先看售票页再决定。",
+      "title": "菲律宾喜剧音乐之夜活动档案｜原定11月20日在卡城中华文化中心举行",
+      "summary": "Broadway Production 的售票页曾列出 Tawanan Night 于2026年11月20日19:00至午夜在卡城中华文化中心举行，票价列为86.42至144.43加元。该日期已过；我们无法从主办方页面确认演出是否如期举行，也不再作为近期活动推荐。",
+      "deck": "活动日期已过；本卡保留原始主办方信息作档案，不作为近期活动推荐。",
+      "lede": "Broadway Production 的售票页曾列出 Tawanan Night 于2026年11月20日19:00至午夜在卡城中华文化中心举行，票价列为86.42至144.43加元。该日期已过；我们无法从主办方页面确认演出是否如期举行，也不再作为近期活动推荐。",
       "sections": [
         {
-          "heading": "时间、地点和票价",
+          "heading": "原始页面曾列出的信息",
           "paragraphs": [
-            "主办方 Broadway Production 的 Showpass 页面列出11月20日晚上7点开场、午夜结束，场地是 Calgary Chinese Cultural Centre（卡城中华文化中心），地址197 1 St SW。列出的票价为86.42至144.43加元。"
-          ]
-        },
-        {
-          "heading": "演出信息仍有几项没写明",
-          "paragraphs": [
-            "页面介绍四位演出者 Wacky Kiray、Daniela Diva、Zaragine 和 Boobsie，并将活动称为喜剧音乐演出。主办方页面没有列出演出语言、年龄限制或实时余票数量；不要据此假设有中文或英文服务，购票前可向售票页确认。"
+            "Broadway Production 的售票页曾列出 Tawanan Night 于2026年11月20日19:00至午夜在卡城中华文化中心举行，票价列为86.42至144.43加元。该日期已过；我们无法从主办方页面确认演出是否如期举行，也不再作为近期活动推荐。"
           ],
-          "links": [
-            {
-              "label": "主办方售票页：Tawanan Night in Calgary",
-              "url": "https://www.showpass.com/fr/tawanan-night-in-calgary/?source_channel=discovery"
-            },
-            {
-              "label": "Tourism Calgary活动页",
-              "url": "https://www.visitcalgary.com/events/tawanan-night"
-            }
-          ]
+          "links": []
         }
       ],
-      "takeaway": "活动今晚7点开场，售票页列价86.42至144.43加元；语言、年龄规则及余票需以主办方最新页面为准。",
+      "takeaway": "这是过往活动档案，不是仍可参加的活动；是否如期举行未获独立确认。",
       "sourceType": "有日期的菲律宾喜剧音乐演出",
       "source": "Broadway Production / Showpass",
       "author": "Broadway Production",
@@ -169,39 +387,42 @@
       "id": "cuff-docs-weekend-program-20261120",
       "date": "2026-11-20",
       "dateLabel": "11月20日 · 吃喝玩乐",
-      "sourceDate": "Calgary Underground Film Festival主办方节目表；影展日期2026-11-18至11-22，当前核对为11-20",
-      "verifiedAt": "2026-11-20",
+      "sourceDate": "Calgary Underground Film Festival主办方节目表与票务页；影展日期2026-11-18至11-22；本卡更新时间2026-11-21",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "纪录片影展周末仍有多场：卡城 CUFF.Docs 今晚两部影片，门票12元起",
-      "summary": "CUFF.Docs 在 Globe Cinema 举行至11月22日；今晚节目表列出6:30的《Dernsie》和9:15的《Cornbread Mafia》。普通票12元，学生、长者及会员10元。",
-      "deck": "售票数量、影片放映语言和年龄分级未能从主办方页面确认；Globe Cinema影厅需走楼梯，场馆不无障碍。",
-      "lede": "卡尔加里地下电影节的纪录片单元 CUFF.Docs 正在 Globe Cinema 举行，到周日11月22日结束。今晚有两场纪录片，主办方页面列出票价和影院位置；如果想去，先确认场次与余票，也要留意影厅需要走楼梯。",
+      "title": "卡城 CUFF.Docs 纪录片影展周末场次：周六六场、周日五场，单场12元起",
+      "summary": "CUFF.Docs 在 Globe Cinema 举行至11月22日。主办方列出周六10:00至21:45六场、周日11:00至20:30五场；普通单场票12元，学生、长者及会员10元。",
+      "deck": "余票及放映语言未确认；Globe Cinema 上层影厅需走楼梯，场馆不无障碍。",
+      "lede": "卡尔加里地下电影节的纪录片单元 CUFF.Docs 周末仍有多场放映，到周日11月22日结束。主办方列出周六六场、周日五场，单场票价12加元起；如果打算临时去，先确认余票，也要留意影厅需要走楼梯。",
       "sections": [
         {
-          "heading": "今晚两场，周末还有其他选择",
+          "heading": "周末节目表",
           "paragraphs": [
-            "主办方节目表列出今晚6:30放映《Dernsie: The Amazing Life of Bruce Dern》（111分钟），9:15放映《Cornbread Mafia》（83分钟）。周六和周日还有其他纪录片场次，完整时间表以影展官网为准。"
-          ]
-        },
-        {
-          "heading": "票价与进场信息",
-          "paragraphs": [
-            "主办方列出单场普通票12加元，学生、长者、CUFF会员和CJSW Friends Card持有人10加元；影展现场售票处通常在放映前一小时开放。当前余票数量未确认。影厅位于 Globe Cinema 上层，入场和洗手间都要走楼梯，主办方明确说明场地不具无障碍条件。节目页未列年龄限制或放映语言/字幕信息。"
+            "周六11月21日：10:00《CATVIDEOFEST》；12:00《To Each Their Own》短片单元；14:30《The Dads》；16:30《Turtle Island Rap》；19:15《More Miles Than Money: The Story of Jr. Gone Wild》；21:45《Mineshaft: The Cruising Murders》。周日11月22日：11:00《Starry Night》；13:30《Sumo: Spirit Weighs Nothing》；16:00《Wild Inside》；18:30《Blood & Guts》；20:30《Amazing Live Sea Monkeys》。放映时长和嘉宾信息可在主办方节目表逐场查看。"
           ],
           "links": [
             {
-              "label": "主办方：CUFF.Docs 2026节目表",
+              "label": "CUFF.Docs 主办方节目表",
               "url": "https://www.calgaryundergroundfilm.org/cuff-docs/2026/schedule/"
-            },
+            }
+          ]
+        },
+        {
+          "heading": "票价、售票与入场条件",
+          "paragraphs": [
+            "主办方列出普通单场票12加元，学生、长者、CUFF会员及 CJSW Friends Card 持有人10加元。现场售票处在放映前一小时开放；实际余票需以购票页或现场为准。放映语言与年龄分级未在页面确认。",
+            "CUFF.Docs 使用 Globe Cinema 上层影厅；主办方说明进场及洗手间都需走楼梯，场馆不具无障碍条件。"
+          ],
+          "links": [
             {
-              "label": "主办方：票价、现场售票与无障碍说明",
+              "label": "CUFF.Docs 票价、现场售票与无障碍说明",
               "url": "https://www.calgaryundergroundfilm.org/cuff-docs/tickets-passes/"
             }
           ]
         }
       ],
-      "takeaway": "影展持续至11月22日，单场票价12加元起；先核对余票，并注意 Globe Cinema 上层影厅要走楼梯。",
+      "takeaway": "影展至11月22日结束；单场票12加元起。余票和放映语言未确认，且 Globe Cinema 上层需走楼梯。",
       "sourceType": "限时纪录片影展节目",
       "source": "Calgary Underground Film Festival",
       "author": "Calgary Underground Film Festival",
@@ -322,36 +543,25 @@
     {
       "id": "aye-youth-explosion-20261119",
       "date": "2026-11-19",
-      "dateLabel": "11月19日 · 吃喝玩乐",
+      "dateLabel": "11月19日 · 活动档案",
       "sourceDate": "National Music Centre / Studio Bell活动页；活动日期2026-11-20",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "Studio Bell周五办原住民青年音乐与故事之夜：AYE现场演出门票20元起",
-      "summary": "A Youth Explosion由 Canada Bridges 与 National Music Centre 合办，11月20日在Studio Bell举行，包含青年表演、音乐、艺术与讲述。",
-      "deck": "这是一场有明确日期的原住民青年文化演出；主办方页面未列活动语言、年龄政策或当前余票。",
-      "lede": "想看本地原住民青年艺术家的音乐与故事演出，周五晚可留意 Studio Bell 的 A Youth Explosion（AYE）。活动由 Canada Bridges 与 National Music Centre 合办，官方列明开门和演出时间及票价。",
+      "title": "Studio Bell 青年音乐之夜档案｜AYE 原定11月20日举行",
+      "summary": "Studio Bell 页面曾列出 A Youth Explosion（AYE）于2026年11月20日举行，17:30开门、18:30演出，预售票20加元、现场票25加元。活动日期已过，当前是否举行及现场情况未另行确认；此卡仅留作活动档案。",
+      "deck": "活动日期已过；本卡保留原始主办方信息作档案，不作为近期活动推荐。",
+      "lede": "Studio Bell 页面曾列出 A Youth Explosion（AYE）于2026年11月20日举行，17:30开门、18:30演出，预售票20加元、现场票25加元。活动日期已过，当前是否举行及现场情况未另行确认；此卡仅留作活动档案。",
       "sections": [
         {
-          "heading": "时间、地点与票价",
+          "heading": "原始页面曾列出的信息",
           "paragraphs": [
-            "活动在11月20日（周五）举行，下午5:30开门、6:30开始演出，地点为 Studio Bell（850 4 Street SE）。官方页面列出票价为预购20加元、现场25加元；当前余票未确认。"
-          ]
-        },
-        {
-          "heading": "节目内容与语言信息",
-          "paragraphs": [
-            "主办方介绍节目包括原住民青年表演、音乐、艺术和故事讲述，并有艺人 LOV（Lovina Tootoosis）演出。活动页面未列活动语言或年龄政策，也没有说明提供中文服务；需确认入场年龄或语言协助时，可先联系主办方。"
+            "Studio Bell 页面曾列出 A Youth Explosion（AYE）于2026年11月20日举行，17:30开门、18:30演出，预售票20加元、现场票25加元。活动日期已过，当前是否举行及现场情况未另行确认；此卡仅留作活动档案。"
           ],
-          "links": [
-            {
-              "label": "Studio Bell / National Music Centre：AYE活动详情与购票",
-              "url": "https://www.studiobell.ca/whats-on/event/canada-bridges-nmc-present-aye-a-youth-explosion"
-            }
-          ]
+          "links": []
         }
       ],
-      "takeaway": "11月20日5:30开门、6:30演出；预购20元、现场25元，当前余票及语言、年龄政策未确认。",
+      "takeaway": "这是过往活动档案，不是仍可参加的活动；是否如期举行未获独立确认。",
       "sourceType": "主办方与场馆活动页面",
       "source": "National Music Centre / Studio Bell",
       "author": "National Music Centre / Studio Bell",
@@ -374,18 +584,25 @@
       "date": "2026-11-19",
       "dateLabel": "11月19日 · 吃喝玩乐",
       "sourceDate": "Lions Festival of Lights Society官方页面；开幕2026-11-21",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城灯光节周六开幕：Confederation Park免费夜间观赏至明年1月",
-      "summary": "Lions Festival of Lights于11月21日下午5点开幕；之后每晚5:30至午夜亮灯，免费开放到2027年1月8日。",
-      "deck": "适合想找免费户外夜间活动的家庭和居民；周末经过14街西北段要预留交通时间。",
-      "lede": "卡城 Lions Festival of Lights 将于11月21日（周六）下午5点举行开幕亮灯，之后每天傍晚开放。活动沿 Confederation Park Golf Course 一带布置，免费入场，不需预约时段。",
+      "title": "卡城 Lions 灯光节今晚5点开幕：免费沿14街观赏至明年1月8日",
+      "summary": "主办方列出11月21日17:00开幕；之后每晚17:30至午夜亮灯，免费开放至2027年1月8日。展区沿 Confederation Park Golf Course、14 Street NW 一带。",
+      "deck": "开幕夜5点点灯；从周日开始每晚17:30至午夜。周末14街车流会慢，宜预留时间。",
+      "lede": "卡城 Lions Festival of Lights 今天傍晚在 Confederation Park 开幕，免费观赏。主办方列出的开幕时间是17:00；从明晚起，每晚17:30亮灯至午夜，持续到明年1月8日。",
       "sections": [
         {
           "heading": "开幕日和日常开放时间",
           "paragraphs": [
-            "官方页面列出开幕时间为11月21日下午5点；从次日起，每晚5:30亮灯至午夜，展期到2027年1月8日。活动免费，也不需门票或预约时段。"
+            "主办方页面列出开幕夜为11月21日17:00；从11月22日开始每晚17:30至午夜，免费观赏至2027年1月8日。灯饰沿 Confederation Park Golf Course、14 Street NW（24 Avenue NW 以北）一带展开，可步行或慢速驾车经过。",
+            "主办方提醒，节日前的12月周末14 Street 可能拥堵；行人会在昏暗环境过街，开车经过时请放慢速度。"
+          ],
+          "links": [
+            {
+              "label": "Lions Festival of Lights：开幕与参观安排",
+              "url": "https://www.lionsfestivaloflights.ca/"
+            }
           ]
         },
         {
@@ -401,7 +618,7 @@
           ]
         }
       ],
-      "takeaway": "11月21日5点开幕；之后每日5:30至午夜免费开放至2027年1月8日，地址在Confederation Park的14 Street NW沿线。",
+      "takeaway": "今晚17:00开幕，免费；明晚起每晚17:30–午夜亮灯至2027年1月8日。",
       "sourceType": "活动主办方页面",
       "source": "Lions Festival of Lights Society",
       "author": "Lions Festival of Lights Society",
@@ -424,7 +641,7 @@
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 生活提醒",
       "sourceDate": "Calgary Police Service新闻稿发布于2026-11-16 15:51 America/Edmonton；整月检查安排",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城警方11月仍在查儿童安全座椅：胸扣太低、绑带太松都常见",
@@ -482,36 +699,36 @@
       "id": "calgary-hiphop-streetdance-festival-20261118",
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 吃喝玩乐",
-      "sourceDate": "Calgary Hip Hop & Streetdance Festival主办方节目表；活动日期2026-11-19至22，页面未注明发布日期",
-      "verifiedAt": "2026-11-18",
+      "sourceDate": "Calgary Hip Hop & Streetdance Festival主办方节目表；节庆日期2026-11-19至22；本卡于2026-11-21更新",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城街舞节明晚开场：电影放映、battle与周日华埠决赛",
-      "summary": "11月19日至22日的街舞节分布在 Contemporary Calgary、Pulse Studios 和华埠文化中心；部分项目需购票。",
-      "deck": "从周四晚的舞蹈短片放映到周日决赛，活动场地、时间和票价各不相同，出发前先看具体场次。",
-      "lede": "第五届 Calgary Hip Hop & Streetdance Festival 将于11月19日至22日举行，节目包括舞蹈电影、街舞课程、battle和现场演出。它不是单一场馆的活动：周四开场在 Contemporary Calgary，周末比赛和周日决赛另有场地。",
+      "title": "卡城街舞节周末开跳：周六预赛、周日华埠决赛；预赛票含决赛",
+      "summary": "周六11月21日9:45开门、10:15开始街舞预赛；周日11月22日13:00开门、13:30在卡城中华文化中心举行决赛与演出。主办方列出的观众常规票45元，预赛票也包含周日决赛。",
+      "deck": "今天预赛在 Pulse Studios，明天决赛在华埠文化中心；两个场次地点不同。",
+      "lede": "Calgary Hip Hop & Streetdance Festival 进入周末比赛环节：今天在 Pulse Studios 办预赛，明天下午到卡城中华文化中心决赛并有本地舞者演出。若买预赛观众票，主办方说明还可凭票进周日决赛；出发前看清场地和进场时间。",
       "sections": [
         {
-          "heading": "周四开场与周末决赛",
+          "heading": "周六预赛与周日决赛",
           "paragraphs": [
-            "11月19日（周四）在 Contemporary Calgary（701 11 St SW）举行电影放映和开场活动，下午6:30开门、7点放映，之后还有3对3 battle；该场票价为15加元。",
-            "11月21日预赛在 Pulse Studios（110 10 Ave NW）举行，首场比赛上午10:15开始；11月22日决赛与 showcase 在 Calgary Chinese Cultural Centre（197 1 St SW），下午1点开门、1:30开始。主办方说明，预赛观众票包含周日决赛入场。"
+            "11月21日（周六）预赛在 Pulse Studios（110 10 Ave NW），9:45开门、10:15开始，儿童与青少年组先比；中午12点另有免费嘉宾讨论。",
+            "11月22日（周日）决赛与 showcase 在 Calgary Chinese Cultural Centre（197 1 St SW），13:00开门、13:30开始。主办方列出各组预赛前四名进入决赛。"
           ],
           "links": [
             {
-              "label": "Calgary Hip Hop & Streetdance Festival：2026节目表、地点与票务",
+              "label": "Calgary Hip Hop & Streetdance Festival：官方节目表与票务",
               "url": "https://www.calgaryhhsdf.com/schedule"
             }
           ]
         },
         {
-          "heading": "报名与观演信息",
+          "heading": "票价和入场信息",
           "paragraphs": [
-            "主办方节目表列出的预赛观众常规票为45加元，周日决赛单独票价也列为45加元；已购买预赛票的人可凭同一张票看决赛。网页没有说明活动是否提供中文服务或一般观众年龄限制，当前剩余名额也未在节目表中确认。"
+            "主办方列出预赛观众常规票45加元，预赛票包含周日决赛入场；决赛单买常规票也列为45加元。当前余票未确认，主办方要求参赛者提前在线购票并按组别时间签到。节目表没有列普通观众年龄规定，也未说明是否提供中文服务。"
           ]
         }
       ],
-      "takeaway": "街舞节从11月19日办到22日；周四开场票价15加元，周日华埠文化中心决赛下午1:30开始。票务余量及语言、年龄信息以主办方页面为准。",
+      "takeaway": "周六预赛10:15在 Pulse Studios 开始；周日决赛13:30在华埠文化中心举行。预赛观众票包含决赛，余票请看主办方页面。",
       "sourceType": "街舞文化节主办方节目表",
       "source": "Calgary Hip Hop & Streetdance Festival",
       "author": "Calgary Hip Hop & Streetdance Festival",
@@ -532,21 +749,20 @@
     {
       "id": "metis-flag-raising-lougheed-20261118",
       "date": "2026-11-18",
-      "dateLabel": "11月18日 · 吃喝玩乐",
+      "dateLabel": "11月20日 · 活动档案",
       "sourceDate": "Lougheed House主办方活动页及Tourism Calgary日历；活动日期2026-11-20",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "周五Lougheed House举行 Métis 升旗活动：免费，建议登记",
-      "summary": "活动为11月20日上午11点至中午，在 Lougheed House 举行；Métis 政府成员和长者将发言，之后可参观博物馆。",
-      "deck": "这是一场纪念 Métis Week 的本地文化活动；主办方写明免费，报名建议而非强制。",
-      "lede": "本周五的 Métis Flag Raising & Open House 将在 Lougheed House 举行，现场由 Otipemisiwak Government 成员升起 Métis 旗帜，并有政府成员和一位 Métis 长者发言。对于想了解卡尔加里本地 Métis 历史与社区的居民，这是一个有明确时间、地点的公开活动。",
+      "title": "Métis 升旗活动档案｜Lougheed House 原定11月20日举行",
+      "summary": "Lougheed House 页面曾列出 Métis Flag Raising & Open House 于2026年11月20日11:00–12:00举行，并标注免费、建议登记。活动日期已过，我们未确认活动是否如期举行或实际到场情况；这不是近期出门推荐。",
+      "deck": "活动日期已过；本卡保留原始主办方信息作档案，不作为近期活动推荐。",
+      "lede": "Lougheed House 页面曾列出 Métis Flag Raising & Open House 于2026年11月20日11:00–12:00举行，并标注免费、建议登记。活动日期已过，我们未确认活动是否如期举行或实际到场情况；这不是近期出门推荐。",
       "sections": [
         {
-          "heading": "时间、地点和活动安排",
+          "heading": "原始页面曾列出的信息",
           "paragraphs": [
-            "活动定于11月20日（周五）上午11点至中午，地点为 Lougheed House，地址是707 13 Avenue SW。主办方说，仪式后欢迎参加者参观博物馆；页面没有列出参观部分的额外费用或持续时间。",
-            "Lougheed House 主办页面标注活动免费，并建议预先登记。页面没有说明活动语言或年龄限制；如需要无障碍或语言安排，可在出发前联系场馆确认。"
+            "Lougheed House 页面曾列出 Métis Flag Raising & Open House 于2026年11月20日11:00–12:00举行，并标注免费、建议登记。活动日期已过，我们未确认活动是否如期举行或实际到场情况；这不是近期出门推荐。"
           ],
           "links": [
             {
@@ -558,15 +774,9 @@
               "url": "https://www.visitcalgary.com/events/metis-flag-raising-open-house"
             }
           ]
-        },
-        {
-          "heading": "这是纪念 Métis Week 的社区活动",
-          "paragraphs": [
-            "主办方将活动与 Métis Week 相连，安排升旗并邀请 Otipemisiwak Government 成员和 Métis 长者发言。对第一次接触这段历史的观众，现场活动语言和问答安排仍应向主办方确认。"
-          ]
         }
       ],
-      "takeaway": "11月20日11:00–12:00在 Lougheed House 举行，免费、建议登记；语言与年龄安排未说明。",
+      "takeaway": "这是过往活动档案，不是仍可参加的活动；是否如期举行未获独立确认。",
       "sourceType": "文化与社区活动主办方页面",
       "source": "Lougheed House；Tourism Calgary",
       "author": "Lougheed House",
@@ -647,7 +857,7 @@
       "date": "2026-11-17",
       "dateLabel": "11月17日 · 吃喝玩乐",
       "sourceDate": "Roots Collective YYC活动页；Tourism Calgary活动列表；活动日期2026-11-21",
-      "verifiedAt": "2026-11-17",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
       "title": "TCG Station 周六在华埠文化中心办卡牌交流活动",
@@ -700,8 +910,8 @@
       "id": "contemporary-connections-ukrainian-tour-20261117",
       "date": "2026-11-17",
       "dateLabel": "11月17日 · 吃喝玩乐",
-      "sourceDate": "Contemporary Calgary活动与项目页面；Showpass登记页；活动日期2026-11-21",
-      "verifiedAt": "2026-11-17",
+      "sourceDate": "Contemporary Calgary主办方页面列出活动日期2026-11-21；卡村于2026-11-21复核",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
       "title": "当代艺术馆周六有乌克兰语导览：免费但建议提前登记",
@@ -712,7 +922,7 @@
         {
           "heading": "半小时导览，之后继续交流",
           "paragraphs": [
-            "官方活动页说明，约30分钟的乌克兰语导览后接续交流，并可选择参加 mixer。地址为 Contemporary Calgary，701 11 St SW。活动页未列年龄限制。"
+            "主办方列出导览于11月21日12:00–13:00在 Contemporary Calgary 举行，活动本身30分钟，之后可参加交流和自选小型聚会。导览为乌克兰语；免费，建议预先登记，也允许现场参加，但取决于剩余空间。"
           ],
           "links": [
             {
@@ -738,7 +948,7 @@
           ]
         }
       ],
-      "takeaway": "11月21日中午的乌克兰语导览免费；非中文活动，登记和现场余位需以主办方页面当前显示为准。",
+      "takeaway": "今天12:00–13:00是乌克兰语导览，免费；可预先登记，现场参加视余位而定。",
       "sourceType": "美术馆官方活动、项目与登记页面",
       "source": "Contemporary Calgary；Showpass",
       "author": "Contemporary Calgary；Showpass",
@@ -1046,7 +1256,7 @@
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
       "sourceDate": "卡城市府11月13日维修公告预计工期7–10天；Calgary Transit于2026-11-19仍列出相关车道及公交站封闭",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Edgemont 水管维修预计持续7–10天：公交绕行和站点调整仍在生效",
@@ -2722,12 +2932,12 @@
       "id": "bearspaw-restrictions-nov-2026",
       "date": "2026-11-04",
       "dateLabel": "11月4日更新 · 11月9日复核",
-      "sourceDate": "Stage 4于2026-11-04生效；市府官方页面于2026-11-19核实仍在生效",
-      "verifiedAt": "2026-11-19",
+      "sourceDate": "第四级限水自2026-11-04生效；市府页面最新更新于2026-11-20，卡村于2026-11-21复核仍有效",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月4日起卡城实施第四级户外限水：室内也请节水",
-      "summary": "11月4日起卡城全市实施第四级户外限水，市府当前页面写明户外用水一律禁止，并请居民减少室内用水；限制预计约四周。",
+      "summary": "市府11月20日页面仍列全市第四级户外限水有效，所有户外用水禁止；当天公布周四用水量为4.8亿升，低于5亿升绿色区门槛。",
       "deck": "第四级户外限水已经生效；室内洗衣、洗碗和淋浴也请尽量节水。",
       "lede": "11月4日起，卡城全市进入第四级户外限水。11月9日回查时，市府仍显示限制有效：期间不允许户外用水，并请居民减少室内用水。施工期间供水能力受限，限制预计约四周；结束时间以市府后续公告为准。",
       "sections": [
@@ -3609,7 +3819,7 @@
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "阿省政府页面于2026-11-19仍说明Alberta Time为永久制度、UTC-6，自2026-11-01起实施",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -3771,7 +3981,7 @@
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
       "sourceDate": "市府Bearspaw feeder main工程页于2026-11-19仍列Parkdale Boulevard车道及Bow River Pathway绕行至12月",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
@@ -5450,7 +5660,7 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 生活提醒",
       "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-21",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
@@ -5500,7 +5710,7 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 活动与出门",
       "sourceDate": "Calgary Public Library 活动列表列出日期：2026-11-21 12:00；详情页未注明发布日期",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
       "title": "中央图书馆11月21日办印度教文化月活动：有舞蹈、纱丽体验和免费 mehndi",
@@ -5554,18 +5764,18 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 活动与出门",
       "sourceDate": "Heritage Arts Club 主办方票务页列出的活动日期：2026-11-21",
-      "verifiedAt": "2026-11-16",
+      "verifiedAt": "2026-11-21",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "11月21日 The New Gallery 有掐丝珐琅 DIY 工作坊：分粤语、英语和普通话场次",
-      "summary": "Heritage Arts Club 页面列出三个时段：粤语10:00–12:00、英语13:00–15:00、普通话15:30–17:30；地点为 Calgary 的 The New Gallery，适合12岁以上，每人参加一场。",
-      "deck": "这是中国传统工艺文化体验，不是商家推荐；票价与实时余票未能确认，报名前请查看主办方页面。",
-      "lede": "想动手体验中国传统工艺，Heritage Arts Club 的 DIY Cloisonné Workshop 页面列出11月21日在 The New Gallery 举行的三种语言场次。活动适合12岁以上，报名价格和余位请以主办方票务页为准。",
+      "title": "卡城掐丝珐琅工作坊今天三场：一场粤语、两场英语；适合12岁以上",
+      "summary": "Heritage Arts Club 的票务页列出11月21日在 The New Gallery 举行两小时工作坊：粤语10:00–12:00、英语13:00–15:00及15:30–17:30；适合12岁以上。票价和实时余位页面未确认。",
+      "deck": "场次语言以主办方当前票务页为准；页面没有列出价格或可用余位，不暗示有普通话场。",
+      "lede": "想体验掐丝珐琅手作，Heritage Arts Club 今天在 The New Gallery 列出三场两小时工作坊：一场粤语、两场英语。活动适合12岁以上；售票页面目前没有可核实的价格与余位信息。",
       "sections": [
         {
           "heading": "三个语言场次与地点",
           "paragraphs": [
-            "主办方票务页列出的粤语场为10:00–12:00，英语场为13:00–15:00，普通话场为15:30–17:30。地点是 The New Gallery，208 Centre Street S, Calgary。"
+            "主办方 Eventbrite 页面列出11月21日粤语场10:00–12:00，英语场13:00–15:00和15:30–17:30，地点为 The New Gallery（208 Centre Street S, Calgary）。每人只需参加一个两小时场次；页面没有列出普通话场。"
           ],
           "links": [
             {
@@ -5577,11 +5787,11 @@
         {
           "heading": "年龄和参与场次",
           "paragraphs": [
-            "页面标注适合12岁及以上参加者，每人只参加一个场次。票价和实时可购名额本次无法确认；请在决定前打开主办方页面核对，不要把此活动理解为免费。"
+            "页面标注适合12岁以上，但本次未显示可核实的票价与余票数量；报名状态请以主办方票务页当前显示为准。"
           ]
         }
       ],
-      "takeaway": "活动日期为11月21日，三种语言时段可选；票价与余票未确认，先查看 Heritage Arts Club 的原始票务页面。",
+      "takeaway": "今天有一场粤语和两场英语时段，适合12岁以上；没有核实到普通话场、价格或实时余位。",
       "sourceType": "中国传统工艺文化工作坊",
       "source": "Heritage Arts Club",
       "author": "Heritage Arts Club",
