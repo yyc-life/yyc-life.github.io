@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-11-21",
-  "updatedLabel": "2026年11月21日 · 今日4篇",
+  "updatedAt": "2026-11-22",
+  "updatedLabel": "2026年11月22日 · 今日4篇",
   "editionNote": "截至2026-11-19，2026-10-20至2026-11-19共31个连续日期组、99篇；其中25组各3篇、6组各4篇，所有日期组均同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。11月17日组移除已过期降雪预警与警报测试，新增明确标注目标日与实际核对日期的议会决定补档，恢复为3篇；11月18日公交雪天绕行仍在生效，保留该提醒。",
   "articles": [
+    {
+      "id": "orb-funkee-asbestos-recall-20261122",
+      "date": "2026-11-22",
+      "dateLabel": "11月22日 · 本地资讯",
+      "sourceDate": "加拿大环境与气候变化部新闻稿发布于2026-11-20；部令签发于2026-11-12",
+      "verifiedAt": "2026-11-22",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "加拿大召回5款含石棉的沙填充玩具：家里有 ORB Funkee 先停用，别挤破",
+      "summary": "加拿大环境与气候变化部称，抽检的 ORB Funkee 挤压玩具含高于痕量的石棉。受影响产品含 Monkee Jumbo（批号2472391A）及4款 Animalz（批号2152491A、3102491A）；先停止使用，核对玩具和批号，再依厂方指引双层装袋并等待退回安排。",
+      "deck": "这次召回面向加拿大市场，涉及多款软质、内填沙子的玩具；不要切开或继续捏玩。",
+      "lede": "如果家里有 ORB Funkee 软质挤压玩具，先别让孩子继续玩。加拿大环境与气候变化部称，抽检发现部分沙填充玩具含高于痕量的石棉；先按型号和批号核对，随后依厂方步骤安全封存。",
+      "sections": [
+        {
+          "heading": "先核对型号和批号",
+          "paragraphs": [
+            "加拿大环境与气候变化部在2026年11月20日公布召回名单。涉及 ORB Funkee Monkee Jumbo（2472391A）、Animalz Dog Jumbo 与 Dog Jumbo with Ball（2152491A）、Stretchee Animalz（3102491A）、Animalz Axolotls Mega（2152491A）和 Animalz Mega Puppies（2152491A）。批号位置会因款式不同而异，按厂方召回页的图片说明检查。"
+          ],
+          "links": [
+            {
+              "label": "加拿大环境与气候变化部：召回公告与产品名单",
+              "url": "https://www.canada.ca/en/environment-climate-change/news/2026/11/environment-and-climate-change-canada-issues-ministerial-direction-ordering-the-orb-factory-limited-to-remove-toy-products-containing-asbestos-from.html"
+            },
+            {
+              "label": "ORB Toys：加拿大召回说明及提交照片",
+              "url": "https://www.orbtoys.com/recall-can"
+            }
+          ]
+        },
+        {
+          "heading": "不要挤压、剪开或自行丢弃",
+          "paragraphs": [
+            "先停止使用、转赠或销售。厂方要求拍下玩具正面和批号近照，把玩具放进一个厚塑料袋，再套入第二个厚塑料袋并用胶带封好，放在儿童接触不到的地方；把照片交给厂方后，等待进一步退回及退款指示。公告没有建议消费者自行拆开填充物。"
+          ]
+        }
+      ],
+      "takeaway": "如发现上述款式和批号，立即停用且不要剪开；按 ORB Toys 指引拍照、双层封存并等待退回安排。加拿大环境与气候变化部公告称，符合条件的退回产品可获退款。",
+      "sourceType": "加拿大联邦产品安全召回公告",
+      "source": "Environment and Climate Change Canada；The ORB Factory Limited",
+      "author": "Environment and Climate Change Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/11/environment-and-climate-change-canada-issues-ministerial-direction-ordering-the-orb-factory-limited-to-remove-toy-products-containing-asbestos-from.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-22",
+        "reason": "联邦公告及厂方召回说明未提供可确认代表召回产品的新闻配图，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.canada.ca/en/environment-climate-change/news/2026/11/environment-and-climate-change-canada-issues-ministerial-direction-ordering-the-orb-factory-limited-to-remove-toy-products-containing-asbestos-from.html",
+        "title": "Environment and Climate Change Canada issues Ministerial Direction ordering The ORB Factory Limited to remove toy products containing asbestos from the Canadian marketplace",
+        "publisher": "Environment and Climate Change Canada；The ORB Factory Limited",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-budget-public-submission-guide-20261122",
+      "date": "2026-11-22",
+      "dateLabel": "11月22日 · 生活指南",
+      "sourceDate": "卡城市府预算页列出草案于2026-11-10提交；公众提交自2026-11-23开始",
+      "verifiedAt": "2026-11-22",
+      "category": "生活指南",
+      "categoryClass": "guide",
+      "title": "卡城预算明天开始公开发言：表格里选 Council、填 Budget，意见会进入公开记录",
+      "summary": "市府列出2027–2030预算公众提交从11月23日开始。想发言或提交书面意见，可在市府表格选择 Council、日期23-Nov-2026、议题 Budget；如需口译，可写明语言并带支持人员。提交内容会公开，意见栏最多2500字符。",
+      "deck": "这是参与明天预算审议的具体步骤，不代表预算已通过；典型独立屋每月增加53元仍是草案估算。",
+      "lede": "卡城市议会定于11月23日起讨论2027–2030预算，居民可以登记发言或提交书面意见。表格有指定选项和公开记录提醒，填之前先看清楚日期、议题与隐私影响。",
+      "sections": [
+        {
+          "heading": "表格按市府指定值填写",
+          "paragraphs": [
+            "打开市府 Public Submission 表格，选择会议 “Council”，日期填写 “23-Nov-2026”，议题写 “Budget”。表格可选择申请发言或提交意见，也可选择远程或现场参与。市府预算页将11月23日列为公众提交与市议会审议开始日。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：2027预算时间表及草案",
+              "url": "https://www.calgary.ca/our-finances/2027-budget.html"
+            },
+            {
+              "label": "卡城市府：公众提交表格",
+              "url": "https://forms.calgary.ca/content/forms/af/public/public/public-submission-to-city-clerks.html"
+            }
+          ]
+        },
+        {
+          "heading": "先考虑口译和公开记录",
+          "paragraphs": [
+            "市府表格注明，若需要口译服务，可填写 “I require an interpreter” 并写明语言，也可以带一位协助人员。意见栏最多2500字符，最多附两份文件、总计不超过6MB。请勿在意见栏填写私人资料：市府说明提交内容可能连同姓名和意见公开发布并被搜索引擎收录，电邮地址不列入公开记录。"
+          ]
+        }
+      ],
+      "takeaway": "如果要参与明天预算提交，先准备简短意见，再在市府表格选 Council、23-Nov-2026 和 Budget；提交内容会公开，先阅读隐私说明。",
+      "sourceType": "卡城市府预算参与指南",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://forms.calgary.ca/content/forms/af/public/public/public-submission-to-city-clerks.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-22",
+        "reason": "使用市府预算页和文书处表格原文；没有能直接说明表格步骤的相关图片，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://forms.calgary.ca/content/forms/af/public/public/public-submission-to-city-clerks.html",
+        "title": "Public Submission to City Clerk’s Office",
+        "publisher": "The City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "diwali-grand-calgary-20261122",
+      "date": "2026-11-22",
+      "dateLabel": "11月22日 · 吃喝玩乐",
+      "sourceDate": "主办方票务页列出的活动日期：2026-11-22；页面未注明发布日期",
+      "verifiedAt": "2026-11-22",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城今天办排灯节音乐与舞蹈演出：下午3–6点，The GRAND；票价和余票需看购票页",
+      "summary": "主办方 Kensington Sinfonia 的活动页列出11月22日15:00–18:00，在 The GRAND（608 1 Street SW）举行；适合所有年龄，节目含 tabla 与弦乐新作《Ellora》及 Madhuban Performing Arts 舞蹈。当前页面未显示可核实票价或余票，现场语言资料也未注明。",
+      "deck": "这是有明确场次的排灯节演出，不是餐厅或商户推广；售票状态和费用以主办方当前购票页为准。",
+      "lede": "想在今天参加一场排灯节文化活动，Kensington Sinfonia 列出的演出下午3点在 The GRAND 开始。节目将 tabla（印度手鼓）与弦乐合演新作，并有舞蹈演出；票务页未显示余票数量和明确价格，出发前需再看主办方页面。",
+      "sections": [
+        {
+          "heading": "演出内容与地点",
+          "paragraphs": [
+            "活动由 Kensington Sinfonia 主办，合作演出者包括 Madhuban Performing Arts 舞者与 tabla 演奏者 Zaheer Abbas Janmohamed；主办方称将首演 Colleen Athparia 为 tabla 与弦乐创作的《Ellora》。地址为 The GRAND，608 1 Street SW，安排为下午3至6点，所有年龄可参加。"
+          ],
+          "links": [
+            {
+              "label": "Kensington Sinfonia：Eventbrite 活动与购票页",
+              "url": "https://www.eventbrite.ca/e/diwali-at-the-grand-tickets-1992003942415"
+            }
+          ]
+        },
+        {
+          "heading": "购票、费用与语言先确认",
+          "paragraphs": [
+            "主办方票务页说明为现场活动，但本次页面可见内容没有列出明确票价或剩余座位数量；不要据此推断仍有票。活动介绍也没有标注主持或演出语言。购票时以主办方页面实时显示为准。"
+          ]
+        }
+      ],
+      "takeaway": "活动今天15:00–18:00在市中心举行、全年龄；票价、余票与活动语言未能从当前页面确认，先查看主办方购票页再安排行程。",
+      "sourceType": "排灯节特别文化演出",
+      "source": "Kensington Sinfonia",
+      "author": "Kensington Sinfonia",
+      "url": "https://www.eventbrite.ca/e/diwali-at-the-grand-tickets-1992003942415",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-22",
+        "reason": "Eventbrite 活动卡片有节庆主视觉，但未核实其作为可远程嵌入的来源预览图权利和用途，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.eventbrite.ca/e/diwali-at-the-grand-tickets-1992003942415",
+        "title": "Diwali at The Grand",
+        "publisher": "Kensington Sinfonia",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "njca-craft-food-bazaar-20261122",
+      "date": "2026-11-22",
+      "dateLabel": "11月22日 · 吃喝玩乐",
+      "sourceDate": "主办方票务页列出的活动日期：2026-11-22；页面未注明发布日期",
+      "verifiedAt": "2026-11-22",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "日裔加拿大人协会今天办手作与美食市集：上午11点至下午4点，免费入场",
+      "summary": "New Japanese Canadian Association 的活动页列出市集今天11:00–16:00，在2236 29 St SW举行；无需门票、免费入场。介绍称现场有手作、艺术和食物摊位；活动语言及儿童年龄安排未注明。",
+      "deck": "协会主办的一日社区活动；报道聚焦活动时间、公共参与条件与文化场地，不替摊位作商业推荐。",
+      "lede": "日裔加拿大人协会今天在 Japanese Cultural Centre 举办年度手作与美食市集。对想找本地社区活动的读者，最实用的信息是免费入场、无需预订，开放时段为上午11点至下午4点。",
+      "sections": [
+        {
+          "heading": "时间、地点和入场方式",
+          "paragraphs": [
+            "New Japanese Canadian Association 主办的 NJCA Craft & Food Bazaar 于11月22日11:00–16:00在2236 29 St SW举行。活动页写明无需门票、免费入场；主办方介绍包括手工艺、艺术品和食物摊位。"
+          ],
+          "links": [
+            {
+              "label": "New Japanese Canadian Association：活动与地点",
+              "url": "https://www.eventbrite.ca/e/njca-craft-food-bazaar-2026-tickets-2003534531718"
+            }
+          ]
+        },
+        {
+          "heading": "没有标注的项目",
+          "paragraphs": [
+            "活动页面没有说明活动提供中文或其他特定语言服务，也没有列出年龄限制、无障碍细节或各摊位付款方式；有需要者可先联系主办方确认。本文不列举摊位商品，也不把市集当作日常消费推荐。"
+          ]
+        }
+      ],
+      "takeaway": "今天11:00–16:00，2236 29 St SW，免费且无需门票；语言及年龄安排未在主办方页面说明。",
+      "sourceType": "日裔加拿大人协会社区手作与美食市集",
+      "source": "New Japanese Canadian Association",
+      "author": "New Japanese Canadian Association",
+      "url": "https://www.eventbrite.ca/e/njca-craft-food-bazaar-2026-tickets-2003534531718",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-22",
+        "reason": "主办方活动页配图为市集宣传视觉，未确认适合远程显示的具体授权与预览用途，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.eventbrite.ca/e/njca-craft-food-bazaar-2026-tickets-2003534531718",
+        "title": "NJCA Craft & Food Bazaar 2026",
+        "publisher": "New Japanese Canadian Association",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "alberta-bill43-lrt-oversight-20261121",
       "date": "2026-11-21",
@@ -63,118 +271,54 @@
       }
     },
     {
-      "id": "calgary-cold-weekend-forecast-20261121",
-      "date": "2026-11-21",
-      "dateLabel": "11月21日 · 生活提醒",
-      "sourceDate": "加拿大环境与气候变化部卡城预报发布于2026-11-21 05:00 Alberta Time",
-      "verifiedAt": "2026-11-21",
-      "category": "生活提醒",
-      "categoryClass": "weather",
-      "title": "卡城周六最高约零下4°C，早晨体感零下11°C：出门前看风寒和飘雪",
-      "summary": "加拿大环境部周六早间实况为零下5°C、体感零下11°C；当天预报最高零下4°C，上午有30%飘雪机会。页面未发布极端寒冷警报。",
-      "deck": "早上等车、遛狗或带孩子出门，按风寒穿衣；天气和道路情况出门前再查一次。",
-      "lede": "今天卡城早上实测约零下5°C，体感零下11°C；环境部预报白天最高约零下4°C，上午有三成飘雪机会。没有极端寒冷警报不等于体感不冷，等公交或长时间在户外的话，手套、帽子和挡风层会更实用。",
-      "sections": [
-        {
-          "heading": "今天的官方预报",
-          "paragraphs": [
-            "加拿大环境与气候变化部在11月21日05:00 Alberta Time 发布的预报列出：周六最高零下4°C，上午30%机会飘雪。卡尔加里机场07:00实况为零下5.3°C，风寒指数零下11。预报会变化，出发前可再看小时预报和警报。"
-          ],
-          "links": [
-            {
-              "label": "加拿大环境与气候变化部：Calgary 当前预报与警报",
-              "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009"
-            },
-            {
-              "label": "加拿大环境与气候变化部：卡城天气警报",
-              "url": "https://www.weather.gc.ca/warnings/report_e.html?ab12="
-            }
-          ]
-        },
-        {
-          "heading": "等车、步行和带孩子外出时",
-          "paragraphs": [
-            "风寒指数反映风对裸露皮肤的降温影响，不能替代体感判断。长时间在户外可分层穿衣、遮住耳朵和手部；步行时留意湿滑路段，开车前清理车窗和灯面。若出现新的天气警报，以环境部最新页面为准。"
-          ]
-        }
-      ],
-      "takeaway": "周六早间体感约零下11°C；按风寒准备衣物，并在出门前查看最新小时预报及警报。",
-      "sourceType": "加拿大环境与气候变化部天气预报",
-      "source": "Environment and Climate Change Canada",
-      "author": "Environment and Climate Change Canada",
-      "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-21",
-        "reason": "官方预报页无确认可直接代表卡城当前天气的预览图，采用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://weather.gc.ca/en/location/index.html?coords=51.044,-114.009",
-        "title": "Calgary, AB — Current Conditions and Forecast",
-        "publisher": "Environment and Climate Change Canada",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
       "id": "cpl-final-cavalry-ottawa-20261121",
       "date": "2026-11-21",
       "dateLabel": "11月21日 · 吃喝玩乐",
-      "sourceDate": "Canadian Premier League 决赛预告发布于2026-11-20；Cavalry FC 主办方公告发布于2026-11-08",
-      "verifiedAt": "2026-11-21",
+      "sourceDate": "Canadian Premier League 官方赛后报道发布于2026-11-21；比赛于当日在卡城举行",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城 Cavalry 今天下午争加拿大超级联赛冠军：主场决赛2点开球",
-      "summary": "Cavalry FC 今天在 Spruce Meadows 的 ATCO Field 迎战卫冕冠军 Atlético Ottawa，下午2点开球。Ticketmaster 列出儿童2岁及以下可坐家长腿上，3岁起需票；票价和余座以实时页面为准。",
-      "deck": "票务页核查时仍显示购票入口；票价和可选座位以页面即时库存为准。",
-      "lede": "今天下午，卡尔加里的 Cavalry FC 将在主场踢加拿大超级联赛（CPL）决赛，对手是卫冕冠军 Atlético Ottawa。比赛下午2点在 Spruce Meadows 的 ATCO Field 开始；对本地球迷来说，这是赛季冠军战，也可能让 Cavalry 成为首支同季拿下常规赛与季后赛冠军的 CPL 球队。",
+      "title": "卡城 Cavalry 3比2赢下 CPL 决赛：队史第二次夺冠，并完成常规赛与季后赛双冠",
+      "summary": "Cavalry FC 在 ATCO Field 以3比2击败 Atlético Ottawa，赢得2026年 Canadian Premier League 冠军，成为联赛首支同季拿下常规赛冠军盾与季后赛冠军杯的球队。Tobias Warschewski 两进球并助攻一球。",
+      "deck": "这场主场决赛已于11月21日结束；CPL 官方确认比分与球队历史纪录。",
+      "lede": "卡城 Cavalry FC 在11月21日的主场决赛以3比2击败 Atlético Ottawa，捧起 Canadian Premier League（加拿大超级联赛）冠军。CPL 官方称，这是联赛首支同一赛季同时拿下常规赛冠军盾与季后赛冠军杯的球队。",
       "sections": [
         {
-          "heading": "比赛时间与观看方式",
+          "heading": "比分与关键表现",
           "paragraphs": [
-            "CPL 和 Cavalry FC 页面都列出11月21日决赛在 ATCO Field 举行；开球时间为下午2点 Alberta Time。联赛预告列出 CBC、TSN 和 OneSoccer 转播。"
-          ],
-          "links": [
-            {
-              "label": "Cavalry FC：决赛地点与开球时间",
-              "url": "https://www.cplsoccer.com/cavalryfc/news/2026-canadian-premier-league-final-returns-to-atco-field"
-            },
-            {
-              "label": "CPL：比赛前瞻与转播信息",
-              "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final"
-            }
+            "CPL 赛后报道列出 Cavalry 3比2获胜。Tobias Warschewski 打入两球并贡献一次助攻，参与球队全部三个进球；Sergio Camargo 也有进球。"
           ]
         },
         {
-          "heading": "到场前先核对票务",
+          "heading": "卡城主场见证联赛纪录",
           "paragraphs": [
-            "Ticketmaster 活动页列出的公众售票窗口截至今天16:00，页面提示余票会因活动而异；票价、座位和实际库存以购票页即时显示为准。儿童2岁及以下可坐家长腿上，3岁及以上需要单独门票。主办方没有标注现场语言或额外年龄限制。比赛若90分钟打平会进入加时，仍未分胜负则点球决胜。"
+            "决赛在 Spruce Meadows 的 ATCO Field 举行。CPL 官方指出，Cavalry 成为联赛史上首支在同一赛季赢得常规赛与季后赛冠军的球队；这也是球队第二次赢得联赛冠军。"
           ],
           "links": [
             {
-              "label": "Ticketmaster：2026 CPL Final 票务页",
-              "url": "https://www.ticketmaster.ca/2026-cpl-final-cavalry-fc-vs-calgary-alberta-11-21-2026/event/11006563811D2BB7"
+              "label": "CPL：2026 决赛赛后报道与比分",
+              "url": "https://www.cplsoccer.com/news/warschewski-brace-hands-cavalry-2026-cpl-championship-highlights"
             },
             {
-              "label": "Ticketmaster：2026 CPL Final 票务页与入场说明",
-              "url": "https://www.ticketmaster.ca/2026-cpl-final-cavalry-fc-vs-calgary-alberta-11-21-2026/event/11006563811D2BB7"
+              "label": "Cavalry FC：决赛原定时间与主场信息",
+              "url": "https://www.cplsoccer.com/cavalryfc/news/2026-canadian-premier-league-final-returns-to-atco-field"
             }
           ]
         }
       ],
-      "takeaway": "决赛今天14:00在 Spruce Meadows 的 ATCO Field 开球；现场票务和座位以 Ticketmaster 即时页面为准。",
-      "sourceType": "本地职业足球决赛及官方票务",
-      "source": "Canadian Premier League；Cavalry FC；Ticketmaster",
+      "takeaway": "比赛已经结束：Cavalry 3比2胜出，成为 CPL 首支同季夺得常规赛与季后赛冠军的球队。",
+      "sourceType": "职业足球联赛官方赛后报道",
+      "source": "Canadian Premier League",
       "author": "Canadian Premier League",
-      "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final",
+      "url": "https://www.cplsoccer.com/news/warschewski-brace-hands-cavalry-2026-cpl-championship-highlights",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-21",
-        "reason": "未确认原文页存在可直接代表本场决赛的合适预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-22",
+        "reason": "使用联赛赛后原文来源；不嵌入比赛照片，避免超出原文卡片所需。"
       },
       "sourceEmbed": {
-        "url": "https://www.cplsoccer.com/news/preview-cavalry-fc-vs-atletico-ottawa-2026-cpl-final",
-        "title": "PREVIEW: Cavalry FC vs. Atlético Ottawa | 2026 CPL Final",
+        "url": "https://www.cplsoccer.com/news/warschewski-brace-hands-cavalry-2026-cpl-championship-highlights",
+        "title": "Warschewski brace hands Cavalry 2026 CPL Championship | HIGHLIGHTS",
         "publisher": "Canadian Premier League",
         "thumbnail": null,
         "thumbnailAlt": null
@@ -584,41 +728,34 @@
       "date": "2026-11-19",
       "dateLabel": "11月19日 · 吃喝玩乐",
       "sourceDate": "Lions Festival of Lights Society官方页面；开幕2026-11-21",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城 Lions 灯光节今晚5点开幕：免费沿14街观赏至明年1月8日",
-      "summary": "主办方列出11月21日17:00开幕；之后每晚17:30至午夜亮灯，免费开放至2027年1月8日。展区沿 Confederation Park Golf Course、14 Street NW 一带。",
-      "deck": "开幕夜5点点灯；从周日开始每晚17:30至午夜。周末14街车流会慢，宜预留时间。",
-      "lede": "卡城 Lions Festival of Lights 今天傍晚在 Confederation Park 开幕，免费观赏。主办方列出的开幕时间是17:00；从明晚起，每晚17:30亮灯至午夜，持续到明年1月8日。",
+      "title": "卡城 Lions 灯光节已亮灯：14街沿线每晚5:30至午夜，免费看到明年1月8日",
+      "summary": "主办方确认展区沿 Confederation Park Golf Course、14 Street NW一带；11月21日开幕后，每晚17:30至午夜亮灯，免费开放至2027年1月8日。",
+      "deck": "开幕夜已过；之后无需门票或预约，晚间可步行或驾车经过观赏。",
+      "lede": "Lions Festival of Lights 已于11月21日点灯。主办方列出，Confederation Park Golf Course 沿14 Street NW的灯饰展区每晚17:30至午夜亮灯，免费开放至2027年1月8日；开幕夜的特别活动已结束。",
       "sections": [
         {
-          "heading": "开幕日和日常开放时间",
+          "heading": "普通观赏时段",
           "paragraphs": [
-            "主办方页面列出开幕夜为11月21日17:00；从11月22日开始每晚17:30至午夜，免费观赏至2027年1月8日。灯饰沿 Confederation Park Golf Course、14 Street NW（24 Avenue NW 以北）一带展开，可步行或慢速驾车经过。",
-            "主办方提醒，节日前的12月周末14 Street 可能拥堵；行人会在昏暗环境过街，开车经过时请放慢速度。"
-          ],
-          "links": [
-            {
-              "label": "Lions Festival of Lights：开幕与参观安排",
-              "url": "https://www.lionsfestivaloflights.ca/"
-            }
+            "主办方将季期列为2026年11月21日至2027年1月8日；除开幕夜外，之后每晚17:30至午夜亮灯，免费入场，不需票或时段预约。展区沿14 Street NW、24 Avenue以北。"
           ]
         },
         {
-          "heading": "地点与交通",
+          "heading": "晚间经过时留意交通",
           "paragraphs": [
-            "灯饰沿14 Street NW、24 Avenue以北的 Confederation Park Golf Course 一带展出，可步行观赏，也可驾车慢行经过。主办方提醒，12月周末14街可能拥堵，注意暗处行人并预留时间。"
+            "主办方提醒，12月周末14 Street可能拥堵；驾车经过时留意缓行车辆与夜间过街行人，步行者也应注意能见度。"
           ],
           "links": [
             {
-              "label": "Lions Festival of Lights Society：日期、时间及到访信息",
+              "label": "Lions Festival of Lights 主办方：开放日期、时间与路线",
               "url": "https://www.lionsfestivaloflights.ca/"
             }
           ]
         }
       ],
-      "takeaway": "今晚17:00开幕，免费；明晚起每晚17:30–午夜亮灯至2027年1月8日。",
+      "takeaway": "灯饰每晚17:30至午夜、免费开放至2027年1月8日；开幕夜已结束，周末14街可能拥堵。",
       "sourceType": "活动主办方页面",
       "source": "Lions Festival of Lights Society",
       "author": "Lions Festival of Lights Society",
@@ -641,7 +778,7 @@
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 生活提醒",
       "sourceDate": "Calgary Police Service新闻稿发布于2026-11-16 15:51 America/Edmonton；整月检查安排",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城警方11月仍在查儿童安全座椅：胸扣太低、绑带太松都常见",
@@ -684,7 +821,7 @@
       "url": "https://newsroom.calgary.ca/check-stops-for-child-safety/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-18",
+        "checkedAt": "2026-11-22",
         "reason": "原始警方通报及中文线索页均未确认适合本条的直接预览图；使用纯文字来源卡片。"
       },
       "sourceEmbed": {
@@ -700,35 +837,38 @@
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 吃喝玩乐",
       "sourceDate": "Calgary Hip Hop & Streetdance Festival主办方节目表；节庆日期2026-11-19至22；本卡于2026-11-21更新",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城街舞节周末开跳：周六预赛、周日华埠决赛；预赛票含决赛",
-      "summary": "周六11月21日9:45开门、10:15开始街舞预赛；周日11月22日13:00开门、13:30在卡城中华文化中心举行决赛与演出。主办方列出的观众常规票45元，预赛票也包含周日决赛。",
-      "deck": "今天预赛在 Pulse Studios，明天决赛在华埠文化中心；两个场次地点不同。",
-      "lede": "Calgary Hip Hop & Streetdance Festival 进入周末比赛环节：今天在 Pulse Studios 办预赛，明天下午到卡城中华文化中心决赛并有本地舞者演出。若买预赛观众票，主办方说明还可凭票进周日决赛；出发前看清场地和进场时间。",
+      "title": "卡城街舞节今日有华埠决赛：主办方两个页面所列开门和开赛时间相差半小时",
+      "summary": "今天决赛在 Chinese Cultural Centre 举行；详细赛程列13:00开门、13:30开始，主办方首页则列12:30开门、13:00开始。两处官方页面不一致，出发前应直接核对主办方最新售票/活动信息。",
+      "deck": "票务页时间存在冲突；本文不替主办方猜定准确开场时间。",
+      "lede": "Calgary Hip Hop & Streetdance Festival 今天在华埠举行决赛与 showcase，但主办方两个页面的时间相差半小时：详细赛程列下午1点开门、1点半开始；首页列12点半开门、1点开始。计划前往前请查看主办方当天更新。",
       "sections": [
         {
-          "heading": "周六预赛与周日决赛",
+          "heading": "两个主办方页面列出不同时间",
           "paragraphs": [
-            "11月21日（周六）预赛在 Pulse Studios（110 10 Ave NW），9:45开门、10:15开始，儿童与青少年组先比；中午12点另有免费嘉宾讨论。",
-            "11月22日（周日）决赛与 showcase 在 Calgary Chinese Cultural Centre（197 1 St SW），13:00开门、13:30开始。主办方列出各组预赛前四名进入决赛。"
+            "详细赛程列出 Chinese Cultural Centre（197 1 St SW）于13:00开门、13:30开赛；主办方首页同一场决赛却列12:30开门、13:00开始。地点与日期一致，开门及开赛时间不一致。"
           ],
           "links": [
             {
-              "label": "Calgary Hip Hop & Streetdance Festival：官方节目表与票务",
+              "label": "主办方：详细赛程",
               "url": "https://www.calgaryhhsdf.com/schedule"
+            },
+            {
+              "label": "主办方：首页活动时间",
+              "url": "https://www.calgaryhhsdf.com/"
             }
           ]
         },
         {
-          "heading": "票价和入场信息",
+          "heading": "票务与语言",
           "paragraphs": [
-            "主办方列出预赛观众常规票45加元，预赛票包含周日决赛入场；决赛单买常规票也列为45加元。当前余票未确认，主办方要求参赛者提前在线购票并按组别时间签到。节目表没有列普通观众年龄规定，也未说明是否提供中文服务。"
+            "主办方详细赛程列常规观众票45元；11月21日预赛票包含周日决赛入场。当前页面未说明活动主要语言，也没有可靠余票数字。因两页时刻冲突，出发前应以主办方当天确认的信息为准。"
           ]
         }
       ],
-      "takeaway": "周六预赛10:15在 Pulse Studios 开始；周日决赛13:30在华埠文化中心举行。预赛观众票包含决赛，余票请看主办方页面。",
+      "takeaway": "主办方官方页面对今天决赛开始时间相差半小时；在主办方澄清前，不把任一时间当作唯一确认值。",
       "sourceType": "街舞文化节主办方节目表",
       "source": "Calgary Hip Hop & Streetdance Festival",
       "author": "Calgary Hip Hop & Streetdance Festival",
@@ -855,15 +995,15 @@
     {
       "id": "tcg-station-calgary-20261117",
       "date": "2026-11-17",
-      "dateLabel": "11月17日 · 吃喝玩乐",
+      "dateLabel": "11月17日 · 活动档案",
       "sourceDate": "Roots Collective YYC活动页；Tourism Calgary活动列表；活动日期2026-11-21",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "TCG Station 周六在华埠文化中心办卡牌交流活动",
-      "summary": "社区卡牌活动列有60多位摊主、拍照区及交换和游戏空间；Tourism Calgary列为免费入场。",
+      "title": "活动档案｜TCG Station 曾于11月21日在华埠文化中心举行",
+      "summary": "主办方活动页列出的11月21日卡牌交流活动已经结束；原活动包含摊位、交换与游戏空间。本文作为活动记录，不再作出行推荐。",
       "deck": "这是社区举办的卡牌活动信息，不是商家推荐；票务及现场空间是否仍有名额无法从页面确认。",
-      "lede": "Roots Collective YYC列出的 TCG Station 将于11月21日（周六）上午11点至下午5点，在 Calgary Chinese Cultural Centre Museum 举行。活动介绍包括60多位摊主、拍照区，以及交换和游戏空间。",
+      "lede": "New Japanese Canadian Association 与活动主办方列出的 TCG Station 于11月21日在 Calgary Chinese Cultural Centre 举行，日期已经过去。此条保留为活动档案，不代表今天仍可入场。",
       "sections": [
         {
           "heading": "日期、地点与活动内容",
@@ -909,15 +1049,15 @@
     {
       "id": "contemporary-connections-ukrainian-tour-20261117",
       "date": "2026-11-17",
-      "dateLabel": "11月17日 · 吃喝玩乐",
+      "dateLabel": "11月17日 · 活动档案",
       "sourceDate": "Contemporary Calgary主办方页面列出活动日期2026-11-21；卡村于2026-11-21复核",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "当代艺术馆周六有乌克兰语导览：免费但建议提前登记",
-      "summary": "Contemporary Connections导览为乌克兰语；导览后有交流及可选聚会，现场参加视剩余空间而定。",
+      "title": "活动档案｜当代艺术馆乌克兰语导览原定11月21日举行",
+      "summary": "该场导览已于11月21日结束；活动语言为乌克兰语，现场参加条件以当时主办方页面为准。",
       "deck": "这场活动使用乌克兰语，不是中文导览；登记页显示0元，但目前是否还能登记无法确认。",
-      "lede": "Contemporary Calgary 的 Contemporary Connections: Ukrainian Tour 定于11月21日（周六）中午12点至1点，在 Flanagan Family Gallery 举行。官方称活动免费并建议提前登记；现场参加仅在有空间时接纳。",
+      "lede": "Contemporary Calgary 11月21日的乌克兰语导览时段已经过去；此条保留为档案，不再作为近期活动推荐。",
       "sections": [
         {
           "heading": "半小时导览，之后继续交流",
@@ -1255,45 +1395,45 @@
       "id": "bearspaw-edgemont-pressure-work-20261114",
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
-      "sourceDate": "卡城市府11月13日维修公告预计工期7–10天；Calgary Transit于2026-11-19仍列出相关车道及公交站封闭",
-      "verifiedAt": "2026-11-21",
+      "sourceDate": "市府维修公告发布于2026-11-13；Calgary Transit 当前 GTFS 更新列出封路时段至2026-11-28 23:59 Alberta Time",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "Edgemont 水管维修预计持续7–10天：公交绕行和站点调整仍在生效",
-      "summary": "市府称Edgemont等5个西北社区在维修期间可能低水压，供水符合饮用标准；Calgary Transit 11月19日仍列有Edgemont Drive水管维修封路及7条公交线路受影响。",
-      "deck": "市府公布的是预计维修期，未给出完工确认；公交官网目前仍列出封路与临时站点安排。",
-      "lede": "卡城市府11月13日公布Edgemont水管漏水维修，预计需7至10天，Edgemont、Hamptons、Citadel、Hawkwood和Arbour Lake部分住户维修期间可能遇到低水压。市府表示水质符合饮用标准。到11月19日，Calgary Transit仍列出Edgemont Drive水管维修的车道封闭和公交站调整。",
+      "title": "Edgemont 水管维修与公交绕行仍列至11月28日：7条线路改道，站牌北移约45米",
+      "summary": "Calgary Transit 当前 GTFS 服务更新列出 Edgemont Drive 封路和站点调整至11月28日23:59；54、77、129、154、704、706、818受影响，#6250临时停用，临时站在北侧约45米处。市府曾预计维修7–10天，部分西北社区可能低水压，水仍符合饮用标准。",
+      "deck": "公交官方更新列出的结束时间是11月28日23:59；若提前完工或再延长，行程前看实时线路状态。",
+      "lede": "Edgemont 一带水管漏水维修仍影响道路和公交。Calgary Transit 当前服务数据列出的相关封路时段到11月28日23:59；市府原预计维修约7至10天，受影响社区部分住户维修时可能低水压，水质符合饮用标准。",
       "sections": [
         {
-          "heading": "维修影响范围与饮水安全",
+          "heading": "维修影响与饮水情况",
           "paragraphs": [
-            "市府公告说，维修期间五个西北社区的部分用户可能遇到低水压；水仍符合监管要求，可以饮用。市府原先预计维修约7至10天，但截至11月19日未找到市府确认完工的更新。"
+            "市府11月13日公告称，Edgemont、Hamptons、Citadel、Hawkwood和Arbour Lake的部分住户维修期间可能低水压；供水仍符合监管要求、可以饮用。市府当时预计修理需约7至10天，页面未公布最终完工确认。"
           ],
           "links": [
             {
-              "label": "卡城市府：Edgemont水管维修及低水压公告（11月13日）",
+              "label": "卡城市府：Edgemont 水管维修及低水压公告",
               "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
             }
           ]
         },
         {
-          "heading": "Edgemont Drive封路与公交站调整",
+          "heading": "公交临时站点和线路",
           "paragraphs": [
-            "Calgary Transit截至11月19日仍列出Edgemont Drive水管维修封路，受影响线路为54、77、129、154、704、706和818；北行 Edgemont Boulevard 的站点#6250暂时关闭，乘客请使用北侧约45米处临时站。出发前再查实时服务更新。"
+            "Calgary Transit 当前 GTFS 数据列出，西向 Edgemont Drive 与北向 Edgemont Boulevard 相关车道封闭，服务影响期至11月28日23:59。受影响线路为54、77、129、154、704、706和818；北行站#6250暂时关闭，请使用北侧约45米处临时站。道路和公交安排可能先于预计日期解除，出发前查当天路线。"
           ],
           "links": [
             {
-              "label": "Calgary Transit：当前线路服务更新",
-              "url": "https://www.calgarytransit.com/home.html"
+              "label": "Calgary Transit：当前服务更新数据（GTFS 列表）",
+              "url": "https://www.calgarytransit.com/content/transit/en/home/lists/GTFS-list.html"
             },
             {
-              "label": "Calgary Transit：实时车辆与路线信息",
-              "url": "https://www.calgarytransit.com/service-updates.html"
+              "label": "Calgary Transit：实时服务更新",
+              "url": "https://www.calgarytransit.com/content/transit/en/home/service-updates.html"
             }
           ]
         }
       ],
-      "takeaway": "市府预计维修需7–10天且部分住户可能低水压；截至11月19日，公交官网仍列出封路和线路、站点调整。",
+      "takeaway": "当前公交数据列出受影响时段至11月28日23:59；7条线路调整，#6250停用并设北侧临时站。部分住户可能低水压，水仍可饮用。",
       "sourceType": "市府水管维修公告与公交实时服务更新",
       "source": "The City of Calgary；Calgary Transit",
       "author": "The City of Calgary；Calgary Transit",
@@ -1371,58 +1511,58 @@
       "id": "bearspaw-week2-water-update-20261113",
       "date": "2026-11-13",
       "dateLabel": "11月13日 · 生活提醒",
-      "sourceDate": "City of Calgary Newsroom 原文：2026-11-12；限水页面更新：2026-11-12",
-      "verifiedAt": "2026-11-13",
+      "sourceDate": "City of Calgary Newsroom 原文发布于2026-11-13；Calgary Transit 当前 GTFS 服务更新列出83 Street交通时段至2026-11-23 23:00 Alberta Time",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "市府最新公布用水仍在绿色区：11月14日起33 Avenue附近连续施工",
-      "summary": "市府公布 11 月 10 日用水 4.73 亿升、11 月 11 日为 4.75 亿升；11 月 14 日起 33 Avenue 与 89 Street NW 预计连续作业约两周。",
-      "deck": "绿色区表示系统当前用水低于目标，不代表第四级限水已经解除。",
-      "lede": "卡城仍在第四级限水期间。市府 11 月 12 日公布，11 月 10 日全市用水为 4.73 亿升，11 月 11 日为 4.75 亿升，连续处于每天 5 亿升的绿色目标内；与此同时，33 Avenue 与 89 Street NW 一带预计从 11 月 14 日起连续施工约两周。",
+      "title": "Bearspaw 接管工程仍在赶工：33 Avenue周边施工，83 Street公交调整到11月23日晚",
+      "summary": "市府11月20日更新称，33 Avenue与89 Street一带从11月15日晚开始全天候施工，预计约两周；Calgary Transit 仍列83 Street NW 单线交替通行与公交改站，53和721路线更新至11月23日23:00。第四级限水继续有效。",
+      "deck": "市府称33 Avenue与89 Street附近预计24小时施工约两周；公交具体绕行以Calgary Transit当日更新为准。",
+      "lede": "Bearspaw South Feeder Main 接管工程进入连续作业阶段。市府11月20日更新称，33 Avenue与89 Street NW附近从11月15日晚开始全天候施工、预计约两周；Calgary Transit 的另一项更新列出83 Street施工绕行与53、721路线受影响至11月23日晚。",
       "sections": [
         {
-          "heading": "绿色用水数据，不等于恢复正常用水",
+          "heading": "限水与工程施工是两回事",
           "paragraphs": [
-            "市府 11 月 12 日的新闻稿写明：11 月 10 日用水量为 4.73 亿升，11 月 11 日为 4.75 亿升；两天都低于每天 5 亿升的绿色目标。绿色用水数据不代表第四级限水已经解除。"
+            "市府限水页当前仍列全市第四级限水、禁止户外用水。11月21日公布的最新日用水量为周五4.82亿升，低于5亿升绿色线；绿色目标达成不等于接管工程完成或限水解除。"
           ],
           "links": [
             {
-              "label": "市府当前第四级限水规则与节水建议",
+              "label": "市府：当前限水状态和每日用水数据",
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
             }
           ]
         },
         {
-          "heading": "33 Avenue 和 89 Street 一带要留意施工",
+          "heading": "33 Avenue及83 Street附近的安排",
           "paragraphs": [
-            "市府 11 月 12 日更新称，83 Street NW 的绕行安排将由 34 Avenue 移至 33 Avenue，并设置单线交替通行和行人绕行；车辆不能从 83 Street 向西转入 33 Avenue。该更新没有说明 11 月 13 日之后是否再有变化，途经时请看当天市府信息和现场标志。"
+            "市府11月20日工程更新称，33 Avenue与89 Street附近将从11月15日晚开始全天候施工约两周；同一公告提示，83 Street NW与33 Avenue NW一带有单线交替通行和行人绕行，车辆不能由83 Street向西转入33 Avenue。Calgary Transit GTFS 列出的83 Street单车道和53、721路线更新截至11月23日23:00。施工与交通安排可能变化，经过时看现场标志和公交实时信息。"
           ],
           "links": [
             {
-              "label": "市府 11 月 12 日施工与用水更新",
-              "url": "https://newsroom.calgary.ca/water-savings-remain-strong-as-bearspaw-connection-work-enters-its-second-week/"
+              "label": "市府11月20日：Bearspaw连接施工与水量更新",
+              "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
             },
             {
-              "label": "卡城实时路况",
-              "url": "https://www.calgary.ca/roads/conditions/traffic.html"
+              "label": "Calgary Transit：服务更新列表",
+              "url": "https://www.calgarytransit.com/content/transit/en/home/lists/GTFS-list.html"
             }
           ]
         }
       ],
-      "takeaway": "户外仍按第四级限水执行。11 月 14 日起去 33 Avenue 与 89 Street NW 一带前，预留施工时间并按现场绕行标志走。",
+      "takeaway": "全市第四级限水仍有效；33 Avenue施工预计约两周，83 Street公交调整列至11月23日23:00，出行前确认实时状态。",
       "sourceType": "供水限制与施工更新",
-      "source": "City of Calgary Newsroom；City of Calgary",
+      "source": "City of Calgary Newsroom；City of Calgary；Calgary Transit",
       "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-savings-remain-strong-as-bearspaw-connection-work-enters-its-second-week/",
+      "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-13",
-        "reason": "核对原文后没有选用可确认与故事直接相关的预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-22",
+        "reason": "核对市府施工更新与Calgary Transit实时服务数据；原文未确认可用的直接工程配图，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/water-savings-remain-strong-as-bearspaw-connection-work-enters-its-second-week/",
-        "title": "Water savings remain strong as Bearspaw connection work enters its second week",
-        "publisher": "City of Calgary Newsroom；City of Calgary",
+        "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
+        "title": "Water use stays in the green zone as connection work progresses on new Bearspaw South Feeder Main",
+        "publisher": "City of Calgary Newsroom",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -1767,24 +1907,24 @@
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
       "sourceDate": "限水于2026-11-04生效；市府页面于2026-11-18更新后仍列第四级全市生效",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "卡城限水进入第七个“绿灯日”：户外用水仍暂停",
-      "summary": "市府11月11日公布11月10日用水量为4.73亿升；官方页面11月18日仍确认第四级全市限水有效，户外用水暂停。",
+      "title": "卡城全市第四级限水仍生效：户外用水暂停，市府最新用水4.82亿升",
+      "summary": "市府11月21日更新：周五用水4.82亿升，连续第17天保持在绿色目标内；全市第四级限水仍有效，户外用水暂停。",
       "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
-      "lede": "卡城市府11月11日公布的历史统计是：11月10日全市用水量4.73亿升。市府限水页面于11月17日更新时仍显示全市第四级限制生效、禁止户外用水；这张卡保留历史数字，并注明现行规则已于11月18日复核。",
+      "lede": "卡城市府当前页面仍列第四级全市限水，户外用水暂停。市府11月21日更新时称，周五用水4.82亿升，连续第17天保持在绿色目标内；这项好消息还不代表可以恢复户外浇水。",
       "sections": [
         {
-          "heading": "连续七天在目标线内，限水仍有效",
+          "heading": "用水达标不等于限水解除",
           "paragraphs": [
             "市府11月11日记录，11月10日用水量为4.73亿升，当时连续七天处于目标范围。这个数字不是今天的用水量；当前限制是否解除要看最新页面。"
           ]
         },
         {
-          "heading": "当前限水状态（11月18日市府更新）",
+          "heading": "11月21日核对的当前规则",
           "paragraphs": [
-            "截至2026年11月18日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。此前用水量处于绿色目标，不代表可以恢复户外浇灌。"
+            "截至2026年11月22日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。11月21日页面更新称，周五用水为4.82亿升，连续第17天低于每天5亿升的绿色目标。"
           ],
           "links": [
             {
@@ -1798,15 +1938,15 @@
           ]
         }
       ],
-      "takeaway": "截至2026年11月18日，市府仍执行第四级限水；户外用水暂停。4.73亿升是11月10日统计，不是今日数据。",
+      "takeaway": "市府最新页面仍列第四级全市限水；11月21日更新称周五用水4.82亿升、低于5亿升绿色线，户外用水仍暂停。",
       "sourceType": "市府供水工程与限水公告",
       "source": "City of Calgary",
       "author": "City of Calgary",
       "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-18",
-        "reason": "官方页面没有确认到适合代表这条内容的原文预览图；使用纯文字来源卡片。"
+        "checkedAt": "2026-11-22",
+        "reason": "11月22日重新核对市府限水规则与最新水量更新；未确认直接相关配图，使用纯文字来源卡片。"
       },
       "sourceEmbed": {
         "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
@@ -3819,7 +3959,7 @@
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "阿省政府页面于2026-11-19仍说明Alberta Time为永久制度、UTC-6，自2026-11-01起实施",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -3981,11 +4121,11 @@
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
       "sourceDate": "市府Bearspaw feeder main工程页于2026-11-19仍列Parkdale Boulevard车道及Bow River Pathway绕行至12月",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
-      "summary": "市府当前工程页仍列Parkdale Boulevard多处车道和 Bow River Pathway 绕行，预计持续至12月；出发前查市府交通地图。",
+      "summary": "市府11月22日页面仍列 Parkdale Boulevard 多个施工点及道路、Bow River Pathway 绕行，工程预计持续至12月第一周；11月16日更新称五段近期维修、一段延期至2027年。",
       "deck": "这是对 10 月 29 日提醒的状态更新，出发前仍应查市府最新施工图和现场标志。",
       "lede": "这条提醒保留原始日期2026年10月29日。市府11月17日工程更新称，Parkdale Boulevard 上的额外管道维修仍在进行，多处正在安装、焊接替换管段；项目页于11月18日仍列出车道封闭和 Bow River Pathway 绕行，个别工区当日状态以现场标牌和实时交通图为准。",
       "sections": [
@@ -5660,7 +5800,7 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 生活提醒",
       "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
@@ -5708,15 +5848,15 @@
     {
       "id": "hindu-heritage-month-library-20261116",
       "date": "2026-11-16",
-      "dateLabel": "11月16日 · 活动与出门",
+      "dateLabel": "11月16日 · 活动档案",
       "sourceDate": "Calgary Public Library 活动列表列出日期：2026-11-21 12:00；详情页未注明发布日期",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "中央图书馆11月21日办印度教文化月活动：有舞蹈、纱丽体验和免费 mehndi",
-      "summary": "Calgary Public Library 与 Hindu Heritage Society 合作，活动介绍包括艺术、音乐、舞蹈、印度文化学习、纱丽穿戴体验、samosas 和免费 mehndi。官方列表列出周六中午12点。",
+      "title": "活动档案｜中央图书馆印度教文化月活动原定11月21日举行",
+      "summary": "Calgary Public Library 与 Hindu Heritage Society 列出的11月21日活动已结束；原介绍含舞蹈、纱丽体验及 mehndi。",
       "deck": "活动在 Central Library 举行；详情页没有确认结束时间、费用、报名要求、语言、年龄限制或剩余名额。",
-      "lede": "想在周末了解印度文化，Calgary Public Library 的活动详情介绍了 Hindu Heritage Month at the Library。图书馆活动列表将其排在11月21日（周六）中午12点；其他参与条件请以当前详情页为准。",
+      "lede": "中央图书馆的 Hindu Heritage Month 活动在11月21日举行，日期已过。此条作为公共文化活动记录，不再提示读者前往。",
       "sections": [
         {
           "heading": "活动介绍包含哪些体验",
@@ -5762,15 +5902,15 @@
     {
       "id": "diy-cloisonne-workshop-20261116",
       "date": "2026-11-16",
-      "dateLabel": "11月16日 · 活动与出门",
+      "dateLabel": "11月16日 · 活动档案",
       "sourceDate": "Heritage Arts Club 主办方票务页列出的活动日期：2026-11-21",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-22",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "卡城掐丝珐琅工作坊今天三场：一场粤语、两场英语；适合12岁以上",
-      "summary": "Heritage Arts Club 的票务页列出11月21日在 The New Gallery 举行两小时工作坊：粤语10:00–12:00、英语13:00–15:00及15:30–17:30；适合12岁以上。票价和实时余位页面未确认。",
+      "title": "活动档案｜卡城掐丝珐琅工作坊原定11月21日举行",
+      "summary": "Heritage Arts Club 票务页列出的粤语与英语工作坊已于11月21日举行；价格和余位当时未确认。",
       "deck": "场次语言以主办方当前票务页为准；页面没有列出价格或可用余位，不暗示有普通话场。",
-      "lede": "想体验掐丝珐琅手作，Heritage Arts Club 今天在 The New Gallery 列出三场两小时工作坊：一场粤语、两场英语。活动适合12岁以上；售票页面目前没有可核实的价格与余位信息。",
+      "lede": "Heritage Arts Club 于11月21日在 The New Gallery 列出粤语与英语掐丝珐琅工作坊，场次已结束；本文保留为历史活动记录。",
       "sections": [
         {
           "heading": "三个语言场次与地点",
