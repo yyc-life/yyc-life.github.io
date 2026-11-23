@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-23",
-  "updatedLabel": "2026年11月23日 · 今日3篇",
-  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、112篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日3篇（资讯2、吃喝玩乐1）；撤下一张与目标读者兴趣关联不足的跨文化演出卡片。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。",
+  "updatedLabel": "2026年11月23日 · 今日3篇 + 1条持续追踪",
+  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、112篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日3篇（资讯2、吃喝玩乐1）；撤下一张与目标读者兴趣关联不足的跨文化演出卡片。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。 海底捞常驻追踪卡已更新：市府营业执照数据集最近标注于11月9日更新，并列出11月2日签发的该店牌照；11月25日试营业说法仅见第三方社媒帖，店方原页本次无法复核，未当作官宣。",
   "articles": [
     {
       "id": "calgary-2027-budget-hearings-start-20261123",
@@ -4498,56 +4498,80 @@
     {
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
-      "dateLabel": "10月28日整理",
-      "sourceDate": "2026-10-28",
-      "verifiedAt": "2026-11-09",
+      "dateLabel": "持续更新 · 首次整理 10月28日",
+      "sourceDate": "卡尔加里营业执照记录签发于2026-11-02；试营业日期为2026-11-21第三方社媒帖所称（未获店方原页确认）",
+      "verifiedAt": "2026-11-23",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
-      "title": "海底捞首店筹备进驻 Northland Village：开业日仍未公布",
-      "summary": "Daily Hive 10月28日报道，海底捞正在 Northland Village 筹备卡城首店；截至该报道，官方没有公布开业日期。",
-      "deck": "这是新店筹备进展，不是开业通知；出发前先等门店公布日期。",
-      "lede": "卡城首家海底捞的选址在 Northland Village。Daily Hive 于10月28日报道时称，店面仍在筹备，尚未公布官方开业日期。本次截至11月9日未找到可确认的开业公告，因此不把它写成近期可以到店的消息。",
+      "title": "海底捞卡城首店进度追踪：营业执照已列，试营业日期待确认",
+      "summary": "卡城市府营业执照数据集最近更新于11月9日，其中列出 Northland Village 海底捞餐饮牌照，签发日为11月2日；一条11月21日第三方社媒帖称11月25日试营业，但店方原页本次无法复核，日期暂不当作官宣。",
+      "deck": "这条是同一篇持续更新的进度记录；市府牌照记录不等于已经开门，社媒转述的试营业日期也仍待店方确认。",
+      "lede": "海底捞卡城首店的筹备有了一个可核对的新节点：卡城市府营业执照数据集最近标注于2026年11月9日更新，其中列出 Northland Village 地址的一条餐饮营业牌照，签发日为2026年11月2日，记录状态为 Licensed。它能证明该数据集中有牌照记录，不代表门店已经开始营业。",
       "sections": [
         {
-          "heading": "目前能确认到哪一步",
+          "heading": "目前能确认的进度（11月23日核对）",
           "paragraphs": [
-            "Daily Hive 报道新店位于 Northland Village。报道时门店仍在施工筹备；截至该报道发布，官方没有给出开业日期。"
-          ]
-        },
-        {
-          "heading": "开门时间等官方消息",
-          "paragraphs": [
-            "目前没有可核实的具体开业日、预约方式或卡城门店服务细节。先不要按“即将开业”安排到店；后续如有正式公告，再以门店或商场信息为准。"
+            "卡城市府营业执照数据集页面标明最近更新为2026年11月9日；其中列出 HAIDILAO HOT POT，地址为 #3140 5111 Northland Dr NW，牌照类型包括堂食餐饮，签发日期为2026年11月2日，记录状态为 Licensed。数据集的更新日期早于本次核对日；牌照记录也不能证明门店已开门、正在接客或已开放预约。"
           ],
           "links": [
             {
-              "label": "Daily Hive Calgary 最新本地报道（10月28日）",
-              "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary"
+              "label": "卡城市府营业执照公开数据",
+              "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd"
             },
             {
-              "label": "较早的本地报道",
-              "url": "https://www.culturealberta.com/articles/calgary-is-getting-haidilao-the-global-hot-pot-chain-famous-for-its-noodle-dance"
+              "label": "对应牌照记录查询（City of Calgary 数据接口）",
+              "url": "https://data.calgary.ca/resource/vdjc-pybd.json?$where=upper(tradename)%20like%20%27%25HAIDILAO%25%27&$limit=20"
             }
+          ]
+        },
+        {
+          "heading": "11月25日试营业消息还不是店方确认",
+          "paragraphs": [
+            "11月21日一条本地餐饮博主的社媒帖写到“Soft opening Nov 25”，并标记 Haidilao Calgary 与加拿大账号。当前能检索到的是第三方帖子的公开镜像；海底捞账号原页本次访问受限，无法确认这是否为店方正式公布的日期。因此，11月25日先按未确认线索处理，不据此写成确定开业通知。",
+            "Daily Hive 10月28日报道时仍称官方开业日期未公布。若店方随后发布正式营业时间、预约入口或公告，这篇追踪会在原记录内更新，不另拆成每日重复卡片。"
+          ],
+          "links": [
+            {
+              "label": "第三方公开镜像：11月21日试营业日期线索（未独立确认）",
+              "url": "https://imginn.com/p/Df_ZN21JSds/"
+            },
+            {
+              "label": "Haidilao Calgary 社交账号原页（本次访问受限）",
+              "url": "https://www.instagram.com/haidilao.yyc/"
+            },
+            {
+              "label": "Daily Hive Calgary 10月28日报道",
+              "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary"
+            }
+          ]
+        },
+        {
+          "heading": "去之前先确认什么",
+          "paragraphs": [
+            "开业日期、预约方式、价格和卡城门店具体服务仍以店方正式页面为准。现在最稳妥的判断是：市府已有对应餐饮营业执照记录；11月25日试营业说法尚未由店方原页确认。我们会在这篇文章里继续记录可核实的新进展。"
           ]
         }
       ],
-      "takeaway": "截至已查阅的10月28日本地报道，仍没有公布官方开业日期；先别把筹备进展当成开业通知。",
-      "sourceType": "本地媒体报道",
-      "source": "Daily Hive Calgary；Culture Alberta",
-      "author": "Daily Hive Calgary",
-      "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary",
+      "takeaway": "截至该市府数据集标注的2026年11月9日更新，其中已有该店的餐饮牌照记录，签发日为11月2日；11月25日试营业来自未能回到店方原页确认的第三方社媒帖，暂不当作官宣。",
+      "sourceType": "市府营业执照数据；本地媒体与第三方社媒线索",
+      "source": "The City of Calgary；Daily Hive Calgary；Eat with Karen（第三方线索）",
+      "author": "卡村 KACUN",
+      "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd",
       "sourceEmbed": {
-        "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary",
-        "title": "One of the world’s largest hot pot restaurant chains is set to open in Calgary",
-        "publisher": "Daily Hive Calgary",
+        "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd",
+        "title": "Calgary Business Licenses",
+        "publisher": "The City of Calgary Open Data",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-09",
-        "reason": "近期本地报道未确认可直接使用的故事预览图，使用纯文字来源卡片。"
-      }
+        "checkedAt": "2026-11-23",
+        "reason": "市府营业执照数据为表格页面，没有与该店相关的故事预览图，使用纯文字来源卡片。"
+      },
+      "isTracker": true,
+      "trackerStatus": "市府数据列有牌照；开业日待店方确认",
+      "trackerLabel": "海底捞开业进度"
     },
     {
       "id": "bank-police-impersonation-20261028",

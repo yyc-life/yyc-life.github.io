@@ -36,7 +36,9 @@ function hideBrokenPreviews() {
 }
 
 function renderProfile() {
-  const groups = Object.groupBy(articles, (article) => article.date || "");
+  const trackers = articles.filter((article) => article.isTracker === true);
+  const feedArticles = articles.filter((article) => article.isTracker !== true);
+  const groups = Object.groupBy(feedArticles, (article) => article.date || "");
   const feed = Object.entries(groups).map(([date, items]) => {
     const [featured, ...rest] = items;
     const compactItems = rest.map((article) => `
@@ -63,11 +65,12 @@ function renderProfile() {
       <header class="account-profile">
         <div class="profile-topline"><div class="brand-avatar"><img src="assets/kacun-brand-mark.png?v=1" alt="卡村 KACUN 标志" /></div><div class="profile-name"><h1>卡村 KACUN</h1><p>加拿大 · Calgary</p></div><div class="profile-more" aria-hidden="true">···</div></div>
         <p class="profile-bio">卡尔加里年轻人的本地生活指南。每天发现新鲜事、好吃的、好玩的，也把值得留意的城市消息讲清楚。</p>
-        <div class="profile-stats"><span><b>${articles.length}</b> 篇原创整理</span><span><b>Calgary</b> 本地更新</span></div>
+        <div class="profile-stats"><span><b>${feedArticles.length}</b> 篇文章整理</span>${trackers.length ? `<span><b>${trackers.length}</b> 条持续追踪</span>` : `<span><b>Calgary</b> 本地更新</span>`}</div>
         <div class="profile-actions"><a class="action-primary" href="#articles">看看今天有什么 <span aria-hidden="true">↓</span></a><a class="action-rss" href="feed.xml" target="_blank" rel="noopener"><span aria-hidden="true">◔</span> RSS 订阅</a><button class="action-share" type="button" id="share-button">分享主页</button></div>
       </header>
       <aside class="channel-offer" aria-label="内容账号订阅合作"><div><span class="offer-eyebrow">卡村本地新闻频道 · 内容合作</span><h2>你是小红书 / 微信卡尔加里内容账号吗？</h2><p>RSS 新闻接口订阅，接入你的内容工作流。</p></div><strong>$50 <small>加币 / 月</small></strong></aside>
-      <nav class="profile-tabs" aria-label="内容分类"><a class="tab active" href="#articles" aria-current="page">全部</a><a class="tab" href="#articles">文章 <span>${articles.length}</span></a><span class="tab-spacer"></span><span class="tab-note">卡村新鲜速递</span></nav>
+      <nav class="profile-tabs" aria-label="内容分类"><a class="tab active" href="#articles" aria-current="page">全部</a><a class="tab" href="#articles">文章 <span>${feedArticles.length}</span></a><span class="tab-spacer"></span><span class="tab-note">卡村新鲜速递</span></nav>
+      ${trackers.map((tracker) => `<a class="tracker-strip" href="?article=${encodeURIComponent(tracker.id)}" aria-label="打开持续追踪：${esc(tracker.title)}"><span class="tracker-tag">持续追踪</span><strong>${esc(tracker.trackerLabel || tracker.title)}</strong><span class="tracker-status">${esc(tracker.trackerStatus || tracker.summary)}</span><b aria-hidden="true">›</b></a>`).join("")}
       <section class="profile-feed" id="articles" aria-label="卡村文章">${feed}<p class="feed-end">— 这里是卡村，Calgary 不无聊 —</p></section>
       <footer class="account-footer"><span>卡村 KACUN</span><p>AI 根据公开来源独立整理 · 点击文章查看原始来源</p><a href="feed.xml">RSS 新闻源</a><a href="https://yyc-life.github.io/">回到主页 ↑</a></footer>
     </main>`;
@@ -102,8 +105,8 @@ function renderArticle(article) {
         <div class="reader-paper">
           <p class="reader-category">${esc(article.category)} <span>·</span> 卡村 KACUN</p>
           <h1>${esc(article.title)}</h1>
-          <div class="reader-byline"><span><b>卡村 KACUN</b><small>AI 资讯整理 · ${esc(article.dateLabel || article.date)}</small></span><span class="byline-time">${esc(article.category)}</span></div>
-          <p class="reader-source-credit">资料来源：${esc(article.source)} · 原文日期 ${esc(article.sourceDate)}</p>
+          <div class="reader-byline"><span><b>卡村 KACUN</b><small>${article.isTracker ? `持续更新 · 最近核对 ${esc(article.verifiedAt)}` : `AI 资讯整理 · ${esc(article.dateLabel || article.date)}`}</small></span><span class="byline-time">${esc(article.isTracker ? "进度追踪" : article.category)}</span></div>
+          <p class="reader-source-credit">资料来源：${esc(article.source)} · ${article.isTracker ? "最近核对" : "原文日期"} ${esc(article.isTracker ? article.verifiedAt : article.sourceDate)}</p>
           <p class="reader-deck">${esc(article.deck || article.summary)}</p>
           ${sourceEmbedCard(article, "reader-source-embed")}
           <p class="reader-lede">${esc(article.lede || article.summary)}</p>
