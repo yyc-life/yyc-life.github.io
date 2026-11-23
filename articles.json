@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-23",
-  "updatedLabel": "2026年11月23日 · 今日4篇",
-  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、113篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。",
+  "updatedLabel": "2026年11月23日 · 今日3篇",
+  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、112篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日3篇（资讯2、吃喝玩乐1）；撤下一张与目标读者兴趣关联不足的跨文化演出卡片。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。",
   "articles": [
     {
       "id": "calgary-2027-budget-hearings-start-20261123",
@@ -113,60 +113,6 @@
         "url": "https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary",
         "title": "Respiratory virus dashboard",
         "publisher": "Government of Alberta",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "qawwali-flamenco-calgary-20261123",
-      "date": "2026-11-23",
-      "dateLabel": "11月23日 · 吃喝玩乐",
-      "sourceDate": "Werklund Centre 活动页发布于2026-10-23；Tourism Calgary 活动列表列出演出日期与时间：2026-11-23 19:30",
-      "verifiedAt": "2026-11-23",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "卡城今晚听卡瓦利遇上弗拉门戈：7点半开演，演唱含乌尔都语、旁遮普语和西班牙语",
-      "summary": "今晚 Jack Singer Concert Hall 有 Qawwali Flamenco 演出，主办场馆介绍巴基斯坦卡瓦利歌者 Faiz Ali Faiz 与弗拉门戈吉他手 Juan Gómez “Chicuelo”的合作。Tourism Calgary 列出开演时间为19:30；演出使用乌尔都语、旁遮普语和西班牙语，介绍及主持为英语。票价、年龄限制和实时余票未能从公开的官方页面确认。",
-      "deck": "这是一次有明确场次的跨文化现场演出；购票与入场条件仍以场馆票务页面当时显示为准。",
-      "lede": "如果今晚想听点不同的现场音乐，Werklund Centre 的 Jack Singer Concert Hall 将上演 Qawwali Flamenco，把巴基斯坦卡瓦利歌唱与安达卢西亚弗拉门戈放在同一台演出里。演唱语言和讲解语言不同，出发前可以先确认自己是否需要英语介绍。",
-      "sections": [
-        {
-          "heading": "两种传统在同一场演出相遇",
-          "paragraphs": [
-            "场馆介绍的核心演出者是巴基斯坦卡瓦利歌者 Faiz Ali Faiz 与弗拉门戈吉他手 Juan Gómez “Chicuelo”。作品把苏菲派吟唱与弗拉门戈音乐并置，讨论人与神圣的联系。Tourism Calgary 列出演出日期为11月23日、19:30开始，地点为 Jack Singer Concert Hall，Werklund Centre（205 8 Avenue SE）。"
-          ]
-        },
-        {
-          "heading": "讲解与演唱语言不同，票务状态先看原页",
-          "paragraphs": [
-            "场馆注明介绍和主持为英语，演出部分使用西班牙语、乌尔都语和旁遮普语；页面没有列明年龄限制。当前公开页面没有显示可核实的票价或剩余座位数，也不要把购票入口当作余票保证。出发前查看场馆页面的实时票务信息。"
-          ],
-          "links": [
-            {
-              "label": "Werklund Centre：演出介绍与票务入口",
-              "url": "https://werklundcentre.ca/events/qawwali-flamenco"
-            },
-            {
-              "label": "Tourism Calgary：日期、时间和地点",
-              "url": "https://www.visitcalgary.com/events/qawwali-flamenco"
-            }
-          ]
-        }
-      ],
-      "takeaway": "演出今晚19:30在 Jack Singer Concert Hall 举行；讲解为英语，演唱含西班牙语、乌尔都语和旁遮普语。票价、年龄和余票请以场馆票务页现场显示为准。",
-      "sourceType": "场馆官方现场音乐活动",
-      "source": "Werklund Centre；Tourism Calgary",
-      "author": "Werklund Centre",
-      "url": "https://werklundcentre.ca/events/qawwali-flamenco",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-23",
-        "reason": "场馆页面有活动主视觉，但此次采用可点击的纯文字来源卡片，避免把海报副图误当成获得转载授权的配图。"
-      },
-      "sourceEmbed": {
-        "url": "https://werklundcentre.ca/events/qawwali-flamenco",
-        "title": "Qawwali Flamenco",
-        "publisher": "Werklund Centre",
         "thumbnail": null,
         "thumbnailAlt": null
       }
