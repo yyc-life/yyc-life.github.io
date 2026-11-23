@@ -1,8 +1,230 @@
 {
-  "updatedAt": "2026-11-22",
-  "updatedLabel": "2026年11月22日 · 今日4篇",
-  "editionNote": "截至2026-11-19，2026-10-20至2026-11-19共31个连续日期组、99篇；其中25组各3篇、6组各4篇，所有日期组均同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。11月17日组移除已过期降雪预警与警报测试，新增明确标注目标日与实际核对日期的议会决定补档，恢复为3篇；11月18日公交雪天绕行仍在生效，保留该提醒。",
+  "updatedAt": "2026-11-23",
+  "updatedLabel": "2026年11月23日 · 今日4篇",
+  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、113篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日4篇（资讯2、吃喝玩乐2）。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。",
   "articles": [
+    {
+      "id": "calgary-2027-budget-hearings-start-20261123",
+      "date": "2026-11-23",
+      "dateLabel": "11月23日 · 本地资讯",
+      "sourceDate": "卡城市府提出的预算草案于2026-11-10公布；公众提交与市议会审议从2026-11-23开始",
+      "verifiedAt": "2026-11-23",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城预算审议今天开始：典型自住房月支出估算多53元，最终方案还没定",
+      "summary": "卡城市府2027预算草案估计，典型独立屋的市政地税、垃圾回收和水务合计月支出由369元增至422元；其中地税估算增加37元、水务与垃圾增加16元。这是草案估算，市议会从11月23日起审议，最终决定预计12月作出。",
+      "deck": "15%说的是现有物业市政地税总收入的拟增幅，不等于每户地税都会统一涨15%。",
+      "lede": "卡城市议会从今天起审议2027至2030年预算草案。对自住房家庭，市府给出的典型月支出估算是多53元；租客也可能通过水务、垃圾和其他公共服务受到预算决定影响，但不能把这项独立屋估算直接套到租金上。",
+      "sections": [
+        {
+          "heading": "每月多53元是哪些费用",
+          "paragraphs": [
+            "市府把典型独立屋的市政地税估算从每月229元调至266元，增加37元；垃圾回收和水务合计从140元调至156元，增加16元。两项合计由369元到422元。"
+          ]
+        },
+        {
+          "heading": "不是每户统一涨15%",
+          "paragraphs": [
+            "草案要求2027年现有物业的市政地税总收入增加15%。市府特别说明，每套房实际地税取决于最终评估值；典型住宅估算基于2026年评估价70.6万元、2027年68.8万元，以及每月用水19立方米。上述费用都仍可能在审议和最终评估后改变。"
+          ]
+        },
+        {
+          "heading": "今天开始进入公开审议",
+          "paragraphs": [
+            "市府时间表列出，公众提交和市议会审议从11月23日开始，预算预计在12月决定。想看完整服务计划、项目预算或参与方式，可直接查市府预算与公众听证页面；昨天的卡村文章另列了公众提交表格的填写步骤。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：2027–2030预算草案与审议时间表",
+              "url": "https://www.calgary.ca/our-finances/2027-budget.html"
+            },
+            {
+              "label": "卡城市府：公众听证和参与方式",
+              "url": "https://www.calgary.ca/council/meetings/public-hearing.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "自住房月增53元是市府草案中的典型估算，不是已通过的账单，也不是所有物业统一涨幅；最终预算仍待市议会审议。",
+      "sourceType": "市府预算草案与公众审议",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-23",
+        "reason": "市府预算页面未见可直接代表此预算数字的新闻预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgary.ca/our-finances/2027-budget.html",
+        "title": "2027 Budget",
+        "publisher": "The City of Calgary",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "alberta-flu-calgary-zone-vaccination-20261123",
+      "date": "2026-11-23",
+      "dateLabel": "11月23日 · 生活提醒",
+      "sourceDate": "阿省呼吸道病毒仪表板更新于2026-11-19，数据截至2026-11-14；接种指引为阿省卫生部门现行页面",
+      "verifiedAt": "2026-11-23",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "阿省本季已报5313宗实验室确诊流感：卡城区域2798宗，幼儿接种要去公卫诊所",
+      "summary": "阿省呼吸道病毒仪表板截至11月14日累计列出5313宗实验室确诊流感，Calgary Zone占2798宗；这是本季累计数，不是单周新增或所有实际感染人数。接种方面，6个月至4岁儿童需到公共或社区卫生中心；符合资格的5岁以上居民可到参与药房或卫生中心。",
+      "deck": "看清统计截止日和年龄对应的接种地点，别把累计确诊数字当成这一周新增。",
+      "lede": "阿省最新呼吸道病毒数据更新到11月14日，其中卡城区域本季累计报告2798宗实验室确诊流感。数据只统计实验室确诊，不代表全部感染；如果家里正安排接种，阿省也按年龄区分了地点。",
+      "sections": [
+        {
+          "heading": "这是本季累计数，不是单周报告",
+          "paragraphs": [
+            "阿省页面于11月19日更新，交互数据截至11月14日。2026–27呼吸道病毒季从8月30日开始；截至数据日期，全省列出5313宗实验室确诊流感、1223宗住院、89宗进入ICU及42宗死亡。Calgary Zone对应2798宗确诊、648宗住院、41宗ICU及25宗死亡。住院、ICU和死亡也是本季累计指标；确诊数不等于所有实际感染人数。"
+          ]
+        },
+        {
+          "heading": "幼儿和5岁以上走不同接种渠道",
+          "paragraphs": [
+            "阿省指引写明，6个月至4岁儿童应预约公共卫生或社区卫生中心，药剂师不能为5岁以下儿童接种省资助疫苗。符合资格的5岁及以上居民可到参与药房或卫生中心；部分药房接受免预约。公卫中心预约可通过 Primary Care Alberta 网站或拨打 Health Link 811。"
+          ],
+          "links": [
+            {
+              "label": "阿省呼吸道病毒仪表板",
+              "url": "https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary"
+            },
+            {
+              "label": "阿省：呼吸道病毒季接种指引与预约入口",
+              "url": "https://www.alberta.ca/respiratory-virus-season-get-vaccinated"
+            }
+          ]
+        }
+      ],
+      "takeaway": "卡城区域2798宗是截至11月14日的本季实验室确诊累计数。6个月至4岁儿童应走公卫/社区卫生中心渠道；5岁以上可查参与药房或卫生中心。",
+      "sourceType": "阿省公共卫生监测与接种指引",
+      "source": "Government of Alberta",
+      "author": "Government of Alberta",
+      "url": "https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-23",
+        "reason": "省府仪表板为交互数据页面，没有适合代表卡城数字的独立新闻预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary",
+        "title": "Respiratory virus dashboard",
+        "publisher": "Government of Alberta",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "qawwali-flamenco-calgary-20261123",
+      "date": "2026-11-23",
+      "dateLabel": "11月23日 · 吃喝玩乐",
+      "sourceDate": "Werklund Centre 活动页发布于2026-10-23；Tourism Calgary 活动列表列出演出日期与时间：2026-11-23 19:30",
+      "verifiedAt": "2026-11-23",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城今晚听卡瓦利遇上弗拉门戈：7点半开演，演唱含乌尔都语、旁遮普语和西班牙语",
+      "summary": "今晚 Jack Singer Concert Hall 有 Qawwali Flamenco 演出，主办场馆介绍巴基斯坦卡瓦利歌者 Faiz Ali Faiz 与弗拉门戈吉他手 Juan Gómez “Chicuelo”的合作。Tourism Calgary 列出开演时间为19:30；演出使用乌尔都语、旁遮普语和西班牙语，介绍及主持为英语。票价、年龄限制和实时余票未能从公开的官方页面确认。",
+      "deck": "这是一次有明确场次的跨文化现场演出；购票与入场条件仍以场馆票务页面当时显示为准。",
+      "lede": "如果今晚想听点不同的现场音乐，Werklund Centre 的 Jack Singer Concert Hall 将上演 Qawwali Flamenco，把巴基斯坦卡瓦利歌唱与安达卢西亚弗拉门戈放在同一台演出里。演唱语言和讲解语言不同，出发前可以先确认自己是否需要英语介绍。",
+      "sections": [
+        {
+          "heading": "两种传统在同一场演出相遇",
+          "paragraphs": [
+            "场馆介绍的核心演出者是巴基斯坦卡瓦利歌者 Faiz Ali Faiz 与弗拉门戈吉他手 Juan Gómez “Chicuelo”。作品把苏菲派吟唱与弗拉门戈音乐并置，讨论人与神圣的联系。Tourism Calgary 列出演出日期为11月23日、19:30开始，地点为 Jack Singer Concert Hall，Werklund Centre（205 8 Avenue SE）。"
+          ]
+        },
+        {
+          "heading": "讲解与演唱语言不同，票务状态先看原页",
+          "paragraphs": [
+            "场馆注明介绍和主持为英语，演出部分使用西班牙语、乌尔都语和旁遮普语；页面没有列明年龄限制。当前公开页面没有显示可核实的票价或剩余座位数，也不要把购票入口当作余票保证。出发前查看场馆页面的实时票务信息。"
+          ],
+          "links": [
+            {
+              "label": "Werklund Centre：演出介绍与票务入口",
+              "url": "https://werklundcentre.ca/events/qawwali-flamenco"
+            },
+            {
+              "label": "Tourism Calgary：日期、时间和地点",
+              "url": "https://www.visitcalgary.com/events/qawwali-flamenco"
+            }
+          ]
+        }
+      ],
+      "takeaway": "演出今晚19:30在 Jack Singer Concert Hall 举行；讲解为英语，演唱含西班牙语、乌尔都语和旁遮普语。票价、年龄和余票请以场馆票务页现场显示为准。",
+      "sourceType": "场馆官方现场音乐活动",
+      "source": "Werklund Centre；Tourism Calgary",
+      "author": "Werklund Centre",
+      "url": "https://werklundcentre.ca/events/qawwali-flamenco",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-23",
+        "reason": "场馆页面有活动主视觉，但此次采用可点击的纯文字来源卡片，避免把海报副图误当成获得转载授权的配图。"
+      },
+      "sourceEmbed": {
+        "url": "https://werklundcentre.ca/events/qawwali-flamenco",
+        "title": "Qawwali Flamenco",
+        "publisher": "Werklund Centre",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hung-dance-birdy-calgary-20261123",
+      "date": "2026-11-23",
+      "dateLabel": "11月23日 · 吃喝玩乐",
+      "sourceDate": "Springboard Performance 页面列出演出日期2026-11-26与交流活动日期2026-11-25；未注明页面发布日期",
+      "verifiedAt": "2026-11-23",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "台湾舞团《BIRDY》周四来卡城：京剧翎子、太极与当代舞同台，周三另有免费交流场",
+      "summary": "Hung Dance 的《BIRDY》11月26日19:00在 The GRAND 演出，Springboard 与 Asian Heritage Foundation 联合呈现；Showpass 列出票价37.65至69.14加元。主办方还安排11月25日中午在 The New Gallery 举办免费交流，含普通话—英语口译。年龄限制未注明，售票页没有可核实的余票数量。",
+      "deck": "演出和交流是两场不同活动：周四演出售票，周三午间交流免费并含普通话—英语口译。",
+      "lede": "台湾 Hung Dance 将带《BIRDY》来到卡城。舞作把京剧武生常见的翎子意象、太极动作和当代舞结合；如果想先听创作者谈传统如何进入现代身体表达，周三还有一场免费交流。",
+      "sections": [
+        {
+          "heading": "周四晚间演出",
+          "paragraphs": [
+            "《BIRDY》安排在11月26日19:00–20:00，地点 The GRAND（608 1 St SW）。主办方介绍，舞作使用京剧翎子头饰意象、太极和当代舞，并配以电子与中国古典音乐；由 Springboard Performance 与社区合作伙伴 Asian Heritage Foundation 呈现。Showpass 当前列出票价37.65至69.14加元并提供购票入口，但没有显示可确认的余票数量；年龄和演出语言限制也未列出。"
+          ]
+        },
+        {
+          "heading": "周三有一场免费普通话—英语交流",
+          "paragraphs": [
+            "Hung Dance 成员将于11月25日12:00–13:00在 The New Gallery（208 Centre St S）参加 “The Body, Memory & the Freedom to Fly” 对谈，入场免费，并提供普通话—英语口译。这是独立于周四售票演出的另一场活动，想听创作者讲太极、武术和京剧如何影响他们的动作语言，可按主办方页面确认安排。"
+          ],
+          "links": [
+            {
+              "label": "Springboard Performance：演出与免费交流活动",
+              "url": "https://springboardperformance.com/events/hung-dance"
+            },
+            {
+              "label": "Showpass：演出时间、地址、票价与购票入口",
+              "url": "https://www.showpass.com/birdy-hung-dance/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "周四《BIRDY》19:00开演，票价37.65–69.14加元；周三12:00–13:00另有免费交流并含普通话—英语口译。余票及适龄信息未确认，出发前查看主办方页面。",
+      "sourceType": "台湾当代舞团现场演出与社区交流",
+      "source": "Springboard Performance；Asian Heritage Foundation",
+      "author": "Springboard Performance",
+      "url": "https://springboardperformance.com/events/hung-dance",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-23",
+        "reason": "主办方页面提供演出摄影，但无法确认网页来源卡使用该图的远程展示授权，采用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://springboardperformance.com/events/hung-dance",
+        "title": "BIRDY | Hung Dance",
+        "publisher": "Springboard Performance",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "orb-funkee-asbestos-recall-20261122",
       "date": "2026-11-22",
@@ -778,7 +1000,7 @@
       "date": "2026-11-18",
       "dateLabel": "11月18日 · 生活提醒",
       "sourceDate": "Calgary Police Service新闻稿发布于2026-11-16 15:51 America/Edmonton；整月检查安排",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "卡城警方11月仍在查儿童安全座椅：胸扣太低、绑带太松都常见",
@@ -1396,7 +1618,7 @@
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
       "sourceDate": "市府维修公告发布于2026-11-13；Calgary Transit 当前 GTFS 更新列出封路时段至2026-11-28 23:59 Alberta Time",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Edgemont 水管维修与公交绕行仍列至11月28日：7条线路改道，站牌北移约45米",
@@ -1512,7 +1734,7 @@
       "date": "2026-11-13",
       "dateLabel": "11月13日 · 生活提醒",
       "sourceDate": "City of Calgary Newsroom 原文发布于2026-11-13；Calgary Transit 当前 GTFS 服务更新列出83 Street交通时段至2026-11-23 23:00 Alberta Time",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Bearspaw 接管工程仍在赶工：33 Avenue周边施工，83 Street公交调整到11月23日晚",
@@ -1906,14 +2128,14 @@
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
-      "sourceDate": "限水于2026-11-04生效；市府页面于2026-11-18更新后仍列第四级全市生效",
-      "verifiedAt": "2026-11-22",
+      "sourceDate": "卡城市府限水页更新于2026-11-22；用水数字为2026-11-21（周六）",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "卡城全市第四级限水仍生效：户外用水暂停，市府最新用水4.82亿升",
-      "summary": "市府11月21日更新：周五用水4.82亿升，连续第17天保持在绿色目标内；全市第四级限水仍有效，户外用水暂停。",
+      "title": "卡城全市第四级限水仍生效：户外用水暂停，周六用水4.76亿升",
+      "summary": "市府11月22日更新：周六用水4.76亿升，仍低于5亿升绿色目标；全市第四级限水有效，所有户外用水暂停，室内仍请节水。",
       "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
-      "lede": "卡城市府当前页面仍列第四级全市限水，户外用水暂停。市府11月21日更新时称，周五用水4.82亿升，连续第17天保持在绿色目标内；这项好消息还不代表可以恢复户外浇水。",
+      "lede": "截至11月23日复核，卡城市府仍列全市第四级限水，户外用水暂停。市府11月22日更新的最近统计为周六用水4.76亿升，低于每天5亿升绿色目标；这不代表可以恢复户外浇水。",
       "sections": [
         {
           "heading": "用水达标不等于限水解除",
@@ -1922,9 +2144,9 @@
           ]
         },
         {
-          "heading": "11月21日核对的当前规则",
+          "heading": "11月22日复核的限水与用水数据",
           "paragraphs": [
-            "截至2026年11月22日，市府当前页面仍显示全市第四级限制有效，所有户外用水暂停，并继续要求居民减少室内用水。11月21日页面更新称，周五用水为4.82亿升，连续第17天低于每天5亿升的绿色目标。"
+            "市府当前页面仍明确显示全市第四级限制有效，所有户外用水暂停，并请居民减少室内用水。页面11月22日更新称，周六用水为4.76亿升，低于每日5亿升绿色目标；这是截至周六的统计，不代表实时读数。"
           ],
           "links": [
             {
@@ -1938,7 +2160,7 @@
           ]
         }
       ],
-      "takeaway": "市府最新页面仍列第四级全市限水；11月21日更新称周五用水4.82亿升、低于5亿升绿色线，户外用水仍暂停。",
+      "takeaway": "截至11月23日复核，第四级限水仍有效。市府11月22日公布周六用水4.76亿升；绿色目标达成不等于限水解除。",
       "sourceType": "市府供水工程与限水公告",
       "source": "City of Calgary",
       "author": "City of Calgary",
@@ -3073,7 +3295,7 @@
       "date": "2026-11-04",
       "dateLabel": "11月4日更新 · 11月9日复核",
       "sourceDate": "第四级限水自2026-11-04生效；市府页面最新更新于2026-11-20，卡村于2026-11-21复核仍有效",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月4日起卡城实施第四级户外限水：室内也请节水",
@@ -3115,9 +3337,9 @@
           ]
         },
         {
-          "heading": "11月11日复核：第四级仍有效",
+          "heading": "11月23日复核：第四级仍有效",
           "paragraphs": [
-            "市府11月11日更新的用水页面显示，11月10日用水量为4.73亿升，连续第7天低于每日5亿升目标。这是前一日统计，不是实时读数；市府页面仍明确显示第四级户外限水有效。"
+            "市府当前页面仍显示全市第四级户外限制有效，户外用水暂停，并继续请居民减少室内用水。页面于11月22日更新的最近一日数据为周六4.76亿升，低于每天5亿升绿色目标；统计日与核对日不同，目标达成不代表限制解除。"
           ],
           "links": [
             {
@@ -3651,7 +3873,7 @@
       "date": "2026-11-01",
       "dateLabel": "目标日期补档（2026-11-01）· 实际核对日期 2026-11-09",
       "sourceDate": "未注明（市府服务页面；核对日期 2026-11-09）",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Green Cart 冬季转为每两周收集：具体日期按地址查询",
@@ -3813,7 +4035,7 @@
       "date": "2026-10-31",
       "dateLabel": "目标日期补档（2026-10-31）· 实际核对日期 2026-11-09",
       "sourceDate": "2026-10-31",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "11月测速执法重点社区已公布：施工区有工人时也会加强巡查",
@@ -3959,7 +4181,7 @@
       "date": "2026-10-30",
       "dateLabel": "10月30日整理",
       "sourceDate": "阿省政府页面于2026-11-19仍说明Alberta Time为永久制度、UTC-6，自2026-11-01起实施",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "阿省已进入 Alberta Time（UTC-6）：设备时间不对可先更新系统",
@@ -4121,7 +4343,7 @@
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
       "sourceDate": "市府Bearspaw feeder main工程页于2026-11-19仍列Parkdale Boulevard车道及Bow River Pathway绕行至12月",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
@@ -5800,7 +6022,7 @@
       "date": "2026-11-16",
       "dateLabel": "11月16日 · 生活提醒",
       "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
-      "verifiedAt": "2026-11-22",
+      "verifiedAt": "2026-11-23",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
