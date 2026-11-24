@@ -1,8 +1,226 @@
 {
-  "updatedAt": "2026-11-23",
-  "updatedLabel": "2026年11月23日 · 今日3篇 + 1条持续追踪",
-  "editionNote": "截至2026-11-23，2026-10-20至2026-11-23共35个连续日期组、112篇；昨日之前34组均有3–4篇并同时覆盖资讯与吃喝玩乐。今日3篇（资讯2、吃喝玩乐1）；撤下一张与目标读者兴趣关联不足的跨文化演出卡片。今日复核：第四级限水仍有效；83街公交改站至今晚23:00、Edgemont改站至11月28日、Parkdale绕行及Canyon Meadows电梯停运仍有效；Alberta Time为UTC-6，11月儿童座椅检查、冬季绿桶隔周收集及11月测速重点仍适用。 海底捞常驻追踪卡已更新：市府营业执照数据集最近标注于11月9日更新，并列出11月2日签发的该店牌照；11月25日试营业说法仅见第三方社媒帖，店方原页本次无法复核，未当作官宣。",
+  "updatedAt": "2026-11-24",
+  "updatedLabel": "2026年11月24日 · 今日4篇 + 1条持续追踪",
+  "editionNote": "本次实际核对日期：2026-11-24。今日新增4张独立文章卡：资讯2（Elbow Drive等三起火灾；三名卡城警员被控）、吃喝玩乐2（11月27日EDM现场；Spruce Meadows周末圣诞市集）。海底捞为同一篇持续更新Tracker，首页窄条单独显示，不计入每日卡片；市府数据列有牌照记录，11月25日试营业仍未获店方原页确认。历史补档：为最早不足3篇的10月28日组补入市府志愿植树季回顾，现为3张（资讯2、吃喝玩乐1）；补档日期与核对日期分列。中文线索查看卡城网 KaCheng、52Calgary、唐人街活动日历和卡城中华文化中心/耆英会页面；英文核对市府新闻稿、Police Review Commission/ASIRT、Calgary Transit、Spruce Meadows、The Arrowhead/Showpass等原始页面。Life Calgary本次访问超时，calgary.cn跳转目标不可访问，CBC受robots限制；微信号canadawelife、fanta7kaerjiali未登录访问。唐人街BIA AGM属组织会议；耆英会页面以长者旅游和常设课程为主；未找到适合目标读者的华人/东亚近期特别活动。历史组总量、各日期类别和提醒需以本次JSON统计为准。",
   "articles": [
+    {
+      "id": "calgary-multiple-structure-fires-20261124",
+      "date": "2026-11-24",
+      "dateLabel": "11月24日 · 本地资讯",
+      "sourceDate": "Calgary Fire Department 新闻稿发布于2026-11-24；三起火灾发生于11月23日晚至24日凌晨",
+      "verifiedAt": "2026-11-24",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城一夜发生三起住宅火灾：Elbow Drive 公寓火灾造成一人死亡",
+      "summary": "卡城消防局称，11月23日晚至24日凌晨处理三起建筑火灾。7700号段 Elbow Drive 一栋12户公寓起火，一名女性送医途中死亡、两人吸入浓烟；39 Street SW车库火灾和 Taradale 厨房火灾无人受伤。起火原因仍在调查。",
+      "deck": "三起火灾原因都未确定；消防局提醒住户确认烟雾警报器安装并正常工作。",
+      "lede": "卡城消防员在一夜之间处理了三起建筑火灾，其中 Elbow Drive 一栋公寓火灾造成一名女性死亡。另两起分别发生在车库和多户住宅厨房，消防局说目前都在调查，原因尚未确定。",
+      "sections": [
+        {
+          "heading": "Elbow Drive 公寓火灾造成一人死亡",
+          "paragraphs": [
+            "消防局说，11月23日晚约9:45接报，地点在 Elbow Drive 7700号段的一栋三层、12户公寓。住户正在撤离，现场浓烟和明火从三楼窗户冒出；消防员在相邻套间救出一名失去意识的女性，急救人员送她去医院途中，她被宣布死亡。另有两人因吸入浓烟接受处理，一只猫在起火套间内死亡。"
+          ]
+        },
+        {
+          "heading": "另两起火灾暂无伤者",
+          "paragraphs": [
+            "晚间11:10左右，消防员到39 Street SW 1400号段处理车库火灾，火势控制在起火建筑内；24日凌晨12:25左右，Taradale 一处多户住宅厨房起火，住户自行撤离，消防员扑灭余火。两起均未报告人员受伤。消防局称三起火灾都在调查，暂未确定原因。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Fire Department：三起建筑火灾通报",
+              "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-multiple-structure-fires/"
+            }
+          ]
+        },
+        {
+          "heading": "回家后检查烟雾警报器",
+          "paragraphs": [
+            "这次通报没有发布全市性警报或要求其他住户撤离。消防局提醒确认家中烟雾警报器已安装、定期测试且能够正常工作。"
+          ]
+        }
+      ],
+      "takeaway": "Elbow Drive 公寓火灾造成一人死亡，另两起火灾无人受伤；三起原因都仍在调查。确认家中烟雾警报器可正常工作。",
+      "sourceType": "卡城消防部门火灾通报",
+      "source": "Calgary Fire Department",
+      "author": "Calgary Fire Department",
+      "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-multiple-structure-fires/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "消防部门通报页未确认可直接代表这三起火灾的现场预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgary-fire-responds-to-multiple-structure-fires/",
+        "title": "Calgary Fire Responds to Multiple Structure Fires",
+        "publisher": "Calgary Fire Department",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-officers-charged-death-20261124",
+      "date": "2026-11-24",
+      "dateLabel": "11月24日 · 本地资讯",
+      "sourceDate": "Alberta Police Review Commission / ASIRT 新闻稿发布于2026-11-23；案件发生于2024-09-17",
+      "verifiedAt": "2026-11-24",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "三名卡城警员被控过失杀人：案件将于明年1月在卡城法院提讯",
+      "summary": "阿省警察审查委员会公布，三名卡尔加里警员因2024年9月一名男子在南区酒店被捕时死亡，被控过失杀人及造成身体伤害的袭击罪。三人已获释，案件下次于2027年1月6日在卡城法院提讯；指控尚未审结。",
+      "deck": "这是刑事指控，不是定罪；独立调查已经结束，案件进入法院程序。",
+      "lede": "一名男子在卡城南区酒店被捕时死亡，独立调查后，三名卡城警员被控过失杀人和造成身体伤害的袭击罪。案件预计明年1月6日在卡城法院再次提讯，指控结果尚待司法程序。",
+      "sections": [
+        {
+          "heading": "发生在2024年的酒店拘捕事件",
+          "paragraphs": [
+            "阿省警察审查委员会旗下的 Alberta Serious Incident Response Team（ASIRT，阿省严重事件响应小组）调查一名42岁男子在2024年9月17日于卡城南区酒店死亡一事。酒店员工当时联系警方，请求协助让一名男子离开大厅。独立调查机构称，调查后认为有合理依据提出刑事指控。"
+          ]
+        },
+        {
+          "heading": "三人已获释，案件尚未裁决",
+          "paragraphs": [
+            "委员会11月23日公布，三名警员各被控过失杀人及造成身体伤害的袭击罪；三人获承诺书后获释，案件排期至2027年1月6日在 Alberta Court of Justice（阿省法院）卡城分庭再次提讯。被控不等于定罪，下一步由法院审理。"
+          ],
+          "links": [
+            {
+              "label": "阿省警察审查委员会 / ASIRT 新闻稿",
+              "url": "https://albertaprc.ca/news/news-releases/calgary-police-service-officers-charged-in-connection-with-man-s-death/"
+            },
+            {
+              "label": "CityNews Calgary 独立报道",
+              "url": "https://calgary.citynews.ca/2026/11/23/calgary-police-officers-charged-manslaughter-jon-wells-death-hotel-altercation/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "案件源于2024年9月在卡城南区酒店发生的死亡事件。三名警员已被起诉并获释；指控尚未审理，下一次出庭日期为2027年1月6日。",
+      "sourceType": "阿省警察审查委员会刑事指控公告",
+      "source": "Alberta Police Review Commission / ASIRT；CityNews Calgary",
+      "author": "Alberta Police Review Commission / ASIRT",
+      "url": "https://albertaprc.ca/news/news-releases/calgary-police-service-officers-charged-in-connection-with-man-s-death/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "官方调查公告没有与案件直接相关的预览图；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://albertaprc.ca/news/news-releases/calgary-police-service-officers-charged-in-connection-with-man-s-death/",
+        "title": "Calgary Police Service officers charged in connection with man’s death",
+        "publisher": "Alberta Police Review Commission / ASIRT",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "habstrakt-nostalgix-calgary-20261124",
+      "date": "2026-11-24",
+      "dateLabel": "11月24日 · 吃喝玩乐",
+      "sourceDate": "主办方与票务页列出活动日期2026-11-27；页面未注明发布日期",
+      "verifiedAt": "2026-11-24",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城周五有一场深夜 EDM：Habstrakt 与 Nostalgix 18+ 演出到凌晨2点",
+      "summary": "The Arrowhead 列出11月27日 Habstrakt 与 Nostalgix 的 Split Signal Tour，晚上9点开门，地址4630 Macleod Trail S，18岁以上凭有效证件入场。Showpass 页面列价32.49–37.94加元；余票数量未确认。",
+      "deck": "这是周五深夜场，非全天活动；页面没有注明中文服务或中文演出内容。",
+      "lede": "想找周末的电子音乐现场，周五可以考虑 Habstrakt 和 Nostalgix 的卡城演出。场馆列明18+、晚上9点开门、凌晨2点结束；出发前先确认交通和票务页的实时信息。",
+      "sections": [
+        {
+          "heading": "日期、时间和入场条件",
+          "paragraphs": [
+            "演出安排在11月27日（周五），The Arrowhead Event Centre（4630 Macleod Trail S）。场馆列出晚上9点开门、凌晨2点结束，18岁以上须带有效身份证件。票务页面显示32.49至37.94加元，页面未提供可确认的剩余票数。"
+          ]
+        },
+        {
+          "heading": "适合想听 bass house / EDM 的人",
+          "paragraphs": [
+            "主办方介绍这场 Split Signal Tour 由 Habstrakt 和 Nostalgix 演出，特别嘉宾仍待公布。页面未列中文服务或中文演出信息；这是音乐现场，观众可按个人兴趣决定是否前往。"
+          ],
+          "links": [
+            {
+              "label": "The Arrowhead：演出信息",
+              "url": "https://thearrowheadcalgary.com/events-details/habstrakt-%2B-nostalgix-%E2%80%A2-split-signal-tour_6abce53fe7476"
+            },
+            {
+              "label": "Showpass：时间与票价",
+              "url": "https://www.showpass.com/ss112726/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月27日周五晚上9点开门，18+，地点 The Arrowhead；Showpass 列价32.49–37.94加元，实时余票未确认。",
+      "sourceType": "有明确日期的 EDM 演出",
+      "source": "The Arrowhead Calgary；Showpass / Beehive Presents",
+      "author": "The Arrowhead Calgary",
+      "url": "https://thearrowheadcalgary.com/events-details/habstrakt-%2B-nostalgix-%E2%80%A2-split-signal-tour_6abce53fe7476",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "Showpass 官方票务页提供与本场演出直接相关的活动海报，来源卡远程显示原图并链接至票务页。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.showpass.com/ss112726/",
+        "title": "Habstrakt + Nostalgix • Split Signal Tour - Nov 27",
+        "publisher": "Showpass / Beehive Presents",
+        "thumbnail": "https://dcm1eeuyachdi.cloudfront.net/fit-in/3840x3840/filters:quality(100):format(webp)/media/images/events/beehivepresents/img-banner/45b11d7f-869.png",
+        "thumbnailAlt": "Habstrakt 与 Nostalgix 卡城演出海报"
+      }
+    },
+    {
+      "id": "spruce-meadows-christmas-market-20261124",
+      "date": "2026-11-24",
+      "dateLabel": "11月24日 · 吃喝玩乐",
+      "sourceDate": "Spruce Meadows 主办方列出的活动场次为2026-11-27至11-29；FAQ 页面未注明发布日期",
+      "verifiedAt": "2026-11-24",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "Spruce Meadows 圣诞市集本周末回归：周五新增18+晚场，入场20加元起",
+      "summary": "Spruce Meadows International Christmas Market 下一场为11月27日至29日。周五12:00–18:00为全年龄场，18:00–21:00为18+晚场；周六10:00–19:00、周日10:00–18:00。成人20加元、3–12岁及65岁以上12加元，另加GST；2岁及以下免费，停车含在门票内。",
+      "deck": "周五晚场只限18岁以上；票务实时余量未确认，出发前查主办方更新。",
+      "lede": "Spruce Meadows 的季节性圣诞市集本周末还有一轮，适合想逛一场有室内外区域的节日活动。2026年新设的周五晚场限18岁以上；带孩子的话请选择周五白天或周末时段。",
+      "sections": [
+        {
+          "heading": "本周末的开放时段",
+          "paragraphs": [
+            "本轮日期是11月27日（周五）至29日（周日），地点 Spruce Meadows（18011 Spruce Meadows Way SW）。周五12:00–18:00全年龄开放，18:00–21:00仅限18岁以上；周六10:00–19:00、周日10:00–18:00。活动包含室内和室外区域，主办方建议按冬季天气穿着。"
+          ]
+        },
+        {
+          "heading": "票价、停车和信息边界",
+          "paragraphs": [
+            "主办方FAQ列价：成人20加元，3–12岁儿童和65岁以上长者12加元，另加GST；2岁及以下免费，普通停车包含在门票内。门票是否仍有余量未独立确认。主办方介绍为欧洲风格节日市集；现场语言未注明，不能假设提供中文服务。"
+          ],
+          "links": [
+            {
+              "label": "Spruce Meadows：日期、时段、票价与FAQ",
+              "url": "https://www.sprucemeadows.com/icm-faq/"
+            },
+            {
+              "label": "Spruce Meadows International Christmas Market",
+              "url": "https://www.sprucemeadows.com/christmasmarket/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "11月27–29日开放：周五晚场18+，周末白天全年龄。成人20加元、儿童和长者12加元另加GST，2岁以下免费；余票未确认。",
+      "sourceType": "有明确日期的季节性公共活动",
+      "source": "Spruce Meadows",
+      "author": "Spruce Meadows",
+      "url": "https://www.sprucemeadows.com/icm-faq/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "主办方页面的通用社交预览图不能确认直接对应本轮活动场次；使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.sprucemeadows.com/icm-faq/",
+        "title": "International Christmas Market FAQs",
+        "publisher": "Spruce Meadows",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
     {
       "id": "calgary-2027-budget-hearings-start-20261123",
       "date": "2026-11-23",
@@ -1275,6 +1493,216 @@
       }
     },
     {
+      "id": "calgary-fatal-shooting-bowness-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 本地资讯",
+      "sourceDate": "警方通报日期：2026-11-15；警方称枪击约于2026-11-15 08:50发生",
+      "verifiedAt": "2026-11-16",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "警方通报 Bowness 超市停车场致命枪击：事发于昨天上午",
+      "summary": "警方称，11月15日上午约8:50，Real Canadian Superstore 停车场发生枪击，一名男子被发现死亡。警方在当日通报时称相信属孤立事件、当时没有持续公共风险，且尚无人被捕。",
+      "deck": "这是警方11月15日发布的案件通报；其中关于公共风险和拘捕情况仅代表通报发布时的信息。",
+      "lede": "Calgary Police Service 于11月15日通报，Bowness 的 Real Canadian Superstore 停车场发生致命枪击。以下仅按警方原文记录地点、时间和当时公布的调查状态，不推测身份或动机。",
+      "sections": [
+        {
+          "heading": "警方公布的时间与地点",
+          "paragraphs": [
+            "警方称，枪击约于11月15日上午8:50发生在 3400 69 St NW 的 Real Canadian Superstore 停车场。警员到场后发现一名男子死亡。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Police Service 原始通报",
+              "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/"
+            }
+          ]
+        },
+        {
+          "heading": "风险评估有明确的通报时点",
+          "paragraphs": [
+            "警方在11月15日发布通报时表示，他们认为这是孤立事件，当时没有持续的公众风险；同一通报称尚无人被拘捕。这些是发布时的状态，不应被理解为之后的更新。"
+          ]
+        },
+        {
+          "heading": "警方当时征集目击及影像线索",
+          "paragraphs": [
+            "原通报请目击者或持有行车记录仪、监控录像的人致电403-266-1234。若需了解案件后续，应以警方原文及其最新公告为准。"
+          ]
+        }
+      ],
+      "takeaway": "警方11月15日通报称一名男子死亡，并记录了当时的风险评估与线索征集；本文不推测受害者身份、嫌疑人或动机。",
+      "sourceType": "警方通报",
+      "source": "Calgary Police Service",
+      "author": "Calgary Police Service",
+      "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "使用警方原始通报来源卡片；未确认可直接对应案件且适合展示的来源页图片。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
+        "title": "Police Investigate Fatal Shooting",
+        "publisher": "Calgary Police Service",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "canyon-meadows-elevator-modernization-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 生活提醒",
+      "sourceDate": "Calgary Transit GTFS 于2026-11-24仍列电梯停运期：2026-11-09 04:20至2026-12-03 02:30 Alberta Time",
+      "verifiedAt": "2026-11-24",
+      "category": "生活提醒",
+      "categoryClass": "official",
+      "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
+      "summary": "Calgary Transit 当前 GTFS 仍列 Canyon Meadows Station 电梯因现代化改造停用，预计12月3日凌晨2:30恢复；站台可走楼梯或扶梯，不能走楼梯的乘客可搭替代接驳车。",
+      "deck": "电梯停用不等于车站完全无法进入；接驳车连接 Canyon Meadows 与 Fish Creek-Lacombe 红线站。",
+      "lede": "Calgary Transit 当前服务数据仍列 Canyon Meadows Station 电梯停用至12月3日凌晨2:30。站台只能走楼梯或扶梯；不能使用楼梯的乘客可搭替代接驳车，出发前请查看实时通知和乘车点说明。",
+      "sections": [
+        {
+          "heading": "电梯关闭期间的车站通行",
+          "paragraphs": [
+            "页面列出的关闭时段为11月9日04:20至12月3日02:30，原因是现代化改造。站台仍可通过楼梯或扶梯到达，因此不要把电梯停运理解为所有乘客都无法进站。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Transit 电梯停运与替代安排",
+              "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html"
+            }
+          ]
+        },
+        {
+          "heading": "无法使用楼梯时的接驳方向",
+          "paragraphs": [
+            "无法使用楼梯的乘客可从 Canyon Meadows 巴士环线搭接驳车前往 Fish Creek-Lacombe，以接驳红线。乘火车抵达 Fish Creek-Lacombe 后，可在南入口附近乘车返回 Canyon Meadows 巴士环线、Park & Ride 或 Cantrell Drive 入口。"
+          ]
+        }
+      ],
+      "takeaway": "截至11月24日，Calgary Transit 仍列电梯关闭至12月3日02:30；不能走楼梯的乘客可用替代接驳车，出门前核对官方服务更新。",
+      "sourceType": "公共交通服务提醒",
+      "source": "Calgary Transit",
+      "author": "Calgary Transit",
+      "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "Calgary Transit GTFS 当前仍列该电梯停运及替代接驳安排；未确认直接对应的预览图，使用纯文字卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
+        "title": "Escalator and elevator outages",
+        "publisher": "Calgary Transit",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "hindu-heritage-month-library-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 活动档案",
+      "sourceDate": "Calgary Public Library 活动列表列出日期：2026-11-21 12:00；详情页未注明发布日期",
+      "verifiedAt": "2026-11-22",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "活动档案｜中央图书馆印度教文化月活动原定11月21日举行",
+      "summary": "Calgary Public Library 与 Hindu Heritage Society 列出的11月21日活动已结束；原介绍含舞蹈、纱丽体验及 mehndi。",
+      "deck": "活动在 Central Library 举行；详情页没有确认结束时间、费用、报名要求、语言、年龄限制或剩余名额。",
+      "lede": "中央图书馆的 Hindu Heritage Month 活动在11月21日举行，日期已过。此条作为公共文化活动记录，不再提示读者前往。",
+      "sections": [
+        {
+          "heading": "活动介绍包含哪些体验",
+          "paragraphs": [
+            "Central Library 与 Hindu Heritage Society 合作，活动介绍包括艺术、音乐、舞蹈和印度传统文化学习，也提及纱丽穿戴体验、samosas 及免费 mehndi（手绘海娜）。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Public Library 活动详情",
+              "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library"
+            },
+            {
+              "label": "Calgary Public Library 当前活动列表",
+              "url": "https://www.calgarylibrary.ca/events-and-programs/events"
+            }
+          ]
+        },
+        {
+          "heading": "官方页面尚未确认的实用信息",
+          "paragraphs": [
+            "详情页没有列出结束时间、费用、是否需要报名、活动语言、年龄限制或剩余容量。出发前请查看图书馆当前页面；本文不把未列出的条件当作已确认。"
+          ]
+        }
+      ],
+      "takeaway": "图书馆活动列表列出11月21日12:00；报名、费用、时长及适龄信息仍应以 Calgary Public Library 当前页面为准。",
+      "sourceType": "公共图书馆文化活动",
+      "source": "Calgary Public Library",
+      "author": "Calgary Public Library",
+      "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "使用图书馆原始活动页来源卡片；未确认直接对应本场活动且适合远程显示的预览图。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
+        "title": "Hindu Heritage Month at the Library",
+        "publisher": "Calgary Public Library",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "diy-cloisonne-workshop-20261116",
+      "date": "2026-11-16",
+      "dateLabel": "11月16日 · 活动档案",
+      "sourceDate": "Heritage Arts Club 主办方票务页列出的活动日期：2026-11-21",
+      "verifiedAt": "2026-11-22",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "活动档案｜卡城掐丝珐琅工作坊原定11月21日举行",
+      "summary": "Heritage Arts Club 票务页列出的粤语与英语工作坊已于11月21日举行；价格和余位当时未确认。",
+      "deck": "场次语言以主办方当前票务页为准；页面没有列出价格或可用余位，不暗示有普通话场。",
+      "lede": "Heritage Arts Club 于11月21日在 The New Gallery 列出粤语与英语掐丝珐琅工作坊，场次已结束；本文保留为历史活动记录。",
+      "sections": [
+        {
+          "heading": "三个语言场次与地点",
+          "paragraphs": [
+            "主办方 Eventbrite 页面列出11月21日粤语场10:00–12:00，英语场13:00–15:00和15:30–17:30，地点为 The New Gallery（208 Centre Street S, Calgary）。每人只需参加一个两小时场次；页面没有列出普通话场。"
+          ],
+          "links": [
+            {
+              "label": "Heritage Arts Club：DIY Cloisonné Workshop 票务页",
+              "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380"
+            }
+          ]
+        },
+        {
+          "heading": "年龄和参与场次",
+          "paragraphs": [
+            "页面标注适合12岁以上，但本次未显示可核实的票价与余票数量；报名状态请以主办方票务页当前显示为准。"
+          ]
+        }
+      ],
+      "takeaway": "今天有一场粤语和两场英语时段，适合12岁以上；没有核实到普通话场、价格或实时余位。",
+      "sourceType": "中国传统工艺文化工作坊",
+      "source": "Heritage Arts Club",
+      "author": "Heritage Arts Club",
+      "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-16",
+        "reason": "Eventbrite 页面本次无法直接确认可用且与工作坊相关的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
+        "title": "DIY Cloisonne Workshop Tickets",
+        "publisher": "Heritage Arts Club",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
       "id": "calgary-2027-budget-proposal-20261115",
       "date": "2026-11-15",
       "dateLabel": "11月15日 · 本地资讯",
@@ -1563,14 +1991,14 @@
       "id": "bearspaw-edgemont-pressure-work-20261114",
       "date": "2026-11-14",
       "dateLabel": "11月14日 · 生活提醒",
-      "sourceDate": "市府维修公告发布于2026-11-13；Calgary Transit 当前 GTFS 更新列出封路时段至2026-11-28 23:59 Alberta Time",
-      "verifiedAt": "2026-11-23",
+      "sourceDate": "市府维修公告发布于2026-11-13；Calgary Transit 当前 GTFS 于2026-11-24仍列受影响时段至2026-11-28 23:59 Alberta Time",
+      "verifiedAt": "2026-11-24",
       "category": "生活提醒",
       "categoryClass": "official",
       "title": "Edgemont 水管维修与公交绕行仍列至11月28日：7条线路改道，站牌北移约45米",
-      "summary": "Calgary Transit 当前 GTFS 服务更新列出 Edgemont Drive 封路和站点调整至11月28日23:59；54、77、129、154、704、706、818受影响，#6250临时停用，临时站在北侧约45米处。市府曾预计维修7–10天，部分西北社区可能低水压，水仍符合饮用标准。",
-      "deck": "公交官方更新列出的结束时间是11月28日23:59；若提前完工或再延长，行程前看实时线路状态。",
-      "lede": "Edgemont 一带水管漏水维修仍影响道路和公交。Calgary Transit 当前服务数据列出的相关封路时段到11月28日23:59；市府原预计维修约7至10天，受影响社区部分住户维修时可能低水压，水质符合饮用标准。",
+      "summary": "Calgary Transit 11月24日仍列 Edgemont Drive 封路及站点调整至11月28日23:59；54、77、129、154、704、706、818受影响，#6250临时停用，临时站在北侧约45米处。市府曾提示部分住户维修时可能低水压，供水仍可饮用。",
+      "deck": "公交服务数据仍列封路至11月28日23:59；当天若有临时变化，以 Calgary Transit 实时更新为准。",
+      "lede": "Edgemont 一带的水管维修仍影响部分道路和公交。Calgary Transit 当前服务数据仍列西向 Edgemont Drive、北向 Edgemont Boulevard 相关车道封闭至11月28日23:59；受影响线路为54、77、129、154、704、706和818，北行站#6250临时停用，临时站在北侧约45米处。",
       "sections": [
         {
           "heading": "维修影响与饮水情况",
@@ -1601,15 +2029,15 @@
           ]
         }
       ],
-      "takeaway": "当前公交数据列出受影响时段至11月28日23:59；7条线路调整，#6250停用并设北侧临时站。部分住户可能低水压，水仍可饮用。",
+      "takeaway": "Calgary Transit 当前数据仍列受影响时段至11月28日23:59；7条线路调整，#6250停用并设北侧临时站。部分住户可能低水压，市府公告称水质符合饮用标准。",
       "sourceType": "市府水管维修公告与公交实时服务更新",
       "source": "The City of Calgary；Calgary Transit",
       "author": "The City of Calgary；Calgary Transit",
       "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-19",
-        "reason": "核对市府维修公告及公交当前服务更新；未将相关工程图片确认为可直接使用的来源预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-24",
+        "reason": "重新核对市府维修公告与 Calgary Transit 当前 GTFS；未确认与维修直接相关的来源预览图，保留纯文字卡片。"
       },
       "sourceEmbed": {
         "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
@@ -1679,58 +2107,58 @@
       "id": "bearspaw-week2-water-update-20261113",
       "date": "2026-11-13",
       "dateLabel": "11月13日 · 生活提醒",
-      "sourceDate": "City of Calgary Newsroom 原文发布于2026-11-13；Calgary Transit 当前 GTFS 服务更新列出83 Street交通时段至2026-11-23 23:00 Alberta Time",
-      "verifiedAt": "2026-11-23",
+      "sourceDate": "市府工程更新发布于2026-11-23；Calgary Transit GTFS 中53、721路线的83 Street公交调整时段止于2026-11-23 23:00 Alberta Time；市府工程页仍列道路施工至2026年12月中旬",
+      "verifiedAt": "2026-11-24",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "Bearspaw 接管工程仍在赶工：33 Avenue周边施工，83 Street公交调整到11月23日晚",
-      "summary": "市府11月20日更新称，33 Avenue与89 Street一带从11月15日晚开始全天候施工，预计约两周；Calgary Transit 仍列83 Street NW 单线交替通行与公交改站，53和721路线更新至11月23日23:00。第四级限水继续有效。",
-      "deck": "市府称33 Avenue与89 Street附近预计24小时施工约两周；公交具体绕行以Calgary Transit当日更新为准。",
-      "lede": "Bearspaw South Feeder Main 接管工程进入连续作业阶段。市府11月20日更新称，33 Avenue与89 Street NW附近从11月15日晚开始全天候施工、预计约两周；Calgary Transit 的另一项更新列出83 Street施工绕行与53、721路线受影响至11月23日晚。",
+      "title": "83街公交临时调整已到期：33 Avenue 管线工程仍在继续",
+      "summary": "Calgary Transit 的53、721路83 Street临时站点调整时段已于11月23日23:00结束，当前列表没有续期记录；这不等于道路工程结束。市府11月23日仍称83 Street与33 Avenue附近接管施工进行中，整体道路安排列至12月中旬。",
+      "deck": "公交改站时段已过；市府仍列道路施工，出发前分别核对公交实时信息和现场标志。",
+      "lede": "如果你常坐53或721路经过 Bowness 一带，原先那条公交调整已到期；但施工还没完。Calgary Transit 当前列表没有续列截至11月23日晚的改站通知，市府工程页则仍把83 Street与33、34 Avenue附近的道路施工列到12月中旬。",
       "sections": [
         {
-          "heading": "限水与工程施工是两回事",
+          "heading": "公交通知到期，不代表道路已完工",
           "paragraphs": [
-            "市府限水页当前仍列全市第四级限水、禁止户外用水。11月21日公布的最新日用水量为周五4.82亿升，低于5亿升绿色线；绿色目标达成不等于接管工程完成或限水解除。"
+            "Calgary Transit GTFS 列出的53、721路临时改站时段截至11月23日23:00；11月24日查看当前列表时，没有看到该条通知的续期记录。临时站是否恢复，以线路当天显示为准。"
           ],
           "links": [
             {
-              "label": "市府：当前限水状态和每日用水数据",
-              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
+              "label": "Calgary Transit 当前服务更新列表",
+              "url": "https://www.calgarytransit.com/content/transit/en/home/lists/GTFS-list.html"
             }
           ]
         },
         {
-          "heading": "33 Avenue及83 Street附近的安排",
+          "heading": "市府仍列33 Avenue周边施工",
           "paragraphs": [
-            "市府11月20日工程更新称，33 Avenue与89 Street附近将从11月15日晚开始全天候施工约两周；同一公告提示，83 Street NW与33 Avenue NW一带有单线交替通行和行人绕行，车辆不能由83 Street向西转入33 Avenue。Calgary Transit GTFS 列出的83 Street单车道和53、721路线更新截至11月23日23:00。施工与交通安排可能变化，经过时看现场标志和公交实时信息。"
+            "市府11月23日工程更新称，83 Street与33 Avenue附近仍在接管管线施工；工程页面把83 Street及33、34 Avenue周边道路封闭安排列至12月中旬。公交通知与施工进度是两回事，驾车、步行经过时按现场标志绕行。"
           ],
           "links": [
             {
-              "label": "市府11月20日：Bearspaw连接施工与水量更新",
-              "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/"
+              "label": "市府11月23日：主管线连接施工进度",
+              "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/"
             },
             {
-              "label": "Calgary Transit：服务更新列表",
-              "url": "https://www.calgarytransit.com/content/transit/en/home/lists/GTFS-list.html"
+              "label": "市府 Bearspaw 工程与道路影响地图",
+              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main.html"
             }
           ]
         }
       ],
-      "takeaway": "全市第四级限水仍有效；33 Avenue施工预计约两周，83 Street公交调整列至11月23日23:00，出行前确认实时状态。",
+      "takeaway": "83 Street 的53、721路临时改站已到期，不能沿用旧站点信息；道路工程仍在进行，搭车看 Calgary Transit 实时更新，开车或步行按现场指示。",
       "sourceType": "供水限制与施工更新",
-      "source": "City of Calgary Newsroom；City of Calgary；Calgary Transit",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
+      "source": "City of Calgary；Calgary Transit",
+      "author": "City of Calgary；Calgary Transit",
+      "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-22",
-        "reason": "核对市府施工更新与Calgary Transit实时服务数据；原文未确认可用的直接工程配图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-24",
+        "reason": "重新核对市府11月23日施工更新和 Calgary Transit 当前GTFS；未确认直接对应的新闻预览图，使用纯文字卡片。"
       },
       "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/water-use-stays-in-the-green-zone-as-connection-work-progresses-on-new-bearspaw-south-feeder-main/",
-        "title": "Water use stays in the green zone as connection work progresses on new Bearspaw South Feeder Main",
-        "publisher": "City of Calgary Newsroom",
+        "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
+        "title": "Water demand stays low, work on schedule as connection of new feeder main continues",
+        "publisher": "The City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       }
@@ -2074,54 +2502,54 @@
       "id": "bearspaw-water-stage4-nov11-2026",
       "date": "2026-11-11",
       "dateLabel": "11月11日 · 生活提醒",
-      "sourceDate": "卡城市府限水页更新于2026-11-22；用水数字为2026-11-21（周六）",
-      "verifiedAt": "2026-11-23",
+      "sourceDate": "市府限水页面于2026-11-23更新，最近日用水统计为2026-11-22（周日）490百万升；市府11月23日公告说明WinSport有条件获准每晚最多用水300万升造雪",
+      "verifiedAt": "2026-11-24",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "卡城全市第四级限水仍生效：户外用水暂停，周六用水4.76亿升",
-      "summary": "市府11月22日更新：周六用水4.76亿升，仍低于5亿升绿色目标；全市第四级限水有效，所有户外用水暂停，室内仍请节水。",
-      "deck": "水量连续达标是好消息，但限水还没有解除。家里怎么用水、花园能不能浇，先看清第四级规则。",
-      "lede": "截至11月23日复核，卡城市府仍列全市第四级限水，户外用水暂停。市府11月22日更新的最近统计为周六用水4.76亿升，低于每天5亿升绿色目标；这不代表可以恢复户外浇水。",
+      "title": "卡城仍在第四级限水：WinSport获准有条件夜间造雪",
+      "summary": "市府11月23日更新：周日用水4.90亿升，仍低于5亿升目标；第四级限水没有解除，户外用水仍暂停。市府允许 WinSport 在天气允许时每晚最多用300万升造雪，并可随时撤回。",
+      "deck": "WinSport 的个别许可不代表一般住户可以户外用水；全市第四级限制仍有效。",
+      "lede": "卡城周日用水量仍在市府目标内，但第四级限水没有解除。市府给 WinSport 一项有条件的造雪许可；一般住户的户外用水限制照旧。",
       "sections": [
         {
-          "heading": "用水达标不等于限水解除",
+          "heading": "周日用水4.90亿升，限制仍在",
           "paragraphs": [
-            "市府11月11日记录，11月10日用水量为4.73亿升，当时连续七天处于目标范围。这个数字不是今天的用水量；当前限制是否解除要看最新页面。"
+            "市府11月23日公布，周日卡城用水4.90亿升，低于每天5亿升的目标。市府当前页面仍明确写明全市第四级限水有效，户外用水不允许，并要求居民继续节约室内用水。"
           ]
         },
         {
-          "heading": "11月22日复核的限水与用水数据",
+          "heading": "WinSport是有条件的个别例外",
           "paragraphs": [
-            "市府当前页面仍明确显示全市第四级限制有效，所有户外用水暂停，并请居民减少室内用水。页面11月22日更新称，周六用水为4.76亿升，低于每日5亿升绿色目标；这是截至周六的统计，不代表实时读数。"
+            "市府说明，天气允许时，WinSport每晚可最多使用300万升水造雪；市府会密切监测系统和用水情况，条件变化时可以撤回许可。即使限水之后解除，WinSport在主管线完全投入使用及系统调整完成前，造雪能力仍约为满负荷的40%。这不是对其他场地或住户的普遍放宽。"
           ],
           "links": [
             {
-              "label": "市府当前限水规则与每日数据",
+              "label": "市府：第四级限水规则及WinSport许可说明",
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html"
             },
             {
-              "label": "Bearspaw 主管线工程更新",
-              "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main.html"
+              "label": "市府11月23日工程与用水更新",
+              "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/"
             }
           ]
         }
       ],
-      "takeaway": "截至11月23日复核，第四级限水仍有效。市府11月22日公布周六用水4.76亿升；绿色目标达成不等于限水解除。",
+      "takeaway": "第四级限水仍在全市生效，户外用水仍暂停；WinSport获准在天气允许时每晚最多使用300万升造雪，许可可能因供水状况变化而撤回。",
       "sourceType": "市府供水工程与限水公告",
-      "source": "City of Calgary",
-      "author": "City of Calgary",
-      "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
       "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-22",
-        "reason": "11月22日重新核对市府限水规则与最新水量更新；未确认直接相关配图，使用纯文字来源卡片。"
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "市府11月23日更新附有主管线施工现场照片，图片直接对应本篇供水工程；来源卡远程显示原图并链接回市府公告。"
       },
       "sourceEmbed": {
-        "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main/water-restrictions.html",
-        "title": "Stage 4 water restrictions in effect",
-        "publisher": "City of Calgary",
-        "thumbnail": null,
-        "thumbnailAlt": null
+        "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
+        "title": "Water demand stays low, work on schedule as connection of new feeder main continues",
+        "publisher": "The City of Calgary",
+        "thumbnail": "https://content.presspage.com/uploads/1485/07cb572a-8d6e-4183-a16d-c8e44bbdacdf/1920_waterdemandnov.23.jpg?10000",
+        "thumbnailAlt": "Bearspaw South Feeder Main施工现场"
       }
     },
     {
@@ -4288,37 +4716,41 @@
       "id": "parkdale-water-repairs-20261029",
       "date": "2026-10-29",
       "dateLabel": "10月29日整理",
-      "sourceDate": "市府Bearspaw feeder main工程页于2026-11-19仍列Parkdale Boulevard车道及Bow River Pathway绕行至12月",
-      "verifiedAt": "2026-11-23",
+      "sourceDate": "市府11月23日工程更新称Parkdale五处已完成铺管、正在回填和修复路面；市府工程页仍列车道及Bow River Pathway绕行至12月初；公交GTFS列路线1、9、90、104调整至2026-12-02 22:00 Alberta Time",
+      "verifiedAt": "2026-11-24",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "Parkdale Boulevard 多个工区施工仍在进行：Bow River Pathway 也需绕行",
-      "summary": "市府11月22日页面仍列 Parkdale Boulevard 多个施工点及道路、Bow River Pathway 绕行，工程预计持续至12月第一周；11月16日更新称五段近期维修、一段延期至2027年。",
+      "title": "Parkdale 水管铺设已完成，回填和修路继续：4条公交绕行到12月2日",
+      "summary": "市府11月23日称 Parkdale 五处铺管已完成，正在回填和修复路面；项目页仍列车道与 Bow River Pathway 绕行至12月初。Calgary Transit 仍列路线1、9、90、104站点调整至12月2日22:00。",
       "deck": "这是对 10 月 29 日提醒的状态更新，出发前仍应查市府最新施工图和现场标志。",
-      "lede": "这条提醒保留原始日期2026年10月29日。市府11月17日工程更新称，Parkdale Boulevard 上的额外管道维修仍在进行，多处正在安装、焊接替换管段；项目页于11月18日仍列出车道封闭和 Bow River Pathway 绕行，个别工区当日状态以现场标牌和实时交通图为准。",
+      "lede": "Parkdale 一带的工程进入回填和路面修复阶段，但绕行还没有结束。市府11月23日说，五处铺管已完成；Calgary Transit 仍列四条公交线路调整到12月2日晚上，Bow River Pathway部分路段也要按现场标志绕行。",
       "sections": [
         {
-          "heading": "Parkdale 一带目前仍有施工影响",
+          "heading": "工程进度到了回填和修复",
           "paragraphs": [
-            "市府工程页于11月19日仍列出 Parkdale Boulevard 车道封闭和 Bow River Pathway 绕行，预估施工安排延续至12月；另一条市府进度公告于11月18日仍称 Parkdale 水管维修在推进。"
+            "市府11月23日更新称，Parkdale Boulevard 与 Memorial Drive NW沿线五处铺管已经完成，后续正在回填和修复路面。市府工程地图仍列 Parkdale 车道和 Bow River Pathway 绕行，预计延续到12月初；具体开放范围会随施工变化。"
           ],
           "links": [
             {
-              "label": "市府2026年11月17日 Bearspaw 工程进度",
-              "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/"
+              "label": "市府11月23日：主管线连接施工进度",
+              "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/"
             },
             {
-              "label": "市府 Parkdale Boulevard Repairs 项目页",
+              "label": "市府 Bearspaw 工程与 Parkdale 绕行图",
               "url": "https://www.calgary.ca/planning/water/bearspaw-feeder-main.html"
             }
           ]
         },
         {
-          "heading": "步行和开车都留出绕行时间",
+          "heading": "公交改站仍列到12月2日晚",
           "paragraphs": [
-            "若要经过 Parkdale 或 Bow River Pathway，出发前查看市府工程页面和卡城实时路况，按现场行人及车辆指示绕行。本文不推断具体工区每天的开放时段。"
+            "Calgary Transit 当前 GTFS 将 Parkdale Blvd 东向施工及站点调整列到12月2日22:00，影响1、9、90、104路。临时站点包括东向 Parkdale Blvd @ 29 St；周边其他临时站按线路不同，出发前请核对实时服务列表。"
           ],
           "links": [
+            {
+              "label": "Calgary Transit 当前服务更新列表",
+              "url": "https://www.calgarytransit.com/content/transit/en/home/lists/GTFS-list.html"
+            },
             {
               "label": "卡城实时路况",
               "url": "https://www.calgary.ca/roads/conditions/traffic.html"
@@ -4326,22 +4758,22 @@
           ]
         }
       ],
-      "takeaway": "Parkdale Boulevard 维修仍在持续，Bow River Pathway 也有绕行安排；走这一路段前先看当日标牌和市府最新图示。",
+      "takeaway": "Parkdale 五处铺管已完成，现场仍在回填和修复；路线1、9、90、104的公交调整列至12月2日22:00，步行或开车仍按市府图示和现场标志。",
       "sourceType": "市府公告",
-      "source": "City of Calgary Newsroom",
-      "author": "City of Calgary",
-      "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/",
+      "source": "The City of Calgary；Calgary Transit",
+      "author": "The City of Calgary；Calgary Transit",
+      "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
       "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/water-use-still-in-the-green-zone-as-bearspaw-connection-work-progresses-on-schedule/",
-        "title": "Water use still in the green zone as Bearspaw connection work progresses on schedule",
-        "publisher": "City of Calgary Newsroom",
+        "url": "https://newsroom.calgary.ca/water-demand-stays-low-work-on-schedule-as-connection-of-new-feeder-main-continues/",
+        "title": "Water demand stays low, work on schedule as connection of new feeder main continues",
+        "publisher": "The City of Calgary",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-18",
-        "reason": "11月17日市府工程更新及当前项目页已复核；未确认与 Parkdale 维修直接对应的可用预览图，保留纯文字来源卡片。"
+        "checkedAt": "2026-11-24",
+        "reason": "核对市府11月23日进度、项目绕行页和公交GTFS；未确认可直接对应道路现场的预览图，使用纯文字卡片。"
       }
     },
     {
@@ -4641,6 +5073,60 @@
         "status": "text-source-card",
         "checkedAt": "2026-10-28",
         "reason": "检查警方新闻稿的预览图，仅发现警方通用标志；采用纯文字来源卡片。"
+      }
+    },
+    {
+      "id": "calgary-volunteer-tree-planting-archive-20261028",
+      "date": "2026-10-28",
+      "dateLabel": "目标日期补档 · 实际核对日期 2026-11-24",
+      "sourceDate": "卡城市府新闻稿发布于2026-10-28；植树数据统计2026年6月至9月",
+      "verifiedAt": "2026-11-24",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "补档｜卡城今夏志愿者种下8570棵树，明春植树季可再关注",
+      "summary": "卡城市府10月28日公布，超过1200名志愿者在今年6月至9月参加35场活动、走访19个社区，种下8570棵树；下一季种植机会预计在2027年春季返回。",
+      "deck": "Taradale 的 Ted Harrison School 一处就种下2000多棵；这是已结束的植树季回顾，不是现在开放报名。",
+      "lede": "历史补档：这条文章对应10月28日日期组，实际于2026年11月24日核对后补入。市府回顾，今年春夏有超过1200名志愿者参与植树；下一季机会要等明年春天的市府公告。",
+      "sections": [
+        {
+          "heading": "一个植树季，19个社区参与",
+          "paragraphs": [
+            "市府10月28日新闻稿说，2026年6月至9月，志愿者在19个社区的21处地点参加35场种植活动，共种下8570棵树，其中包括1500棵小树苗。Taradale 的 Ted Harrison School 周边通过五场活动种下2000多棵。"
+          ]
+        },
+        {
+          "heading": "想参加，留意明年春季公告",
+          "paragraphs": [
+            "市府表示，志愿植树机会预计于2027年春季再开放。现在没有可报名的当季场次；可先关注市府 Volunteer Tree Planting Program 页面，等下一轮日期公布后再确认报名条件和地点。"
+          ],
+          "links": [
+            {
+              "label": "卡城市府：2026年植树季回顾",
+              "url": "https://newsroom.calgary.ca/calgary-volunteers-plant-more-than-8500-trees-to-help-grow-our-urban-forest/"
+            },
+            {
+              "label": "卡城市府：志愿机会",
+              "url": "https://www.calgary.ca/get-involved/volunteer-opportunities.html"
+            }
+          ]
+        }
+      ],
+      "takeaway": "这是10月28日市府新闻稿的历史回顾：2026年植树季已经结束；想参与下一季，等市府2027年春季公布新机会。",
+      "sourceType": "卡城市府社区植树项目回顾",
+      "source": "The City of Calgary",
+      "author": "The City of Calgary",
+      "url": "https://newsroom.calgary.ca/calgary-volunteers-plant-more-than-8500-trees-to-help-grow-our-urban-forest/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-24",
+        "reason": "市府原文提供与志愿植树直接相关的项目照片，来源卡远程显示原图并链接回新闻稿。"
+      },
+      "sourceEmbed": {
+        "url": "https://newsroom.calgary.ca/calgary-volunteers-plant-more-than-8500-trees-to-help-grow-our-urban-forest/",
+        "title": "Calgary volunteers plant more than 8,500 trees to help grow our urban forest",
+        "publisher": "The City of Calgary",
+        "thumbnail": "https://content.presspage.com/uploads/1485/4f8ef474-6bff-4a51-a69c-f52f8784e61b/1920_img_2412.jpg?10000",
+        "thumbnailAlt": "卡城市府志愿者植树项目活动照片"
       }
     },
     {
@@ -5927,216 +6413,6 @@
         "url": "https://newsroom.calgary.ca/investigation-into-fatal-collision-continues/",
         "title": "Investigation into fatal collision continues",
         "publisher": "Calgary Police Service",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "calgary-fatal-shooting-bowness-20261116",
-      "date": "2026-11-16",
-      "dateLabel": "11月16日 · 本地资讯",
-      "sourceDate": "警方通报日期：2026-11-15；警方称枪击约于2026-11-15 08:50发生",
-      "verifiedAt": "2026-11-16",
-      "category": "本地资讯",
-      "categoryClass": "official",
-      "title": "警方通报 Bowness 超市停车场致命枪击：事发于昨天上午",
-      "summary": "警方称，11月15日上午约8:50，Real Canadian Superstore 停车场发生枪击，一名男子被发现死亡。警方在当日通报时称相信属孤立事件、当时没有持续公共风险，且尚无人被捕。",
-      "deck": "这是警方11月15日发布的案件通报；其中关于公共风险和拘捕情况仅代表通报发布时的信息。",
-      "lede": "Calgary Police Service 于11月15日通报，Bowness 的 Real Canadian Superstore 停车场发生致命枪击。以下仅按警方原文记录地点、时间和当时公布的调查状态，不推测身份或动机。",
-      "sections": [
-        {
-          "heading": "警方公布的时间与地点",
-          "paragraphs": [
-            "警方称，枪击约于11月15日上午8:50发生在 3400 69 St NW 的 Real Canadian Superstore 停车场。警员到场后发现一名男子死亡。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Police Service 原始通报",
-              "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/"
-            }
-          ]
-        },
-        {
-          "heading": "风险评估有明确的通报时点",
-          "paragraphs": [
-            "警方在11月15日发布通报时表示，他们认为这是孤立事件，当时没有持续的公众风险；同一通报称尚无人被拘捕。这些是发布时的状态，不应被理解为之后的更新。"
-          ]
-        },
-        {
-          "heading": "警方当时征集目击及影像线索",
-          "paragraphs": [
-            "原通报请目击者或持有行车记录仪、监控录像的人致电403-266-1234。若需了解案件后续，应以警方原文及其最新公告为准。"
-          ]
-        }
-      ],
-      "takeaway": "警方11月15日通报称一名男子死亡，并记录了当时的风险评估与线索征集；本文不推测受害者身份、嫌疑人或动机。",
-      "sourceType": "警方通报",
-      "source": "Calgary Police Service",
-      "author": "Calgary Police Service",
-      "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-16",
-        "reason": "使用警方原始通报来源卡片；未确认可直接对应案件且适合展示的来源页图片。"
-      },
-      "sourceEmbed": {
-        "url": "https://newsroom.calgary.ca/police-investigate-fatal-shooting-26527754/",
-        "title": "Police Investigate Fatal Shooting",
-        "publisher": "Calgary Police Service",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "canyon-meadows-elevator-modernization-20261116",
-      "date": "2026-11-16",
-      "dateLabel": "11月16日 · 生活提醒",
-      "sourceDate": "Calgary Transit 当前电梯停运页面；停运自2026-11-09 04:20起，预计至2026-12-03 02:30",
-      "verifiedAt": "2026-11-23",
-      "category": "生活提醒",
-      "categoryClass": "official",
-      "title": "Canyon Meadows 站电梯维修至12月3日：无法走楼梯可搭接驳车",
-      "summary": "Calgary Transit 列出电梯因现代化改造关闭，预计12月3日凌晨2:30恢复；站台目前可经楼梯或扶梯到达，无法使用楼梯的乘客可搭替代接驳车。",
-      "deck": "电梯停用不等于车站完全无法进入；接驳车连接 Canyon Meadows 与 Fish Creek-Lacombe 红线站。",
-      "lede": "Calgary Transit 当前停运页面列出 Canyon Meadows Station 电梯自11月9日凌晨起关闭，预计12月3日凌晨结束改造。需要无障碍替代路线的乘客可按官方说明使用接驳车。",
-      "sections": [
-        {
-          "heading": "电梯关闭期间的车站通行",
-          "paragraphs": [
-            "页面列出的关闭时段为11月9日04:20至12月3日02:30，原因是现代化改造。站台仍可通过楼梯或扶梯到达，因此不要把电梯停运理解为所有乘客都无法进站。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Transit 电梯停运与替代安排",
-              "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html"
-            }
-          ]
-        },
-        {
-          "heading": "无法使用楼梯时的接驳方向",
-          "paragraphs": [
-            "无法使用楼梯的乘客可从 Canyon Meadows 巴士环线搭接驳车前往 Fish Creek-Lacombe，以接驳红线。乘火车抵达 Fish Creek-Lacombe 后，可在南入口附近乘车返回 Canyon Meadows 巴士环线、Park & Ride 或 Cantrell Drive 入口。"
-          ]
-        }
-      ],
-      "takeaway": "计划乘车且不能走楼梯者，可按 Calgary Transit 页面所列两端乘车点安排接驳；出发前查看官方页面的最新状态。",
-      "sourceType": "公共交通服务提醒",
-      "source": "Calgary Transit",
-      "author": "Calgary Transit",
-      "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-16",
-        "reason": "使用 Calgary Transit 原始服务页面来源卡片；未确认直接相关且适合作为预览的图片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.calgarytransit.com/rider-information/escalator-outages.html",
-        "title": "Escalator and elevator outages",
-        "publisher": "Calgary Transit",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "hindu-heritage-month-library-20261116",
-      "date": "2026-11-16",
-      "dateLabel": "11月16日 · 活动档案",
-      "sourceDate": "Calgary Public Library 活动列表列出日期：2026-11-21 12:00；详情页未注明发布日期",
-      "verifiedAt": "2026-11-22",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "活动档案｜中央图书馆印度教文化月活动原定11月21日举行",
-      "summary": "Calgary Public Library 与 Hindu Heritage Society 列出的11月21日活动已结束；原介绍含舞蹈、纱丽体验及 mehndi。",
-      "deck": "活动在 Central Library 举行；详情页没有确认结束时间、费用、报名要求、语言、年龄限制或剩余名额。",
-      "lede": "中央图书馆的 Hindu Heritage Month 活动在11月21日举行，日期已过。此条作为公共文化活动记录，不再提示读者前往。",
-      "sections": [
-        {
-          "heading": "活动介绍包含哪些体验",
-          "paragraphs": [
-            "Central Library 与 Hindu Heritage Society 合作，活动介绍包括艺术、音乐、舞蹈和印度传统文化学习，也提及纱丽穿戴体验、samosas 及免费 mehndi（手绘海娜）。"
-          ],
-          "links": [
-            {
-              "label": "Calgary Public Library 活动详情",
-              "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library"
-            },
-            {
-              "label": "Calgary Public Library 当前活动列表",
-              "url": "https://www.calgarylibrary.ca/events-and-programs/events"
-            }
-          ]
-        },
-        {
-          "heading": "官方页面尚未确认的实用信息",
-          "paragraphs": [
-            "详情页没有列出结束时间、费用、是否需要报名、活动语言、年龄限制或剩余容量。出发前请查看图书馆当前页面；本文不把未列出的条件当作已确认。"
-          ]
-        }
-      ],
-      "takeaway": "图书馆活动列表列出11月21日12:00；报名、费用、时长及适龄信息仍应以 Calgary Public Library 当前页面为准。",
-      "sourceType": "公共图书馆文化活动",
-      "source": "Calgary Public Library",
-      "author": "Calgary Public Library",
-      "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-16",
-        "reason": "使用图书馆原始活动页来源卡片；未确认直接对应本场活动且适合远程显示的预览图。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.calgarylibrary.ca/events-and-programs/programs/hindu-heritage-month-at-the-library",
-        "title": "Hindu Heritage Month at the Library",
-        "publisher": "Calgary Public Library",
-        "thumbnail": null,
-        "thumbnailAlt": null
-      }
-    },
-    {
-      "id": "diy-cloisonne-workshop-20261116",
-      "date": "2026-11-16",
-      "dateLabel": "11月16日 · 活动档案",
-      "sourceDate": "Heritage Arts Club 主办方票务页列出的活动日期：2026-11-21",
-      "verifiedAt": "2026-11-22",
-      "category": "吃喝玩乐",
-      "categoryClass": "culture",
-      "title": "活动档案｜卡城掐丝珐琅工作坊原定11月21日举行",
-      "summary": "Heritage Arts Club 票务页列出的粤语与英语工作坊已于11月21日举行；价格和余位当时未确认。",
-      "deck": "场次语言以主办方当前票务页为准；页面没有列出价格或可用余位，不暗示有普通话场。",
-      "lede": "Heritage Arts Club 于11月21日在 The New Gallery 列出粤语与英语掐丝珐琅工作坊，场次已结束；本文保留为历史活动记录。",
-      "sections": [
-        {
-          "heading": "三个语言场次与地点",
-          "paragraphs": [
-            "主办方 Eventbrite 页面列出11月21日粤语场10:00–12:00，英语场13:00–15:00和15:30–17:30，地点为 The New Gallery（208 Centre Street S, Calgary）。每人只需参加一个两小时场次；页面没有列出普通话场。"
-          ],
-          "links": [
-            {
-              "label": "Heritage Arts Club：DIY Cloisonné Workshop 票务页",
-              "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380"
-            }
-          ]
-        },
-        {
-          "heading": "年龄和参与场次",
-          "paragraphs": [
-            "页面标注适合12岁以上，但本次未显示可核实的票价与余票数量；报名状态请以主办方票务页当前显示为准。"
-          ]
-        }
-      ],
-      "takeaway": "今天有一场粤语和两场英语时段，适合12岁以上；没有核实到普通话场、价格或实时余位。",
-      "sourceType": "中国传统工艺文化工作坊",
-      "source": "Heritage Arts Club",
-      "author": "Heritage Arts Club",
-      "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
-      "imageAttempt": {
-        "status": "text-source-card",
-        "checkedAt": "2026-11-16",
-        "reason": "Eventbrite 页面本次无法直接确认可用且与工作坊相关的预览图，使用纯文字来源卡片。"
-      },
-      "sourceEmbed": {
-        "url": "https://www.eventbrite.ca/e/diy-cloisonne-workshop-tickets-2004180016380",
-        "title": "DIY Cloisonne Workshop Tickets",
-        "publisher": "Heritage Arts Club",
         "thumbnail": null,
         "thumbnailAlt": null
       }
