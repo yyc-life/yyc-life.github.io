@@ -1,8 +1,228 @@
 {
-  "updatedAt": "2026-11-24",
-  "updatedLabel": "2026年11月24日 · 今日4篇 + 1条持续追踪",
-  "editionNote": "本次实际核对日期：2026-11-24。今日新增4张独立文章卡：资讯2（Elbow Drive等三起火灾；三名卡城警员被控）、吃喝玩乐2（11月27日EDM现场；Spruce Meadows周末圣诞市集）。海底捞为同一篇持续更新Tracker，首页窄条单独显示，不计入每日卡片；市府数据列有牌照记录，11月25日试营业仍未获店方原页确认。历史补档：为最早不足3篇的10月28日组补入市府志愿植树季回顾，现为3张（资讯2、吃喝玩乐1）；补档日期与核对日期分列。中文线索查看卡城网 KaCheng、52Calgary、唐人街活动日历和卡城中华文化中心/耆英会页面；英文核对市府新闻稿、Police Review Commission/ASIRT、Calgary Transit、Spruce Meadows、The Arrowhead/Showpass等原始页面。Life Calgary本次访问超时，calgary.cn跳转目标不可访问，CBC受robots限制；微信号canadawelife、fanta7kaerjiali未登录访问。唐人街BIA AGM属组织会议；耆英会页面以长者旅游和常设课程为主；未找到适合目标读者的华人/东亚近期特别活动。历史组总量、各日期类别和提醒需以本次JSON统计为准。",
+  "updatedAt": "2026-11-25",
+  "updatedLabel": "2026年11月25日 · 今日4篇 + 1条持续追踪",
+  "editionNote": "本次实际核对日期：2026-11-25。今日新增4张独立文章卡：资讯2（CBE上一学年财务结余口径；明日新移民招聘与安居展）、吃喝玩乐2（今晚 Hitmen 主场；周末《圣诞怪杰》电影配现场乐团）。海底捞继续使用同一篇 isTracker 记录和首页常驻窄条，不另建每日卡；市府牌照数据列 Licensed，品牌官方 Linktree 已列 Brentwood 预约/排队入口，但页面未显示预约时段或现场排队状态，11月25日试营业仍无直接店方确认。中文线索实际查看 KaCheng（今日列出卡城预算、人手及公共卫生等线索）、52Calgary（本地活动条目多为市集/灰杯，部分资讯较旧）、唐人街活动日历、卡城中华文化中心、华人耆英会活动页；Life Calgary 本次超时，calgary.cn 跳转至无可读内容页面，微信号 canadawelife 与 fanta7kaerjiali 未登录查看。英文来源查看 LiveWire Calgary、Global News、市府预算页、CBE 11月24日理事会财务报告、Calgary Transit、阿省呼吸道病毒仪表板、Scotiabank Saddledome/Ticketmaster、Calgary Philharmonic Orchestra、Career Fair Canada/Eventbrite。中文社区页未找到本周适合目标读者的明确日期特别活动：唐人街日历列出12月1日BIA组织会议；中华文化中心主要是常设课程，耆英会近期项目以长者服务为主；均未用于凑数。即时活动筛查核实了11月25日Hitmen、11月26日Newcomer Fair、11月27–28日《圣诞怪杰》及11月27–29日Spruce Meadows市集；后者仍按前日文章保留，周末 EDM 页面也复核为11月27日18+场次。CBE PDF 由官方站点读取并核对：年度运营结余约1796.5万，不等于可长期支出的项目余额。历史范围2026-10-20至11-24共36个日期组，当前统计均至少3篇；今天未新增历史补档组。过期活动均保留为明确档案或已不在首页推荐位；仍有效的第四级限水、Parkdale/Edgemont绕行、Canyon Meadows电梯维修、Green Cart冬季频率及流感接种渠道已回到官方页复核。流感数字更新为截至11月21日：全省6622宗、Calgary Zone 3390宗。",
   "articles": [
+    {
+      "id": "cbe-2025-26-surplus-context-20261125",
+      "date": "2026-11-25",
+      "dateLabel": "11月25日 · 本地资讯",
+      "sourceDate": "Calgary Board of Education 于2026-11-24理事会会议提交2025–26年度财务结果；报告封面未单独标注发布日期。",
+      "verifiedAt": "2026-11-25",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "卡城公校去年结余约1800万：CBE报告提醒，这不是可长期花的钱",
+      "summary": "卡城公立教育局（CBE）11月24日提交的2025–26年度财务结果列出约1796.5万加元运营结余。报告说明，结余含受限项目、非现金及时间差等因素，不能当作长期聘人或办项目的稳定资金。",
+      "deck": "看到“学校有结余”先别等同于“学校马上有更多预算”；报告强调结余并非可持续的长期资金来源。",
+      "lede": "卡城公立教育局（CBE）刚公布的上一学年财务结果列出约1800万加元运营结余。对有孩子在公校的家庭来说，关键在后半句：CBE报告解释，账面结余里有受限制用途、非现金项目和收支时间差，不能直接理解成学校能长期多聘老师或新增项目。",
+      "sections": [
+        {
+          "heading": "这笔结余是什么口径",
+          "paragraphs": [
+            "CBE提交理事会的2025–26年度财务结果列出1796.5万加元年度运营结余，约占预算支出的1.1%。报告说，这个数字比第三季度预测的3590万加元低1790万；部分收入与支出变化和学生人数、拨款以及年度末结算有关。",
+            "报告也提醒，运营结余包括受限制活动、非现金收入和费用、时间差，以及理事会已批准的储备安排等因素。"
+          ]
+        },
+        {
+          "heading": "为何家长不该把它当成“可用余额”",
+          "paragraphs": [
+            "CBE在报告中明确写到，这笔运营结余不构成可持续的永久人员编制或项目资金来源。报告提到，年度结余会进入运营储备策略，用于满足财务稳定要求；它不是各校可以直接分配的新预算。",
+            "这份财务结果没有宣布新增学校项目或即时服务调整。家长若在意某所学校的课程、支持人员或资源安排，仍需看本校沟通和CBE后续预算文件，不能只凭一个结余数字推断。"
+          ],
+          "links": [
+            {
+              "label": "CBE 11月24日理事会公开议程及2025–26财务结果（官方PDF）",
+              "url": "https://www.cbe.ab.ca/documents/fa727e06-20e6-44e8-af19-18145a014cd3/20261124-public-agenda-regular-meeting.pdf?fingerprint=ppb20261119222334"
+            },
+            {
+              "label": "LiveWire Calgary 对理事会报告的报道",
+              "url": "https://livewirecalgary.com/2026/11/24/fewer-students-more-surplus-cbe-presents-2025-26-financial-report/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "CBE报告列出约1796.5万加元运营结余，但明确说明其中含受限制、非现金和时间差等因素，不能视为长期聘人或新增项目的可用资金。",
+      "sourceType": "学校董事会年度财务结果",
+      "source": "Calgary Board of Education",
+      "author": "卡村 KACUN · AI 资讯整理",
+      "url": "https://www.cbe.ab.ca/documents/fa727e06-20e6-44e8-af19-18145a014cd3/20261124-public-agenda-regular-meeting.pdf?fingerprint=ppb20261119222334",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-25",
+        "reason": "官方原始来源是理事会财务报告PDF，没有确认与该报告直接对应的预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://www.cbe.ab.ca/documents/fa727e06-20e6-44e8-af19-18145a014cd3/20261124-public-agenda-regular-meeting.pdf?fingerprint=ppb20261119222334",
+        "title": "Financial Results 2025-26",
+        "publisher": "Calgary Board of Education",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-newcomer-fair-20261126",
+      "date": "2026-11-25",
+      "dateLabel": "11月25日 · 本地资讯",
+      "sourceDate": "Career Fair Canada 主办方页面列出活动日期为2026-11-26；页面未标发布日期。",
+      "verifiedAt": "2026-11-25",
+      "category": "本地资讯",
+      "categoryClass": "official",
+      "title": "新移民找工作或安居资源，明天可去 Stampede Park 集中问一圈",
+      "summary": "Career Fair Canada 主办的 Calgary Newcomer Fair 将于11月26日周四上午10点至下午2点在 BMO Centre 举行。主办方称现场有招聘雇主、培训机构和安居服务参展；页面有预约入口，但票价、余票及中文服务均未确认。",
+      "deck": "如果你刚到卡城，先列出工作、培训或安居方面的问题再去；这不是政府服务柜台，也不能保证现场有合适职位。",
+      "lede": "刚到卡城、还在摸索工作或安居资源的人，明天有一个可以当面问几类机构的机会。Career Fair Canada 的 Calgary Newcomer Fair 定于11月26日上午10点至下午2点，在 BMO Centre 的 Palomino Room 举行。",
+      "sections": [
+        {
+          "heading": "地点与时间先记下来",
+          "paragraphs": [
+            "活动地点是 Stampede Park 的 BMO Centre，地址为20 Roundup Way SE，Palomino Room；主办方列出的时段是上午10点至下午2点。官方介绍称，现场会有招聘雇主、培训机构和安居服务机构。",
+            "页面目前提供预约入口，但没有明确列出普通入场价格或实时余票。活动页面以英文发布，未见中文服务说明；不要预设现场能提供中文咨询。"
+          ]
+        },
+        {
+          "heading": "去之前准备三个具体问题",
+          "paragraphs": [
+            "可以先想清楚自己要问的是哪类问题：正在招聘什么岗位、哪些培训项目有申请条件、租房或电话网络服务要如何比较。现场机构各自提供什么、是否收费，应直接问机构；这场活动本身不保证求职结果，也不等同于政府移民法律服务。"
+          ],
+          "links": [
+            {
+              "label": "Career Fair Canada：Calgary Newcomer Fair 官方信息",
+              "url": "https://careerfaircanada.ca/events/calgary-newcomer-fair-11-26-2026"
+            },
+            {
+              "label": "主办方预约页面",
+              "url": "https://www.eventbrite.ca/e/newcomer-fair-canada-calgary-november-26-2026-tickets-1979348712281?aff=oddtdtcreator"
+            }
+          ]
+        }
+      ],
+      "takeaway": "时间是11月26日10:00–14:00，地点 BMO Centre（20 Roundup Way SE，Palomino Room）。先确认票价、余票和你需要的服务；中文支持未确认。",
+      "sourceType": "有明确日期的求职与新移民服务活动",
+      "source": "Career Fair Canada",
+      "author": "卡村 KACUN · AI 资讯整理",
+      "url": "https://careerfaircanada.ca/events/calgary-newcomer-fair-11-26-2026",
+      "imageAttempt": {
+        "status": "text-source-card",
+        "checkedAt": "2026-11-25",
+        "reason": "主办方页面仅见通用标志，未确认与卡城本场直接相关的活动预览图，使用纯文字来源卡片。"
+      },
+      "sourceEmbed": {
+        "url": "https://careerfaircanada.ca/events/calgary-newcomer-fair-11-26-2026",
+        "title": "Calgary Newcomer Fair",
+        "publisher": "Career Fair Canada",
+        "thumbnail": null,
+        "thumbnailAlt": null
+      }
+    },
+    {
+      "id": "calgary-hitmen-red-deer-20261125",
+      "date": "2026-11-25",
+      "dateLabel": "11月25日 · 吃喝玩乐",
+      "sourceDate": "Scotiabank Saddledome 官方活动页列出比赛日期为2026-11-25；页面未标发布日期。",
+      "verifiedAt": "2026-11-25",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "卡城 Hitmen 今晚7点主场迎战 Red Deer Rebels：进场只用手机票",
+      "summary": "Calgary Hitmen 将于11月25日周三晚上7点在 Scotiabank Saddledome 对阵 Red Deer Rebels。场馆为无现金场地，停车位有限，门票仅支持手机配送；票价和实时余票以 Ticketmaster 页面为准，本次未确认。",
+      "deck": "今晚主场球赛的时间和入场规则已由场馆列出；购票前先确认电子票和交通安排。",
+      "lede": "想临时安排一个现场球赛，Calgary Hitmen 今晚在 Saddledome 有主场比赛：11月25日周三晚上7点开赛，对手是 Red Deer Rebels。场馆提醒，未来售票只提供手机票，现场也不收现金。",
+      "sections": [
+        {
+          "heading": "开赛时间与入场地点",
+          "paragraphs": [
+            "比赛在 Scotiabank Saddledome（555 Saddledome Rise SE）举行，场馆官方活动页列出的开赛时间是晚上7点。页面提供 Ticketmaster 购票入口；本次没有确认即时余票或票价，临出发前请以该页面显示为准。"
+          ]
+        },
+        {
+          "heading": "手机票、无现金与停车",
+          "paragraphs": [
+            "Saddledome 说明，售出的活动门票只提供手机配送，可在 Ticketmaster App 中出示。场内餐饮和零售为无现金支付；周边停车位有限，场馆建议考虑公共交通。入场需要安检，包的尺寸需小于14×14×6英寸并能放在座位下。",
+            "官方页面没有列出比赛或场馆的中文服务信息。"
+          ],
+          "links": [
+            {
+              "label": "Scotiabank Saddledome：比赛日期与场馆规则",
+              "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-red-deer-rebels-2026-11-25-700-pm/"
+            },
+            {
+              "label": "Ticketmaster：Calgary Hitmen vs Red Deer Rebels",
+              "url": "https://www.ticketmaster.ca/calgary-hitmen-vs-red-deer-rebels-calgary-alberta-11-25-2026/event/11006506716E3093?brand=calgaryhitmen"
+            }
+          ]
+        }
+      ],
+      "takeaway": "比赛11月25日晚上7点开场；门票手机配送、场内无现金、停车位有限。票价和实时余票请在官方购票页确认。",
+      "sourceType": "职业青年冰球联赛单场赛事",
+      "source": "Scotiabank Saddledome；Ticketmaster",
+      "author": "卡村 KACUN · AI 资讯整理",
+      "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-red-deer-rebels-2026-11-25-700-pm/",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-25",
+        "reason": "场馆官方活动页直接提供本场 Hitmen 活动图片；仅远程展示来源预览，不下载或复制。"
+      },
+      "sourceEmbed": {
+        "url": "https://scotiabanksaddledome.com/events/calgary-hitmen-vs-red-deer-rebels-2026-11-25-700-pm/",
+        "title": "Calgary Hitmen vs Red Deer Rebels",
+        "publisher": "Scotiabank Saddledome",
+        "thumbnail": "https://scotiabanksaddledome.com/wp-content/uploads/2026/08/HM_Spinzo_14.jpg",
+        "thumbnailAlt": "Calgary Hitmen 活动官方预览图"
+      }
+    },
+    {
+      "id": "calgary-phil-grinch-live-film-20261127",
+      "date": "2026-11-25",
+      "dateLabel": "11月25日 · 吃喝玩乐",
+      "sourceDate": "Calgary Philharmonic Orchestra 官方活动页列出2026-11-27至11-28场次；页面未标发布日期。",
+      "verifiedAt": "2026-11-25",
+      "category": "吃喝玩乐",
+      "categoryClass": "culture",
+      "title": "《圣诞怪杰》周末上大银幕，卡城爱乐现场演奏电影配乐",
+      "summary": "Calgary Philharmonic Orchestra 将在11月27日周五晚7:30、11月28日周六下午2:30和晚7:30于 Jubilee Auditorium 放映《Dr. Seuss’ How the Grinch Stole Christmas》，由乐团现场配乐。票价39–99加元，儿童票价另有安排；对白语言和实时余票未在活动页确认。",
+      "deck": "这是电影放映加现场乐团演奏的特别场次，不是普通电影排片；购票前可先确认对白语言和余票。",
+      "lede": "想看电影又想听现场演奏，卡城爱乐乐团周末把《圣诞怪杰》搬上大银幕，并由乐团同步演奏配乐。周五、周六各有场次，地点在 Jubilee Auditorium。",
+      "sections": [
+        {
+          "heading": "三个场次，票价39至99加元",
+          "paragraphs": [
+            "主办方列出的场次为11月27日（周五）晚上7:30，以及11月28日（周六）下午2:30和晚上7:30；地点 Jubilee Auditorium。票价区间39–99加元，官网注明有儿童票价。页面提供购票入口，但本次没有确认实时余票。"
+          ]
+        },
+        {
+          "heading": "现场乐团配乐，语言信息先问清楚",
+          "paragraphs": [
+            "Calgary Philharmonic Orchestra 说明，电影会在大银幕播放，配乐由乐团现场演奏。活动页面没有注明电影对白语言或中文服务；如果对白语言会影响观影体验，可以先联系场馆确认。"
+          ],
+          "links": [
+            {
+              "label": "Calgary Philharmonic Orchestra：场次、票价与活动说明",
+              "url": "https://calgaryphil.com/events/dr-seuss-how-the-grinch-stole-christmas-2026-11-27-730-pm/?lang=en"
+            },
+            {
+              "label": "主办方购票入口",
+              "url": "https://calgaryphil.com/events/dr-seuss-how-the-grinch-stole-christmas-2026-11-27-730-pm/seats/"
+            }
+          ]
+        }
+      ],
+      "takeaway": "周五11月27日和周六11月28日共三场，票价39–99加元；对白语言和余票未确认，购票前可先查主办方页面或联系场馆。",
+      "sourceType": "电影与交响乐团现场配乐特别演出",
+      "source": "Calgary Philharmonic Orchestra",
+      "author": "卡村 KACUN · AI 资讯整理",
+      "url": "https://calgaryphil.com/events/dr-seuss-how-the-grinch-stole-christmas-2026-11-27-730-pm/?lang=en",
+      "imageAttempt": {
+        "status": "embedded-source-card",
+        "checkedAt": "2026-11-25",
+        "reason": "Calgary Philharmonic Orchestra 活动页直接提供本场《圣诞怪杰》图片；仅远程显示来源预览。"
+      },
+      "sourceEmbed": {
+        "url": "https://calgaryphil.com/events/dr-seuss-how-the-grinch-stole-christmas-2026-11-27-730-pm/?lang=en",
+        "title": "Dr. Seuss’ How the Grinch Stole Christmas",
+        "publisher": "Calgary Philharmonic Orchestra",
+        "thumbnail": "https://calgaryphil.com/wp-content/uploads/2026/04/2627_Web_ConcertImages_15_Grinch_850x530.png",
+        "thumbnailAlt": "《圣诞怪杰》电影与现场乐团演出官方预览图"
+      }
+    },
     {
       "id": "calgary-multiple-structure-fires-20261124",
       "date": "2026-11-24",
@@ -284,26 +504,26 @@
     {
       "id": "alberta-flu-calgary-zone-vaccination-20261123",
       "date": "2026-11-23",
-      "dateLabel": "11月23日 · 生活提醒",
-      "sourceDate": "阿省呼吸道病毒仪表板更新于2026-11-19，数据截至2026-11-14；接种指引为阿省卫生部门现行页面",
-      "verifiedAt": "2026-11-23",
+      "dateLabel": "11月23日 · 11月25日更新",
+      "sourceDate": "阿省仪表板于2026-11-24更新，数据截至2026-11-21；卡村于2026-11-25复核。",
+      "verifiedAt": "2026-11-25",
       "category": "生活提醒",
       "categoryClass": "official",
-      "title": "阿省本季已报5313宗实验室确诊流感：卡城区域2798宗，幼儿接种要去公卫诊所",
-      "summary": "阿省呼吸道病毒仪表板截至11月14日累计列出5313宗实验室确诊流感，Calgary Zone占2798宗；这是本季累计数，不是单周新增或所有实际感染人数。接种方面，6个月至4岁儿童需到公共或社区卫生中心；符合资格的5岁以上居民可到参与药房或卫生中心。",
-      "deck": "看清统计截止日和年龄对应的接种地点，别把累计确诊数字当成这一周新增。",
-      "lede": "阿省最新呼吸道病毒数据更新到11月14日，其中卡城区域本季累计报告2798宗实验室确诊流感。数据只统计实验室确诊，不代表全部感染；如果家里正安排接种，阿省也按年龄区分了地点。",
+      "title": "阿省本季流感确诊升至6622宗：卡城区域3390宗，幼儿接种渠道不同",
+      "summary": "阿省仪表板11月24日更新、数据截至11月21日：全省本季累计6622宗实验室确诊流感，Calgary Zone为3390宗。6个月至4岁儿童需预约公共卫生或社区卫生中心，药剂师不能为5岁以下儿童接种省资助疫苗。",
+      "deck": "这是本季累计确诊数，不是单周新增；孩子接种前先按年龄选预约渠道。",
+      "lede": "阿省本季流感确诊数继续增加。截至11月21日，全省累计6622宗实验室确诊，Calgary Zone占3390宗。家里有幼儿的家长还要留意接种渠道：5岁以下儿童不能直接去药房打省资助流感疫苗。",
       "sections": [
         {
-          "heading": "这是本季累计数，不是单周报告",
+          "heading": "数据更新到11月21日",
           "paragraphs": [
-            "阿省页面于11月19日更新，交互数据截至11月14日。2026–27呼吸道病毒季从8月30日开始；截至数据日期，全省列出5313宗实验室确诊流感、1223宗住院、89宗进入ICU及42宗死亡。Calgary Zone对应2798宗确诊、648宗住院、41宗ICU及25宗死亡。住院、ICU和死亡也是本季累计指标；确诊数不等于所有实际感染人数。"
+            "阿省呼吸道病毒仪表板于11月24日更新，数据截至11月21日。2026–27呼吸道病毒季从8月30日开始；截至数据日期，全省累计6622宗实验室确诊流感、1440宗住院、108宗进入ICU及47宗死亡。Calgary Zone对应3390宗确诊、756宗住院、50宗ICU及27宗死亡。以上是本季累计数，不是单周新增；确诊数也不等于所有实际感染人数。"
           ]
         },
         {
-          "heading": "幼儿和5岁以上走不同接种渠道",
+          "heading": "5岁以下儿童预约卫生中心",
           "paragraphs": [
-            "阿省指引写明，6个月至4岁儿童应预约公共卫生或社区卫生中心，药剂师不能为5岁以下儿童接种省资助疫苗。符合资格的5岁及以上居民可到参与药房或卫生中心；部分药房接受免预约。公卫中心预约可通过 Primary Care Alberta 网站或拨打 Health Link 811。"
+            "阿省接种指引写明，6个月至4岁儿童应预约公共卫生或社区卫生中心；药剂师不能为5岁以下儿童接种省资助流感疫苗。符合资格的5岁及以上居民可到参与药房或卫生中心接种，部分药房接受免预约。公卫中心预约可通过 Primary Care Alberta 网站或拨打 Health Link 811。"
           ],
           "links": [
             {
@@ -311,13 +531,13 @@
               "url": "https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary"
             },
             {
-              "label": "阿省：呼吸道病毒季接种指引与预约入口",
+              "label": "阿省流感接种指引与预约入口",
               "url": "https://www.alberta.ca/respiratory-virus-season-get-vaccinated"
             }
           ]
         }
       ],
-      "takeaway": "卡城区域2798宗是截至11月14日的本季实验室确诊累计数。6个月至4岁儿童应走公卫/社区卫生中心渠道；5岁以上可查参与药房或卫生中心。",
+      "takeaway": "截至2026年11月21日，阿省本季累计6622宗实验室确诊流感，Calgary Zone为3390宗；6个月至4岁儿童应预约公卫或社区卫生中心。",
       "sourceType": "阿省公共卫生监测与接种指引",
       "source": "Government of Alberta",
       "author": "Government of Alberta",
@@ -4931,19 +5151,19 @@
       "id": "haidilao-northland-20261028",
       "date": "2026-10-28",
       "dateLabel": "持续更新 · 首次整理 10月28日",
-      "sourceDate": "卡尔加里营业执照记录签发于2026-11-02；试营业日期为2026-11-21第三方社媒帖所称（未获店方原页确认）",
-      "verifiedAt": "2026-11-23",
+      "sourceDate": "卡城市府牌照记录首次签发于2026-11-02；Haidilao Canada 官方 Linktree 于2026-11-25 列出 Brentwood 预约与排队入口；11月25日试营业说法仍为未获店方原页确认的第三方线索。",
+      "verifiedAt": "2026-11-25",
       "category": "吃喝玩乐",
       "categoryClass": "culture",
       "title": "海底捞卡城首店进度追踪：营业执照已列，试营业日期待确认",
-      "summary": "卡城市府营业执照数据集最近更新于11月9日，其中列出 Northland Village 海底捞餐饮牌照，签发日为11月2日；一条11月21日第三方社媒帖称11月25日试营业，但店方原页本次无法复核，日期暂不当作官宣。",
-      "deck": "这条是同一篇持续更新的进度记录；市府牌照记录不等于已经开门，社媒转述的试营业日期也仍待店方确认。",
-      "lede": "海底捞卡城首店的筹备有了一个可核对的新节点：卡城市府营业执照数据集最近标注于2026年11月9日更新，其中列出 Northland Village 地址的一条餐饮营业牌照，签发日为2026年11月2日，记录状态为 Licensed。它能证明该数据集中有牌照记录，不代表门店已经开始营业。",
+      "summary": "卡城市府公开数据仍列有 Northland Village 的海底捞餐饮牌照；Haidilao Canada 官方 Linktree 今天已列出 Brentwood 预约和线上排队入口，但对应页面没有显示可用时段或排队状态。门店是否已营业、11月25日是否试营业，仍没有直接店方确认。",
+      "deck": "这是同一篇持续更新的进度记录：官方预约入口出现了 Brentwood，但牌照和空白预约页都不能证明门店已经开门。",
+      "lede": "海底捞卡城首店的筹备又多了一个能核对的节点：名为 Haidilao Canada 的官方 Linktree 现在列出 Brentwood 预约入口，也提供线上排队链接。市府牌照数据里仍有 Northland Dr NW 的 Licensed 记录。不过，预约和排队页面没有显示时段或现场状态，单凭这几个入口还不能确认门店已经营业。",
       "sections": [
         {
-          "heading": "目前能确认的进度（11月23日核对）",
+          "heading": "市府牌照记录仍在",
           "paragraphs": [
-            "卡城市府营业执照数据集页面标明最近更新为2026年11月9日；其中列出 HAIDILAO HOT POT，地址为 #3140 5111 Northland Dr NW，牌照类型包括堂食餐饮，签发日期为2026年11月2日，记录状态为 Licensed。数据集的更新日期早于本次核对日；牌照记录也不能证明门店已开门、正在接客或已开放预约。"
+            "卡城市府公开牌照数据接口当前仍列出 HAIDILAO HOT POT，地址为 #3140 5111 Northland Dr NW，类型包括堂食餐饮，首次签发日期为2026年11月2日，状态为 Licensed。这个字段能确认牌照记录，不能证明当天营业、接客或具体营业时间。"
           ],
           "links": [
             {
@@ -4951,58 +5171,73 @@
               "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd"
             },
             {
-              "label": "对应牌照记录查询（City of Calgary 数据接口）",
+              "label": "HAIDILAO HOT POT 牌照记录查询",
               "url": "https://data.calgary.ca/resource/vdjc-pybd.json?$where=upper(tradename)%20like%20%27%25HAIDILAO%25%27&$limit=20"
             }
           ]
         },
         {
-          "heading": "11月25日试营业消息还不是店方确认",
+          "heading": "品牌预约页已列 Brentwood，实际状态还看不出来",
           "paragraphs": [
-            "11月21日一条本地餐饮博主的社媒帖写到“Soft opening Nov 25”，并标记 Haidilao Calgary 与加拿大账号。当前能检索到的是第三方帖子的公开镜像；海底捞账号原页本次访问受限，无法确认这是否为店方正式公布的日期。因此，11月25日先按未确认线索处理，不据此写成确定开业通知。",
-            "Daily Hive 10月28日报道时仍称官方开业日期未公布。若店方随后发布正式营业时间、预约入口或公告，这篇追踪会在原记录内更新，不另拆成每日重复卡片。"
+            "Haidilao Canada 官方 Linktree 在11月25日列出 Brentwood 预约入口和线上排队入口。预约链接跳到第三方预约系统，线上排队链接也能打开，但本次页面没有显示可选时段、当日等位人数或营业时间。我们因此只记录“官方入口已出现”，不把它写成已开业。"
           ],
           "links": [
             {
-              "label": "第三方公开镜像：11月21日试营业日期线索（未独立确认）",
+              "label": "Haidilao Canada 官方 Linktree",
+              "url": "https://linktr.ee/haidilaoca"
+            },
+            {
+              "label": "Brentwood 预约入口",
+              "url": "https://gosnappy.io/reservation/?referer=instagram&storeId=4939"
+            },
+            {
+              "label": "线上排队入口",
+              "url": "https://gosnappy.io/lineup/group?groupId=G4933"
+            }
+          ]
+        },
+        {
+          "heading": "11月25日试营业说法仍待确认",
+          "paragraphs": [
+            "一条11月21日第三方餐饮社媒线索曾称11月25日试营业。到本次核对时，仍没有可核实的店方公告确认当天实际开门；因此不把这个日期写成已经发生的试营业。预约入口出现是新进度，但不等于确认营业。"
+          ],
+          "links": [
+            {
+              "label": "第三方公开镜像：试营业日期线索（未获店方确认）",
               "url": "https://imginn.com/p/Df_ZN21JSds/"
             },
             {
-              "label": "Haidilao Calgary 社交账号原页（本次访问受限）",
-              "url": "https://www.instagram.com/haidilao.yyc/"
-            },
-            {
-              "label": "Daily Hive Calgary 10月28日报道",
+              "label": "Daily Hive Calgary：卡城门店筹备报道",
               "url": "https://dailyhive.com/calgary/haidilao-hot-pot-calgary"
             }
           ]
         },
         {
-          "heading": "去之前先确认什么",
+          "heading": "后续进度继续记在这篇",
           "paragraphs": [
-            "开业日期、预约方式、价格和卡城门店具体服务仍以店方正式页面为准。现在最稳妥的判断是：市府已有对应餐饮营业执照记录；11月25日试营业说法尚未由店方原页确认。我们会在这篇文章里继续记录可核实的新进展。"
+            "开门时间、预约时段、价格或服务若有店方直接公布，会继续更新这篇原记录，不另拆成每日新闻卡。出发前请以门店或品牌官方渠道的实时信息为准。"
           ]
         }
       ],
-      "takeaway": "截至该市府数据集标注的2026年11月9日更新，其中已有该店的餐饮牌照记录，签发日为11月2日；11月25日试营业来自未能回到店方原页确认的第三方社媒帖，暂不当作官宣。",
-      "sourceType": "市府营业执照数据；本地媒体与第三方社媒线索",
-      "source": "The City of Calgary；Daily Hive Calgary；Eat with Karen（第三方线索）",
+      "takeaway": "市府仍列有该门店的餐饮牌照；品牌官方 Linktree 已出现 Brentwood 预约与排队入口，但页面未显示可用时段或现场状态，门店营业及11月25日试营业仍未确认。",
+      "sourceType": "卡城市府营业执照数据；品牌官方入口；第三方社媒线索",
+      "source": "The City of Calgary；Haidilao Canada；Daily Hive Calgary；第三方社媒",
       "author": "卡村 KACUN",
-      "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd",
+      "url": "https://linktr.ee/haidilaoca",
       "sourceEmbed": {
-        "url": "https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses/vdjc-pybd",
-        "title": "Calgary Business Licenses",
-        "publisher": "The City of Calgary Open Data",
+        "url": "https://linktr.ee/haidilaoca",
+        "title": "Haidilao Canada official links",
+        "publisher": "Haidilao Canada",
         "thumbnail": null,
         "thumbnailAlt": null
       },
       "imageAttempt": {
         "status": "text-source-card",
-        "checkedAt": "2026-11-23",
-        "reason": "市府营业执照数据为表格页面，没有与该店相关的故事预览图，使用纯文字来源卡片。"
+        "checkedAt": "2026-11-25",
+        "reason": "品牌预约入口和市府牌照记录均为文字页面；没有核实到与卡城门店直接相关的预览图。"
       },
       "isTracker": true,
-      "trackerStatus": "市府数据列有牌照；开业日待店方确认",
+      "trackerStatus": "官方品牌页已列 Brentwood 入口；营业状态待确认",
       "trackerLabel": "海底捞开业进度"
     },
     {
